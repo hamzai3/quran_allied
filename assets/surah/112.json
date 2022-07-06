@@ -1,0 +1,39 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In\u1d43 the name of Alla\u0304h,\u1d47 the Beneficent, the Merciful.\u1d9c"
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "verseStringB": "Say: He, Alla\u0304h, is One."
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "اللَّهُ الصَّمَدُ",
+      "verseStringB": "Alla\u0304h is He on Whom all depend."
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "verseStringB": "He begets not, nor is He begotten;"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+      "verseStringB": "And none is like Him.\u1d43”"
+    }
+  ],
+  "nameEnglish": "Sincerity",
+  "nameTrans": "al-Ikhlas",
+  "nameArabic": "الإخلاص",
+  "chapterNumber": 112,
+  "nVerses": 4,
+  "footnotes": [
+    { 
+      "note": "4a. This, a very early Makkan revelation, points out the fundamental errors of manyreligions, including Christianity, in its four short sentences. The first verse proclaims theabsolute Unity of the Divine Being, and deals a death-blow to all forms of polytheism,including the doctrine of the Trinity.In the second verse Allåh is said to be ˝amad, which the Holy Prophet is reported tohave explained as meaning the Lord to Whom recourse is had in every need (AH), sothat all have need of Him and He has need of none. This statement negatives the doctrine according to which soul and matter are co-eternal with God and God stands in needof them to bring about creation. The doctrine prevails in India, and could not have beenknown to the Holy Prophet.The third verse points out the error of those religions which describe God as beingfather or son, such as the Christian religion.The fourth verse negatives such doctrines as the doctrine of incarnation, accordingto which a mere man is likened to God.Thus four kinds of shirk are rejected here, a belief in the plurality of gods (v. 1), abelief that other things possess the perfect attributes of the Divine Being (v. 2), a beliefthat God is either a father or a son (v. 3), and a belief that others can do that which isascribable only to God.
+	} 
+  ]
+}

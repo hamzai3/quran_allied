@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "294757516948",
+    "firebase_url": "https://vidyakite-1e3aa.firebaseio.com",
+    "project_id": "vidyakite-1e3aa",
+    "storage_bucket": "vidyakite-1e3aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294757516948:android:31bb049da1c943aba0d681",
+        "android_client_info": {
+          "package_name": "com.allied.quran_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294757516948-2e0vjop0ft1qa5u6ad4rjpopcfqn0q23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTe8mwddMPWZEZZasgzzw86MsRy2n6ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294757516948-2e0vjop0ft1qa5u6ad4rjpopcfqn0q23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294757516948:android:e1e60e3a84ebe4fda0d681",
+        "android_client_info": {
+          "package_name": "com.applicorns.vidyakite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294757516948-2e0vjop0ft1qa5u6ad4rjpopcfqn0q23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTe8mwddMPWZEZZasgzzw86MsRy2n6ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294757516948-2e0vjop0ft1qa5u6ad4rjpopcfqn0q23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

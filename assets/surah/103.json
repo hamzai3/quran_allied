@@ -1,0 +1,34 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In\u1d43 the name of Alla\u0304h,\u1d47 the Beneficent, the Merciful.\u1d9c"
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "وَالْعَصْرِ",
+      "verseStringB": " By the time! â€”"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+      "verseStringB": "Surely man is in loss,"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "verseStringB": "Except those who believe and do good, and exhort one another to Truth, and exhort one another to patience.\u1d43"
+    }
+  ],
+  "nameEnglish": "Time",
+  "nameTrans": "al-'Asr",
+  "nameArabic": "الـعصر",
+  "chapterNumber": 103,
+  "nVerses": 3,
+  "footnotes": [
+    { 
+	  "note": "3a. The testimony of time is threefold; the flight of time affords the testimony that it isonly those who do not waste the opportunity of doing good that reap the benefit; the lightwhich shines along the path of bygone ages shows us that those who did good and enjoinedgood on others prospered, while the evildoers were brought to naught; lastly, the time of theHoly Prophet afforded the clearest and most conclusive evidence that the believers anddoers of good were successful, while their opponents sustained evident loss. ‘A©r signifiestime or succession of ages (LL). Some, however, understand by al-‘a©r the time of the HolyProphet, and an authentic saying of his, in which he compares his own time to ‘a©r, or theafternoon (B), supports this interpretation. In fact, both significances hold good. While taking time in a general sense, it is true that every man who is not engaged in doing some permanent and lasting good is really losing every minute that passes away; the time of the HolyProphet in which a great spiritual resurrection was brought about affords the clearest evidence that those who did not respond to the Prophet’s call were the losers, while the faithfulbrought about a revolution in the whole world by exhorting goodness and patience on others. The enjoining of patience on each other follows the direction to enjoin Truth, becausethe preaching of Truth brings man face to face with difficulties, and unless he is patient andforbearing under hardships, he cannot adhere to the Truth."	
+	} 
+  ]
+}
