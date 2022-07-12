@@ -1,0 +1,109 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ وَرَسُولِهِ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+      "verseStringB": "O you who believe, be not forward in the presence of Allāh and His Messenger, and keep your duty to Allāh. Surely Allāh is Hearing, Knowing.ᵃ"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَنْ تَحْبَطَ أَعْمَالُكُمْ وَأَنْتُمْ لَا تَشْعُرُونَ",
+      "verseStringB": "O you who believe, raise not your voices above the Prophet’s voice, nor speak loudly to him as you speak loudly one to another, lest your deeds become null, while you perceive not.ᵃ"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُولَٰئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+      "verseStringB": "Surely those who lower their voices before Allāh’s Messenger are they whose hearts Allāh has proved for dutifulness. For them is forgiveness and a great reward."
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "إِنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+      "verseStringB": "Those who call out to thee from behind the private apartments, most of them have no sense.ᵃ"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَهُمْ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+      "verseStringB": "And if they had patience till thou come out to them, it would be better for them. And Allāh is Forgiving, Merciful."
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ",
+      "verseStringB": "O you who believe, if an unrighteous man brings you news, look carefully into it, lest you harm a people in ignorance, then be sorry for what you did.ᵃ"
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ ۚ لَوْ يُطِيعُكُمْ فِي كَثِيرٍ مِنَ الْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمُ الْإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ ۚ أُولَٰئِكَ هُمُ الرَّاشِدُونَ",
+      "verseStringB": "And know that among you is Allāh’s Messenger. Were he to obey you in many a matter, you would surely fall into distress; but Allāh has endeared the faith to you and has made it seemly in your hearts, and He has made hateful to you disbelief and transgression and disobedience. Such are those who are rightly guided —"
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "فَضْلًا مِنَ اللَّهِ وَنِعْمَةً ۚ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseStringB": "A grace from Allāh and a favour. And Allāh is Knowing, Wise."
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا ۖ فَإِنْ بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ ۚ فَإِنْ فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا ۖ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+      "verseStringB": "And if two parties of the believers quarrel, make peace between them. Then if one of them does wrong to the other, fight that which does wrong, till it returns to Allāh’s command. Then, if it returns, make peace between them with justice and act equitably. Surely Allāh loves the equitable.ᵃ"
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "verseStringB": "The believers are brethren so make peace between your brethren, and keep your duty to Allāh that mercy may be had on you."
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَىٰ أَنْ يَكُونُوا خَيْرًا مِنْهُمْ وَلَا نِسَاءٌ مِنْ نِسَاءٍ عَسَىٰ أَنْ يَكُنَّ خَيْرًا مِنْهُنَّ ۖ وَلَا تَلْمِزُوا أَنْفُسَكُمْ وَلَا تَنَابَزُوا بِالْأَلْقَابِ ۖ بِئْسَ الِاسْمُ الْفُسُوقُ بَعْدَ الْإِيمَانِ ۚ وَمَنْ لَمْ يَتُبْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+      "verseStringB": "O you who believe, let not people laugh at people, perchance they may be better than they; nor let women (laugh) at women, perchance they may be better than they. Neither find fault with your own people, nor call one another by nick-names. Evil is a bad name after faith; and whoso turns not, these it is that are the iniquitous.ᵃ"
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ رَحِيمٌ",
+      "verseStringB": "O you who believe, avoid most of suspicion, for surely suspicion in some cases is sin; and spy not nor let some of you backbite others. Does one of you like to eat the flesh of his dead brother? You abhor it! And keep your duty to Allāh, surely Allāh is Oft-returning (to mercy), Merciful."
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ",
+      "verseStringB": "O mankind, surely We have created you from a male and a female, and made you tribes and families that you may know each other. Surely the noblest of you with Allāh is the most dutiful of you. Surely Allāh is Knowing, Aware.ᵃ"
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "قَالَتِ الْأَعْرَابُ آمَنَّا ۖ قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ ۖ وَإِنْ تُطِيعُوا اللَّهَ وَرَسُولَهُ لَا يَلِتْكُمْ مِنْ أَعْمَالِكُمْ شَيْئًا ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseStringB": "The dwellers of the desert say: We believe. Say: You believe not, but say, We submit; and faith has not yet entered into your hearts. And if you obey Allāh and His Messenger, He will not diminish aught of your deeds. Surely Allāh is Forgiving, Merciful.ᵃ"
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ فِي سَبِيلِ اللَّهِ ۚ أُولَٰئِكَ هُمُ الصَّادِقُونَ",
+      "verseStringB": "The believers are those only who believe in Allāh and His Messenger, then they doubt not, and struggle hard with their wealth and their lives in the way of Allāh. Such are the truthful ones."
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "قُلْ أَتُعَلِّمُونَ اللَّهَ بِدِينِكُمْ وَاللَّهُ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseStringB": "Say: Would you apprise Allāh of your religion? And Allāh knows what is in the heavens and what is in the earth. And Allāh is Knower of all things."
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا ۖ قُلْ لَا تَمُنُّوا عَلَيَّ إِسْلَامَكُمْ ۖ بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ إِنْ كُنْتُمْ صَادِقِينَ",
+      "verseStringB": "They presume to lay thee under an obligation by becoming Muslims. Say: Lay me not under an obligation by your Islām; rather Allāh lays you under an obligation by guiding you to the faith, if you are truthful."
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "إِنَّ اللَّهَ يَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ",
+      "verseStringB": "Surely Allāh knows the unseen of the heavens and the earth. And Allāh is Seer of what you do."
+    }
+  ],
+  "nameEnglish": "The Chambers",
+  "nameTrans": "al-Hujurat",
+  "nameArabic": "الحـجـرات",
+  "chapterNumber": 49,
+  "nVerses": 18,
+  "footnotes": [
+    {
+      "note": "1a. The presence of Allåh means the presence of His commandments. The wordsimply the utmost obedience.\n\n2a. The Qur’ån not only inculcates high morals but also regulates social conduct,because its teachings are intended for all grades of men. When large numbers of menbegan to enter Islåm such directions became necessary, and they will always be neededby the masses in any society. A loud voice is expressive of arrogance or resentment.\n\n4a. As already pointed out, when the masses began to enter Islåm many of themwere ignorant even of the ordinary social rules, and they called out to the Prophet withloud voices while he was within his house. The practice is deprecated because it meantdisrespect to the Holy Prophet.\n\n6a. Such a direction was expedient when a condition of war necessitated promptaction to be taken against the enemy. But even the exigencies of war were to be carriedout with the utmost carefulness, so that friendly people should not suffer loss.\n\n9a. It is related that the occasion of the revelation of this verse was a quarrel betweenthe Aus and the Khazraj, the two chief tribes of Madßnah; but this does not mean that theverse is applicable only to that case. The verse, in fact, requires the Muslims not to beindifferent when one party of them quarrels with another. In such cases they must bringevery kind of pressure within their reach to bear upon the party in error. It is the duty ofevery Muslim to maintain the unity of Islåm. An attitude of indifference towards fatwåsof kufr, directed against their own brethren by ignorant Mullås, has dealt a fatal blow tothe union of Muslim brotherhood, and, if the Muslims do not raise their voice againstthese fatwås, they must never hope to make any progress towards real union.\n\n11a. This verse and those that follow deal with some of the evils which are most rampant in civilized society, and which corrupt a society to its core. These evils mostly arisewith wealth; for, living in ease, people are most concerned with seeking each other’sfaults, and thus mutual hatred takes the place of brotherly love and friendly concord.\n\n13a. The principle of the brotherhood of man laid down here is on the broadest basis.The address here is not to believers, as in the two previous verses, but to men in general,who are told that they are all, as it were, members of one family, and their divisions intonations, tribes and families should not lead to estrangement from, but to a better knowledgeof, each other. Superiority of one over another in this vast brotherhood does not depend onnationality, wealth, or rank, but on the careful observance of duty, or moral greatness.\n\n14a. Here the Muslims are enjoined to deal kindly and leniently, even with those who,being novices, were not yet really grounded in the faith, though they were members of theMuslim brotherhood. Faith had not yet entered into their hearts, but they were to be regarded as Muslims. The solidarity of Islåm is being shattered today by narrow-minded Mullåswho, on one pretext or another, issue fatwås of kufr against this or that party of Muslims."
+    }
+  ]
+}

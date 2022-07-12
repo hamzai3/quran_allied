@@ -258,7 +258,7 @@ class _AudioState extends State<Audio> {
                                                   (i + 1).toString());
                                             },
                                             child: Icon(
-                                              Icons.bookmark_add_outlined,
+                                              Icons.bookmark_border,
                                               size: 25,
                                               color: c.whiteColor(),
                                             ),

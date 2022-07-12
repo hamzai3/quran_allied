@@ -1,0 +1,49 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+      "verseStringB": "Say: O disbelievers,"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+      "verseStringB": "I serve not what you serve,"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "verseStringB": "Nor do you serve Him Whom I serve,"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+      "verseStringB": "Nor shall I serve that which ye serve,"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "verseStringB": "Nor do you serve Him Whom I serve."
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "verseStringB": "For you is your recompense and for me my recompense.ᵃ"
+    }
+  ],
+  "nameEnglish": "The Disbelievers",
+  "nameTrans": "al-Kafirun",
+  "nameArabic": "الـكافرون",
+  "chapterNumber": 109,
+  "nVerses": 6,
+  "footnotes": [
+    { 
+	  "note": "6a. Among the various significances of dīn is recompense or reward (LL), and this is what is meant here. It is a prophecy that those who serve Allāh will have a goodly reward from Him, while those who serve idols will not obtain any help from their false gods. The next chapter refers to the reward of the truthful, Divine help and victory, and men entering into Islām in hosts, while the one following it shows that the recompense of the idol-worshippers is that their wealth and all their efforts will be entirely unavailing. Those who think that these words indicate that the Holy Prophet had despaired of the disbelievers are mistaken. Not for a single moment did he cease to invite the disbelievers to accept Islām and to forsake the worship of idols."
+	} 
+  ]
+}

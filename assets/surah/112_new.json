@@ -1,0 +1,39 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "verseStringB": "Say: He, Allāh, is One."
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "اللَّهُ الصَّمَدُ",
+      "verseStringB": "Allāh is He on Whom all depend."
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "verseStringB": "He begets not, nor is He begotten;"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+      "verseStringB": "And none is like Him.ᵃ"
+    }
+  ],
+  "nameEnglish": "Sincerity",
+  "nameTrans": "al-Ikhlas",
+  "nameArabic": "الإخلاص",
+  "chapterNumber": 112,
+  "nVerses": 4,
+  "footnotes": [
+    {
+      "note": "4a. This, a very early Makkan revelation, points out the fundamental errors of many religions, including Christianity, in its four short sentences. The first verse proclaims the absolute Unity of the Divine Being, and deals a death-blow to all forms of polytheism,including the doctrine of the Trinity. In the second verse Allāh is said to be Ṣamad, which the Holy Prophet is reported to have explained as meaning the Lord to Whom recourse is had in every need (AH), so that all have need of Him and He has need of none. This statement negatives the doctrine according to which soul and matter are co-eternal with God and God stands in need of them to bring about creation. The doctrine prevails in India, and could not have been known to the Holy Prophet.The third verse points out the error of those religions which describe God as being father or son, such as the Christian religion. The fourth verse negatives such doctrines as the doctrine of incarnation, according to which a mere man is likened to God. Thus four kinds of s̲h̲irk are rejected here, a belief in the plurality of gods (v. 1), a belief that other things possess the perfect attributes of the Divine Being (v. 2), a belief that God is either a father or a son (v. 3), and a belief that others can do that which is ascribable only to God."
+    }
+  ]
+}

@@ -81,8 +81,9 @@ class _LanguageState extends State<Language> {
                         )),
                   ],
                 ),
+                c.getDivider(30.0),
                 SizedBox(
-                  height: MediaQuery.of(context).size.height * 0.5,
+                  height: MediaQuery.of(context).size.height * 0.4,
                   width: MediaQuery.of(context).size.width * 0.4,
                   child: Container(
                       padding: EdgeInsets.all(c.deviceWidth(context) * 0.01),
@@ -91,7 +92,7 @@ class _LanguageState extends State<Language> {
                         fit: BoxFit.fill,
                       )),
                 ),
-                c.getDivider(10.0),
+                c.getDivider(30.0),
                 Container(
                   padding: const EdgeInsets.all(25.0),
                   decoration: BoxDecoration(

@@ -1,0 +1,129 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+      "verseStringB": "Allāh indeed has heard the plea of her who pleads with thee about her husband and complains to Allāh; and Allāh hears the contentions of both of you.ᵃ Surely Allāh is Hearing, Seeing."
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "الَّذِينَ يُظَاهِرُونَ مِنْكُمْ مِنْ نِسَائِهِمْ مَا هُنَّ أُمَّهَاتِهِمْ ۖ إِنْ أُمَّهَاتُهُمْ إِلَّا اللَّائِي وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنْكَرًا مِنَ الْقَوْلِ وَزُورًا ۚ وَإِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ",
+      "verseStringB": "Those of you who put away their wives by calling them their mothersa — they are not their mothers. None are their mothers save those who gave them birth, and they utter indeed a hateful word and a lie. And surely Allāh is Pardoning, Forgiving."
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "وَالَّذِينَ يُظَاهِرُونَ مِنْ نِسَائِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا فَتَحْرِيرُ رَقَبَةٍ مِنْ قَبْلِ أَنْ يَتَمَاسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "verseStringB": "And those who put away their wives by calling them their mothers, then go back on that which they said, must free a captive before they touch one another. To this you are exhorted; and Allāh is Aware of what you do."
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "فَمَنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِنْ قَبْلِ أَنْ يَتَمَاسَّا ۖ فَمَنْ لَمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ۚ ذَٰلِكَ لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ",
+      "verseStringB": "But he who has not the means, should fast for two months successively before they touch one another, and he who is unable to do so should feed sixty needy ones. That is in order that you may have faith in Allāh and His Messenger. And these are Allāh’s limits. And for the disbelievers is a painful chastisement."
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ قَبْلِهِمْ ۚ وَقَدْ أَنْزَلْنَا آيَاتٍ بَيِّنَاتٍ ۚ وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ",
+      "verseStringB": "Surely those who oppose Allāh and His Messenger will be humbleda as those before them were humbled; and indeed We have revealed clear messages. And for the disbelievers is an abasing chastisement."
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "يَوْمَ يَبْعَثُهُمُ اللَّهُ جَمِيعًا فَيُنَبِّئُهُمْ بِمَا عَمِلُوا ۚ أَحْصَاهُ اللَّهُ وَنَسُوهُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+      "verseStringB": "On the day when Allāh will raise them all together, then inform them of what they did. Allāh records it, while they forget it. And Allāh is Witness over all things."
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "أَلَمْ تَرَ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ مَا يَكُونُ مِنْ نَجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَا أَدْنَىٰ مِنْ ذَٰلِكَ وَلَا أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا ۖ ثُمَّ يُنَبِّئُهُمْ بِمَا عَمِلُوا يَوْمَ الْقِيَامَةِ ۚ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseStringB": "Seest thou not that Allāh knows whatever is in the heavens and whatever is in the earth? There is no secret counsel between three but He is the fourth of them, nor between five but He is the sixth of them, nor between less than that nor more but He is with them wheresoever they are; then He will inform them of what they did on the day of Resurrection. Surely Allāh is Knower of all things.ᵃ"
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "أَلَمْ تَرَ إِلَى الَّذِينَ نُهُوا عَنِ النَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا عَنْهُ وَيَتَنَاجَوْنَ بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَإِذَا جَاءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ اللَّهُ وَيَقُولُونَ فِي أَنْفُسِهِمْ لَوْلَا يُعَذِّبُنَا اللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا ۖ فَبِئْسَ الْمَصِيرُ",
+      "verseStringB": "Seest thou not those who are forbidden secret counsels, then they return to that which they are forbid den, and hold secret counsels for sin and revolt and disobedience to the Messenger.ᵃ And when they come to thee they greet thee with a greeting with which Allāh greets thee not,ᵇ and say within themselves: Why does not Allāh punish us for what we say? Hell is enough for them; they will burn in it, and evil is the resort!"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَنَاجَيْتُمْ فَلَا تَتَنَاجَوْا بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَتَنَاجَوْا بِالْبِرِّ وَالتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+      "verseStringB": "O you who believe, when you confer together in private, give not to each other counsel of sin and revolt and disobedience to the Messenger, but give to each other counsel of goodness and observance of duty. And keep your duty to Allāh, to Whom you will be gathered together.ᵃ"
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "إِنَّمَا النَّجْوَىٰ مِنَ الشَّيْطَانِ لِيَحْزُنَ الَّذِينَ آمَنُوا وَلَيْسَ بِضَارِّهِمْ شَيْئًا إِلَّا بِإِذْنِ اللَّهِ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+      "verseStringB": "Secret counsels are only of the devil that he may cause to grieve those who believe, and he can hurt them naught except with Allāh’s per mis - sion.ᵃ And on Allāh let the believers rely."
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ انْشُزُوا فَانْشُزُوا يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "verseStringB": "O you who believe, when it is said to you, Make room in assemblies, make room. Allāh will give you ample. And when it is said, Rise up, rise up. Allāh will exalt those of you who believe, and those who are given knowledge, to high ranks. And Allāh is Aware of what you do.ᵃ"
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَاجَيْتُمُ الرَّسُولَ فَقَدِّمُوا بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَةً ۚ ذَٰلِكَ خَيْرٌ لَكُمْ وَأَطْهَرُ ۚ فَإِنْ لَمْ تَجِدُوا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseStringB": "O you who believe, when you consult the Messenger, offer something in charity before your consultation. That is better for you and purer. But if you have not (the means), then surely Allāh is Forgiving, Merciful.ᵃ"
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "أَأَشْفَقْتُمْ أَنْ تُقَدِّمُوا بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَاتٍ ۚ فَإِذْ لَمْ تَفْعَلُوا وَتَابَ اللَّهُ عَلَيْكُمْ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا اللَّهَ وَرَسُولَهُ ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "verseStringB": "Do you fear that you will not (be able to) give in charity before your consultation? So when you do it not, and Allāh has turned to you (mercifully), keep up prayer and pay the poor-rate and obey Allāh and His Messenger. And Allāh is Aware of what you do."
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "أَلَمْ تَرَ إِلَى الَّذِينَ تَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِمْ مَا هُمْ مِنْكُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى الْكَذِبِ وَهُمْ يَعْلَمُونَ",
+      "verseStringB": "Hast thou not seen those who take for friends a people with whom Allāh is wroth? They are neither of you nor of them, and they swear falsely, while they know.ᵃ"
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+      "verseStringB": "Allāh has prepared for them a severe chastisement. Evil indeed is that which they do!"
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ فَلَهُمْ عَذَابٌ مُهِينٌ",
+      "verseStringB": "They take shelter under their oaths, so they turn (men) from Allāh’s way; for them is an abasing chastisement."
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "لَنْ تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ مِنَ اللَّهِ شَيْئًا ۚ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseStringB": "Of no avail against Allāh, will be to them their wealth or their children. They are the companions of the Fire; therein they will abide.ᵃ"
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "يَوْمَ يَبْعَثُهُمُ اللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ ۖ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَيْءٍ ۚ أَلَا إِنَّهُمْ هُمُ الْكَاذِبُونَ",
+      "verseStringB": "On the day when Allāh will raise them all up, they will swear to Him as they swear to you, and they think that they have some (excuse). Now surely they are the liars."
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَأَنْسَاهُمْ ذِكْرَ اللَّهِ ۚ أُولَٰئِكَ حِزْبُ الشَّيْطَانِ ۚ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ",
+      "verseStringB": "The devil has gained the mastery over them, so he has made them forget the remembrance of Allāh. They are the devil’s party. Now surely the devil’s party are the losers."
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ أُولَٰئِكَ فِي الْأَذَلِّينَ",
+      "verseStringB": "Those who oppose Allāh and His Messenger, they shall be among the most abased."
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ",
+      "verseStringB": "Allāh has written down: I shall certainly prevail, I and My messengers. Surely Allāh is Strong, Mighty.ᵃ"
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ ۚ أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُمْ بِرُوحٍ مِنْهُ ۖ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ أُولَٰئِكَ حِزْبُ اللَّهِ ۚ أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ",
+      "verseStringB": "Thou wilt not find a people who believe in Allāh and the latter daya loving those who oppose Allāh and His Messenger, even though they be their fathers, or their sons, or their brothers, or their kinsfolk.ᵇ These are they into whose hearts He has impressed faith, and strengthened them with a Spirit from Himself, and He will cause them to enter Gardens wherein flow rivers, abiding therein. Allāh is well-pleased with them and they are well-pleased with Him. These are Allāh’s party. Now surely it is Allāh’s party who are the successful!"
+    }
+  ],
+  "nameEnglish": "The Argument",
+  "nameTrans": "al-Mujadilah",
+  "nameArabic": "الـمجادلـة",
+  "chapterNumber": 58,
+  "nVerses": 22,
+  "footnotes": [
+    {
+      "note": "1a. The woman referred to was Khaulah or Khuwailah, wife of Aus ibn ˝åmit, whowas separated by her husband in an old Arab form, the husband saying to the wife, Thouart to me as the back of my mother, the word ˚ihår being derived from ˚ahr, meaningback. The woman complained about it to the Prophet, who said that, as he had no revelation about it, he could not interfere. Then Aus wanted her to have conjugal relations withhim, but she refused and came to the Prophet complaining of his bad temper. The Prophetwanted her to be more lenient but she was not willing. It was then that the Prophetreceived this revelation, according to which it was necessary that the husband should insuch cases make an expiation before re-establishing conjugal rights (Ah, vol. VI, 410).\n\n2a. For this form of putting away the wife see 33:4b, where the abolition of thispractice is also referred to.\n\n5a. Those who would not abide by the Divine commandments regarding the treatment of women are here told that this was not a light matter. They were in the ranks ofthose who opposed the Prophet. With these words the subject is changed to the conspiracies of the Jews and the hypocrites, who were now conspiring secretly against theProphet.\n\n7a. The hypocrites and the Jews conspired with the enemies of Islåm to destroy theMuslim community of Madßnah. There is a brief reference to their plots in 4:114:“There is no good in most of their secret counsels”. Such plots are mentioned in greaterdetail here, and they are told that these secret plots are known to Allåh, and they cannotsucceed in bringing harm to Islåm.\n\n8a. The hypocrites seem to be referred to here. But even the Jews had entered intoan agreement with the Prophet not to help the enemies of Islåm.\n\n8b. The meaning is that they invoke death and destruction for thee, while Allåhwishes that thou shouldst live and prosper. There is a report that the Jews used to saywhen they came to the Prophet: al-såmu ‘alaika, i.e., death overtake thee! instead of alsalåmu ‘alaika, i.e., peace be to thee! the two phrases sounding nearly alike (B. 79:22).\n\n9a. Secret counsels and secret societies are condemned, because these societies wereformed with the object of undermining peace and helping the enemies of Islåm. Privatecounsels to promote the cause of goodness and service of humanity are quite differentfrom the subversive activities of secret societies.\n\n10a. This verse makes it clear that the secret societies denounced in the aboveverses were formed to spread mischief and help the enemies of Islåm, but they could notachieve their mischievous object.\n\n11a. As I have already stated, the progress of Islåm brought large numbers of peopleinto its fold who stood in need of being taught manners as well as morals. In theirassemblies they crowded and pressed upon each other in order to be able to sit nearest tothe Prophet. The injunction to make room in assemblies means, either that room shouldbe made for others, or that the people should not sit too close to each other.\n\n12a. The verse that follows does not cancel the injunction of the previous verse; itrather shows that the injunction contained in v. 12 is not obligatory but optional — thelegal alms called zakåt being the only obligatory alms, as is shown by the words keep upprayer and pay the poor-rate. It should also be noted that the Prophet and his familyderived no benefit whatever from zakåt, for to them alms were totally prohibited.\n\n14a. It is evident that the people with whom Allåh is wroth are the Jews, because itis of them that the Holy Qur’ån says again and again that they earned Allåh’s wrath, andthe people who took them for friends were the hypocrites.\n\n17a. The prophecy relating to the punishment of both the Jews and the hypocriteswas fulfilled in the Prophet’s lifetime.\n\n21a. Note the certain conviction of the final triumph of Truth, which is expressedhere. The next verse concludes with similar words: Surely it is Allåh’s party who are thesuccessful.\n\n22a. The Muslims are thus the people who believe in Allåh and the latter day.\n\n22b. In a state of war between the two parties, friendly relations with the hostiletribes were prohibited, and these would have resulted in great harm to the weaker community of the Muslims. As to those who were not actually engaged in hostilities againstthe Muslims, see the express directions contained in 60:8."
+    }
+  ]
+}

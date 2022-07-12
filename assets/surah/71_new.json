@@ -1,0 +1,159 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنْذِرْ قَوْمَكَ مِنْ قَبْلِ أَنْ يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseStringB": "Surely We sent Noah to his people, saying: Warn thy people before there come to them a painful chastisement."
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ",
+      "verseStringB": "He said: O my people, surely I am a plain warner to you:"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ",
+      "verseStringB": "That you should serve Allāh and keep your duty to Him and obey me —"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ كُنْتُمْ تَعْلَمُونَ",
+      "verseStringB": "He will forgive you some of your sins and grant you respite to an appointed term. Surely the term of Allāh, when it comes, is not postponed. Did you but know!"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا",
+      "verseStringB": "He said: My Lord, I have called my people night and day:"
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
+      "verseStringB": "But my call has only made them flee the more.ᵃ"
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
+      "verseStringB": "And whenever I call to them that Thou mayest forgive them, they thrust their fingers in their ears and cover themselves with their garments,ᵃ and persist and are big with pride."
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا",
+      "verseStringB": "Then surely I have called to them aloud,"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "ثُمَّ إِنِّي أَعْلَنْتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+      "verseStringB": "Then spoken to them in public and spoken to them in private,"
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+      "verseStringB": "So I have said: Ask forgiveness of your Lord; surely He is ever Forgiving:"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا",
+      "verseStringB": "He will send down upon you rain, pouring in abundance,"
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا",
+      "verseStringB": "And help you with wealth and sons, and make for you gardens, and make for you rivers.ᵃ"
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "مَا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+      "verseStringB": "What is the matter with you that you hope not for greatness from Allāh?ᵃ"
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+      "verseStringB": "And indeed He has created you by various stages.ᵃ"
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا",
+      "verseStringB": "See you not how Allāh has created the seven heavens alike,"
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا",
+      "verseStringB": "And made the moon therein a light, and made the sun a lamp?"
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا",
+      "verseStringB": "And Allāh has caused you to grow out of the earth as a growth,ᵃ"
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+      "verseStringB": "Then He returns you to it, then will He bring you forth a (new) bringing forth.ᵃ"
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا",
+      "verseStringB": "And Allāh has made the earth a wide expanse for you,"
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا",
+      "verseStringB": "That you may go along therein in spacious paths.ᵃ"
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "قَالَ نُوحٌ رَبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
+      "verseStringB": "Noah said: My Lord, surely they disobey me and follow him whose wealth and children have increased him in naught but loss."
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "وَمَكَرُوا مَكْرًا كُبَّارًا",
+      "verseStringB": "And they have planned a mighty plan."
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+      "verseStringB": "And they say: Forsake not your gods; nor forsake Wadd, nor Suwā‘, nor Yagh∂th and Ya‘∂q and Nasr.ᵃ"
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+      "verseStringB": "And indeed they have led many astray. And increase Thou the wrongdoers in naught but perdition.ᵃ"
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللَّهِ أَنْصَارًا",
+      "verseStringB": "Because of their wrongs they were drowned, then made to enter Fire, so they found no helpers besides Allāh."
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا",
+      "verseStringB": "And Noah said: My Lord, leave not of the disbelievers any dweller on the land.ᵃ"
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
+      "verseStringB": "For if Thou leave them, they will lead astray Thy servants, and will not beget any but immoral, ungrateful ones."
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+      "verseStringB": "My Lord, forgive me and my parents and him who enters my house believing, and the believing men and the believing women. And increase not the wrongdoers in aught but destruction!"
+    }
+  ],
+  "nameEnglish": "Noah",
+  "nameTrans": "Nuh",
+  "nameArabic": "نوح",
+  "chapterNumber": 71,
+  "nVerses": 28,
+  "footnotes": [
+    {
+      "note": "6a. The meaning is, the more I call them, the more they flee. The call is not theimmediate and effective cause of their flight, which is really due to the stubbornness oftheir hearts. This is made clear in what follows. Exactly in the same sense a chapter ofthe Qur’ån is spoken of as “adding uncleanness” to the uncleanness of those in whosehearts is a disease (9:125); and on another occasion, exactly in the same sense, Allåh isspoken of as increasing the disease of those in whose hearts is a disease (2:10).\n\n7a. Covering themselves with garments is explained variously: They put them (i.e.,their garments) as a covering over their ears, and this denotes their holding back fromgiving ear; another explanation is that it is an allusion to running away (R). Some takethiyåb as meaning the heart, as in 74:4, the meaning being that they cover their hearts,refusing to ponder over what is said.\n\n12a. They are promised various blessings, if they turn to Allåh, which really meansthat their doom shall be averted, for nations are no doubt destroyed when they indulge inevil inordinately, and they prosper so long as their good qualities preponderate.\n\n13a. This is the Prophet’s address to an evil generation. They are told that they canrise to greatness by giving up their evil ways.\n\n14a. The words undoubtedly speak of the evolution of man. The commentators generally take them to refer to the various conditions through which the foetus passes. Butthat they imply that man has been brought to the present state of physical perfectionafter passing through various conditions, is made clear by v. 17 where the first stage isspoken of as a growth from the earth.\n\n17a. Note here again that man is described as having grown out of the earth as agrowth, i.e., by a process of development. This is no doubt true, even in the process ofcreation, which we daily observe working before our eyes. Vegetables grow out of theearth: from these man obtains food, and from the food which he eats is produced thelife-germ, which itself goes through a further process of development. But the referencein this growth, and in the stages spoken of in v. 14, is to that great process of development through which man has attained to the present stage of physical perfection.\n\n18a. The new bringing forth is in reference to the Resurrection. It is called a new growthto show that it is not the same as man’s life on this earth but a new life, the life Spiritual. Thisgrowth begins in this life, but a complete manifestation of it takes place in the Resurrection.\n\n20a. The spacious paths made for man’s earthly existence are an indication of thespiritual paths wherein a God-fearing man attains to spiritual perfection. But the mention of spacious paths is also to show that the making of spacious roads is necessary forhuman civilization.\n\n23a. The names of the idols given here are those which existed in Arabia in theProphet’s time, and hence some critics call it an anachronism. But it should be noted thatthe Holy Qur’ån, while relating the histories of previous prophets, often introduces theProphet’s own history. The same is the case here. We have already seen that, while speaking of Noah, the Holy Qur’ån addresses the Prophet’s opponents in vv. 13–20. V. 21 againspeaks of Noah, beginning with the words, Noah said. Similarly v. 26 begins with thewords, Noah said, showing that in the intermediate verses there is a reversion to theProphet’s own history, and what is related here is with regard to the Arabs. Even if theseverses be taken as referring to Noah, there is no anachronism. Look at any idol-worshipping nation; take the Hindus, for example, and you find the same names of idols going onthrough thousands of years. And yet Arabia was not more distantly situated from the territory of Noah’s people than are any two parts of India from each other. Moreover, there isreason to believe that the Arabs obtained most of their idols from foreign countries. ThusHubal, the chief Arab idol in the Ka‘bah, “was brought from Belka in Syria into Arabia by‘Amr ibn Lo√ay, pretending that it would procure them rain when they wanted it”; Usåfand Nå’ilah are also said to have been brought from Syria (Sale’s Preliminary Discourse,sec. 1). There is nothing strange, therefore, in the circumstances, that the Arab idols wereimported from some ancient nations. According to I‘Ab, the idols of Noah’s people wereworshipped by the Arabs, Wadd being worshipped by Kalb, Suwå‘ by Hudhail, Yagh∂thby Muråd, Ya‘∂q by Hamadån and Nasr by Ïimyar (B. 65:71, 1). The commentators saythat Wadd was worshipped in the form of a man, Suwå‘ in that of a woman, Yagh∂th inthat of a lion, Ya‘∂q in that of a horse and Nasr in that of an eagle (Rz).\n\n24a. They only went on adding wrongs to their wrongs, hence the prayer of the messenger to increase them in naught but perdition. In fact, they were bringing perdition ontheir heads with their own hands. Óalål means error as well as loss or perdition (LL).\n\n26a. Noah was speaking only of his own people and praying against them only.All his statements and prayers refer to them, and not to the whole world. Hence al-ar˙simply signifies the land in which they lived."
+    }
+  ]
+}

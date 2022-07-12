@@ -1,0 +1,499 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "إِذَا وَقَعَتِ الْوَاقِعَةُ",
+      "verseStringB": "When the Event comes to passa —"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+      "verseStringB": "There is no belying its coming to pass —"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "خَافِضَةٌ رَافِعَةٌ",
+      "verseStringB": "Abasing (some), exalting (oth - ers) —"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "إِذَا رُجَّتِ الْأَرْضُ رَجًّا",
+      "verseStringB": "When the earth is shaken with a (severe) shaking,"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+      "verseStringB": "And the mountains are crumbled to pieces,ᵃ"
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "فَكَانَتْ هَبَاءً مُنْبَثًّا",
+      "verseStringB": "So they are as scattered dust,"
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً",
+      "verseStringB": "And you are three sorts."
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ",
+      "verseStringB": "So those on the right-hand; how (happy) are those on the right-hand!"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ",
+      "verseStringB": "And those on the left; how (wretched) are those on the left!"
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "وَالسَّابِقُونَ السَّابِقُونَ",
+      "verseStringB": "And the foremost are the foremosta—"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "أُولَٰئِكَ الْمُقَرَّبُونَ",
+      "verseStringB": "These are drawn nigh (to Allāh)."
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "فِي جَنَّاتِ النَّعِيمِ",
+      "verseStringB": "In Gardens of bliss."
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+      "verseStringB": "A multitude from among the first,"
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "وَقَلِيلٌ مِنَ الْآخِرِينَ",
+      "verseStringB": "And a few from among those of later times,ᵃ"
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "عَلَىٰ سُرُرٍ مَوْضُونَةٍ",
+      "verseStringB": "On thrones inwrought,"
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "مُتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ",
+      "verseStringB": "Reclining on them, facing each other."
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ",
+      "verseStringB": "Round about them will go youths never altering in age,ᵃ"
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِنْ مَعِينٍ",
+      "verseStringB": "With goblets and ewers, and a cup of pure drink —"
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنْزِفُونَ",
+      "verseStringB": "They are not affected with head - ache thereby, nor are they intoxicated,"
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "وَفَاكِهَةٍ مِمَّا يَتَخَيَّرُونَ",
+      "verseStringB": "And fruits that they choose,"
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "وَلَحْمِ طَيْرٍ مِمَّا يَشْتَهُونَ",
+      "verseStringB": "And flesh of fowl that they desire,"
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "وَحُورٌ عِينٌ",
+      "verseStringB": "And pure, beautiful ones,"
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "كَأَمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ",
+      "verseStringB": "Like hidden pearls."
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "جَزَاءً بِمَا كَانُوا يَعْمَلُونَ",
+      "verseStringB": "A reward for what they did."
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+      "verseStringB": "They hear therein no vain or sinful talk —"
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "إِلَّا قِيلًا سَلَامًا سَلَامًا",
+      "verseStringB": "But only the saying, Peace! Peace!ᵃ"
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ",
+      "verseStringB": "And those on the right hand; how (happy) are those on the right hand!"
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "فِي سِدْرٍ مَخْضُودٍ",
+      "verseStringB": "Amid thornless lote-trees,"
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "وَطَلْحٍ مَنْضُودٍ",
+      "verseStringB": "And clustered banana-trees,"
+    },
+    {
+      "verseNumber": 30,
+      "verseString": "وَظِلٍّ مَمْدُودٍ",
+      "verseStringB": "And extensive shade,"
+    },
+    {
+      "verseNumber": 31,
+      "verseString": "وَمَاءٍ مَسْكُوبٍ",
+      "verseStringB": "And water gushing,"
+    },
+    {
+      "verseNumber": 32,
+      "verseString": "وَفَاكِهَةٍ كَثِيرَةٍ",
+      "verseStringB": "And abundant fruit,"
+    },
+    {
+      "verseNumber": 33,
+      "verseString": "لَا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+      "verseStringB": "Neither intercepted, nor forbidden,"
+    },
+    {
+      "verseNumber": 34,
+      "verseString": "وَفُرُشٍ مَرْفُوعَةٍ",
+      "verseStringB": "And exalted couches."
+    },
+    {
+      "verseNumber": 35,
+      "verseString": "إِنَّا أَنْشَأْنَاهُنَّ إِنْشَاءً",
+      "verseStringB": "Surely We have created them a (new) creation,"
+    },
+    {
+      "verseNumber": 36,
+      "verseString": "فَجَعَلْنَاهُنَّ أَبْكَارًا",
+      "verseStringB": "So We have made them virgins,"
+    },
+    {
+      "verseNumber": 37,
+      "verseString": "عُرُبًا أَتْرَابًا",
+      "verseStringB": "Loving, equals in age,"
+    },
+    {
+      "verseNumber": 38,
+      "verseString": "لِأَصْحَابِ الْيَمِينِ",
+      "verseStringB": "For those on the right hand.ᵃ"
+    },
+    {
+      "verseNumber": 39,
+      "verseString": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+      "verseStringB": "A multitude from among the first,"
+    },
+    {
+      "verseNumber": 40,
+      "verseString": "وَثُلَّةٌ مِنَ الْآخِرِينَ",
+      "verseStringB": "And a multitude from among those of later times.ᵃ"
+    },
+    {
+      "verseNumber": 41,
+      "verseString": "وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ",
+      "verseStringB": "And those on the left hand; how (wretched) are those on the left hand!"
+    },
+    {
+      "verseNumber": 42,
+      "verseString": "فِي سَمُومٍ وَحَمِيمٍ",
+      "verseStringB": "In hot wind and boiling water,"
+    },
+    {
+      "verseNumber": 43,
+      "verseString": "وَظِلٍّ مِنْ يَحْمُومٍ",
+      "verseStringB": "And shadow of black smoke,"
+    },
+    {
+      "verseNumber": 44,
+      "verseString": "لَا بَارِدٍ وَلَا كَرِيمٍ",
+      "verseStringB": "Neither cool nor refreshing.ᵃ"
+    },
+    {
+      "verseNumber": 45,
+      "verseString": "إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+      "verseStringB": "Surely they lived before that in ease."
+    },
+    {
+      "verseNumber": 46,
+      "verseString": "وَكَانُوا يُصِرُّونَ عَلَى الْحِنْثِ الْعَظِيمِ",
+      "verseStringB": "And they persisted in the great violation.ᵃ"
+    },
+    {
+      "verseNumber": 47,
+      "verseString": "وَكَانُوا يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+      "verseStringB": "And they used to say: When we die and become dust and bones, shall we then indeed be raised?"
+    },
+    {
+      "verseNumber": 48,
+      "verseString": "أَوَآبَاؤُنَا الْأَوَّلُونَ",
+      "verseStringB": "Or our fathers of yore?"
+    },
+    {
+      "verseNumber": 49,
+      "verseString": "قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ",
+      "verseStringB": "Say: The ancients and those of later times"
+    },
+    {
+      "verseNumber": 50,
+      "verseString": "لَمَجْمُوعُونَ إِلَىٰ مِيقَاتِ يَوْمٍ مَعْلُومٍ",
+      "verseStringB": "Will surely be gathered together for the appointed hour of a known day."
+    },
+    {
+      "verseNumber": 51,
+      "verseString": "ثُمَّ إِنَّكُمْ أَيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ",
+      "verseStringB": "Then shall you, O you who err and deny,"
+    },
+    {
+      "verseNumber": 52,
+      "verseString": "لَآكِلُونَ مِنْ شَجَرٍ مِنْ زَقُّومٍ",
+      "verseStringB": "Eat of the tree of Zaqq∂m,"
+    },
+    {
+      "verseNumber": 53,
+      "verseString": "فَمَالِئُونَ مِنْهَا الْبُطُونَ",
+      "verseStringB": "And fill (your) bellies with it;"
+    },
+    {
+      "verseNumber": 54,
+      "verseString": "فَشَارِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ",
+      "verseStringB": "Then drink after it of boiling water;"
+    },
+    {
+      "verseNumber": 55,
+      "verseString": "فَشَارِبُونَ شُرْبَ الْهِيمِ",
+      "verseStringB": "And drink as drinks the thirsty camel."
+    },
+    {
+      "verseNumber": 56,
+      "verseString": "هَٰذَا نُزُلُهُمْ يَوْمَ الدِّينِ",
+      "verseStringB": "This is their entertainment on the day of Requital."
+    },
+    {
+      "verseNumber": 57,
+      "verseString": "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ",
+      "verseStringB": "We have created you, why do you not then accept?"
+    },
+    {
+      "verseNumber": 58,
+      "verseString": "أَفَرَأَيْتُمْ مَا تُمْنُونَ",
+      "verseStringB": "See you that which you emit?"
+    },
+    {
+      "verseNumber": 59,
+      "verseString": "أَأَنْتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ",
+      "verseStringB": "Is it you that create it or are We the Creator?"
+    },
+    {
+      "verseNumber": 60,
+      "verseString": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "verseStringB": "We have ordained death among you and We are not to be overcome,"
+    },
+    {
+      "verseNumber": 61,
+      "verseString": "عَلَىٰ أَنْ نُبَدِّلَ أَمْثَالَكُمْ وَنُنْشِئَكُمْ فِي مَا لَا تَعْلَمُونَ",
+      "verseStringB": "That We may change your state and make you grow into what you know not.ᵃ"
+    },
+    {
+      "verseNumber": 62,
+      "verseString": "وَلَقَدْ عَلِمْتُمُ النَّشْأَةَ الْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+      "verseStringB": "And certainly you know the first growth, why do you not then mind?"
+    },
+    {
+      "verseNumber": 63,
+      "verseString": "أَفَرَأَيْتُمْ مَا تَحْرُثُونَ",
+      "verseStringB": "See you what you sow?"
+    },
+    {
+      "verseNumber": 64,
+      "verseString": "أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ",
+      "verseStringB": "Is it you that cause it to grow, or are We the Causer of growth?"
+    },
+    {
+      "verseNumber": 65,
+      "verseString": "لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ",
+      "verseStringB": "If We pleased, We would make it chaff, then would you lament:"
+    },
+    {
+      "verseNumber": 66,
+      "verseString": "إِنَّا لَمُغْرَمُونَ",
+      "verseStringB": "Surely we are burdened with debt:"
+    },
+    {
+      "verseNumber": 67,
+      "verseString": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "verseStringB": "Nay, we are deprived."
+    },
+    {
+      "verseNumber": 68,
+      "verseString": "أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ",
+      "verseStringB": "See you the water which you drink?"
+    },
+    {
+      "verseNumber": 69,
+      "verseString": "أَأَنْتُمْ أَنْزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ",
+      "verseStringB": "Do you bring it down from the clouds, or are We the Bringer?"
+    },
+    {
+      "verseNumber": 70,
+      "verseString": "لَوْ نَشَاءُ جَعَلْنَاهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+      "verseStringB": "If We pleased, We could make it saltish; why give you not thanks?"
+    },
+    {
+      "verseNumber": 71,
+      "verseString": "أَفَرَأَيْتُمُ النَّارَ الَّتِي تُورُونَ",
+      "verseStringB": "See you the fire which you kindle?"
+    },
+    {
+      "verseNumber": 72,
+      "verseString": "أَأَنْتُمْ أَنْشَأْتُمْ شَجَرَتَهَا أَمْ نَحْنُ الْمُنْشِئُونَ",
+      "verseStringB": "Is it you that produce the trees for it, or are We the Producer?"
+    },
+    {
+      "verseNumber": 73,
+      "verseString": "نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِلْمُقْوِينَ",
+      "verseStringB": "We have made it a reminder and an advantage for the wayfarers of the desert.ᵃ"
+    },
+    {
+      "verseNumber": 74,
+      "verseString": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+      "verseStringB": "So glorify the name of thy Lord, the Incomparably Great."
+    },
+    {
+      "verseNumber": 75,
+      "verseString": "فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ",
+      "verseStringB": "But nay, I swear by revelation of portions (of the Qur’ān)!—a"
+    },
+    {
+      "verseNumber": 76,
+      "verseString": "وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ",
+      "verseStringB": "And it is a great oath indeed, if you knew —"
+    },
+    {
+      "verseNumber": 77,
+      "verseString": "إِنَّهُ لَقُرْآنٌ كَرِيمٌ",
+      "verseStringB": "Surely it is a bounteous Qur’ān,"
+    },
+    {
+      "verseNumber": 78,
+      "verseString": "فِي كِتَابٍ مَكْنُونٍ",
+      "verseStringB": "In a book that is protected,"
+    },
+    {
+      "verseNumber": 79,
+      "verseString": "لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
+      "verseStringB": "Which none touches save the purified ones.ᵃ"
+    },
+    {
+      "verseNumber": 80,
+      "verseString": "تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ",
+      "verseStringB": "A revelation from the Lord of the worlds."
+    },
+    {
+      "verseNumber": 81,
+      "verseString": "أَفَبِهَٰذَا الْحَدِيثِ أَنْتُمْ مُدْهِنُونَ",
+      "verseStringB": "Is it this announcement that you disdain?"
+    },
+    {
+      "verseNumber": 82,
+      "verseString": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "verseStringB": "And make your denial your means of subsistence.ᵃ"
+    },
+    {
+      "verseNumber": 83,
+      "verseString": "فَلَوْلَا إِذَا بَلَغَتِ الْحُلْقُومَ",
+      "verseStringB": "Why is it not then that when it comes up to the throat,"
+    },
+    {
+      "verseNumber": 84,
+      "verseString": "وَأَنْتُمْ حِينَئِذٍ تَنْظُرُونَ",
+      "verseStringB": "And you at that time look on —"
+    },
+    {
+      "verseNumber": 85,
+      "verseString": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَٰكِنْ لَا تُبْصِرُونَ",
+      "verseStringB": "And We are nearer to it than you, but you see not —"
+    },
+    {
+      "verseNumber": 86,
+      "verseString": "فَلَوْلَا إِنْ كُنْتُمْ غَيْرَ مَدِينِينَ",
+      "verseStringB": "Why then, if you are not held under authority,"
+    },
+    {
+      "verseNumber": 87,
+      "verseString": "تَرْجِعُونَهَا إِنْ كُنْتُمْ صَادِقِينَ",
+      "verseStringB": "Do you not send it back, if you are truthful?ᵃ"
+    },
+    {
+      "verseNumber": 88,
+      "verseString": "فَأَمَّا إِنْ كَانَ مِنَ الْمُقَرَّبِينَ",
+      "verseStringB": "Then if he is one of those drawn nigh (to Allāh),"
+    },
+    {
+      "verseNumber": 89,
+      "verseString": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+      "verseStringB": "Then happiness and bounty and a Garden of bliss."
+    },
+    {
+      "verseNumber": 90,
+      "verseString": "وَأَمَّا إِنْ كَانَ مِنْ أَصْحَابِ الْيَمِينِ",
+      "verseStringB": "And if he is one of those on the right hand,"
+    },
+    {
+      "verseNumber": 91,
+      "verseString": "فَسَلَامٌ لَكَ مِنْ أَصْحَابِ الْيَمِينِ",
+      "verseStringB": "Then peace to thee from those on the right hand."
+    },
+    {
+      "verseNumber": 92,
+      "verseString": "وَأَمَّا إِنْ كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ",
+      "verseStringB": "And if he is one of the rejectors, the erring ones,"
+    },
+    {
+      "verseNumber": 93,
+      "verseString": "فَنُزُلٌ مِنْ حَمِيمٍ",
+      "verseStringB": "He has an entertainment of boiling water,"
+    },
+    {
+      "verseNumber": 94,
+      "verseString": "وَتَصْلِيَةُ جَحِيمٍ",
+      "verseStringB": "And burning in hell."
+    },
+    {
+      "verseNumber": 95,
+      "verseString": "إِنَّ هَٰذَا لَهُوَ حَقُّ الْيَقِينِ",
+      "verseStringB": "Surely this is a certain truth."
+    },
+    {
+      "verseNumber": 96,
+      "verseString": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+      "verseStringB": "So glorify the name of thy Lord, the Incomparably Great."
+    }
+  ],
+  "nameEnglish": "The Inevitable",
+  "nameTrans": "al-Waqi'ah",
+  "nameArabic": "الواقعـة",
+  "chapterNumber": 56,
+  "nVerses": 96,
+  "footnotes": [
+    {
+      "note": "1a. Note that the Holy Qur’ån speaks of the Hour or the Event not only as signifyingthe Resurrection, but also very frequently as signifying the doom of its opponents. Thatdoom was, in fact, a foretaste of what they would suffer in the life after death; this ismade clear in v. 3.\n\n5a. The crumbling of the mountains signifies the fall of great opponents; see20:105a.\n\n10a. Those foremost in doing good are foremost in reaping their reward.\n\n14a. Those who accepted the Holy Prophet in the earlier stages of his mission, andhad to make greater sacrifices, had a greater reward; but there were others who waiteduntil Islåm was established in the land and made no sacrifices. Compare 57:10; 57:10a.\n\n17a. Khallada means he remained or continued forever, and mukhallad∂n signifiesthat never become decrepit, or never altering in age, because there is no decay in the lifeafter death.\n\n26a. This description of the paradise in early revelation does not differ from that oflater revelation. After various blessings are enumerated, their true nature is depicted in oneword, Peace. Peace in this world, and Peace in the Hereafter, such is the message of Islåm.\n\n38a. It is noteworthy that the blessings granted to the righteous are first spoken of asshades, water, fruits and resting-places; and then, as it were to dispel all doubts as to whatthese blessings of the next life are, it is said in v. 35, We have created them a new creation.These words settle conclusively that, whatever these blessings are, whether shades or treesor water or fruits, they are all the fruits of deeds, which have been made to grow into anew growth. The words that follow this statement are no doubt primarily applicable towomen, but, as shown in 52:20a, it is only because womanhood stands as a symbol ofpurity and beauty. Thus abkår, plural of bikr, means a virgin, and also an action that hasnot been preceded by its like (LL). Similarly, atråb, or equals in age, as already shown in38:52a, signifies that the growth of those blessings begins with the growth of spiritual lifein man. ‘Urub (“loving”) is plural of both ‘ur∂b and ‘arßb, the former signifying a womanthat manifests love to her husband.\n\n40a. Note that these verses do not contradict vv. 13 and 14, as imagined by someChristian critics, for the latter speak only of those who were foremost in accepting theHoly Prophet.\n\n44a. These verses draw a picture of the distress and abasement which were in storefor the opponents of truth in this life as well as in the Hereafter.\n\n46a. That is, the violation of Divine commandments.\n\n61a. It is the Resurrection that is spoken of here. The present state will be changed, weare told, and men will be made to grow into a new creation, which they do not know.Clearly it is not the material body of this life, but a new body which grows out of the deedsof men.\n\n73a. The fire burned at night points out to the desert wayfarer a habitation of men,where he will be welcome. It is called “a reminder” because it represents the reward ofevil deeds in another life.\n\n75a. The meaning adopted is in consonance with the context. As to nuj∂m, meaningportions of the Qur’ån, see 53:1a, where this verse also is explained. Mawåqi‘ is theplural of mauqa‘, i.e., the time or place of the coming down of a thing, which is the revelation of the Qur’ån in this case. V. 77 makes it clear that it is the revelation of theQur’ån, for it is to this that the personal pronoun it occurring there refers.As already stated in 37:1a, the object of an oath in such cases is to draw attention tocertain facts. The use of lå (“nay”) in such cases is explained in 75:2a. The significanceis that every portion of the Qur’ån bears evidence to its own truth.\n\n79a. Vv. 77, 78 and 79 contain three statements regarding the Qur’ån. According tov. 77, it is bounteous. The word karßm used here about the Qur’ån means generous,liberal, noble or honoured (LL); and you say of land as karumat, meaning it yieldedincrease of its seed-produce (LL). And karam (the root-word, inf.) means, when usedabout the Divine Being (and the same is true of His Word and His Prophet), i√sån andin‘åm, i.e., doing of good or conferring of benefit (R). The Qur’ån is called karßm onaccount of the benefit which it brought to humanity, and hence I render it as meaningbounteous or bountiful. V. 78 speaks of it as being protected, by which is meant not onlythat it will be protected against all attempts to destroy it, but also that it will be protectedin all its purity in writing. V. 79 states that it can be touched only by those purified byGod. This shows that an understanding of the Qur’ån is granted only to those who arepure in heart. It also shows that the Qur’ån should not be touched by one who is impure.Hence the companions were forbidden to carry the Qur’ån to an enemy’s country(B. 56:129). Both the verses and this report further show that the Qur’ån existed in awritten form from the first, otherwise such injunctions as not to touch or travel with it tothe enemy’s country would have been meaningless.\n\n82a. The meaning is that you are bent upon giving the lie to the Qur’ån to such an extentas if to give it the lie were your means of subsistence, without which you could not live.\n\n87a. Sale and others translate ghaira madßnßna (“not held under authority”) asmeaning not to be rewarded or not to be judged, and call the passage obscure. Butmadßnßn means maml∂kßn, i.e., held under authority (LL). The meaning is that, if youare your own masters and not subject to the authority of a Higher Power, why can younot resist death when it comes to you?"
+    }
+  ]
+}

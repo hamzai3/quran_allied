@@ -1,0 +1,384 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "يَا أَيُّهَا النَّبِيُّ اتَّقِ اللَّهَ وَلَا تُطِعِ الْكَافِرِينَ وَالْمُنَافِقِينَ ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "verseStringB": "O Prophet, keep thy duty to Allāh and obey not the disbelievers and the hypocrites.ᵃ Surely Allāh is ever Knowing, Wise;"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "وَاتَّبِعْ مَا يُوحَىٰ إِلَيْكَ مِنْ رَبِّكَ ۚ إِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "verseStringB": "And follow that which is revealed to thee from thy Lord. Surely Allāh is ever Aware of what you do;"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseStringB": "And trust in Allāh. And Allāh is enough as having charge (of affairs)."
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "مَا جَعَلَ اللَّهُ لِرَجُلٍ مِنْ قَلْبَيْنِ فِي جَوْفِهِ ۚ وَمَا جَعَلَ أَزْوَاجَكُمُ اللَّائِي تُظَاهِرُونَ مِنْهُنَّ أُمَّهَاتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَاءَكُمْ أَبْنَاءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُمْ بِأَفْوَاهِكُمْ ۖ وَاللَّهُ يَقُولُ الْحَقَّ وَهُوَ يَهْدِي السَّبِيلَ",
+      "verseStringB": "Allāh has not made for any man two hearts within him;ᵃ nor has He made your wives whom you desert by Òihār, your mothers, nor has He made those whom you assert (to be your sons) your sons. These are the words of your mouths. And Allāh speaks the truth and He shows the way.ᵇ"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "ادْعُوهُمْ لِآبَائِهِمْ هُوَ أَقْسَطُ عِنْدَ اللَّهِ ۚ فَإِنْ لَمْ تَعْلَمُوا آبَاءَهُمْ فَإِخْوَانُكُمْ فِي الدِّينِ وَمَوَالِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَا أَخْطَأْتُمْ بِهِ وَلَٰكِنْ مَا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+      "verseStringB": "Call them by (the names of) their fathers; this is more equitable with Allāh; but if you know not their fathers, then they are your brethren in faith and your friends. And there is no blame on you in that wherein you make a mistake, but (you are answerable for) that which your hearts purpose. And Allāh is ever Forgiving, Merciful."
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ۖ وَأَزْوَاجُهُ أُمَّهَاتُهُمْ ۗ وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِي كِتَابِ اللَّهِ مِنَ الْمُؤْمِنِينَ وَالْمُهَاجِرِينَ إِلَّا أَنْ تَفْعَلُوا إِلَىٰ أَوْلِيَائِكُمْ مَعْرُوفًا ۚ كَانَ ذَٰلِكَ فِي الْكِتَابِ مَسْطُورًا",
+      "verseStringB": "The Prophet is closer to the faithful than their own selves, and his wives are (as) their mothers.ᵃ And the possessors of relationship are closer one to another in the ordInᵃ nce of Allāh than (other) believers, and those who fled (their homes), except that you do some good to your friends.ᵇ This is written in the Book."
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَإِذْ أَخَذْنَا مِنَ النَّبِيِّينَ مِيثَاقَهُمْ وَمِنْكَ وَمِنْ نُوحٍ وَإِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَى ابْنِ مَرْيَمَ ۖ وَأَخَذْنَا مِنْهُمْ مِيثَاقًا غَلِيظًا",
+      "verseStringB": "And when We took a covenant from the prophets and from thee, and from Noah and Abraham and Moses and Jesus, son of Mary, and We took from them a solemn covenant,ᵃ"
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "لِيَسْأَلَ الصَّادِقِينَ عَنْ صِدْقِهِمْ ۚ وَأَعَدَّ لِلْكَافِرِينَ عَذَابًا أَلِيمًا",
+      "verseStringB": "That He may question the truthful of their truth, and He has prepared for the disbelievers a painful chastisement."
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ جَاءَتْكُمْ جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَمْ تَرَوْهَا ۚ وَكَانَ اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+      "verseStringB": "O you who believe, call to mind the favour of Allāh to you when there came against you hosts,ᵃ so We sent against them a strong windb and hosts that you saw not.ᶜ And Allāh is ever Seer of what you do."
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "إِذْ جَاءُوكُمْ مِنْ فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنْكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ الظُّنُونَا",
+      "verseStringB": "When they came upon you from above you and from below you,ᵃ and when the eyes turned dull and the hearts rose up to the throats, and you began to think diverse thoughts about Allāh.ᵇ"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "هُنَالِكَ ابْتُلِيَ الْمُؤْمِنُونَ وَزُلْزِلُوا زِلْزَالًا شَدِيدًا",
+      "verseStringB": "There were the believers tried and they were shaken with a severe shaking."
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "وَإِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ مَا وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلَّا غُرُورًا",
+      "verseStringB": "And when the hypocrites and those in whose hearts was a disease began to say: Allāh and His Messenger did not promise us (victory) but only to deceive.ᵃ"
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "وَإِذْ قَالَتْ طَائِفَةٌ مِنْهُمْ يَا أَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَارْجِعُوا ۚ وَيَسْتَأْذِنُ فَرِيقٌ مِنْهُمُ النَّبِيَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِيَ بِعَوْرَةٍ ۖ إِنْ يُرِيدُونَ إِلَّا فِرَارًا",
+      "verseStringB": "And when a party of them said: O people of Yathrib,ᵃ you cannot make a stand, so go back.ᵇ And a party of them asked permission of the Prophet, saying, Our houses are exposed. And they were not exposed. They only desired to run away."
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "وَلَوْ دُخِلَتْ عَلَيْهِمْ مِنْ أَقْطَارِهَا ثُمَّ سُئِلُوا الْفِتْنَةَ لَآتَوْهَا وَمَا تَلَبَّثُوا بِهَا إِلَّا يَسِيرًا",
+      "verseStringB": "And if an entry were made upon them from the outlying parts of it, then they were asked to wage war (against the Muslims), they would certainly have done it, and they would not have stayed in it but a little while.ᵃ"
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "وَلَقَدْ كَانُوا عَاهَدُوا اللَّهَ مِنْ قَبْلُ لَا يُوَلُّونَ الْأَدْبَارَ ۚ وَكَانَ عَهْدُ اللَّهِ مَسْئُولًا",
+      "verseStringB": "And they had indeed made a covenant with Allāh before (that) they would not turn (their) backs. And a covenant with Allāh must be answered for."
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "قُلْ لَنْ يَنْفَعَكُمُ الْفِرَارُ إِنْ فَرَرْتُمْ مِنَ الْمَوْتِ أَوِ الْقَتْلِ وَإِذًا لَا تُمَتَّعُونَ إِلَّا قَلِيلًا",
+      "verseStringB": "Say: Flight will not profit you, if you flee from death or slaughter, and then you will not be allowed to enjoy yourselves but a little."
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "قُلْ مَنْ ذَا الَّذِي يَعْصِمُكُمْ مِنَ اللَّهِ إِنْ أَرَادَ بِكُمْ سُوءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً ۚ وَلَا يَجِدُونَ لَهُمْ مِنْ دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "verseStringB": "Say: Who is it that can protect you from Allāh, if He intends harm for you or He intends to show you mercy? And they will not find for themselves a guardian or a helper besides Allāh."
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "قَدْ يَعْلَمُ اللَّهُ الْمُعَوِّقِينَ مِنْكُمْ وَالْقَائِلِينَ لِإِخْوَانِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ الْبَأْسَ إِلَّا قَلِيلًا",
+      "verseStringB": "Allāh indeed knows those among you who hinder others and those who say to their brethren, Come to us. And they come not to the fight but a little,"
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَاءَ الْخَوْفُ رَأَيْتَهُمْ يَنْظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَىٰ عَلَيْهِ مِنَ الْمَوْتِ ۖ فَإِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُمْ بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى الْخَيْرِ ۚ أُولَٰئِكَ لَمْ يُؤْمِنُوا فَأَحْبَطَ اللَّهُ أَعْمَالَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+      "verseStringB": "Being niggardly with respect to you. But when fear comes, thou wilt see them looking to thee, their eyes rolling like one swooning because of death. But when fear is gone they smite you with sharp tongues, being covetous of wealth. These have not believed, so Allāh makes their deeds naught. And that is easy for Allāh."
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "يَحْسَبُونَ الْأَحْزَابَ لَمْ يَذْهَبُوا ۖ وَإِنْ يَأْتِ الْأَحْزَابُ يَوَدُّوا لَوْ أَنَّهُمْ بَادُونَ فِي الْأَعْرَابِ يَسْأَلُونَ عَنْ أَنْبَائِكُمْ ۖ وَلَوْ كَانُوا فِيكُمْ مَا قَاتَلُوا إِلَّا قَلِيلًا",
+      "verseStringB": "They think the allies are not gone, and if the allies should come (again), they would fain be in the deserts with the desert Arabs, asking for news about you. And if they were among you, they would not fight save a little."
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا",
+      "verseStringB": "Certainly you have in the Messenger of Allāh an excellent exemplar for him who hopes in Allāh and the Latter day, and remembers Allāh much.ᵃ"
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "وَلَمَّا رَأَى الْمُؤْمِنُونَ الْأَحْزَابَ قَالُوا هَٰذَا مَا وَعَدَنَا اللَّهُ وَرَسُولُهُ وَصَدَقَ اللَّهُ وَرَسُولُهُ ۚ وَمَا زَادَهُمْ إِلَّا إِيمَانًا وَتَسْلِيمًا",
+      "verseStringB": "And when the believers saw the allies, they said: This is what Allāh and His Messenger promised us, and Allāh and His Messenger spoke the truth. And it only added to their faith and submission.ᵃ"
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ فَمِنْهُمْ مَنْ قَضَىٰ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ ۖ وَمَا بَدَّلُوا تَبْدِيلًا",
+      "verseStringB": "Of the believers are men who are true to the covenant they made with Allāh; so of them is he who has accomplished his vow, and of them is he who yet waits, and they have not changed in the leasta —"
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "لِيَجْزِيَ اللَّهُ الصَّادِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ الْمُنَافِقِينَ إِنْ شَاءَ أَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا",
+      "verseStringB": "That Allāh may reward the truthful for their truth, and chastise the hypocrites, if He please, or turn to them (mercifully). Surely Allāh is ever Forgiving, Merciful.ᵃ"
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "وَرَدَّ اللَّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْرًا ۚ وَكَفَى اللَّهُ الْمُؤْمِنِينَ الْقِتَالَ ۚ وَكَانَ اللَّهُ قَوِيًّا عَزِيزًا",
+      "verseStringB": "And Allāh turned back the disbelievers in their rage — they gained no advantage. And Allāh sufficed the believers in fighting. And Allāh is ever Strong, Mighty."
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "وَأَنْزَلَ الَّذِينَ ظَاهَرُوهُمْ مِنْ أَهْلِ الْكِتَابِ مِنْ صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا",
+      "verseStringB": "And He drove down those of the People of the Book who backed them from their fortresses and He cast awe into their hearts; some you killed and you took captive some.ᵃ"
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَارَهُمْ وَأَمْوَالَهُمْ وَأَرْضًا لَمْ تَطَئُوهَا ۚ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرًا",
+      "verseStringB": "And He made you heirs to their land and their dwellings and their property, and (to) a land which you have not yet trodden. And Allāh is ever Possessor of power over all things.ᵃ"
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "يَا أَيُّهَا النَّبِيُّ قُلْ لِأَزْوَاجِكَ إِنْ كُنْتُنَّ تُرِدْنَ الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلًا",
+      "verseStringB": "O Prophet, say to thy wives: If you desire this world’s life and its adornment, come, I will give you a provision and allow you to depart a goodly departing.ᵃ"
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "وَإِنْ كُنْتُنَّ تُرِدْنَ اللَّهَ وَرَسُولَهُ وَالدَّارَ الْآخِرَةَ فَإِنَّ اللَّهَ أَعَدَّ لِلْمُحْسِنَاتِ مِنْكُنَّ أَجْرًا عَظِيمًا",
+      "verseStringB": "And if you desire Allāh and His Messenger and the abode of the Hereafter, then surely Allāh has prepared for the doers of good among you a mighty reward."
+    },
+    {
+      "verseNumber": 30,
+      "verseString": "يَا نِسَاءَ النَّبِيِّ مَنْ يَأْتِ مِنْكُنَّ بِفَاحِشَةٍ مُبَيِّنَةٍ يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+      "verseStringB": "O wives of the Prophet, who ever of you is guilty of manifestly improper conduct, the chastisement will be doubled for her. And this is easy for Allāh.ᵃ"
+    },
+    {
+      "verseNumber": 31,
+      "verseString": "وَمَنْ يَقْنُتْ مِنْكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ صَالِحًا نُؤْتِهَا أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا",
+      "verseStringB": "And whoever of you is obedient to Allāh and His Messenger and does good, We shall give her a double reward, and We have prepared for her an honourable sustenance.ᵃ"
+    },
+    {
+      "verseNumber": 32,
+      "verseString": "يَا نِسَاءَ النَّبِيِّ لَسْتُنَّ كَأَحَدٍ مِنَ النِّسَاءِ ۚ إِنِ اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ وَقُلْنَ قَوْلًا مَعْرُوفًا",
+      "verseStringB": "O wives of the Prophet, you are not like any other women. If you would keep your duty, be not soft in speech, lest he in whose heart is a disease yearn; and speak a word of goodness.ᵃ"
+    },
+    {
+      "verseNumber": 33,
+      "verseString": "وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ ۖ وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ وَرَسُولَهُ ۚ إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "verseStringB": "And stay in your houses and display not (your beauty) like the dis playing of the ignorance of yore; and keep up prayer, and pay the poor-rate, and obey Allāh and His Messenger. Allāh only desires to take away uncleanness from you, O people of the household, and to purify you a (thorough) purifying.ᵃ"
+    },
+    {
+      "verseNumber": 34,
+      "verseString": "وَاذْكُرْنَ مَا يُتْلَىٰ فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ ۚ إِنَّ اللَّهَ كَانَ لَطِيفًا خَبِيرًا",
+      "verseStringB": "And remember that which is recited in your houses of the messages of Allāh and the Wisdom. Surely Allāh is ever Knower of subtilities, Aware."
+    },
+    {
+      "verseNumber": 35,
+      "verseString": "إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ وَالصَّادِقَاتِ وَالصَّابِرِينَ وَالصَّابِرَاتِ وَالْخَاشِعِينَ وَالْخَاشِعَاتِ وَالْمُتَصَدِّقِينَ وَالْمُتَصَدِّقَاتِ وَالصَّائِمِينَ وَالصَّائِمَاتِ وَالْحَافِظِينَ فُرُوجَهُمْ وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ أَعَدَّ اللَّهُ لَهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "verseStringB": "Surely the men who submit and the women who submit, and the believing men and the believing women, and the obeying men and the obeying women, and the truthful men and the truthful women, and the patient men and the patient women, and the humble men and the humble women, and the charitable men and the charitable women, and the fasting men and the fasting women, and the men who guard their chastity and the women who guard, and the men who remember Allāh much and women who remember — Allāh has prepared for them forgiveness and a mighty reward.ᵃ"
+    },
+    {
+      "verseNumber": 36,
+      "verseString": "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا",
+      "verseStringB": "And it behoves not a believing man or a believing woman, when Allāh and His Messenger have decided an affair, to exercise a choice in their matter. And whoever disobeys Allāh and His Messenger, he surely strays off to manifest error.ᵃ"
+    },
+    {
+      "verseNumber": 37,
+      "verseString": "وَإِذْ تَقُولُ لِلَّذِي أَنْعَمَ اللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللَّهَ وَتُخْفِي فِي نَفْسِكَ مَا اللَّهُ مُبْدِيهِ وَتَخْشَى النَّاسَ وَاللَّهُ أَحَقُّ أَنْ تَخْشَاهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا لِكَيْ لَا يَكُونَ عَلَى الْمُؤْمِنِينَ حَرَجٌ فِي أَزْوَاجِ أَدْعِيَائِهِمْ إِذَا قَضَوْا مِنْهُنَّ وَطَرًا ۚ وَكَانَ أَمْرُ اللَّهِ مَفْعُولًا",
+      "verseStringB": "And when thou saidst to him to whom Allāh had shown favour and to whom thou hadst shown a favour: Keep thy wife to thyself and keep thy duty to Allāh; and thou concealedst in thy heart what Allāh would bring to light, and thou fearedst men, and Allāh has a greater right that thou shouldst fear Him. So when Zaid dissolved her marriage-tie, We gave her to thee as a wife, so that there should be no difficulty for the believers about the wives of their adopted sons, when they have dissolved their marriage-tie. And Allāh’s command is ever performed.ᵃ"
+    },
+    {
+      "verseNumber": 38,
+      "verseString": "مَا كَانَ عَلَى النَّبِيِّ مِنْ حَرَجٍ فِيمَا فَرَضَ اللَّهُ لَهُ ۖ سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ ۚ وَكَانَ أَمْرُ اللَّهِ قَدَرًا مَقْدُورًا",
+      "verseStringB": "There is no harm for the Prophet in that which Allāh has ordained for him. Such has been the way of Allāh with those who have gone before. And the command of Allāh is a decree that is made absolute —"
+    },
+    {
+      "verseNumber": 39,
+      "verseString": "الَّذِينَ يُبَلِّغُونَ رِسَالَاتِ اللَّهِ وَيَخْشَوْنَهُ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا اللَّهَ ۗ وَكَفَىٰ بِاللَّهِ حَسِيبًا",
+      "verseStringB": "Those who deliver the messages of Allāh and fear Him, and fear none but Allāh. And Allāh is Sufficient to take account."
+    },
+    {
+      "verseNumber": 40,
+      "verseString": "مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَٰكِنْ رَسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ ۗ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا",
+      "verseStringB": "Muƒammad is not the father of any of your men, but he is the Messenger of Allāh and the Seal of the prophets. And Allāh is ever Knower of all things.ᵃ"
+    },
+    {
+      "verseNumber": 41,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا",
+      "verseStringB": "O you who believe, remember Allāh with much remembrance,"
+    },
+    {
+      "verseNumber": 42,
+      "verseString": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "verseStringB": "And glorify Him morning and evening."
+    },
+    {
+      "verseNumber": 43,
+      "verseString": "هُوَ الَّذِي يُصَلِّي عَلَيْكُمْ وَمَلَائِكَتُهُ لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ ۚ وَكَانَ بِالْمُؤْمِنِينَ رَحِيمًا",
+      "verseStringB": "He it is Who sends blessings on you, and (so do) His angels, that He may bring you forth out of darkness into light. And He is ever Merciful to the believers.ᵃ"
+    },
+    {
+      "verseNumber": 44,
+      "verseString": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُ سَلَامٌ ۚ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا",
+      "verseStringB": "Their salutation on the day they meet Him will be, Peace! and He has prepared for them an honourable reward."
+    },
+    {
+      "verseNumber": 45,
+      "verseString": "يَا أَيُّهَا النَّبِيُّ إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "verseStringB": "O Prophet, surely We have sent thee as a witness, and a bearer of good news and a warner,"
+    },
+    {
+      "verseNumber": 46,
+      "verseString": "وَدَاعِيًا إِلَى اللَّهِ بِإِذْنِهِ وَسِرَاجًا مُنِيرًا",
+      "verseStringB": "And as an inviter to Allāh by His permission, and as a light-giving sun.ᵃ"
+    },
+    {
+      "verseNumber": 47,
+      "verseString": "وَبَشِّرِ الْمُؤْمِنِينَ بِأَنَّ لَهُمْ مِنَ اللَّهِ فَضْلًا كَبِيرًا",
+      "verseStringB": "And give the believers the good news that they will have great grace from Allāh."
+    },
+    {
+      "verseNumber": 48,
+      "verseString": "وَلَا تُطِعِ الْكَافِرِينَ وَالْمُنَافِقِينَ وَدَعْ أَذَاهُمْ وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseStringB": "And obey not the disbelievers and the hypocrites, and disregard their annoying talk,ᵃ and rely on Allāh. And Allāh is enough as having charge (of affairs)."
+    },
+    {
+      "verseNumber": 49,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَكَحْتُمُ الْمُؤْمِنَاتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِنْ قَبْلِ أَنْ تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَا ۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًا جَمِيلًا",
+      "verseStringB": "O you who believe, when you marry believing women, then divorce them before you touch them, you have in their case no term which you should reckon.ᵃ But make provision for them and set them free in a goodly manner."
+    },
+    {
+      "verseNumber": 50,
+      "verseString": "يَا أَيُّهَا النَّبِيُّ إِنَّا أَحْلَلْنَا لَكَ أَزْوَاجَكَ اللَّاتِي آتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّا أَفَاءَ اللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّاتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَالَاتِكَ اللَّاتِي هَاجَرْنَ مَعَكَ وَامْرَأَةً مُؤْمِنَةً إِنْ وَهَبَتْ نَفْسَهَا لِلنَّبِيِّ إِنْ أَرَادَ النَّبِيُّ أَنْ يَسْتَنْكِحَهَا خَالِصَةً لَكَ مِنْ دُونِ الْمُؤْمِنِينَ ۗ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِي أَزْوَاجِهِمْ وَمَا مَلَكَتْ أَيْمَانُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+      "verseStringB": "O Prophet, We have made lawful to thee thy wivesa whom thou hast given their dowries, and those whom thy right hand possesses, out of those whom Allāh has given thee as prisoners of war, and the daughters of thy paternal uncle and the daughters of thy paternal aunts, and the daughters of thy maternal uncle and the daughters of thy maternal aunts who fled with thee; and a believing woman, if she gives herself to the Prophet, if the Prophet desires to marry her. (It is) especially for thee, not for the believersb — We know what We have ordained for them concerning their wives and those whom their right hands possess in order that no blame may attach to thee. And Allāh is ever Forgiving, Merciful."
+    },
+    {
+      "verseNumber": 51,
+      "verseString": "تُرْجِي مَنْ تَشَاءُ مِنْهُنَّ وَتُؤْوِي إِلَيْكَ مَنْ تَشَاءُ ۖ وَمَنِ ابْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَ ۚ ذَٰلِكَ أَدْنَىٰ أَنْ تَقَرَّ أَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَا آتَيْتَهُنَّ كُلُّهُنَّ ۚ وَاللَّهُ يَعْلَمُ مَا فِي قُلُوبِكُمْ ۚ وَكَانَ اللَّهُ عَلِيمًا حَلِيمًا",
+      "verseStringB": "Thou mayest put off whom thou pleasest of them, and take to thee whom thou pleasest. And whom thou desirest of those whom thou hadst separated provisionally, no blame attaches to thee. This is most proper so that their eyes may be cool and they may not grieve, and that they should be pleased, all of them, with what thou givest them.ᵃ And Allāh knows what is in your hearts. And Allāh is ever Knowing, Forbearing."
+    },
+    {
+      "verseNumber": 52,
+      "verseString": "لَا يَحِلُّ لَكَ النِّسَاءُ مِنْ بَعْدُ وَلَا أَنْ تَبَدَّلَ بِهِنَّ مِنْ أَزْوَاجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ رَقِيبًا",
+      "verseStringB": "It is not allowed to thee to take wives after this,ᵃ nor to change them for other wives,ᵇ though their beauty be pleasing to thee, except those whom thy right hand possesses.ᶜ And Allāh is ever Watchful over all things."
+    },
+    {
+      "verseNumber": 53,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلَّا أَنْ يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَادْخُلُوا فَإِذَا طَعِمْتُمْ فَانْتَشِرُوا وَلَا مُسْتَأْنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِي النَّبِيَّ فَيَسْتَحْيِي مِنْكُمْ ۖ وَاللَّهُ لَا يَسْتَحْيِي مِنَ الْحَقِّ ۚ وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا فَاسْأَلُوهُنَّ مِنْ وَرَاءِ حِجَابٍ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ ۚ وَمَا كَانَ لَكُمْ أَنْ تُؤْذُوا رَسُولَ اللَّهِ وَلَا أَنْ تَنْكِحُوا أَزْوَاجَهُ مِنْ بَعْدِهِ أَبَدًا ۚ إِنَّ ذَٰلِكُمْ كَانَ عِنْدَ اللَّهِ عَظِيمًا",
+      "verseStringB": "O you who believe, enter not the houses of the Prophet unless permission is given to you for a meal, not waiting for its cooking being finished — but when you are invited, enter, and when you have taken food, disperse — not seeking to listen to talk. Surely this gives the Prophet trouble, but he forbears from you, and Allāh forbears not from the truth. And when you ask of them any goods, ask of them from behind a curtain.ᵃ This is purer for your hearts and their hearts. And it behoves you not to give trouble to the Messenger of Allāh, nor to marry his wives after him ever.ᵇ Surely this is grievous in the sight of Allāh."
+    },
+    {
+      "verseNumber": 54,
+      "verseString": "إِنْ تُبْدُوا شَيْئًا أَوْ تُخْفُوهُ فَإِنَّ اللَّهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا",
+      "verseStringB": "If you do a thing openly or do it in secret, then surely Allāh is ever Knower of all things."
+    },
+    {
+      "verseNumber": 55,
+      "verseString": "لَا جُنَاحَ عَلَيْهِنَّ فِي آبَائِهِنَّ وَلَا أَبْنَائِهِنَّ وَلَا إِخْوَانِهِنَّ وَلَا أَبْنَاءِ إِخْوَانِهِنَّ وَلَا أَبْنَاءِ أَخَوَاتِهِنَّ وَلَا نِسَائِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَانُهُنَّ ۗ وَاتَّقِينَ اللَّهَ ۚ إِنَّ اللَّهَ كَانَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدًا",
+      "verseStringB": "There is no blame on them in respect of their fathers, nor their sons, nor their brothers, nor their brothers’ sons, nor their sisters’ sons, nor their own women, nor of what their right hands possess — and (ye women) keep your duty to Allāh. Surely Allāh is ever Witness over all things."
+    },
+    {
+      "verseNumber": 56,
+      "verseString": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا",
+      "verseStringB": "Surely Allāh and His angels bless the Prophet. O you who believe, call for blessings on him and salute him with a (becoming) salutation.ᵃ"
+    },
+    {
+      "verseNumber": 57,
+      "verseString": "إِنَّ الَّذِينَ يُؤْذُونَ اللَّهَ وَرَسُولَهُ لَعَنَهُمُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُهِينًا",
+      "verseStringB": "Surely those who annoya Allāh and His Messenger, Allāh has cursed them in this world and the Hereafter, and He has prepared for them an abasing chastisement."
+    },
+    {
+      "verseNumber": 58,
+      "verseString": "وَالَّذِينَ يُؤْذُونَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ بِغَيْرِ مَا اكْتَسَبُوا فَقَدِ احْتَمَلُوا بُهْتَانًا وَإِثْمًا مُبِينًا",
+      "verseStringB": "And those who annoy believing men and believing women undeser ved ly, they bear the guilt of slander and manifest sin."
+    },
+    {
+      "verseNumber": 59,
+      "verseString": "يَا أَيُّهَا النَّبِيُّ قُلْ لِأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِنْ جَلَابِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰ أَنْ يُعْرَفْنَ فَلَا يُؤْذَيْنَ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+      "verseStringB": "O Prophet, tell thy wives and thy daughters and the women of believers to let down upon them their over-garments. This is more proper, so that they may be known, and not be given trouble. And Allāh is ever Forgiving, Merciful.ᵃ"
+    },
+    {
+      "verseNumber": 60,
+      "verseString": "لَئِنْ لَمْ يَنْتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَا إِلَّا قَلِيلًا",
+      "verseStringB": "If the hypocrites and those in whose hearts is a disease and the agitators in Madinah desist not, We shall certainly urge thee on against them, then they shall not be thy neighbours in it but for a little while —"
+    },
+    {
+      "verseNumber": 61,
+      "verseString": "مَلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوا أُخِذُوا وَقُتِّلُوا تَقْتِيلًا",
+      "verseStringB": "Accursed, wherever they are found they will be seized and slain.ᵃ"
+    },
+    {
+      "verseNumber": 62,
+      "verseString": "سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ ۖ وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
+      "verseStringB": "That was the way of Allāh concerning those who have gone before; and thou wilt find no change in the way of Allāh."
+    },
+    {
+      "verseNumber": 63,
+      "verseString": "يَسْأَلُكَ النَّاسُ عَنِ السَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِنْدَ اللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ تَكُونُ قَرِيبًا",
+      "verseStringB": "Men ask thee about the Hour. Say: The knowledge of it is only with Allāh. And what will make thee comprehend that the Hour may be nigh?ᵃ"
+    },
+    {
+      "verseNumber": 64,
+      "verseString": "إِنَّ اللَّهَ لَعَنَ الْكَافِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا",
+      "verseStringB": "Surely Allāh has cursed the disbelievers and prepared for them a burning Fire,"
+    },
+    {
+      "verseNumber": 65,
+      "verseString": "خَالِدِينَ فِيهَا أَبَدًا ۖ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "verseStringB": "To abide therein for a long time; they will find no protector nor helper."
+    },
+    {
+      "verseNumber": 66,
+      "verseString": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِي النَّارِ يَقُولُونَ يَا لَيْتَنَا أَطَعْنَا اللَّهَ وَأَطَعْنَا الرَّسُولَا",
+      "verseStringB": "On the day when their leaders are turned back into the Fire, they say: O would that we had obeyed Allāh and obeyed the Messenger!"
+    },
+    {
+      "verseNumber": 67,
+      "verseString": "وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءَنَا فَأَضَلُّونَا السَّبِيلَا",
+      "verseStringB": "And they say: Our Lord, we only obeyed our leaders and our great men, so they led us astray from the path."
+    },
+    {
+      "verseNumber": 68,
+      "verseString": "رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْنًا كَبِيرًا",
+      "verseStringB": "Our Lord, give them a double chastisement and curse them with a great curse."
+    },
+    {
+      "verseNumber": 69,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَكُونُوا كَالَّذِينَ آذَوْا مُوسَىٰ فَبَرَّأَهُ اللَّهُ مِمَّا قَالُوا ۚ وَكَانَ عِنْدَ اللَّهِ وَجِيهًا",
+      "verseStringB": "O you who believe, be not like those who maligned Moses, but Allāh cleared him of what they said. And he was worthy of regard with Allāh.ᵃ"
+    },
+    {
+      "verseNumber": 70,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا",
+      "verseStringB": "O you who believe, keep your duty to Allāh and speak straight words:"
+    },
+    {
+      "verseNumber": 71,
+      "verseString": "يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+      "verseStringB": "He will put your deeds into a right state for you, and forgive you your sins. And whoever obeys Allāh and His Messenger, he indeed achieves a mighty success."
+    },
+    {
+      "verseNumber": 72,
+      "verseString": "إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنْسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا",
+      "verseStringB": "Surely We offered the trust to the heavens and the earth and the mountains, but they refused to be unfaithful to it and feared from it, and man has turned unfaithful to it. Surely he is ever unjust, ignoranta —"
+    },
+    {
+      "verseNumber": 73,
+      "verseString": "لِيُعَذِّبَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللَّهُ عَلَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+      "verseStringB": "That Allāh may chastise the hypocritical men and the hypocritical women and the polytheistic men and the polytheistic women, and Allāh will turn (mercifully) to the believing men and the believing women. And Allāh is ever Forgiving, Mercifu"
+    }
+  ],
+  "nameEnglish": "The Confederates",
+  "nameTrans": "al-Ahzab",
+  "nameArabic": "الأحزاب",
+  "chapterNumber": 33,
+  "nVerses": 73,
+  "footnotes": [
+    {
+      "note": " 1a. The chapter was revealed at a time when the powerful and combined forces of the Arabian tribes threatened Madßnah from without and the hypocrites and the Jews assisted them from within to crush the Muslims. It was necessary at such a critical time that the Muslims, who are really addressed here through the Prophet, should not in any way be compliant to their deadly enemies. Or, the meaning is that the Holy Prophet should not be troubled by his critics, for their object was only to carp, and one course of action was as well calculated to give them occasion for carping as another.\n\n 4a. This passage does not relate to what follows but sums up what is said in the previous verse. The Prophet is there told not to be compliant to the disbelievers and the hypocrites, but to trust in Allåh alone, because the same heart cannot simultaneously entertain love for Allåh and love for His enemies.\n\n 4b. This passage abolishes two customs of the days of ignorance. The first of these is what is called ˚ihår or mu˚åhirah. The word is derived from ˚ahr, meaning back, and ˚ihår consisted in a man saying to his wife thou art to me as the back of my mother (LL). No sooner were the words pronounced than the relation between husband and wife ended as by a divorce, but the woman was not at liberty to leave the husband’s house and marry elsewhere. She remained in the same house, as a deserted wife. The other custom was that of regarding the adopted son as if he were a real son. This passage abolishes both customs on the same ground; a wife cannot be a real mother, nor a stranger a real son. \n\n The subject of ˚ihår is fully discussed in the first section of the 58th chapter. \n\n 6a. The Prophet was indeed much more than a father to the believers. He had raised them to the dignity of manhood from a state of savagery, consequently the tie of love which united them to him was stronger than the ordinary ties of love and friendship. The statement that his wives are their mothers has reference to the spiritual relationship, because they were helpful in bringing up the faithful spiritually; see 33a and 34a.\n\n 6b. When the Muslims first came to Madßnah, a brotherhood was established between those who fled and the helpers, one of the former becoming a brother of one of the latter, and each of the two thus united was entitled to a share of inheritance on the death of the other, according to an old Arab custom. The passage abolishes this custom, maintaining only the brotherhood of Islåm in a wider sense, and allowing inheritance only to actual relatives. But a Muslim could assist his brother in Islåm by a gift or by making a will in his favour. This is the significance of the words except that you do some good to your friends.\n\n 7a. The covenant referred to here is generally supposed to be in relation to the delivery of the message with which the prophets are entrusted. But see 3:81, where the making of a covenant with the prophets is spoken of, and that covenant is, with regard to the advent of the Holy Prophet, referred to in Acts 3:21 and elsewhere; for a full discussion on which see 3:81a. The covenant spoken of as having been made with the Holy Prophet evidently refers to the Prophet’s verifying all previous revelation. Noah, Abraham, Moses and Jesus are specially mentioned by name on account of their importance.\n\n 9a. The events narrated in this section and a part of the following relate to the siege of Madßnah by the combined forces of the Quraish and their allies — viz., the GhaΔfån, the ‘Ashja‘ and Murrah, the Fazårah, the Sulaim and the Banß Sa‘d and Asad, aided by the Jewish tribe of the Banß Na˙ßr and the Banß Qurai˚ah, the latter of whom had made a treaty of alliance with the Muslims — the entire forces numbering from ten to twenty thousand according to different versions, while the Muslims were only about thirteen or fourteen hundred. The Prophet decided to remain within the town and a ditch was dug as a protective measure against the onrush of the powerful force. The battle continued for several days, the enemy eventually taking to flight on a stormy night without being able to inflict any loss upon the Muslims.\n\n 9b. The reference is to the great hurricane which caused the enemy to flee. Muir says: “Wearied and damped in spirit, the night set in upon them cold and tempestuous. Wind and rain beat mercilessly on the unprotected camp. The storm rose to a hurricane. Fires were extinguished, tents blown down, cooking-vessels and other equipage overthrown”.\n\n 9c. The hosts which could not be seen were the angelic hosts which disheartened the enemy. The storm alone would not have made an army of 10,000 to flee in such disorder, were it not that they had already been disheartened by the futility of their attacks upon the besieged Muslims. The angelic assistance is promised in 3:125.\n\n 10a. The GhaΔfån pitched on the east side of the town, on the higher part of the valley, and the Quraish on the west side, on the lower part of the valley.\n\n 10b. Becoming dull of the eyes and the rising of the hearts to the throats indicates the Muslim fear, which was only natural when such a large army was advancing against a mere handful of men. The diverse thoughts signify the fears of the weak-hearted and the hypocrites that Allåh’s promise would not prove true and that the enemy would destroy them. As regards the thoughts of the faithful, see v. 22. \n\n  12a. That the prophecies of the Holy Qur’ån regarding the ultimate triumph of Islåm and the victory of the Muslims were not vague utterances, but clear and emphatic assertions, is shown by what the hypocrites are related to have said. There was an unmistakable promise of victory, but the circumstances were decidedly against the fulfilment of that promise, and hence the weak-hearted said that the promise of victory was given only to deceive them. It should be noted that the weak-hearted, who did not believe in the ultimate triumph of Islåm, are here classed with the hypocrites. \n\n 13a. Yathrib was the name by which Madßnah was known before the Prophet’s flight to that city. On the Prophet’s flight there, it received the name of Madßnat al-Nabß or the City of the Prophet, or simply Madßnah.\n\n 13b. That is, go back to idolatry to save your lives, or beat a retreat and return to your houses.\n\n 14a. These verses describe the condition of the hypocrites, who advanced excuses for not fighting against the opponents of the Muslims. If an enemy had entered into the city from another side and invited them to join hands with him to fight against the Muslims, they would have been ready to fight. The concluding words show that they would have even left Madßnah to attack the Muslims and would not then have cared for the protection of their houses\n\n 21a. This verse points to a most significant truth and a distinguishing characteristic of the Holy Prophet, viz., that he is the best exemplar and the highest model of virtue for the faithful under all circumstances. If he had not led armies, he could not have served as a model for a general leading armies into battle; if he had not fought personally, he could not have been an exemplar for a soldier laying down his life in the cause of truth, justice, and freedom; if he had not made laws for the guidance of his followers, he could never have been regarded as an outstanding example to a legislator; if he had not decided cases, he could not have served as a light to judges and magistrates; if he had not married, he would have left men unguided in practically half of their everyday duties and could not have shown how to be a kind and affectionate husband and a loving father; if he had not taken revenge on tyrants for the wrongs inflicted on innocent persons, if he had not overcome his persecuting enemies and forgiven them, if he had not overlooked the faults of those attached to him, he could not have been an excellent exemplar and a perfect model, as he is here pronounced to be. Indeed, it is the distinguishing characteristic of his life that he not only gave practical rules of guidance in all walks of life, but gave by his life a practical illustration of all those rules.\n\n Two more points are worth noting here. In the first place, the Prophet’s being an exemplar is a sufficient answer to all those who carp at him, because the very necessity of guiding men under varying mundane circumstances and conditions led him through all those circumstances. Secondly, the moral qualities which are latent within man remain in a dormant condition unless they are called into action. Hence no one can claim the possession of a high moral quality unless he has had occasion to display it, acquitting himself creditably.\n\n The occasion on which the Prophet’s being an exemplar for the faithful is pointed out is one on which he showed the greatest firmness in utmost danger, confidence in Divine assistance, and steadfastness in the hardest trials, and the believers are told that they must not lose heart, but follow the example of the Holy Prophet.\n\n 22a. The reference here is to the Divine promise that a time would come when the combined forces of Arabia would be put to flight. This promise was given long before, and at a time when the Holy Prophet and his few followers were being severely persecuted at Makkah. Here are the words of one prophecy: “What an army of the allies is here put to flight” (38:11); “Soon shall the hosts be routed and they will show their backs” (54:45), says another. So when the combined forces attacked Madßnah, the words of the prophecy were in the heart of every true Muslim. They rejoiced because they were certain that the combined forces of the enemy would be put to flight. It was only the hypocrites who had misgivings, as the last section shows. The battle had, in fact, inspired greater faith in the ultimate triumph of Islåm, not only by bringing earlier prophecies to fulfilment but also because it was here that, when the Holy Prophet smashed a big stone with a hammer (a stone which had proved an obstacle in the digging of the ditch) and a flash of light followed, he announced the mighty prophecy that the flash of light had revealed to him the palaces of the Chosroes and the Caesars, and that he had been informed that his followers would be triumphant over both the empires (Ah. IV, p. 303).\n\n 23a. Some of the believers had become martyrs in the cause of truth; others yet waited, anxious to lay down their lives in the same cause. \n\n 24a. It is clearly stated here, as also in v. 17, that all the hypocrites would not be punished, but that Allåh would be merciful to them, punishing only such as deserved to be punished. Thus it happened that most of them became afterwards sincere converts to Islåm. \n\n 26a. The Banß Qurai˚ah were in alliance with the Holy Prophet, and when the enemy laid siege to Madßnah, they were bound to repel the attack; see 2:84a. Instead of this they sided with the invading army. Muir admits that “it was agreed that the Qurai˚ah would assist the Quraish”, and though he doubts whether “they entered on active hostilities”, there is the surest testimony that they had made an agreement with the Quraish to attack the Muslims from within. Therefore, when the besieging army took to flight and the Qurai˚ah returned to their fortress, it was besieged by the Holy Prophet, for to leave such an internal enemy unpunished would have been a source of ever-present danger to the safety of the Muslim community. They remained besieged for twenty-five days, and then expressed their willingness to surrender, on condition that they should submit to the sentence of punishment pronounced by Sa‘d ibn Mu‘ådh. Had they trusted the Prophet, he would probably have given them the same punishment as he gave to the Qainuqå’, viz., emigration, but Sa‘d was exasperated by their treachery and his judgment was that the fighting men should be put to death and the rest made captives (B. 56:168). This was in accordance with the Jewish Law: “And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it. And when the Lord thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword. But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself” (Deut. 20:12 – 14). Three hundred men suffered death under this sentence, and their lands fell into the hands of the Muslims. \n\n 27a. The land which you have not yet trodden refers to the foreign lands which are here promised to the Muslims and which they conquered later. \n\n 28a. The introduction of the subject of the Holy Prophet’s simplicity in domestic life is most fitting here. The Muslims were now growing powerful and wealthier. The victory at Badr, and the possession of the lands and property of the Qurai˚ah, had increased their wealth. It was natural, in the circumstances, that the wives of the Prophet should desire to be furnished with better necessities of life than they had previously enjoyed. But just at this time we find a revelation enjoining the strictest simplicity upon them. These strictures could not emanate from an impostor, nor even from a man of the world whose power and wealth were increasing daily. If the Prophet had allowed his wives to share in the general prosperity of the community, there could not have been the least objection. But he received a revelation which deprived him and those most nearly related to him of those material benefits which others could easily acquire. The splendours of this world could be obtained, and were not forbidden to any Muslim, but such transitory vanities were not to be admitted into the household of God’s Prophet. As he possessed the means, his wives would be allowed to depart with rich and ample gifts, if such was their desire. This passage also throws light on the object of the Prophet’s marriages, for if his object were sensual enjoyment, he could not have been ready to sacrifice the ease and comforts attendant upon mere carnal desire to the retention of that Spartan simplicity enjoined upon his household. \n\n 30a. The word f å√ishah means any evil exceeding the proper bounds, anything not agreeable with truth and with rule or measure, or anything unseemly (LL). As already shown in 4:19c, it includes hatred and desertion of the husband, doing harm to the husband and his family. It does not necessarily mean adultery or lewdness. Hence many commentators take the word f å√ishah here in its broadest sense as meaning anything which may give offence to the Prophet. \n\n It should be noted that not only are the Prophet’s wives denied the comforts of life which were available to other Muslim ladies, but any unseemly conduct on their part brought double the ordinary punishment. Could this be the work of an impostor? In their case the punishment is increased because, being in the Prophet’s house, they had a better chance to be guided aright and to pass their lives in the greatest purity. It should be noted that there is no actual occurrence of the least indecency on the part of any of the Prophet’s wives. \n\n 31a. The double reward spoken of here means only greater reward, as the words honourable sustenance show. The greater reward is due to their having denied themselves the ordinary comforts of life by remaining in the Prophet’s house.\n\n 32a. Though the injunction is given in particular to the wives of the Prophet, it is really a rule of life for all Muslim women, and promotes purity of heart and chastity in the relations between the sexes. They are not forbidden to speak to men, but, as a safeguard against possible inclination of the heart to evil thoughts, they are told not to indulge in soft and amorous conversation with the opposite sex. The wives of the Prophet are here told that they were not like other women, as they had to come in contact with large numbers of people, who would come to them to learn the treasures of wisdom which they received from the Prophet. An allusion to this is contained in the concluding words of the verse, and speak a word of goodness. \n\n 33a. The means of purification are suggested in the previous verses: to observe the utmost simplicity of life, to avoid every indecency, and not to display their beauty to others. The uncleanness which Allåh will thus take away is the uncleanness of the desire for worldly riches. As the Prophet himself was an exemplar to the faithful, so was his household to be an example of simplicity and purity to Muslim women; hence they are called mothers of the faithful; see 6a. \n\n It should also be noted that the Prophet’s wives are here addressed as ahl al-bait, or the people of the household, they being primarily so, while his children and children’s children may also be included. The use of the phrase ahl al-bait on the only two other occasions in the Holy Qur’ån is to signify the wife, as in the case of Abraham’s wife (11:73) and Amrån’s wife or Moses’ mother (28:12), and this use also shows that it is the wife, who is mistress of the house, that is indicated by the phrase ahl al-bait. Thus under this verse the Prophet’s children could only claim a sanctity in which his wives also shared. It is a fact that not only did the wives of the Prophet retain the utmost simplicity of life in his lifetime, but even after his death, when the Muslims grew a very wealthy nation and big stipends were paid to the Prophet’s wives, they did not allow wealth to accumulate in their houses but distributed it to deserving people. Of ‘Å’ishah especially it is related that she was so generous in giving away what came to her that she would sometimes be left without the means for an evening meal.\n\n 34a. The wives of the Prophet were not only to serve as models of virtue to the faithful, men as well as women, but they were also required to teach the precepts of religion, of that which was recited in their houses of the messages of Allåh and of Wisdom, to the faithful. Hence they are told that they must remember not only the injunctions of the Holy Qur’ån — the messages of Allåh — but also the Wisdom which the Prophet taught by his practice and word, i.e., the Sunnah. \n\n 35a. This verse repeats ten times that women can attain every good quality to which men can have access and settles it conclusively that according to the Qur’ån women stand on the same spiritual level as men.\n\n 36a. All commentators agree that this verse was revealed on the occasion when the Holy Prophet demanded Zainab, his cousin through his aunt, in marriage for Zaid, his adopted son. Both Zainab and her brother were averse to this match, because Zaid was a freedman, and it was in obedience to this revelation that their scruples were overcome and Zainab accepted Zaid for her husband (IJ, Rz, Kf, JB). The verse has no connection with the subsequent events, which brought about the divorce and Zainab’s marriage with the Holy Prophet. It, moreover, shows that it was the Prophet himself who had arranged this marriage between Zainab and Zaid, and were it not in deference to his wishes, Zainab would never have consented to the alliance. \n\n 37a. This verse consists of two distinct and separate parts, the first dealing with Zaid’s divorce of Zainab, and the second beginning with so when Zaid, etc., with the Holy Prophet’s marriage with Zainab, and therefore a full explanation of the events in connection with this marriage is necessary. Zaid belonged to the tribe of Kalb, and was taken prisoner in childhood and sold as a slave at Makkah, where he was bought by Khadßjah’s brother, who gave him over to his sister, and she in turn presented him to the Holy Prophet, who, as was his wont, liberated him. But Zaid was so much attached to the Holy Prophet, that when the Prophet gave him the option of accompanying his father to his home or of remaining with him, Zaid chose the latter course. On account of his great attachment, Zaid was called the son of Mu√ammad, and he was one of the early converts to Islåm. It is to these events that the opening words of the verse refer, when they speak of Zaid as being one to whom Allåh as well as the Prophet had shown favour. Zainab was the daughter of the Prophet’s own aunt, Umaimah, daughter of ‘Abd alMuΔΔalib. She was one of the early converts to Islåm, and the Holy Prophet proposed to her brother that she should be given in marriage to Zaid. Both brother and sister were averse to this match, and only yielded under pressure from the Holy Prophet, for which see the last note. It is related that they both desired that the Holy Prophet himself should marry Zainab. In fact, when marriage was first proposed to Zainab, she gave her assent under the impression that the Prophet wanted her for himself (Rz), but the Prophet insisted that she should accept Zaid (IJ). \n\n The marriage was, however, not a happy one. Zainab was harsh of temper, and she never liked Zaid on account of the stigma of slavery, which attached to his name. Differences arose, and Zaid expressed a desire to the Holy Prophet of divorcing Zainab. \n\n The news was grieving for the Prophet, for it was he who had insisted upon the marriage, and he therefore advised Zaid not to divorce her. He feared that people would object that a marriage which had been arranged by the Prophet was unsuccessful. According to one interpretation, it is to this circumstance that the words refer, and thou fearedst men, and Allåh has a greater right that thou shouldst fear Him. According to this interpretation it is also to the same matter that the words and thou concealedst in thy heart what Allåh would bring to light refer, for the Prophet did not like that the disagreements between Zainab and Zaid should become generally known. The Prophet’s injunction to Zaid not to divorce his wife is contained in unmistakable terms in the Holy Qur’ån. But it was all in vain, and Zaid at last divorced Zainab. According to another interpretation, however, the words and thou concealedst in thy heart to thou shouldst fear Him, are a continuation of the advice which the Prophet gave to Zaid not to divorce Zainab (Rz). This interpretation suits the context even better than the first interpretation, for as we are further on told in v. 39, the prophets fear none but God. \n\n After Zainab was divorced the Holy Prophet took her in marriage, that being the wish of the lady and her relatives before her marriage to Zaid, and the Prophet was, now that the marriage arranged by him proved unsuccessful, morally bound to accept their wishes. Moreover, the Qur’ån had declared against an adopted son being regarded as if he were a real son, and now there was an opportunity where the Holy Prophet could by his own example deal a death-blow to that custom. This reason is plainly given in the second part of the verse: We gave her to thee as a wife, so that there should be no difficulty for the believers about the wives of their adopted sons. The Qur’ån does not give any other reason for the marriage. \n\n This simple story is made the basis of a mean attack on the Holy Prophet. It is stated that the Prophet, having seen Zainab by chance through a half-open door, was fascinated by her beauty, and that Zaid, having come to know of this, divorced her, and then she became the Prophet’s wife. That Muir and Arnold, not to mention more prejudiced writers, accept this, only shows how far religious prejudice may carry “criticism”. It is admitted that Zainab was the daughter of the Prophet’s real aunt; it is admitted that she was one of the early believers in Islåm who fled to Madßnah; it is admitted that the Prophet himself had arranged the marriage between Zaid and Zainab; and finally it is admitted that Zainab desired, as did also her brother, before she was married to Zaid, that she should be taken in marriage by the Holy Prophet. What was it then which prevented the Prophet from marrying her when she was a virgin? Had he not seen her before? He was so closely related to her that on the face of it such a supposition is absurd. Then there was no seclusion of women before Zainab’s marriage with the Prophet, a fact the truth of which is attested by Muir himself. Having not only seen her when she was a virgin, but knowing her fully well on account of her close relationship to him and her early belief in Islåm, while both she and her relatives were desirous that the Prophet should take her for a wife, what hindered the Prophet from marrying her? The story is so absurd that any man possessing ordinary common sense would unhesitatingly reject it. \n\n 40a. The word khåtam means a seal or the last part or portion of a thing, the latter being the primary significance of the word khåtim. It may further be noted that khåtam al-qaum always means the last of the people — åkhiru-hum (T, LL). Though the Holy Prophet was admittedly the last of the prophets, and even history shows that no prophet appeared after him in the world, yet the Holy Qur’ån has adopted the word khåtam and not khåtim, because a deeper significance is carried in the phrase Seal of the prophets than mere finality. In fact, it indicates finality combined with perfection of prophethood, along with a continuance among his followers of certain blessings of prophethood. He is the Seal of the prophets because with him the object of prophethood, the manifestation of Divine will in Laws which should guide humanity, was finally accomplished in the revelation of a perfect law in the Holy Qur’ån, and he is also the Seal of the prophets because certain favours bestowed on prophets were forever to continue among his followers. The office of the prophet was only necessary to guide men, either by giving them a law or by removing the imperfections of a previously existing law, or by giving certain new directions to meet the requirements of the times, because the circumstances of earlier human society did not allow the revelation of a perfect law which should suit the requirements of different generations or different places. Hence prophets were constantly raised. But through the Holy Prophet a perfect law was given, suiting the requirements of all ages and all countries, and this law was guarded against all corruption, and the office of the prophet was therefore no more required. But this did not mean that the Divine favours bestowed on His chosen servants were to be denied to the chosen ones among the Muslims. Men did not need a new law, because they had a perfect law with them, but they did stand in need of receiving Divine favours. The highest of these favours is Divine inspiration, and it is recognized by Islåm that the Divine Being speaks to His chosen ones now as He spoke in the past, but such people are not prophets in the real sense of the word. According to a most reliable √adßth, the Prophet said “there will be in my community”, i.e., among the Muslims, “men who will be spoken to (by God), though they will not be prophets” (B. 62:6). According to another version of the same √adßth, such people are given the name mu√addath (B. 62:6). \n\n What is stated above is corroborated by a saying of the Holy Prophet: Nothing has remained of prophethood except mubashsharåt, i.e., good news. And being asked what was meant by mubashsharåt, or good news, he said: “True visions” (B. 91:5). According to another √adßth, he is reported to have said: “The vision of the believer is one of the forty-six parts of prophethood” (B. 91:4). Prophethood itself has gone, but one of its blessings remains, and will exist forever among the followers of the Holy Prophet. \n\n 43a. This section deals with the marriages and divorces of the Prophet and fittingly opens with a statement showing how the Holy Prophet had made God the greatest force in the lives of a people who had never known God. Again it was by means of the transformation wrought by him that his companions were led out of the darkness of ignorance. Could it then be that the man who purified others was himself impure? Could a sensual man, a slave of his passions, turn a nation of idolatrous and ignorant men into a godly people? This argument is expanded and made lucid in the verses that follow. \n\n  46a. The words clearly imply that one who could give light to others and raise them from the depth of vice and immorality to the height of purity and perfection could not himself be in the darkness of impurity. \n\n The Prophet is here spoken of first as one bearing witness to lost humanity, to men who had lost all idea of God-consciousness, that there is a God. More than that he was a bearer of good news to humanity that God still remembered mankind, and that He had sent His Prophet to make this fallen humanity rise to spiritual eminence by holding communion with Him, but at the same time he was a warner, too, and told them that, if they persisted in their evil ways, they would suffer evil consequences; thus he was an Inviter to Allåh and the Sun of righteousness. \n\n 48a. In the mention of annoying talk there is a clear reference to the carpings of his petty-minded critics, who try to misrepresent the greatest source of righteousness which the world has ever witnessed, as an evil. The Prophet is told to disregard this annoying talk, as the time would come when the question would be asked, as it is already being asked, how is it that the Prophet illumined the world and opened the flood-gates of light to a benighted world, if it was darkness that reigned supreme in his own mind? \n\n 49a. The reason for putting this ordinance here, in speaking of the Holy Prophet’s marriages, seems to apply to the Holy Prophet’s marriage with a woman named Asmå’, daughter of Nu‘mån Kindß. Before he went in to her she asked for a divorce, and the Prophet released her as she had desired. It is related that ‘Umar decided against her being regarded as a wife of the Prophet. \n\n 50a. That his wives were lawful for the Prophet goes without saying. It appears that this revelation came after 4:3, which limits the number of wives a man can take under exceptional circumstances to four. The Prophet was, however, told that he should not divorce the excess number for this reason one of these, it is sufficient to note that, when the Prophet took Juwairiyah for a wife, over a hundred families of the tribe of the Banß Mu©Δaliq, to which tribe she belonged, were at once liberated by the Muslims. \n\n The fourth period is that when war came to an end; a reference to this is contained in v. 52: “It is not allowed to thee to take wives after this”. Thus it will be seen that all the marriages of the Prophet were due either to feelings of compassion for the widows of his faithful followers or to put a stop to bloodshed and ensure union with some tribe. Compare also 4:3a, where it is shown that the permission for polygamy was given under similar circumstances; in fact, many of the companions had to follow the example of the Prophet. \n\n 50b. As pointed out in the beginning of the last note, the Prophet was specially allowed to retain all his wives when the number allowed was brought down to four in the case of other believers. This was the only privilege allowed to the Prophet and it is to this that the words, especially for thee, refer. What God ordained for the believers is contained in 4:3, and on the revelation of that verse any Muslim who had more than four wives had to divorce the excess number. \n\n 51a. This verse must be read along with vv. 28 and 29, where a choice is given to the Prophet’s wives to remain with him or to depart. A similar choice is given here to the Prophet. And when his wives preferred to lead simple lives with him rather than seek worldly goods by leaving him, the Prophet was no less considerate for their feelings; for notwithstanding the choice given to him to retain such of his wives as he liked, he did not exercise this choice to the disadvantage of anyone of them, but retained them all, as they had chosen to remain with him. A reference is, indeed, contained to vv. 28 and 29 in the words that they should be pleased, all of them, with what thou givest them, which indicate that this was altogether a new arrangement in which both parties were given free choice and both sacrificed all other considerations to the sanctity of the marriage-tie.  \n\n 52a. When the Prophet’s wives chose to remain with him, limitation was placed upon the Holy Prophet, viz., that he should not take any other wife. The Prophet did not contract any marriage after the seventh year of the Hijrah, when this verse was revealed. 52b. This is another limitation, viz., that it was not after this allowed to the Prophet to divorce anyone of those who had chosen to remain with him. \n\n 52c. By those whom thy right hand possesses are indicated the wives of the Prophet whom he had lawfully married. \n\n 53a. Bigoted critics discover personal motives even in these beautiful rules of conduct. It must be borne in mind that any rule of conduct to be observed in relation to the Holy Prophet is really a rule that must be observed in all social relations. The Qur’ån teaches not only high morals, but also good manners, for it is meant for all men. In this verse it disparages the custom of giving trouble to the owner of a house who invites his friends to a dinner by coming before the appointed time or staying after dinner to indulge in idle talk. This is a rule which the Muslims were desired to observe towards one another as well as towards the Holy Prophet. Similarly, the rule relating to strangers speaking to women from behind a curtain applies equally to all, and is not to be observed only towards the Prophet’s wives. Every stranger is not free to enter another Muslim’s house and disturb the privacy of those residing in it. \n\n 53b. The respect due to the Prophet is alone a sufficient reason for the injunction, but a little consideration will show that the absence of the injunction would have led to difficulties. One of the objects which the Prophet’s marriages served was the faithful communication of incidents that play an important part in the life of a man, but whose knowledge is only limited to a man’s family circle. The remarriage of any of the Prophet’s widows would have surely impaired this object to a great degree, as it would have had a possible effect upon the independence of opinion of the lady who entered into marital obligations with another man. \n\n 56a. The invocation of Divine blessings on the Holy Prophet is mentioned in connection with the false imputations against him as regards his marital relations, the implication being that all such imputations would be brought to naught by the blessings which Allåh would shower on him, showing that he is pure and holds communion with the fountain-head of purity. \n\n 57a. The word yu’dh∂n occurring here is from the root adha, which occurs in v. 48 in this chapter and in 3:186, and means the annoying talk of the disbelievers and the hypocrites in the form of false imputations against the Holy Prophet. This sense of the word is made clear in the next verse, where the same word is used about the believers, and is explained in the concluding words of the verse as indicating a false accusation against them. \n\n 59a. The injunction to wear an over-garment is here given with the object that free women may be distinguished from slaves, so that they may not be annoyed and followed by men inclined to evil, who would come to know by this mark of distinction that these were pure and chaste women who would not tolerate insult or ill-treatment. \n\n 61a. This verse and the one that follows relate to hypocrites as well as to certain Jews who spread evil reports concerning the Muslims. Before the Prophet died, Madßnah was cleared of these mischievous elements. \n\n 63a, see next page. \n\n 63a. By the Hour is meant the hour of their doom, as prophesied in the previous verses. \n\n 69a. For a false imputation against Moses by his own people, and even his own sister, see Num. 12. As this chapter deals with false imputations, the case of a false imputation against the prophet in whose likeness the Holy Prophet came is cited, and attention is drawn to the fate of those who had taken part in the accusation. The false accusations against the Holy Prophet are all forged by his opponents. \n\n 72a. Ïamala-l-amånata (lit., he bore the trust) means he was unfaithful to the trust (LL). T explains ya√milna-hå as meaning they were unfaithful to it, and √amala-ha-linsånu as meaning man was unfaithful to it. Not bearing the trust signifies that they paid it back, and everyone who is unfaithful to a trust is said to have borne it (T). The meaning is that nature is true to its laws which bring about its evolution, but man is not true to the laws on which depends his real happiness."
+    }
+  ]
+}

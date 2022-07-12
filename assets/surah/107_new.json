@@ -1,0 +1,54 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+      "verseStringB": "Hast thou seen him who belies religion?"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+      "verseStringB": "That is the one who is rough to the orphan,"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "verseStringB": "And urges not the feeding of the needy.ᵃ"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "فَوَيْلٌ لِلْمُصَلِّينَ",
+      "verseStringB": "So woe to the praying ones,"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ",
+      "verseStringB": "Who are unmindful of their prayer!ᵃ"
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "الَّذِينَ هُمْ يُرَاءُونَ",
+      "verseStringB": "Who do (good) to be seen,"
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَيَمْنَعُونَ الْمَاعُونَ",
+      "verseStringB": "And refrain from acts of kindness!ᵃ"
+    }
+  ],
+  "nameEnglish": "Assistance",
+  "nameTrans": "al-Ma'un",
+  "nameArabic": "المـاعون",
+  "chapterNumber": 107,
+  "nVerses": 7,
+  "footnotes": [
+    { 
+	  "note": "3a. Dīn is generally taken here as meaning judgment, but I would prefer its more well-known significance, religion. Not taking care of orphans and helping the needy is really a denial of religion. Vv. 4–7 make it clear that praying to God is useless, a mere show, unless one is kind to orphans and helps the needy.\n\n5a. Being unmindful of prayer means not paying heed to the spirit of prayer, which is described in the two previous verses as being the help of the orphan and the needy.\n\n7a. Al-Mā‘ūn is explained by Bukhārī as meaning al-Ma‘rūf kullu-hū, i.e., every good or kind deed. And it is added that according to ‘Ikrimah, its highest form is obligatory zakāt and lowest lending of a thing or giving any useful thing to another(B. 65:107). The root is ma‘n, which means a useful or easy thing. Having regard to whatis said in the opening verses, al-Mā‘ūn includes all acts of kindness done to fellow-men."
+	} 
+  ]
+}

@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:quran_app/foreword.dart';
 
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'dart:convert';
 import 'dart:io';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -47,20 +46,6 @@ class _RegisterState extends State<Register> {
     //   const SnackBar(content: Text("No back history item")),
     // );
     return Future.value(false);
-  }
-
-  CollectionReference users = FirebaseFirestore.instance.collection('users');
-
-  Future<void> addUser() {
-    // Call the user's CollectionReference to add a new user
-    return users
-        .add({
-          'email': email.text.toString(), // John Doe
-          'joined_on': DateTime.now().toString(), // Stokes and Sons
-          'name': name.text.toString() // 42
-        })
-        .then((value) => print("User Added"))
-        .catchError((error) => print("Failed to add user: $error"));
   }
 
   Future<void> signUpWithEmailAndPassword(

@@ -1,0 +1,409 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "الرَّحْمَٰنُ",
+      "verseStringB": "The Beneficent"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "عَلَّمَ الْقُرْآنَ",
+      "verseStringB": "Taught the Qur’ān.ᵃ"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "خَلَقَ الْإِنْسَانَ",
+      "verseStringB": "He created man,ᵃ"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "عَلَّمَهُ الْبَيَانَ",
+      "verseStringB": "Taught him expression."
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
+      "verseStringB": "The sun and the moon follow a reckoning,"
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+      "verseStringB": "And the herbs and the trees adore (Him).ᵃ"
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+      "verseStringB": "And the heaven, He raised it high, and He set up the measure,ᵃ"
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+      "verseStringB": "That you may not exceed the measure,"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+      "verseStringB": "And keep up the balance with equity, nor fall short in the measure."
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "verseStringB": "And the earth, He has set it for (His) creatures;"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ",
+      "verseStringB": "Therein is fruit and palms having sheathed clusters,"
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ",
+      "verseStringB": "And the grain with (its) husk and fragrance.ᵃ"
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?ᵃ"
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ",
+      "verseStringB": "He created man from dry clay like earthen vessels,"
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "وَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ",
+      "verseStringB": "And He created the jinn of a flame of fire.ᵃ"
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ",
+      "verseStringB": "Lord of the two Easts, and Lord of the two Wests.ᵃ"
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "verseStringB": "He has made the two seas to flow freely — they meet:"
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِ",
+      "verseStringB": "Between them is a barrier which they cannot pass.ᵃ"
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ",
+      "verseStringB": "There come forth from them both, pearls large and small."
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "وَلَهُ الْجَوَارِ الْمُنْشَآتُ فِي الْبَحْرِ كَالْأَعْلَامِ",
+      "verseStringB": "And His are the ships reared aloft in the sea like mountains."
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "verseStringB": "Everyone on it passes away —"
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+      "verseStringB": "And there endures forever the person of thy Lord, the Lord of glory and honour."
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ",
+      "verseStringB": "All those in the heavens and the earth ask of Him. Every moment He is in a state (of glory).ᵃ"
+    },
+    {
+      "verseNumber": 30,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 31,
+      "verseString": "سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ",
+      "verseStringB": "Soon shall We apply Ourselves to you, O you two armies.ᵃ"
+    },
+    {
+      "verseNumber": 32,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 33,
+      "verseString": "يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ إِنِ اسْتَطَعْتُمْ أَنْ تَنْفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانْفُذُوا ۚ لَا تَنْفُذُونَ إِلَّا بِسُلْطَانٍ",
+      "verseStringB": "O assembly of jinn and men, if you are able to pass through the regions of the heavens and the earth, then pass through. You cannot pass through but with authority.ᵃ"
+    },
+    {
+      "verseNumber": 34,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 35,
+      "verseString": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ",
+      "verseStringB": "The flames of fire and sparks of brass will be sent upon you, then you will not be able to defend yourselves.ᵃ"
+    },
+    {
+      "verseNumber": 36,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 37,
+      "verseString": "فَإِذَا انْشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ",
+      "verseStringB": "So when the heaven is rent asunder, so it becomes red like red hide."
+    },
+    {
+      "verseNumber": 38,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 39,
+      "verseString": "فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ",
+      "verseStringB": "So on that day neither man nor jinni will be asked about his sin."
+    },
+    {
+      "verseNumber": 40,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 41,
+      "verseString": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ",
+      "verseStringB": "The guilty will be known by their marks, so they shall be seized by the forelocks and the feet."
+    },
+    {
+      "verseNumber": 42,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 43,
+      "verseString": "هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ",
+      "verseStringB": "This is the hell which the guilty deny."
+    },
+    {
+      "verseNumber": 44,
+      "verseString": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ",
+      "verseStringB": "Round about shall they go between it and hot, boiling water."
+    },
+    {
+      "verseNumber": 45,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 46,
+      "verseString": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+      "verseStringB": "And for him who fears to stand before his Lord are two Gardens.ᵃ"
+    },
+    {
+      "verseNumber": 47,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 48,
+      "verseString": "ذَوَاتَا أَفْنَانٍ",
+      "verseStringB": "Full of varieties."
+    },
+    {
+      "verseNumber": 49,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 50,
+      "verseString": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "verseStringB": "Therein are two fountains flowing."
+    },
+    {
+      "verseNumber": 51,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 52,
+      "verseString": "فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ",
+      "verseStringB": "Therein are pairs of every fruit."
+    },
+    {
+      "verseNumber": 53,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 54,
+      "verseString": "مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى الْجَنَّتَيْنِ دَانٍ",
+      "verseStringB": "Reclining on beds, whose inner coverings are of silk brocade. And the fruits of the two Gardens are within reach."
+    },
+    {
+      "verseNumber": 55,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 56,
+      "verseString": "فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+      "verseStringB": "Therein are those restraining their glances, whom no man nor jinni has touched before them."
+    },
+    {
+      "verseNumber": 57,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 58,
+      "verseString": "كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ",
+      "verseStringB": "As though they were rubies and pearls.ᵃ"
+    },
+    {
+      "verseNumber": 59,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 60,
+      "verseString": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+      "verseStringB": "Is the reward of goodness aught but goodness?"
+    },
+    {
+      "verseNumber": 61,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 62,
+      "verseString": "وَمِنْ دُونِهِمَا جَنَّتَانِ",
+      "verseStringB": "And besides those are two (other) Gardens.ᵃ"
+    },
+    {
+      "verseNumber": 63,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 64,
+      "verseString": "مُدْهَامَّتَانِ",
+      "verseStringB": "Inclining to blackness."
+    },
+    {
+      "verseNumber": 65,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 66,
+      "verseString": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "verseStringB": "Therein are two springs gushing forth."
+    },
+    {
+      "verseNumber": 67,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 68,
+      "verseString": "فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "verseStringB": "Therein are fruits and palms and pomegranates."
+    },
+    {
+      "verseNumber": 69,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 70,
+      "verseString": "فِيهِنَّ خَيْرَاتٌ حِسَانٌ",
+      "verseStringB": "Therein are goodly beautiful ones.ᵃ"
+    },
+    {
+      "verseNumber": 71,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 72,
+      "verseString": "حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ",
+      "verseStringB": "Pure ones confined to pavilions."
+    },
+    {
+      "verseNumber": 73,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 74,
+      "verseString": "لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+      "verseStringB": "Before them man has not touched them, nor jinni."
+    },
+    {
+      "verseNumber": 75,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 76,
+      "verseString": "مُتَّكِئِينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ",
+      "verseStringB": "Reclining on green cushions and beautiful carpets."
+    },
+    {
+      "verseNumber": 77,
+      "verseString": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "verseStringB": "Which then of the bounties of your Lord will you deny?"
+    },
+    {
+      "verseNumber": 78,
+      "verseString": "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ",
+      "verseStringB": "Blessed be the name of thy Lord, the Lord of Glory and Honour!"
+    }
+  ],
+  "nameEnglish": "The Compassionate",
+  "nameTrans": "ar-Rahman",
+  "nameArabic": "الـرحـمـن",
+  "chapterNumber": 55,
+  "nVerses": 78,
+  "footnotes": [
+    {
+      "note": "2a. Al-Ra√mån is the Beneficent God Who brought things into existence for the sustenance of man before his creation. Man has not earned them. The same Beneficent God,we are here told, has taught the Qur’ån, which is a necessity for the spiritual life of man.It is a Divine gift for the spiritual sustenance of man, like so many gifts for his physicalsustenance.\n\n3a. I translate al-insån as meaning man in a general sense, and accordingly translateal-bayån as meaning expression, because it is in the faculty of speech that lies man’ssuperiority above other animals. But many commentators interpret al-insån as meaningthe perfect man, i.e., the Prophet, because al-bayån, or that in which everything is mademanifest (LL), is an appellation applied to the Holy Qur’ån in 3:138.\n\n6a. This verse and the one preceding it show how everything created, from thoselarge orbs in the heavens to the smallest herbs that grow on land, follows a law. Is not,then, a law needed for the spiritual perfection of man? Najm means star as well as herb (R).\n\n7a. Mßzån in the Holy Qur’ån does not signify a pair of scales for weighing things,but a measure, as signifying any standard of comparison, estimation, or judgment, andthe term is here, as elsewhere, used in this broad sense. This is made plain in 57:25:“Certainly We sent Our messengers with clear arguments, and sent down with them theBook and the measure (Ar., mßzån), that men may conduct themselves with equity”,where the mßzån is that which enables men to be just in their actions. It is in this sensethat most of the commentators understand this word. Thus, according to Mjd, Tb, andmost commentators, mßzån signifies ‘adl, i.e., justice (AH), which is explained by Rz asmeaning the giving of their due to those who deserve it.\n\n12a. The husk or the outer covering is generally considered to be a worthless thing. Inspeaking of it as one of the bounties of God it is hinted that even the husk can be turnedinto a useful and valuable thing. In contrast with the husk is mentioned the fragrance,which resembles the spirit in the body. Neither should the outer form of the Divine law beconsidered to be a thing of no use, nor should the spirit of the law be neglected.\n\n13a. This verse is repeated several times in this chapter. In the original the dual formis used instead of the plural, and thus we have instead of your Lord, rabbi-kumå, i.e., the Lord of you two. The commentators generally take the dual form literally, and supposethat the two kinds of rational beings, i.e., the jinn and the men, are meant. But see 50:24aon the meaning of the dual form, where it is shown that the form is sometimes used bythe Arabs to give force to the meaning. That here the dual is used for this purpose isshown by the fact that the blessings mentioned are those which serve as means of sustenance for mankind, such as palms and grain, which are not needed for ethereal beings, asthe jinn are considered to be. Hence it is mankind only that is addressed. Even if the dualis taken literally, the two classes addressed are the believers and the disbelievers or thestrong and the weak, divisions which are of frequent occurrence in the Holy Qur’ån. Theformer of these is specially referred to in the concluding words of the last chapter, andhence the personal pronoun kumå may refer to them; the jinn not being mentioned in anyprevious verse, the personal pronoun cannot be taken as referring to them.\n\n15a. For the creation of jinn from fire see 7:12 and 15:27, where it is contrastedwith the creation of men from earth. The meaning is explained in 7:12a and 15:27a.\n\n17a. The two Easts and the two Wests signify the different points of the horizon atwhich the sun rises and sets at the summer and winter solstice. In modern terminology,the two Easts are the Near or the Middle East and the Far East; the two Wests areEurope and America.\n\n20a. The two seas are mentioned in 25:53 and 35:12 as the sweet-water sea and thesalt-water sea. A note on the first of these shows what the two seas represent. As in v. 22here, it is stated in 35:12 also that from both seas fresh flesh and ornaments areobtained; the significance being that useful men would continue to arise from amongboth believers and non-believers. Some understand that the Red and the MediterraneanSeas are meant. These seas were separated formerly, but are now united by the SuezCanal, and the verse is considered to contain a prophetical mention of this union.\n\n29a. LA thus sums up the comments on this verse: “It is His attribute to raise up amighty one from the lowly and to bring down one who is mighty, and to enrich one whois poor and to impoverish one who is rich”.\n\n31a. Thaqalån, dual of thaql, signifies, literally, things that a man has with him ofsuch things as burden him, and then the household and kindred and party or domesticsor servants (LL). And Ham explains the word thaqalain, occurring in pre-Islamicpoetry, as meaning two armies (LL). The two armies here are the believers and thedisbelievers, and Allåh’s applying Himself to them signifies the judging of their case sothat each should have its reward or punishment. Ham understood the Arabs and theforeigners (LL), and thus the allusion may be to the conquest of Arabia and the foreigncountries. This explanation lends support to what is stated in 72:1a, 3a, that the wordjinn in the Holy Qur’ån sometimes stands for foreigners, and sometimes for the generations to come.\n\n33a. The jinn and the men of this verse are the great and the small opponents of theHoly Prophet or the foreigners and the Arabs as shown in the previous footnote. See also73:18a. All these opponents are told that they cannot escape the punishment.\n\n35a. Nuƒås means copper or brass or the sparks that fall from brass when it is beaten (LL). This is also the significance accepted by Bukhårß (B. 65:lv) and Råghib. Othersinterpret the word as smoke. According to Óa√åk, their punishment in this world is spoken of here, the statement made here amounting to this, that their condition would belike one on whom fire and sparks of brass are sent (R). It is a fact that on most occasionswhere the punishment of the opponents of Truth is spoken of, it is their punishmenthere, as well as in the Hereafter. In the use of the word nu√ås, which means sparks ofbeaten brass, there seems to be a reference to atomic warfare.\n\n46a. The reward of the righteous is plainly spoken of here as two Gardens, i.e., aGarden in this life and a Garden in the Hereafter. The Garden of this life is the spiritual blisswhich the righteous find here in the doing of good, whereof gardens and rivers and fruits aresymbols. But in these words there may also be a deeper reference here to the worldly conquests which the Muslims were promised, and support to this is lent by the words of a√adßth which speaks of Sai√ån and Jai√ån (the two rivers of Persia) and Furåt (theEuphrates, which with the Tigris waters Mesopotamia) and Nßl (the Nile, which watersEgypt) as being the rivers of paradise (Ms., vol. 2, p. 351), the countries which form the valley of these four rivers being among the earliest conquests of Islåm, and remaining to thisday Muslim lands under Muslim rule. Note further that it is always two gardens that arespoken of in the Holy Qur’ån as outward symbols of prosperity and a happy life, as the twogardens of prosperous Saba’ (34:15), or the two gardens of the Christian nations (18:32).\n\n58a. So far as there is a description of the spiritual blessings of the Hereafter inthese words, see 52:20a. So far as it relates to this life, the chaste and modest wives ofthe faithful are meant. According to a √adßth narrated by Umm Salamah, the Prophet’swife, the women of this world are greater in excellence than the √∂r ‘ßn — “niså’ aldunyå af˙alu min al-√∂r al-‘ßn” (R).\n\n62a. The faithful are spoken of in the very next chapter as belonging to two classes,the ordinary believers — those on the right hand or a©√åb al-yamßn, and the foremost orthe muqarrab∂n (56:8, 10); hence the two Gardens of this verse as compared with thetwo Gardens of v. 46; or, by the two Gardens of v. 46, are meant the Gardens of theHereafter and by the two Gardens of this verse are meant the Gardens of this world.\n\n70a. Khairåt is plural of khairah, feminine of khair. Khairah means a good thing ofany kind, a good quality, an excellency (LL). The other word, √isån, is plural of √asanå’which, applied to a woman, signifies comely, beautiful, or pleasing (LL). The significance as regards blessings of a life after death is the same as explained in 52:20a. Or,the words contain a description of the faithful women."
+    }
+  ]
+}

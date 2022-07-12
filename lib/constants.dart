@@ -22,7 +22,7 @@ class Constants {
   }
 
   Future surahs(context, ind) async {
-    var filename = "assets/surah/$ind.json";
+    var filename = "assets/surah/${(ind)}_new.json";
     // var filename = "assets/surah/001.json";
     print(filename);
     String data = await DefaultAssetBundle.of(context).loadString(filename);
@@ -42,6 +42,10 @@ class Constants {
 
   primaryColor() {
     return const Color(0xff496F51);
+  }
+
+  redColor() {
+    return Color(0xC4F04444);
   }
 
   tertiaryColor() {
@@ -194,10 +198,10 @@ class Constants {
                                   borderRadius:
                                       BorderRadius.all(Radius.circular(60))),
                               child: Padding(
-                                padding: const EdgeInsets.all(8.0),
+                                padding: const EdgeInsets.all(20.0),
                                 child: Icon(
                                   Icons.person,
-                                  size: 70,
+                                  size: 40,
                                   color: whiteColor(),
                                 ),
                               ),
@@ -219,6 +223,7 @@ class Constants {
                       height: MediaQuery.of(context).size.height * .05,
                       child: Column(
                         children: [
+                          getDivider(10.0),
                           InkWell(
                             onTap: () {
                               Navigator.pop(context);
@@ -236,10 +241,10 @@ class Constants {
                                   borderRadius:
                                       BorderRadius.all(Radius.circular(60))),
                               child: Padding(
-                                padding: const EdgeInsets.all(8.0),
+                                padding: const EdgeInsets.all(20.0),
                                 child: Icon(
                                   Icons.settings,
-                                  size: 70,
+                                  size: 40,
                                   color: whiteColor(),
                                 ),
                               ),
@@ -278,10 +283,10 @@ class Constants {
                                   borderRadius:
                                       BorderRadius.all(Radius.circular(60))),
                               child: Padding(
-                                padding: const EdgeInsets.all(8.0),
+                                padding: const EdgeInsets.all(20.0),
                                 child: Icon(
                                   Icons.edit,
-                                  size: 70,
+                                  size: 40,
                                   color: whiteColor(),
                                 ),
                               ),
@@ -320,10 +325,10 @@ class Constants {
                                   borderRadius:
                                       BorderRadius.all(Radius.circular(60))),
                               child: Padding(
-                                padding: const EdgeInsets.all(8.0),
+                                padding: const EdgeInsets.all(20.0),
                                 child: Icon(
                                   Icons.bookmark,
-                                  size: 70,
+                                  size: 40,
                                   color: whiteColor(),
                                 ),
                               ),

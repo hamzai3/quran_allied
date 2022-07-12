@@ -187,7 +187,7 @@ class _IndexState extends State<Index> {
                               )
                             ],
                           ),
-                          c.getDivider(c.deviceHeight(context) * 0.1),
+                          c.getDivider(c.deviceHeight(context) * 0.05),
                           Row(
                             children: [
                               InkResponse(

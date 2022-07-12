@@ -55,19 +55,24 @@ class _SurahState extends State<Surah> {
     // TODO: implement initState
     super.initState();
     c.surahs(context, widget.chap_number).then((value) {
-      print("Arrsy is $value");
-      setState(() {
-        data = value['verses'];
-        footnotes = value['footnotes'];
-        formKeyList = List.generate(
-            data.length, (index) => GlobalObjectKey<FormState>(index));
-        showAnnotiation = List.generate(data.length, (index) => (false));
-        Future.delayed(Duration(milliseconds: 300), () {
-          setState(() {
-            _isLoading = false;
+      // print("Arrsy is $value");
+      try {
+        setState(() {
+          data = value['verses'];
+          footnotes = value['footnotes'];
+          formKeyList = List.generate(
+              data.length, (index) => GlobalObjectKey<FormState>(index));
+          showAnnotiation = List.generate(data.length, (index) => (false));
+          Future.delayed(Duration(milliseconds: 300), () {
+            setState(() {
+              _isLoading = false;
+            });
           });
         });
-      });
+      } catch (e) {
+        c.showInSnackBar(
+            context, "App is not able to load this chapter, try again later");
+      }
     });
   }
 
@@ -404,25 +409,25 @@ class _SurahState extends State<Surah> {
                                                       2,
                                             ),
                                             patternList: [
-                                              EasyRichTextPattern(
-                                                targetString: '\n\nb.',
-                                                style: TextStyle(
-                                                  color: Colors.blue,
-                                                  fontSize: c.getFontSizeMedium(
-                                                      context),
-                                                ),
-                                              ),
-                                              EasyRichTextPattern(
-                                                targetString: 'a.',
-                                                stringAfterTarget: " ",
-                                                stringBeforeTarget: "",
-                                                matchWordBoundaries: false,
-                                                style: TextStyle(
-                                                  color: Colors.blue,
-                                                  fontSize: c.getFontSizeMedium(
-                                                      context),
-                                                ),
-                                              ),
+                                              // EasyRichTextPattern(
+                                              //   targetString: '\n\nb.',
+                                              //   style: TextStyle(
+                                              //     color: Colors.blue,
+                                              //     fontSize: c.getFontSizeMedium(
+                                              //         context),
+                                              //   ),
+                                              // ),
+                                              // EasyRichTextPattern(
+                                              //   targetString: 'a.',
+                                              //   stringAfterTarget: " ",
+                                              //   stringBeforeTarget: "",
+                                              //   matchWordBoundaries: false,
+                                              //   style: TextStyle(
+                                              //     color: Colors.blue,
+                                              //     fontSize: c.getFontSizeMedium(
+                                              //         context),
+                                              //   ),
+                                              // ),
                                               // EasyRichTextPattern(
                                               //   targetString: 'b.',
                                               //   matchRightWordBoundary: true,
@@ -435,15 +440,15 @@ class _SurahState extends State<Surah> {
                                               //         .getFontSizeMedium(context),
                                               //   ),
                                               // ),
-                                              EasyRichTextPattern(
-                                                targetString: '\n\nc.',
-                                                style: TextStyle(
-                                                  fontFamily: c.fontFamily(),
-                                                  color: Colors.blue,
-                                                  fontSize: c.getFontSizeMedium(
-                                                      context),
-                                                ),
-                                              ),
+                                              // EasyRichTextPattern(
+                                              //   targetString: '\n\nc.',
+                                              //   style: TextStyle(
+                                              //     fontFamily: c.fontFamily(),
+                                              //     color: Colors.blue,
+                                              //     fontSize: c.getFontSizeMedium(
+                                              //         context),
+                                              //   ),
+                                              // ),
                                             ],
                                           ),
                                         ),
@@ -477,8 +482,13 @@ class _SurahState extends State<Surah> {
             ),
           ),
           child: _isLoading
-              ? Card(
-                  child: Text(""),
+              ? Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Center(
+                      child: CircularProgressIndicator(),
+                    )
+                  ],
                 )
               : Padding(
                   padding: EdgeInsets.all(c.deviceWidth(context) * 0.1),
@@ -528,274 +538,414 @@ class _SurahState extends State<Surah> {
                         physics: NeverScrollableScrollPhysics(),
                         itemCount: data.length,
                         itemBuilder: (context, i) {
-                          return Row(
-                            mainAxisAlignment: MainAxisAlignment.end,
-                            children: [
-                              InkResponse(
-                                child: Container(
-                                    width: c.deviceWidth(context) * 0.77,
-                                    // height: 50.0,
-                                    margin: EdgeInsets.all(5),
-                                    decoration: BoxDecoration(
-                                      color: c.whiteColor(),
-                                      borderRadius: BorderRadius.circular(15.0),
-                                    ),
-                                    child: Stack(
-                                      children: [
-                                        Visibility(
-                                          visible: false,
-                                          child: Row(
+                          return i == 0
+                              ? Row(
+                                  mainAxisAlignment: MainAxisAlignment.end,
+                                  children: [
+                                    InkResponse(
+                                      child: Container(
+                                          width: c.deviceWidth(context) * 0.77,
+                                          // height: 50.0,
+                                          margin: EdgeInsets.all(5),
+                                          decoration: BoxDecoration(
+                                            color: c.whiteColor(),
+                                            borderRadius:
+                                                BorderRadius.circular(15.0),
+                                          ),
+                                          child: Stack(
                                             children: [
-                                              Card(
-                                                color: c.blackColor(),
-                                                elevation: 8,
+                                              Visibility(
+                                                visible: false,
                                                 child: Row(
-                                                  mainAxisAlignment:
-                                                      MainAxisAlignment
-                                                          .spaceEvenly,
                                                   children: [
-                                                    Container(
-                                                      decoration: BoxDecoration(
-                                                        color: Colors.orange,
-                                                        shape: BoxShape.circle,
-                                                      ),
-                                                      padding:
-                                                          const EdgeInsets.all(
-                                                              4.0),
-                                                      child: Padding(
-                                                        padding:
-                                                            const EdgeInsets
-                                                                .all(10.0),
-                                                        child: Text(" "),
-                                                      ),
-                                                    ),
-                                                    c.getDivider(15.0),
-                                                    Container(
-                                                      decoration: BoxDecoration(
-                                                        color: Colors.yellow,
-                                                        shape: BoxShape.circle,
-                                                      ),
-                                                      padding:
-                                                          const EdgeInsets.all(
-                                                              4.0),
-                                                      child: Padding(
-                                                        padding:
-                                                            const EdgeInsets
-                                                                .all(10.0),
-                                                        child: Text(" "),
-                                                      ),
-                                                    ),
-                                                    c.getDivider(5.0),
-                                                    Container(
-                                                      decoration: BoxDecoration(
-                                                        color: Colors.green,
-                                                        shape: BoxShape.circle,
-                                                      ),
-                                                      padding:
-                                                          const EdgeInsets.all(
-                                                              4.0),
-                                                      child: Padding(
-                                                        padding:
-                                                            const EdgeInsets
-                                                                .all(10.0),
-                                                        child: Text(" "),
-                                                      ),
-                                                    ),
-                                                    c.getDivider(5.0),
-                                                    Container(
-                                                      decoration: BoxDecoration(
-                                                        color: Colors.blue,
-                                                        shape: BoxShape.circle,
-                                                      ),
-                                                      padding:
-                                                          const EdgeInsets.all(
-                                                              4.0),
-                                                      child: Padding(
-                                                        padding:
-                                                            const EdgeInsets
-                                                                .all(10.0),
-                                                        child: Text(" "),
-                                                      ),
-                                                    ),
-                                                    c.getDivider(5.0),
-                                                    Container(
-                                                      decoration: BoxDecoration(
-                                                        color: Colors.pink,
-                                                        shape: BoxShape.circle,
-                                                      ),
-                                                      padding:
-                                                          const EdgeInsets.all(
-                                                              4.0),
-                                                      child: Padding(
-                                                        padding:
-                                                            const EdgeInsets
-                                                                .all(10.0),
-                                                        child: Text(" "),
-                                                      ),
-                                                    ),
-                                                    c.getDivider(5.0),
-                                                    Container(
-                                                      decoration: BoxDecoration(
-                                                        color: Colors.red,
-                                                        shape: BoxShape.circle,
-                                                      ),
-                                                      padding:
-                                                          const EdgeInsets.all(
-                                                              4.0),
-                                                      child: Padding(
-                                                        padding:
-                                                            const EdgeInsets
-                                                                .all(10.0),
-                                                        child: Text(" "),
+                                                    Card(
+                                                      color: c.blackColor(),
+                                                      elevation: 8,
+                                                      child: Row(
+                                                        mainAxisAlignment:
+                                                            MainAxisAlignment
+                                                                .spaceEvenly,
+                                                        children: [
+                                                          Container(
+                                                            decoration:
+                                                                BoxDecoration(
+                                                              color:
+                                                                  Colors.orange,
+                                                              shape: BoxShape
+                                                                  .circle,
+                                                            ),
+                                                            padding:
+                                                                const EdgeInsets
+                                                                    .all(4.0),
+                                                            child: Padding(
+                                                              padding:
+                                                                  const EdgeInsets
+                                                                          .all(
+                                                                      10.0),
+                                                              child: Text(" "),
+                                                            ),
+                                                          ),
+                                                          c.getDivider(15.0),
+                                                          Container(
+                                                            decoration:
+                                                                BoxDecoration(
+                                                              color:
+                                                                  Colors.yellow,
+                                                              shape: BoxShape
+                                                                  .circle,
+                                                            ),
+                                                            padding:
+                                                                const EdgeInsets
+                                                                    .all(4.0),
+                                                            child: Padding(
+                                                              padding:
+                                                                  const EdgeInsets
+                                                                          .all(
+                                                                      10.0),
+                                                              child: Text(" "),
+                                                            ),
+                                                          ),
+                                                          c.getDivider(5.0),
+                                                          Container(
+                                                            decoration:
+                                                                BoxDecoration(
+                                                              color:
+                                                                  Colors.green,
+                                                              shape: BoxShape
+                                                                  .circle,
+                                                            ),
+                                                            padding:
+                                                                const EdgeInsets
+                                                                    .all(4.0),
+                                                            child: Padding(
+                                                              padding:
+                                                                  const EdgeInsets
+                                                                          .all(
+                                                                      10.0),
+                                                              child: Text(" "),
+                                                            ),
+                                                          ),
+                                                          c.getDivider(5.0),
+                                                          Container(
+                                                            decoration:
+                                                                BoxDecoration(
+                                                              color:
+                                                                  Colors.blue,
+                                                              shape: BoxShape
+                                                                  .circle,
+                                                            ),
+                                                            padding:
+                                                                const EdgeInsets
+                                                                    .all(4.0),
+                                                            child: Padding(
+                                                              padding:
+                                                                  const EdgeInsets
+                                                                          .all(
+                                                                      10.0),
+                                                              child: Text(" "),
+                                                            ),
+                                                          ),
+                                                          c.getDivider(5.0),
+                                                          Container(
+                                                            decoration:
+                                                                BoxDecoration(
+                                                              color:
+                                                                  Colors.pink,
+                                                              shape: BoxShape
+                                                                  .circle,
+                                                            ),
+                                                            padding:
+                                                                const EdgeInsets
+                                                                    .all(4.0),
+                                                            child: Padding(
+                                                              padding:
+                                                                  const EdgeInsets
+                                                                          .all(
+                                                                      10.0),
+                                                              child: Text(" "),
+                                                            ),
+                                                          ),
+                                                          c.getDivider(5.0),
+                                                          Container(
+                                                            decoration:
+                                                                BoxDecoration(
+                                                              color: Colors.red,
+                                                              shape: BoxShape
+                                                                  .circle,
+                                                            ),
+                                                            padding:
+                                                                const EdgeInsets
+                                                                    .all(4.0),
+                                                            child: Padding(
+                                                              padding:
+                                                                  const EdgeInsets
+                                                                          .all(
+                                                                      10.0),
+                                                              child: Text(" "),
+                                                            ),
+                                                          ),
+                                                        ],
                                                       ),
                                                     ),
                                                   ],
                                                 ),
                                               ),
+                                              ListTile(
+                                                key: formKeyList?[i],
+                                                leading: Column(
+                                                  children: [
+                                                    GestureDetector(
+                                                      onTap: () {
+                                                        bookmark(
+                                                            widget.chap_name,
+                                                            widget.chap_number,
+                                                            data[i][
+                                                                'verseNumber']);
+                                                      },
+                                                      child: Icon(
+                                                        Icons.bookmark_border,
+                                                        size: 25,
+                                                        color: c.primaryColor(),
+                                                      ),
+                                                    ),
+                                                    GestureDetector(
+                                                      onTap: () {
+                                                        getAnnotations(
+                                                            widget.chap_number,
+                                                            widget.chap_name,
+                                                            data[i][
+                                                                'verseNumber']);
+                                                      },
+                                                      child: Icon(
+                                                        Icons.edit_outlined,
+                                                        size: 25,
+                                                        color: c.primaryColor(),
+                                                      ),
+                                                    ),
+                                                  ],
+                                                ),
+                                                title: SelectableText.rich(
+                                                  TextSpan(children: [
+                                                    TextSpan(
+                                                      text:
+                                                          "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                                                      style: TextStyle(
+                                                        fontFamily:
+                                                            c.fontFamily(),
+                                                        color: c.blackColor(),
+                                                        fontSize:
+                                                            c.getFontSizeMedium(
+                                                                context),
+                                                      ),
+                                                    ),
+                                                  ]),
+                                                  onTap: () {
+                                                    _showBottomSheet(context);
+                                                  },
+                                                  textAlign: TextAlign.end,
+                                                ),
+                                                subtitle: EasyRichText(
+                                                  "In\u1d43 the name of Alla\u0304h,\u1d47 the Beneficent, the Merciful.\u1d9c",
+                                                  // .replaceAll("\u0304", "'")
+                                                  // .replaceAll("\u1d43", "a"),
+                                                  textAlign: TextAlign.end,
+                                                  defaultStyle: TextStyle(
+                                                    // fontFamily: c.fontFamily(),
+                                                    color: c.blackColor(),
+                                                    fontSize:
+                                                        c.getFontSizeMedium(
+                                                            context),
+                                                  ),
+                                                ),
+                                              ),
                                             ],
+                                          )),
+                                      onTap: () {
+                                        _showBottomSheet(context);
+                                      },
+                                    ),
+                                  ],
+                                )
+                              : Row(
+                                  mainAxisAlignment: MainAxisAlignment.end,
+                                  children: [
+                                    InkResponse(
+                                      child: Container(
+                                          width: c.deviceWidth(context) * 0.77,
+                                          // height: 50.0,
+                                          margin: EdgeInsets.all(5),
+                                          decoration: BoxDecoration(
+                                            color: c.whiteColor(),
+                                            borderRadius:
+                                                BorderRadius.circular(15.0),
                                           ),
-                                        ),
-                                        ListTile(
-                                          key: formKeyList?[i],
-                                          leading: Column(
+                                          child: Stack(
                                             children: [
-                                              GestureDetector(
-                                                onTap: () {
-                                                  bookmark(
-                                                      widget.chap_name,
-                                                      widget.chap_number,
-                                                      data[i]['verseNumber']);
-                                                },
-                                                child: Icon(
-                                                  Icons.bookmark_add_outlined,
-                                                  size: 25,
-                                                  color: c.primaryColor(),
+                                              ListTile(
+                                                key: formKeyList?[i],
+                                                leading: Column(
+                                                  children: [
+                                                    GestureDetector(
+                                                      child: Text(
+                                                        i.toString(),
+                                                        style: TextStyle(
+                                                          fontFamily:
+                                                              c.fontFamily(
+                                                                  type: "bold"),
+                                                          fontWeight:
+                                                              FontWeight.bold,
+                                                          color: c.redColor(),
+                                                          fontSize:
+                                                              c.getFontSizeMedium(
+                                                                      context) -
+                                                                  3,
+                                                        ),
+                                                      ),
+                                                    ),
+                                                    GestureDetector(
+                                                      onTap: () {
+                                                        bookmark(
+                                                            widget.chap_name,
+                                                            widget.chap_number,
+                                                            data[i][
+                                                                'verseNumber']);
+                                                      },
+                                                      child: Icon(
+                                                        Icons.bookmark_border,
+                                                        size: 25,
+                                                        color: c.primaryColor(),
+                                                      ),
+                                                    ),
+                                                    GestureDetector(
+                                                      onTap: () {
+                                                        getAnnotations(
+                                                            widget.chap_number,
+                                                            widget.chap_name,
+                                                            data[i][
+                                                                'verseNumber']);
+                                                      },
+                                                      child: Icon(
+                                                        Icons.edit_outlined,
+                                                        size: 25,
+                                                        color: c.primaryColor(),
+                                                      ),
+                                                    ),
+                                                  ],
                                                 ),
-                                              ),
-                                              GestureDetector(
-                                                onTap: () {
-                                                  getAnnotations(
-                                                      widget.chap_number,
-                                                      widget.chap_name,
-                                                      data[i]['verseNumber']);
-                                                },
-                                                child: Icon(
-                                                  Icons.edit_outlined,
-                                                  size: 25,
-                                                  color: c.primaryColor(),
+                                                title: SelectableText.rich(
+                                                  TextSpan(children: [
+                                                    TextSpan(
+                                                      text: data[i]
+                                                          ['verseString'],
+                                                      style: TextStyle(
+                                                        fontFamily:
+                                                            c.fontFamily(),
+                                                        color: c.blackColor(),
+                                                        fontSize:
+                                                            c.getFontSizeMedium(
+                                                                context),
+                                                      ),
+                                                    ),
+                                                  ]),
+                                                  onTap: () {
+                                                    _showBottomSheet(context);
+                                                  },
+                                                  textAlign: TextAlign.end,
                                                 ),
+                                                subtitle: EasyRichText(
+                                                  data[i]['verseStringB']
+                                                      .toString(),
+                                                  // .replaceAll("\u0304", "'")
+                                                  // .replaceAll("\u1d43", "a"),
+                                                  textAlign: TextAlign.end,
+                                                  defaultStyle: TextStyle(
+                                                    // fontFamily: c.fontFamily(),
+                                                    color: c.blackColor(),
+                                                    fontSize:
+                                                        c.getFontSizeMedium(
+                                                            context),
+                                                  ),
+                                                  patternList: [
+                                                    // EasyRichTextPattern(
+                                                    //   targetString: "ᵃ",
+                                                    //   superScript: true,
+                                                    //   matchWordBoundaries: false,
+                                                    //   style: const TextStyle(
+                                                    //       fontSize: 20,
+                                                    //       color: Colors.blue),
+                                                    // ),
+                                                    // EasyRichTextPattern(
+                                                    //   targetString: "a",
+                                                    //   superScript: true,
+                                                    //   stringBeforeTarget: '.',
+                                                    //   matchWordBoundaries: false,
+                                                    //   style: const TextStyle(
+                                                    //       color: Colors.blue),
+                                                    // ),
+                                                  ],
+                                                ),
+                                                // EasyRichTextPattern(
+                                                //   targetString: [
+                                                //     'a',
+                                                //     'å',
+                                                //     '\u1d47',
+                                                //     ' a '
+                                                //   ],
+                                                //   superScript: true,
+                                                //   style: const TextStyle(
+                                                //       color: Colors.red),
+                                                // ),
+                                                // EasyRichTextPattern(
+                                                //   targetString: 'blue',
+                                                //   style: const TextStyle(
+                                                //       color: Colors.blue),
+                                                // ),
+                                                // EasyRichTextPattern(
+                                                //   targetString: 'bold',
+                                                //   style: const TextStyle(
+                                                //       fontWeight:
+                                                //           FontWeight.bold),
+                                                // ),
+                                                // ],
+                                                // SelectableText.rich(
+                                                //   TextSpan(children: [
+                                                //     TextSpan(
+                                                //       text: data[i]['verseStringB'],
+                                                //       style: TextStyle(
+                                                //         fontFamily: c.fontFamily(),
+                                                //         color: c.blackColor(),
+                                                //         fontSize: c.getFontSizeMedium(
+                                                //             context),
+                                                //       ),
+                                                //     ),
+                                                //     WidgetSpan(
+                                                //       child: Transform.translate(
+                                                //         offset: const Offset(2, -4),
+                                                //         child: Text(
+                                                //           data[i]['verseNumber']
+                                                //               .toString(),
+                                                //           //superscript is usually smaller in size
+                                                //           textScaleFactor: 1,
+                                                //           style: TextStyle(
+                                                //               color: Colors.blue),
+                                                //         ),
+                                                //       ),
+                                                //     )
+                                                //   ]),
+                                                //   onTap: () {
+                                                //     _showBottomSheet(context);
+                                                //   },
+                                                //   textAlign: TextAlign.end,
+                                                // ),
                                               ),
                                             ],
-                                          ),
-                                          title: SelectableText.rich(
-                                            TextSpan(children: [
-                                              TextSpan(
-                                                text: data[i]['verseString'],
-                                                style: TextStyle(
-                                                  fontFamily: c.fontFamily(),
-                                                  color: c.blackColor(),
-                                                  fontSize: c.getFontSizeMedium(
-                                                      context),
-                                                ),
-                                              ),
-                                            ]),
-                                            onTap: () {
-                                              _showBottomSheet(context);
-                                            },
-                                            textAlign: TextAlign.end,
-                                          ),
-                                          subtitle: EasyRichText(
-                                            data[i]['verseStringB'].toString(),
-                                            // .replaceAll("\u0304", "'")
-                                            // .replaceAll("\u1d43", "a"),
-                                            textAlign: TextAlign.end,
-                                            defaultStyle: TextStyle(
-                                              // fontFamily: c.fontFamily(),
-                                              color: c.blackColor(),
-                                              fontSize:
-                                                  c.getFontSizeMedium(context),
-                                            ),
-                                            patternList: [
-                                              EasyRichTextPattern(
-                                                targetString: "ᵃ",
-                                                superScript: true,
-                                                matchWordBoundaries: false,
-                                                style: const TextStyle(
-                                                    fontSize: 20,
-                                                    color: Colors.blue),
-                                              ),
-                                              // EasyRichTextPattern(
-                                              //   targetString: "a",
-                                              //   superScript: true,
-                                              //   stringBeforeTarget: '.',
-                                              //   matchWordBoundaries: false,
-                                              //   style: const TextStyle(
-                                              //       color: Colors.blue),
-                                              // ),
-                                            ],
-                                          ),
-                                          // EasyRichTextPattern(
-                                          //   targetString: [
-                                          //     'a',
-                                          //     'å',
-                                          //     '\u1d47',
-                                          //     ' a '
-                                          //   ],
-                                          //   superScript: true,
-                                          //   style: const TextStyle(
-                                          //       color: Colors.red),
-                                          // ),
-                                          // EasyRichTextPattern(
-                                          //   targetString: 'blue',
-                                          //   style: const TextStyle(
-                                          //       color: Colors.blue),
-                                          // ),
-                                          // EasyRichTextPattern(
-                                          //   targetString: 'bold',
-                                          //   style: const TextStyle(
-                                          //       fontWeight:
-                                          //           FontWeight.bold),
-                                          // ),
-                                          // ],
-                                          // SelectableText.rich(
-                                          //   TextSpan(children: [
-                                          //     TextSpan(
-                                          //       text: data[i]['verseStringB'],
-                                          //       style: TextStyle(
-                                          //         fontFamily: c.fontFamily(),
-                                          //         color: c.blackColor(),
-                                          //         fontSize: c.getFontSizeMedium(
-                                          //             context),
-                                          //       ),
-                                          //     ),
-                                          //     WidgetSpan(
-                                          //       child: Transform.translate(
-                                          //         offset: const Offset(2, -4),
-                                          //         child: Text(
-                                          //           data[i]['verseNumber']
-                                          //               .toString(),
-                                          //           //superscript is usually smaller in size
-                                          //           textScaleFactor: 1,
-                                          //           style: TextStyle(
-                                          //               color: Colors.blue),
-                                          //         ),
-                                          //       ),
-                                          //     )
-                                          //   ]),
-                                          //   onTap: () {
-                                          //     _showBottomSheet(context);
-                                          //   },
-                                          //   textAlign: TextAlign.end,
-                                          // ),
-                                        ),
-                                      ],
-                                    )),
-                                onTap: () {
-                                  _showBottomSheet(context);
-                                },
-                              ),
-                            ],
-                          );
+                                          )),
+                                      onTap: () {
+                                        _showBottomSheet(context);
+                                      },
+                                    ),
+                                  ],
+                                );
                         },
                       )
                     ],

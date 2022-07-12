@@ -1,0 +1,929 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "وَالصَّافَّاتِ صَفًّا",
+      "verseStringB": "By those ranging in ranks,\u1d43"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "فَالزَّاجِرَاتِ زَجْرًا",
+      "verseStringB": "And those who restrain holding in restraint,"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "فَالتَّالِيَاتِ ذِكْرًا",
+      "verseStringB": "And those who recite the Reminder"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "إِنَّ إِلَٰهَكُمْ لَوَاحِدٌ",
+      "verseStringB": "Surely your God is One"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ",
+      "verseStringB": "The Lord of the heavens and the earth and what is between them, and the Lord of the eastern lands\u1d43 "
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ",
+      "verseStringB": "Surely We have adorned the lower heaven with an adornment, the stars,"
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَحِفْظًا مِنْ كُلِّ شَيْطَانٍ مَارِدٍ",
+      "verseStringB": "  And (there is) a safeguard against every rebellious devil\u1d43 "
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "لَا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِنْ كُلِّ جَانِبٍ",
+      "verseStringB": "They cannot listen to the exalted assembly and they are reproached from every side,\u1d43"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
+      "verseStringB": "Driven off;\u1d43 and for them is a perpetual chastisement, "
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ",
+      "verseStringB": "Except him who snatches away but once, then there follows him a brightly shining flame.\u1d43 "
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "فَاسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَمْ مَنْ خَلَقْنَا ۚ إِنَّا خَلَقْنَاهُمْ مِنْ طِينٍ لَازِبٍ",
+      "verseStringB": "So ask them whether they are stronger in creation or those (others) whom We have created. Surely We created them of firm clay.\u1d43 "
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+      "verseStringB": "Nay, thou wonderest, while they mock, "
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "وَإِذَا ذُكِّرُوا لَا يَذْكُرُونَ",
+      "verseStringB": "And when they are reminded, they mind not, "
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "وَإِذَا رَأَوْا آيَةً يَسْتَسْخِرُونَ",
+      "verseStringB": "And when they see a sign, they seek to scoff,"
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "وَقَالُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+      "verseStringB": "And say: This is nothing but clear enchantment."
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+      "verseStringB": "When we are dead and have become dust and bones, shall we then be raised,"
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "أَوَآبَاؤُنَا الْأَوَّلُونَ",
+      "verseStringB": "Or our fathers of yore? "
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "قُلْ نَعَمْ وَأَنْتُمْ دَاخِرُونَ",
+      "verseStringB": "Say: Yea, and you will be humiliated.\u1d43 "
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنْظُرُونَ",
+      "verseStringB": "So it will be but one cry, when lo! they will see. "
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "وَقَالُوا يَا وَيْلَنَا هَٰذَا يَوْمُ الدِّينِ",
+      "verseStringB": "And they will say: O woe to us! This is the day of Requital. "
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "هَٰذَا يَوْمُ الْفَصْلِ الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ",
+      "verseStringB": "This is the day of Judgment, which you called a lie."
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ",
+      "verseStringB": "Gather together those who did wrong and their associates, and what they worshippeda"
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "مِنْ دُونِ اللَّهِ فَاهْدُوهُمْ إِلَىٰ صِرَاطِ الْجَحِيمِ",
+      "verseStringB": "Besides Alla\u0304h, then lead them to the way to hell."
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "وَقِفُوهُمْ ۖ إِنَّهُمْ مَسْئُولُونَ",
+      "verseStringB": "And stop them, for they shall be questioned:"
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "مَا لَكُمْ لَا تَنَاصَرُونَ",
+      "verseStringB": "What is the matter with you that you help not one another? "
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "بَلْ هُمُ الْيَوْمَ مُسْتَسْلِمُونَ",
+      "verseStringB": "Nay, on that day they will be submissive. "
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
+      "verseStringB": "And some of them will turn to others mutually questioning — "
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "قَالُوا إِنَّكُمْ كُنْتُمْ تَأْتُونَنَا عَنِ الْيَمِينِ",
+      "verseStringB": "Saying: Surely you used to come to us from the right side. "
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "قَالُوا بَلْ لَمْ تَكُونُوا مُؤْمِنِينَ",
+      "verseStringB": "They will say: Nay, you (yourselves) were not believers. "
+    },
+    {
+      "verseNumber": 30,
+      "verseString": "وَمَا كَانَ لَنَا عَلَيْكُمْ مِنْ سُلْطَانٍ ۖ بَلْ كُنْتُمْ قَوْمًا طَاغِينَ",
+      "verseStringB": "And we had no authority over you, but you were an inordIn\u1d43 te people. "
+    },
+    {
+      "verseNumber": 31,
+      "verseString": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَا ۖ إِنَّا لَذَائِقُونَ",
+      "verseStringB": "So the word of our Lord has proved true against us: we shall surely taste. "
+    },
+    {
+      "verseNumber": 32,
+      "verseString": "فَأَغْوَيْنَاكُمْ إِنَّا كُنَّا غَاوِينَ",
+      "verseStringB": "We led you astray, for we ourselves were erring. "
+    },
+    {
+      "verseNumber": 33,
+      "verseString": "فَإِنَّهُمْ يَوْمَئِذٍ فِي الْعَذَابِ مُشْتَرِكُونَ",
+      "verseStringB": "So, that day they will be sharers in the chastisement."
+    },
+    {
+      "verseNumber": 34,
+      "verseString": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
+      "verseStringB": "Thus do We deal with the guilty. "
+    },
+    {
+      "verseNumber": 35,
+      "verseString": "إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ يَسْتَكْبِرُونَ",
+      "verseStringB": "They indeed were arrogant, when it was said to them: There is no god but Alla\u0304h;"
+    },
+    {
+      "verseNumber": 36,
+      "verseString": "وَيَقُولُونَ أَئِنَّا لَتَارِكُو آلِهَتِنَا لِشَاعِرٍ مَجْنُونٍ",
+      "verseStringB": "And said: Shall we give up our gods for a mad poet?"
+    },
+    {
+      "verseNumber": 37,
+      "verseString": "بَلْ جَاءَ بِالْحَقِّ وَصَدَّقَ الْمُرْسَلِينَ",
+      "verseStringB": "Nay, he has brought the Truth and verifies the messengers.\u1d43"
+    },
+    {
+      "verseNumber": 38,
+      "verseString": "إِنَّكُمْ لَذَائِقُو الْعَذَابِ الْأَلِيمِ",
+      "verseStringB": "Surely you will taste the painful chastisement."
+    },
+    {
+      "verseNumber": 39,
+      "verseString": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ",
+      "verseStringB": "And you are requited naught but for what you did — "
+    },
+    {
+      "verseNumber": 40,
+      "verseString": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+      "verseStringB": "Save the servants of Alla\u0304h, the purified ones. "
+    },
+    {
+      "verseNumber": 41,
+      "verseString": "أُولَٰئِكَ لَهُمْ رِزْقٌ مَعْلُومٌ",
+      "verseStringB": "For them is a known sustenance:\u1d43"
+    },
+    {
+      "verseNumber": 42,
+      "verseString": "فَوَاكِهُ ۖ وَهُمْ مُكْرَمُونَ",
+      "verseStringB": "Fruits. And they are honoured, "
+    },
+    {
+      "verseNumber": 43,
+      "verseString": "فِي جَنَّاتِ النَّعِيمِ",
+      "verseStringB": "In Gardens of delight, "
+    },
+    {
+      "verseNumber": 44,
+      "verseString": "عَلَىٰ سُرُرٍ مُتَقَابِلِينَ",
+      "verseStringB": "On thrones, facing each other."
+    },
+    {
+      "verseNumber": 45,
+      "verseString": "يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِنْ مَعِينٍ",
+      "verseStringB": "A bowl of running water will be made to go round them, "
+    },
+    {
+      "verseNumber": 46,
+      "verseString": "بَيْضَاءَ لَذَّةٍ لِلشَّارِبِينَ",
+      "verseStringB": "White, delicious to those who drink. "
+    },
+    {
+      "verseNumber": 47,
+      "verseString": "لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُونَ",
+      "verseStringB": "It deprives not of reason, nor are they exhausted therewith.\u1d43"
+    },
+    {
+      "verseNumber": 48,
+      "verseString": "وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ عِينٌ",
+      "verseStringB": "And with them are those modest in gaze, having beautiful eyes, "
+    },
+    {
+      "verseNumber": 49,
+      "verseString": "كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ",
+      "verseStringB": "As if they were eggs, carefully protected.\u1d43 "
+    },
+    {
+      "verseNumber": 50,
+      "verseString": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
+      "verseStringB": "Then some of them will turn to others, questioning mutually."
+    },
+    {
+      "verseNumber": 51,
+      "verseString": "قَالَ قَائِلٌ مِنْهُمْ إِنِّي كَانَ لِي قَرِينٌ",
+      "verseStringB": "A speaker of them will say: Surely I had a comrade,"
+    },
+    {
+      "verseNumber": 52,
+      "verseString": "يَقُولُ أَإِنَّكَ لَمِنَ الْمُصَدِّقِينَ",
+      "verseStringB": "Who said: Art thou indeed of those who accept? "
+    },
+    {
+      "verseNumber": 53,
+      "verseString": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَدِينُونَ",
+      "verseStringB": "When we are dead and have become dust and bones, shall we then be requited? "
+    },
+    {
+      "verseNumber": 54,
+      "verseString": "قَالَ هَلْ أَنْتُمْ مُطَّلِعُونَ",
+      "verseStringB": "He will say: Will you look? "
+    },
+    {
+      "verseNumber": 55,
+      "verseString": "فَاطَّلَعَ فَرَآهُ فِي سَوَاءِ الْجَحِيمِ",
+      "verseStringB": "Then he looked down and saw him in the midst of hell."
+    },
+    {
+      "verseNumber": 56,
+      "verseString": "قَالَ تَاللَّهِ إِنْ كِدْتَ لَتُرْدِينِ",
+      "verseStringB": "He will say: By Alla\u0304h! thou hadst almost caused me to perish;"
+    },
+    {
+      "verseNumber": 57,
+      "verseString": "وَلَوْلَا نِعْمَةُ رَبِّي لَكُنْتُ مِنَ الْمُحْضَرِينَ",
+      "verseStringB": "And had it not been for the favour of my Lord, I should have been among those brought up."
+    },
+    {
+      "verseNumber": 58,
+      "verseString": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
+      "verseStringB": "Are we not to die, "
+    },
+    {
+      "verseNumber": 59,
+      "verseString": "إِلَّا مَوْتَتَنَا الْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "verseStringB": "Except our previous death? And are we not to be chastised? "
+    },
+    {
+      "verseNumber": 60,
+      "verseString": "إِنَّ هَٰذَا لَهُوَ الْفَوْزُ الْعَظِيمُ",
+      "verseStringB": "Surely this is the mighty achievement. "
+    },
+    {
+      "verseNumber": 61,
+      "verseString": "لِمِثْلِ هَٰذَا فَلْيَعْمَلِ الْعَامِلُونَ",
+      "verseStringB": "For the like of this, then, let the workers work."
+    },
+    {
+      "verseNumber": 62,
+      "verseString": "أَذَٰلِكَ خَيْرٌ نُزُلًا أَمْ شَجَرَةُ الزَّقُّومِ",
+      "verseStringB": "Is this the better entertainment or the tree of Zaqq∂m?\u1d43 "
+    },
+    {
+      "verseNumber": 63,
+      "verseString": "إِنَّا جَعَلْنَاهَا فِتْنَةً لِلظَّالِمِينَ",
+      "verseStringB": "Surely We have made it a trial for the wrongdoers. "
+    },
+    {
+      "verseNumber": 64,
+      "verseString": "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ",
+      "verseStringB": "It is a tree that grows in the bottom of hell — "
+    },
+    {
+      "verseNumber": 65,
+      "verseString": "طَلْعُهَا كَأَنَّهُ رُءُوسُ الشَّيَاطِينِ",
+      "verseStringB": "Its produce is as it were the heads of serpents.\u1d43 "
+    },
+    {
+      "verseNumber": 66,
+      "verseString": "فَإِنَّهُمْ لَآكِلُونَ مِنْهَا فَمَالِئُونَ مِنْهَا الْبُطُونَ",
+      "verseStringB": "Then truly they will eat of it and fill (their) bellies with it. "
+    },
+    {
+      "verseNumber": 67,
+      "verseString": "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِنْ حَمِيمٍ",
+      "verseStringB": "Then surely they shall have after it a drink of boiling water."
+    },
+    {
+      "verseNumber": 68,
+      "verseString": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى الْجَحِيمِ",
+      "verseStringB": "Then their return is surely to the flaming Fire.\u1d43 "
+    },
+    {
+      "verseNumber": 69,
+      "verseString": "إِنَّهُمْ أَلْفَوْا آبَاءَهُمْ ضَالِّينَ",
+      "verseStringB": "They indeed found their fathers astray,"
+    },
+    {
+      "verseNumber": 70,
+      "verseString": "فَهُمْ عَلَىٰ آثَارِهِمْ يُهْرَعُونَ",
+      "verseStringB": "So in their footsteps they are hastening on."
+    },
+    {
+      "verseNumber": 71,
+      "verseString": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ الْأَوَّلِينَ",
+      "verseStringB": "And most of the ancients surely went astray before them,"
+    },
+    {
+      "verseNumber": 72,
+      "verseString": "وَلَقَدْ أَرْسَلْنَا فِيهِمْ مُنْذِرِينَ",
+      "verseStringB": "And indeed We sent among them warners. "
+    },
+    {
+      "verseNumber": 73,
+      "verseString": "فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنْذَرِينَ",
+      "verseStringB": "Then see what was the end of those warned — "
+    },
+    {
+      "verseNumber": 74,
+      "verseString": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+      "verseStringB": " Except the servants of Alla\u0304h, the purified ones."
+    },
+    {
+      "verseNumber": 75,
+      "verseString": "وَلَقَدْ نَادَانَا نُوحٌ فَلَنِعْمَ الْمُجِيبُونَ",
+      "verseStringB": "And Noah certainly called upon Us, and excellent Answerer of prayers are We! "
+    },
+    {
+      "verseNumber": 76,
+      "verseString": "وَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ",
+      "verseStringB": "And We delivered him and his people from the great distress;"
+    },
+    {
+      "verseNumber": 77,
+      "verseString": "وَجَعَلْنَا ذُرِّيَّتَهُ هُمُ الْبَاقِينَ",
+      "verseStringB": "And made his offspring the survivors, "
+    },
+    {
+      "verseNumber": 78,
+      "verseString": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
+      "verseStringB": "And left for him (praise) among the later generations,"
+    },
+    {
+      "verseNumber": 79,
+      "verseString": "سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ",
+      "verseStringB": "Peace be to Noah among the nations!"
+    },
+    {
+      "verseNumber": 80,
+      "verseString": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "verseStringB": "Thus indeed do We reward the doers of good. "
+    },
+    {
+      "verseNumber": 81,
+      "verseString": "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+      "verseStringB": "Surely he was of Our believing servants. "
+    },
+    {
+      "verseNumber": 82,
+      "verseString": "ثُمَّ أَغْرَقْنَا الْآخَرِينَ",
+      "verseStringB": "Then We drowned the others. "
+    },
+    {
+      "verseNumber": 83,
+      "verseString": "وَإِنَّ مِنْ شِيعَتِهِ لَإِبْرَاهِيمَ",
+      "verseStringB": "And surely of his party was Abraham."
+    },
+    {
+      "verseNumber": 84,
+      "verseString": "إِذْ جَاءَ رَبَّهُ بِقَلْبٍ سَلِيمٍ",
+      "verseStringB": "When he came to his Lord with a secure heart. "
+    },
+    {
+      "verseNumber": 85,
+      "verseString": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَاذَا تَعْبُدُونَ",
+      "verseStringB": "When he said to his sire and his people: What is it that you worship?"
+    },
+    {
+      "verseNumber": 86,
+      "verseString": "أَئِفْكًا آلِهَةً دُونَ اللَّهِ تُرِيدُونَ",
+      "verseStringB": "A lie — gods besides Alla\u0304h do you desire? "
+    },
+    {
+      "verseNumber": 87,
+      "verseString": "فَمَا ظَنُّكُمْ بِرَبِّ الْعَالَمِينَ",
+      "verseStringB": "What is then your idea about the Lord of the worlds?"
+    },
+    {
+      "verseNumber": 88,
+      "verseString": "فَنَظَرَ نَظْرَةً فِي النُّجُومِ",
+      "verseStringB": "Then he glanced a glance at the stars,"
+    },
+    {
+      "verseNumber": 89,
+      "verseString": "فَقَالَ إِنِّي سَقِيمٌ",
+      "verseStringB": "And said: Surely I am sick (of your deities).\u1d43"
+    },
+    {
+      "verseNumber": 90,
+      "verseString": "فَتَوَلَّوْا عَنْهُ مُدْبِرِينَ",
+      "verseStringB": "So they turned their backs on him, going away."
+    },
+    {
+      "verseNumber": 91,
+      "verseString": "فَرَاغَ إِلَىٰ آلِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+      "verseStringB": "Then he turned to their gods and said: Do you not eat? "
+    },
+    {
+      "verseNumber": 92,
+      "verseString": "مَا لَكُمْ لَا تَنْطِقُونَ",
+      "verseStringB": "What is the matter with you that you speak not? "
+    },
+    {
+      "verseNumber": 93,
+      "verseString": "فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ",
+      "verseStringB": "So he turned upon them, smiting with the right hand. "
+    },
+    {
+      "verseNumber": 94,
+      "verseString": "فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ",
+      "verseStringB": "Then they came to him, hastening. "
+    },
+    {
+      "verseNumber": 95,
+      "verseString": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
+      "verseStringB": "He said: Do you worship that which you hew out? "
+    },
+    {
+      "verseNumber": 96,
+      "verseString": "وَاللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
+      "verseStringB": "And Alla\u0304h has created you and what you make."
+    },
+    {
+      "verseNumber": 97,
+      "verseString": "قَالُوا ابْنُوا لَهُ بُنْيَانًا فَأَلْقُوهُ فِي الْجَحِيمِ",
+      "verseStringB": "They said: Build for him a building, then cast him into the flaming fire."
+    },
+    {
+      "verseNumber": 98,
+      "verseString": "فَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَسْفَلِينَ",
+      "verseStringB": "And they designed a plan against him, but We brought them low. "
+    },
+    {
+      "verseNumber": 99,
+      "verseString": "وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهْدِينِ",
+      "verseStringB": "And he said: Surely I flee to my Lord — He will guide me. "
+    },
+    {
+      "verseNumber": 100,
+      "verseString": "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+      "verseStringB": "My Lord, grant me a doer of good deeds."
+    },
+    {
+      "verseNumber": 101,
+      "verseString": "فَبَشَّرْنَاهُ بِغُلَامٍ حَلِيمٍ",
+      "verseStringB": "So We gave him the good news of a forbearing son. "
+    },
+    {
+      "verseNumber": 102,
+      "verseString": "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّابِرِينَ",
+      "verseStringB": "But when he became of age to work with him, he said: O my son, I have seen in a dream that I should sacrifice thee:\u1d43 so consider what thou seest. He said: O my father, do as thou art commanded; if Alla\u0304h please, thou wilt find me patient. "
+    },
+    {
+      "verseNumber": 103,
+      "verseString": "فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ",
+      "verseStringB": "So when they both submitted and he had thrown him down upon his forehead, "
+    },
+    {
+      "verseNumber": 104,
+      "verseString": "وَنَادَيْنَاهُ أَنْ يَا إِبْرَاهِيمُ",
+      "verseStringB": "And We called out to him saying, O Abraham, "
+    },
+    {
+      "verseNumber": 105,
+      "verseString": "قَدْ صَدَّقْتَ الرُّؤْيَا ۚ إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "verseStringB": "Thou hast indeed fulfilled the vision.\u1d43 Thus do We reward the doers of good. "
+    },
+    {
+      "verseNumber": 106,
+      "verseString": "إِنَّ هَٰذَا لَهُوَ الْبَلَاءُ الْمُبِينُ",
+      "verseStringB": "Surely this is a manifest trial. "
+    },
+    {
+      "verseNumber": 107,
+      "verseString": "وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ",
+      "verseStringB": "And We ransomed him with a great sacrifice.\u1d43 "
+    },
+    {
+      "verseNumber": 108,
+      "verseString": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
+      "verseStringB": "And We granted him among the later generations (the salutation), "
+    },
+    {
+      "verseNumber": 109,
+      "verseString": "سَلَامٌ عَلَىٰ إِبْرَاهِيمَ",
+      "verseStringB": "Peace be to Abraham! "
+    },
+    {
+      "verseNumber": 110,
+      "verseString": "كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "verseStringB": "Thus do We reward the doers of good. "
+    },
+    {
+      "verseNumber": 111,
+      "verseString": "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+      "verseStringB": "He was one of Our believing servants."
+    },
+    {
+      "verseNumber": 112,
+      "verseString": "وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِنَ الصَّالِحِينَ",
+      "verseStringB": "And We gave him the good news of Isaac, a prophet from the righteous."
+    },
+    {
+      "verseNumber": 113,
+      "verseString": "وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ ۚ وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِنَفْسِهِ مُبِينٌ",
+      "verseStringB": "And We blessed him, and Isaac. And among their descendants are good-doers. And others who clearly wrong themselves."
+    },
+    {
+      "verseNumber": 114,
+      "verseString": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَارُونَ",
+      "verseStringB": "And We have favored Moses and Aaron."
+    },
+    {
+      "verseNumber": 115,
+      "verseString": "وَنَجَّيْنَاهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظِيمِ",
+      "verseStringB": "And We saved them and their people from the terrible disaster."
+    },
+    {
+      "verseNumber": 116,
+      "verseString": "وَنَصَرْنَاهُمْ فَكَانُوا هُمُ الْغَالِبِينَ",
+      "verseStringB": "And We supported them, so they became the victors."
+    },
+    {
+      "verseNumber": 117,
+      "verseString": "وَآتَيْنَاهُمَا الْكِتَابَ الْمُسْتَبِينَ",
+      "verseStringB": "And We gave them the Clarifying Scripture."
+    },
+    {
+      "verseNumber": 118,
+      "verseString": "وَهَدَيْنَاهُمَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "verseStringB": "And We guided them on the straight path."
+    },
+    {
+      "verseNumber": 119,
+      "verseString": "وَتَرَكْنَا عَلَيْهِمَا فِي الْآخِرِينَ",
+      "verseStringB": "And We left with them for later generations."
+    },
+    {
+      "verseNumber": 120,
+      "verseString": "سَلَامٌ عَلَىٰ مُوسَىٰ وَهَارُونَ",
+      "verseStringB": "Peace be upon Moses and Aaron."
+    },
+    {
+      "verseNumber": 121,
+      "verseString": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "verseStringB": "Thus We reward the righteous."
+    },
+    {
+      "verseNumber": 122,
+      "verseString": "إِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+      "verseStringB": "They were of Our believing servants."
+    },
+    {
+      "verseNumber": 123,
+      "verseString": "وَإِنَّ إِلْيَاسَ لَمِنَ الْمُرْسَلِينَ",
+      "verseStringB": "Also, Elijah was one of the messengers."
+    },
+    {
+      "verseNumber": 124,
+      "verseString": "إِذْ قَالَ لِقَوْمِهِ أَلَا تَتَّقُونَ",
+      "verseStringB": "He said to his people, “Do you not fear?"
+    },
+    {
+      "verseNumber": 125,
+      "verseString": "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ",
+      "verseStringB": "Do you call on Baal, and forsake the Best of creators?"
+    },
+    {
+      "verseNumber": 126,
+      "verseString": "اللَّهَ رَبَّكُمْ وَرَبَّ آبَائِكُمُ الْأَوَّلِينَ",
+      "verseStringB": "Allah is your Lord, and the Lord of your forefathers.”"
+    },
+    {
+      "verseNumber": 127,
+      "verseString": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
+      "verseStringB": "But they called him a liar, so they will be brought."
+    },
+    {
+      "verseNumber": 128,
+      "verseString": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+      "verseStringB": "Not so for Allah’s chosen servants."
+    },
+    {
+      "verseNumber": 129,
+      "verseString": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
+      "verseStringB": "And We left with him for later generations."
+    },
+    {
+      "verseNumber": 130,
+      "verseString": "سَلَامٌ عَلَىٰ إِلْ يَاسِينَ",
+      "verseStringB": "Peace be upon the House of Elijah."
+    },
+    {
+      "verseNumber": 131,
+      "verseString": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "verseStringB": "Thus We reward the virtuous."
+    },
+    {
+      "verseNumber": 132,
+      "verseString": "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+      "verseStringB": "He was one of Our faithful servants."
+    },
+    {
+      "verseNumber": 133,
+      "verseString": "وَإِنَّ لُوطًا لَمِنَ الْمُرْسَلِينَ",
+      "verseStringB": "And Lot was one of the messengers."
+    },
+    {
+      "verseNumber": 134,
+      "verseString": "إِذْ نَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ",
+      "verseStringB": "When We saved him and his family, all together."
+    },
+    {
+      "verseNumber": 135,
+      "verseString": "إِلَّا عَجُوزًا فِي الْغَابِرِينَ",
+      "verseStringB": "Except for an old woman, who was among the laggards."
+    },
+    {
+      "verseNumber": 136,
+      "verseString": "ثُمَّ دَمَّرْنَا الْآخَرِينَ",
+      "verseStringB": "Then We annihilated the others."
+    },
+    {
+      "verseNumber": 137,
+      "verseString": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِمْ مُصْبِحِينَ",
+      "verseStringB": "You pass by them in the morning."
+    },
+    {
+      "verseNumber": 138,
+      "verseString": "وَبِاللَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
+      "verseStringB": "And at night. Will you not understand?"
+    },
+    {
+      "verseNumber": 139,
+      "verseString": "وَإِنَّ يُونُسَ لَمِنَ الْمُرْسَلِينَ",
+      "verseStringB": "And Jonah was one of the messengers."
+    },
+    {
+      "verseNumber": 140,
+      "verseString": "إِذْ أَبَقَ إِلَى الْفُلْكِ الْمَشْحُونِ",
+      "verseStringB": "When he fled to the overloaded ship."
+    },
+    {
+      "verseNumber": 141,
+      "verseString": "فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ",
+      "verseStringB": "He gambled and lost."
+    },
+    {
+      "verseNumber": 142,
+      "verseString": "فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ",
+      "verseStringB": "Then the whale swallowed him, and he was to blame."
+    },
+    {
+      "verseNumber": 143,
+      "verseString": "فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ",
+      "verseStringB": "Had he not been among those who praised."
+    },
+    {
+      "verseNumber": 144,
+      "verseString": "لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "verseStringB": "He would have remained in its belly until the Day they are raised."
+    },
+    {
+      "verseNumber": 145,
+      "verseString": "فَنَبَذْنَاهُ بِالْعَرَاءِ وَهُوَ سَقِيمٌ",
+      "verseStringB": "Then We threw him into the open, and he was worn out."
+    },
+    {
+      "verseNumber": 146,
+      "verseString": "وَأَنْبَتْنَا عَلَيْهِ شَجَرَةً مِنْ يَقْطِينٍ",
+      "verseStringB": "And We made a grout tree grow over him."
+    },
+    {
+      "verseNumber": 147,
+      "verseString": "وَأَرْسَلْنَاهُ إِلَىٰ مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+      "verseStringB": "Then We sent him to a hundred thousand, or more."
+    },
+    {
+      "verseNumber": 148,
+      "verseString": "فَآمَنُوا فَمَتَّعْنَاهُمْ إِلَىٰ حِينٍ",
+      "verseStringB": "And they believed, so We gave them enjoyment for a while."
+    },
+    {
+      "verseNumber": 149,
+      "verseString": "فَاسْتَفْتِهِمْ أَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَ",
+      "verseStringB": "Ask them, “Are the daughters for your Lord, and the sons for them?”"
+    },
+    {
+      "verseNumber": 150,
+      "verseString": "أَمْ خَلَقْنَا الْمَلَائِكَةَ إِنَاثًا وَهُمْ شَاهِدُونَ",
+      "verseStringB": "Or did We create the angels females, and they were witnesses?”"
+    },
+    {
+      "verseNumber": 151,
+      "verseString": "أَلَا إِنَّهُمْ مِنْ إِفْكِهِمْ لَيَقُولُونَ",
+      "verseStringB": "No indeed! It is of their perversions when they say."
+    },
+    {
+      "verseNumber": 152,
+      "verseString": "وَلَدَ اللَّهُ وَإِنَّهُمْ لَكَاذِبُونَ",
+      "verseStringB": "“Allah has begotten.” They are certainly liars."
+    },
+    {
+      "verseNumber": 153,
+      "verseString": "أَصْطَفَى الْبَنَاتِ عَلَى الْبَنِينَ",
+      "verseStringB": "So He preferred girls over boys?"
+    },
+    {
+      "verseNumber": 154,
+      "verseString": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+      "verseStringB": "What is the matter with you? How do you judge?"
+    },
+    {
+      "verseNumber": 155,
+      "verseString": "أَفَلَا تَذَكَّرُونَ",
+      "verseStringB": "Do you not reflect?"
+    },
+    {
+      "verseNumber": 156,
+      "verseString": "أَمْ لَكُمْ سُلْطَانٌ مُبِينٌ",
+      "verseStringB": "Or do you have some compelling proof?"
+    },
+    {
+      "verseNumber": 157,
+      "verseString": "فَأْتُوا بِكِتَابِكُمْ إِنْ كُنْتُمْ صَادِقِينَ",
+      "verseStringB": "Then bring your book, if you are truthful."
+    },
+    {
+      "verseNumber": 158,
+      "verseString": "وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ",
+      "verseStringB": "And they invented a relationship between Him and the jinn. But the jinns know that they will be summoned."
+    },
+    {
+      "verseNumber": 159,
+      "verseString": "سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ",
+      "verseStringB": "Allah be glorified, far above what they describe."
+    },
+    {
+      "verseNumber": 160,
+      "verseString": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+      "verseStringB": "Not so for Allah’s sincere worshipers."
+    },
+    {
+      "verseNumber": 161,
+      "verseString": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
+      "verseStringB": "You and whatever you worship."
+    },
+    {
+      "verseNumber": 162,
+      "verseString": "مَا أَنْتُمْ عَلَيْهِ بِفَاتِنِينَ",
+      "verseStringB": "Cannot seduce away from Him."
+    },
+    {
+      "verseNumber": 163,
+      "verseString": "إِلَّا مَنْ هُوَ صَالِ الْجَحِيمِ",
+      "verseStringB": "Except for him who will roast in Hell."
+    },
+    {
+      "verseNumber": 164,
+      "verseString": "وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ",
+      "verseStringB": "“There is not one of us but has an assigned position."
+    },
+    {
+      "verseNumber": 165,
+      "verseString": "وَإِنَّا لَنَحْنُ الصَّافُّونَ",
+      "verseStringB": "And we are the arrangers."
+    },
+    {
+      "verseNumber": 166,
+      "verseString": "وَإِنَّا لَنَحْنُ الْمُسَبِّحُونَ",
+      "verseStringB": "And we are the glorifiers.”"
+    },
+    {
+      "verseNumber": 167,
+      "verseString": "وَإِنْ كَانُوا لَيَقُولُونَ",
+      "verseStringB": "Even though they used to say."
+    },
+    {
+      "verseNumber": 168,
+      "verseString": "لَوْ أَنَّ عِنْدَنَا ذِكْرًا مِنَ الْأَوَّلِينَ",
+      "verseStringB": "“Had we received advice from the ancients."
+    },
+    {
+      "verseNumber": 169,
+      "verseString": "لَكُنَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+      "verseStringB": "We would have been of Allah's faithful worshipers.”"
+    },
+    {
+      "verseNumber": 170,
+      "verseString": "فَكَفَرُوا بِهِ ۖ فَسَوْفَ يَعْلَمُونَ",
+      "verseStringB": "But they rejected it, so they will soon know."
+    },
+    {
+      "verseNumber": 171,
+      "verseString": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ",
+      "verseStringB": "And Our word already went out to Our servants, the messengers."
+    },
+    {
+      "verseNumber": 172,
+      "verseString": "إِنَّهُمْ لَهُمُ الْمَنْصُورُونَ",
+      "verseStringB": "That it is they who will be helped."
+    },
+    {
+      "verseNumber": 173,
+      "verseString": "وَإِنَّ جُنْدَنَا لَهُمُ الْغَالِبُونَ",
+      "verseStringB": "And Our forces will be the victors."
+    },
+    {
+      "verseNumber": 174,
+      "verseString": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+      "verseStringB": "So turn away from them for a while."
+    },
+    {
+      "verseNumber": 175,
+      "verseString": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+      "verseStringB": "And watch them—they will soon see."
+    },
+    {
+      "verseNumber": 176,
+      "verseString": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+      "verseStringB": "Do they want Our punishment in a hurry?"
+    },
+    {
+      "verseNumber": 177,
+      "verseString": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ",
+      "verseStringB": "When it descends on their courtyard, miserable will be the morning of those forewarned."
+    },
+    {
+      "verseNumber": 178,
+      "verseString": "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+      "verseStringB": "So turn away from them for a while."
+    },
+    {
+      "verseNumber": 179,
+      "verseString": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
+      "verseStringB": "And watch—they will soon see."
+    },
+    {
+      "verseNumber": 180,
+      "verseString": "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ",
+      "verseStringB": "Glory be to thy Lord, the Lord of Might, above what they describe! "
+    },
+    {
+      "verseNumber": 181,
+      "verseString": "وَسَلَامٌ عَلَى الْمُرْسَلِينَ",
+      "verseStringB": "And peace be to those sent! "
+    },
+    {
+      "verseNumber": 182,
+      "verseString": "وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "verseStringB": "And praise be to Alla\u0304h, the Lord of the worlds! "
+    }
+  ],
+  "nameEnglish": "The Aligners",
+  "nameTrans": "as-Saffat",
+  "nameArabic": "الصافات",
+  "chapterNumber": 37,
+  "nVerses": 182,
+  "footnotes": [
+    {
+      "note": "1a. The wåw, which means and, is in such places generally rendered as by, and signifies an oath. It must, however, be borne in mind that the oath in such cases simply draws attention to a certain testimony. Ordinarily, when a person swears by Allåh, he really calls Allåh to witness that he speaks the truth. The real object in taking an oath is to make an assertion more convincing. But in the Qur’ån, when such a form is adopted, the conviction is produced not by mere allegation, as in the case of an ordinary oath, but by some clear argument which upholds the truth of the assertion made. Sometimes attention is called in these oaths to obvious laws of nature, as the change of night and day, etc., to infer spiritual laws from them, and on other occasions the oath reveals a kind of prophecy, so that the fulfilment of the prophecy makes the truth of the preaching of the Prophet to be obvious. The latter is the case here. The description given in the first three verses applies to the believers. The first verse shows them as ranging themselves in ranks, or praying to God standing in ranks, which the Muslims do five times daily in their prayers in congregation, and may prophetically refer to their subsequent ranging themselves in ranks in the field of battle against their enemies. The second verse describes them as holding in restraint their passions, so that a people who were ruled by their passions or their sensual desires were so entirely changed that they became complete masters of their passions. The words, however, may also contain a prophetical reference to their holding in restraint a powerful enemy bent upon their extirpation. These two descriptions are followed by another in the third verse which makes it clear that only the Muslims are described here: those who recite the Reminder. It is a special characteristic of the Muslims that they recite the Holy Qur’ån in their prayers, so much so that even their armies in the field of battle are regular in their prayers and recite the Holy Qur’ån in their prayers. And the great Truth that is thus established is Divine Unity — surely your God is One. It may also be noted that, though the commentators have suggested that the description in the first three verses may apply to angels, they also state that the description is applicable to the Muslim armies fighting against the enemies of Islåm (Rz).\n\n 5a. The reference to the eastern lands in Rabb al-mashåriq is a prophecy of the early spread of Islåm in the East, while Islåm’s conquests in the West seem to have been reserved for a later age. Mashåriq is the plural of mashriq, which means the rising-place of the sun, and is, like its English equivalent east, applicable to an eastern land.\n\n 7a. The Prophet’s preaching was confronted by a twofold opposition among the Arabs — the secular classes and the priestly class, i.e., the diviners and the soothsayers, the class known as Kåhin. It is these soothsayers who are called the rebellious devils, because they thought that they could invoke spirits and answer questions put to them relating to the future. This phase of opposition was equally swept away by the forceful tide of Islamic truth, and the profession of the Kåhin disappeared from Arabia as Islåm advanced; see LA under the word kåhin. The mention of heaven and stars in the previous verse refers to the popular superstition that the diviners and soothsayers obtained their knowledge of the future from the stars. The safeguard against every rebellious devil indicates that they have no access to Divine secrets; see further 52:38a and 72:8a. 8a. The reference here is to the conjectures of the soothsayers regarding the future, by which they maintained their ascendancy over the masses. It is pointed out that they have no access whatever to the source of prophecy. The exalted assembly signifies those angels to whom Divine revelation is first made known. If the other significance of the word yuqdhaf∂n (thrown at or pelted) is adopted, the reference may be to the secular opponents of the Prophet, who, it is here foretold, would be thrown at from every side, so that success could not attend any of their efforts. \n\n 9a. This verse and those preceding it describe the state of the soothsayers at the advent of the Prophet. Before the advent of the Holy Prophet, the soothsayers may have been able to mislead the people to a certain extent by their guesses regarding future events, but after his advent they were reproached on every side, and ultimately the profession of the kåhin disappeared from Arabia, as shown in the last footnote. Or, the reference may be to the overthrow of ordinary opposition.\n\n 10a. KhaΔifa signifies he carried off or snatched away, and KhaΔfata signifies a single act of carrying off or snatching away. The meaning is that, if a soothsayer gets but one opportunity, there soon follows a flame that pierces through the darkness; in other words, dispels the darkness to which the soothsayer leads men. It should be noted that shihåb means only a flame (see LL, and compare 27:7, where Moses goes to bring a shihåb), and thåqib means that pierces through the darkness or brightly shining (LL).\n\n 11a. Låzib is derived from lazaba, meaning it was or remained fixed, settled, firm, or constant (LL); hence låzib signifies firm (LL). Those created of firm clay are the spiritually perfect men, the Prophet and his followers. The verse points to the opposition of the soothsayers to the Prophet, and warns the former that the Prophet will be triumphant, because he is made perfect by Allåh’s hand. \n\n 18a. That is, you will not only be raised after death to taste of your evil deeds, but even here you will be brought low. This is again a prophecy of the vanquishment of the enemy in this very life.\n\n 22a. Though the description of the helplessness of the iniquitous given in this and the following verses applies to life after death, it equally describes their condition in this life.\n\n 37a. The early revelation of this chapter is universally admitted, and here, too, we have a clear statement that the Prophet came in fulfilment of earlier prophecy.\n\n 41a. The word ma‘l∂m (known) shows that the sustenance mentioned in the verses that follow is one that is already known to those servants of Allåh who are purified from every pollution. This description of the blessings of paradise shows that all those blessings were spiritually tasted by the righteous in this life. In fact, their brief but important description as fruits in the next verse clearly shows those blessings to be the fruits of their good deeds.\n\n 47a. The word ghaul is derived from ghåla, which means it destroyed him, and ghålati-l-khamru means the wine deprived him of reason, and ghaul means privation of the intellectual faculties (LL). Yunzaf∂n is derived from nazafa meaning he entirely exhausted a well of its water (LL). Nazßf is therefore one intoxicated or deprived of reason, and anzafa carries a more extensive significance (R). The drinks of this life, though a source of pleasure, bring evil in their train. The drinks of the next life, which are called ma‘ßn (water of which one has reached the source, or water running upon the surface of the earth) (LL), in v. 45, cause neither loss of reason, nor exhaustion. The name is common, but the nature of the two is different.\n\n 49a. The description of women given here calls attention to the prominent feature of the character of a good woman. In the first place, they are described as restraining their eyes, and modest in their gaze, and attention is thus called to the fact that the most valuable virtue of woman is that rare chastity which is described here as restraint or freedom of the eye from lust. Then the beauty of their eyes is praised, the suggestion clearly being that the purity of the eye leads to its beauty, or that the real beauty of the eye consists in its purity. In the second place, they are described as being eggs carefully protected, which alludes to their pure and unsoiled character. It should, however, be noted that what is apparently a description of women is really a description of the fruits of deeds done in this life, the words adopted being applicable to both (see the word √∂r in 52:20a), and these are in fact spiritual blessings manifested physically. The blessings which it promises, whatever they may be, are as much meant for men as for women; the only thing certain about them is that their nature is different from the nature of the physical blessings of this life. See also 38:52a. \n\n 62a. Zaqq∂m is “a dust-coloured tree, having small round leaves without thorns. It has a pungent odour and is bitter, and has knots in its stems ... the heads of its leaves are very foul” (LL). Zaqq∂m also means any deadly food (T, LL), and in the dialect of Ifrßqiyah, it signifies fresh butter with dates (LL). Ab∂ Jahl is said to have scoffed at the idea of zaqq∂m being the food of those in hell by having prepared a repast of fresh butter with dates for a party of the Quraish chiefs, telling them that, according to the Prophet, such was the food that would be given to those who go to hell. See also 17:60c.\n\n 65a. The correct interpretation of ru’∂s al-shayåΔßn is that adopted here, for the Arabs apply the name shaiΔån to a sort of serpent having a mane, ugly or foul in the head and face. According to others it is the name of a certain ugly plant (T, LL).\n\n 68a. The words, then their return is surely to the flaming Fire, are very significant, as if the food and drink described above were to be given to them before they went to hell. This is the reason that it is called an entertainment (v. 62). It is in fact a description of their evil plight in this life as well as in the Hereafter.\n\n 89a. The people with whom Abraham contended were not only worshippers of idols, but also worshippers of stars. Hence Abraham cast a glance at the stars and declared that he could not bear their worshipping others than God. LL gives the following as one of the explanations of the words saqßm (sick) on the authority of T: I am sick of your worshipping what is not God. But we also speak of a person as being saqßm, when he bears spite against another. Thus you say huwa saqßm al-©adr ‘alai-hi, meaning he is affected with spite against him (T, LL). The words may thus be translated I bear spite to your false gods. \n\n 102a. That the child spoken of here was Ishmael and not Isaac is made clear by v. 112, which states that it was after this incident that Abraham received the news of the birth of Isaac. This, no doubt, contradicts the Bible statement, but the fact that Ishmael’s descendants kept a memorial of this sacrifice in the annual pilgrimage to Makkah shows clearly that Ishmael, and not Isaac, was the son whom Abraham was commanded to sacrifice. Moreover, the Bible contradicts itself when it speaks of Isaac as “thine only son” (Gen. 22:2). Only Ishmael could be spoken of as “only son” before the birth of Isaac. The √adßth in which Isaac is spoken of as having been sacrificed is according to Ibn Kathßr gharßb, and must be rejected. The Holy Qur’ån makes it clear beyond all doubt that it was Ishmael whom Abraham was ordered to sacrifice.\n\n 105a. The words, Thou hast indeed fulfilled the vision, show that the act of slaughtering was not needed for the fulfilment of the vision; the preparedness to do it amounted to its fulfilment. According to the Bible, Abraham cast out his son Ishmael and his mother Hagar in some wilderness when Ishmael was fourteen years of age (Gen. 21:9– 21). The Holy Qur’ån is silent on this point, but, according to Bukhårß, the incident occurred when Ishmael was yet a suckling, and it was not in accordance with the wishes of Sarah but according to a Divine commandment that Abraham left Hagar and Ishmael in the wilderness near the Sacred House, and it was here, when Ishmael was in distress, that Zamzam was discovered (B. 60:9). The reference in the words Thou hast indeed fulfilled the vision may be to this incident, Abraham being told that the dream had already been fulfilled by casting out Ishmael and leaving him at Makkah.\n\n 107a. To commemorate Ishmael’s sacrifice, a great sacrifice was ordered. This was not only the sacrifice of a ram on this particular occasion, but the great institution of sacrifice now connected with the pilgrimage to Makkah. Perhaps there is also a reference here to the abolition of human sacrifice, which was prevalent among most ancient nations, and the significance is that the place of human sacrifice was now forever being taken by the sacrifice of a ram.\n\n 113a. Abraham and Isaac are spoken of distinctly to show that by blessing Abraham is here meant blessing his descendants through Ishmael. 125a. Ba‘l stands for the sun, or the sun-god.\n\n 130a. Ilyåsßn is only another form of the name of Ilyås (Kf) or Elias. Elias is mentioned as being one of the prophets in 6:85. Some commentators are of opinion that Idrßs  and Elias are two different names of the same prophet, but, as I have shown in 19:57a, Idrßs in the Holy Qur’ån stands for Enoch, and Elias is the same as the Elijah of the Bible.\n\n 140a. It is meaningless to say that Jonah fled from God. He was a prophet and knew that no one could flee from God, for God’s kingdom is unlimited. Nor does the Qur’ån say that he fled from God. Even the commentators do not accept this (Rz). It would appear that he fled from his people or from the king; see also 21:87b, 87c.\n\n 141a. Såhama means he drew lots or he shared with another in a thing (LL). According to the Bible, Jonah went into a boat but was cast into the sea on account of a storm (Jonah 1:15).\n\n 142a. According to Jonah 1:17, Jonah was devoured by a fish. The word used in the Qur’ån is iltaqama, which does not necessarily signify the act of devouring. Laqm means a morsel, and from the same root is iltaqama, which means he took into his mouth and also embraced; iltaqama f å-hå fi-l-taqbßl means he took her mouth within his lips in kissing (LL). According to one explanation, his heel only was drawn by the fish into its mouth.\n\n 144a. The meaning is that the fish would have eaten him, and he would have died. By the day when they are raised is not meant the actual day of Resurrection, because the fish was not an immortal fish that could live to the day of Resurrection. A person’s death is generally called the day of his resurrection in a certain sense. Man måta fa-qad qåmat qiyåmatu-h∂ — he who dies, his resurrection comes to pass — is the heading of a chapter in the Mishkåt (Msh. 26:7), a standard Ïadßth collection.\n\n 146a. According to the Bible, the gourd gave shelter to Jonah, but the next day a worm smote the gourd so that it withered, and Jonah grieved for it. The lesson drawn from this incident is stated thus: “Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow.... And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand” (Jonah 4:10–11). These were the hundred thousand or more persons to which Jonah was sent, as stated in v. 147.\n\n  158a. They said that they considered the angels to be daughters of God and worshipped them. In the Qur’ån, however, it is stated that it was really the jinn — their own leaders in evil — that they worshipped, not the angels: “then will He say to the angels: Did these worship you? They will say: ... nay, they worshipped the jinn” (34:40, 41).\n\n 160a. It is the evildoers that will be brought up for judgment (v. 158), not the servants of Allåh. \n\n 164a. These words are put into the mouth of the believers.\n\n 174a. That is, the time of victory (Bd).\n\n "
+    }
+  ]
+}

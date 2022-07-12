@@ -1,0 +1,89 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "verseStringB": "Whatever is in the heavens and whatever is in the earth glorifies Allāh; and He is the Mighty, the Wise."
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+      "verseStringB": "O you who believe, why say you that which you do not?"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "كَبُرَ مَقْتًا عِنْدَ اللَّهِ أَنْ تَقُولُوا مَا لَا تَفْعَلُونَ",
+      "verseStringB": "It is most hateful in the sight of Allāh that you say that which you do not.ᵃ"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ",
+      "verseStringB": "Surely Allāh loves those who fight in His way in ranks, as if they were a solid wall.ᵃ"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ لِمَ تُؤْذُونَنِي وَقَدْ تَعْلَمُونَ أَنِّي رَسُولُ اللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ",
+      "verseStringB": "And when Moses said to his people: O my people, why do you malign me, when you know that I am Allāh’s messenger to you?ᵃ But when they deviated, Allāh made their hearts deviate. And Allāh guides not the transgressing people."
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَا بَنِي إِسْرَائِيلَ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ ۖ فَلَمَّا جَاءَهُمْ بِالْبَيِّنَاتِ قَالُوا هَٰذَا سِحْرٌ مُبِينٌ",
+      "verseStringB": "And when Jesus, son of Mary, said: O Children of Israel, surely I am the messenger of Allāh to you, verifying that which is before me of the Torah and giving the good news of a Messenger who will come after me, his name being Aƒmad.ᵃ But when he came to them with clear arguments, they said: This is clear enchantment.ᵇ"
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَىٰ إِلَى الْإِسْلَامِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+      "verseStringB": "And who is more unjust than he who forges a lie against Allāh and he is invited to Islām. And Allāh guides not the unjust people.ᵃ"
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ",
+      "verseStringB": "They desire to put out the light of Allāh with their mouths, but Allāh will perfect His light, though the disbelievers may be averse."
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ",
+      "verseStringB": "He it is Who has sent His Messenger with the guidance and the Religion of Truth that He may make it prevail over all religions, though the polytheists are averse.ᵃ"
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ",
+      "verseStringB": "O you who believe, shall I lead you to a merchandise which will deliver you from a painful chastisement?"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+      "verseStringB": "You should believe in Allāh and His Messenger, and strive hard in Allāh’s way with your wealth and your lives. That is better for you, did you but know!"
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+      "verseStringB": "He will forgive you your sins and cause you to enter Gardens wherein rivers flow, and goodly dwellings in Gardens of perpetuity — that is the mighty achievement —"
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
+      "verseStringB": "And yet another (blessing) that you love: help from Allāh and a victory near at hand; and give good news to the believers.ᵃ"
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا أَنْصَارَ اللَّهِ كَمَا قَالَ عِيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيِّينَ مَنْ أَنْصَارِي إِلَى اللَّهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنْصَارُ اللَّهِ ۖ فَآمَنَتْ طَائِفَةٌ مِنْ بَنِي إِسْرَائِيلَ وَكَفَرَتْ طَائِفَةٌ ۖ فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا ظَاهِرِينَ",
+      "verseStringB": "O you who believe, be helpers (in the cause) of Allāh, as Jesus, son of Mary, said to the disciples: Who are my helpers in the cause of Allāh? The disciples said: We are helpers (in the cause) of Allāh. So a party of the Children of Israel believed and another party disbelieved; then We aided those who believed against their enemy, and they became predomInᵃ nt.ᵃ"
+    }
+  ],
+  "nameEnglish": "Column",
+  "nameTrans": "as-Saff",
+  "nameArabic": "الـصـف",
+  "chapterNumber": 61,
+  "nVerses": 14,
+  "footnotes": [
+    {
+      "note": "3a. It is an exhortation to those who professed belief in the Truth to make theiractions correspond with their assertions. The triumph of Truth, which is so definitelyforetold in this chapter, could not be brought about by boastful talk but by great deeds ofsacrifice, and hence this prelude. Mere words, if not carried into action, are hateful toGod. It is deeds that open the way to success.\n\n4a. They had to fight in self-defence; see 2:190, 190a, etc.\n\n5a. That Moses was falsely accused by his own followers is stated in 33:69; see33:69a. Such false imputations by the Israelites against their own prophet are referred tohere as an example of the Jewish deviation from truth. An example of Christian deviation is given in the next verse. No wonder that they were inimical to the Prophet, whenthey did not care even for Moses and Jesus.\n\n6a. We are here told that Jesus had given the good news of the advent of a Prophetwhose name was A√mad coming after him. That our Prophet was known by two namesMu√ammad and A√mad is a well-known fact of history. The famous poet Ïassånmentions the Prophet, in one of his verses, by the name A√mad: ˝all Allåhu wa manya√uffu bi-‘arsh-hß wa-l-Δayyib∂na ‘ala-mubåraki A√mad, i.e., Allåh blesses the blessedA√mad and so do those who go round about His Throne of Majesty and all pure ones.The next question is, Does Jesus really speak of the coming of A√mad? As regardshis sayings, we have to depend on a Greek translation, in which we find the wordParaclete, which is translated in English as Comforter. We are well aware how translations are sometimes misleading, and therefore the use of the word Paraclete in theGreek version, or that of Comforter in the English version, does not show what theactual word in the language spoken by Jesus was. But all those qualifications which aregiven in John 14:16 and 16:7 are met with in the person of the Holy Prophet. He isstated to be one who shall abide forever, and so is the Prophet’s law; for after himcomes no prophet to promulgate a new law. He is spoken of as teaching all things, andit was with a perfect law that the Holy Prophet came. And clearest of all are the wordsof John 16:12 – 14: “I have yet many things to say unto you, but ye cannot bear themnow. Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: forhe shall not speak of himself, but whatsoever he shall hear, that shall he speak; and hewill show you things to come. He shall glorify me”. Now, this prophecy about theSpirit of Truth, which is the same as the Comforter, clearly stated in John 14:17, establishes the following points: (1) Jesus could not guide into all truth because his teachingwas really directed only to the reform of the Israelites, and he denounced only theircrying evils; but the teaching of the Comforter would be a perfect one, guiding meninto all truth, and the Holy Qur’ån is the only book which claims to be a perfect law.(2) That the Comforter would not speak of himself, but that which he shall hear he shallspeak; the words conveying exactly the same idea as those of Deut. 18:18: “And I willput My words in his mouth”, a qualification which is met with only in the person of theHoly Prophet Mu√ammad. (3) That he will glorify Jesus, and the Holy Prophet did glorify Jesus by denouncing as utterly false all those calumnies which were heaped uponJesus and his mother.It is argued, however, that the Comforter is here called the Spirit of Truth, andhence the words cannot be applicable to a man. But it is equally difficult to see whyJesus should call him another Comforter; evidently he was referring to a human beingas he himself was. Moreover, we cannot imagine a spirit not speaking of himself butspeaking only that which he shall hear, which a comparison with Deut. 18:18 clearlyshows to be a prophet like Moses. And it should be noted that the Holy Prophet is frequently called The Truth in the Holy Qur’ån, as in 17:81.Another point worth mentioning is that the different prophecies about the HolyProphet really refer to the different phases of his life. The two aspects of the life of theHoly Prophet are jalål and jamål, i.e., an aspect of glory and an aspect of beauty, thefirst finding its manifestation in the name Mu√ammad and the second in A√mad. Eachof the two great prophets, Moses and Jesus, prophesied about the Holy Prophet inwords expressing that aspect of his life which was in consonance with his own nature— glory finding greater expression in Moses, who was prophet, lawgiver and king atthe same time, and beauty in Jesus, on account of the beauty of his moral teachings,while both these elements were combined in the person of the Holy Prophet.\n\n6b. The Holy Prophet is referred to here, as the next verse clearly shows.\n\n7a. By the words, “who forges a lie against Allåh and he is invited to Islåm,” aremeant the rejectors who called the truth an enchantment, as stated at the end of the lastverse, and as shown by the words that follow here: And Allåh guides not the unjust people. It was these people that were invited to Islåm, while the Prophet was an inviter, ashe is elsewhere called; see, for instance, 3:193; 20:108. Their polytheistic beliefs arerepeatedly called a forgery in the Holy Qur’ån, as, for instance, in 6:137, and again in6:138. Or, the Christians are meant who were invited to the Truth, but they forged a liethat Jesus was the son of God and that he took away their sins.\n\n9a. Verses 8 and 9 contain two different prophecies. In the first of these we are toldthat all attempts to annihilate Islåm will fail, and they did fail. In the second it isaffirmed that Islåm will be made the predominant religion, the truth of which was witnessed by Arabia in the lifetime of the Holy Prophet. But both prophecies have a widersignificance. Attempts are still being made to annihilate Islåm, and the Divine promise isthat all these attempts shall be brought to naught; while the predominance of Islåm overall the religions of the world would in time be established, as clearly as it was in Arabia.The commentators say that this predominance will be brought about through thePromised Messiah (Rz). Polytheists, it should be noted, include the Christians, for theyadopted the polytheistic doctrine of Trinity.\n\n13a. The prophecy in the previous verse relates to the Hereafter, while that in thisverse relates to the victories of the Muslims over the disbelievers.\n\n14a. The description applies to the triumph of the teachings of Christ over thosewho opposed the dissemination of his teachings, and speaks prophetically of the ultimate triumph of Islåm over all other religions of the world."
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "كهيعص",
+      "verseStringB": "Sufficient, Guide, Blessed, Knowing, Truthful God.ᵃ"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا",
+      "verseStringB": "A mention of the mercy of thy Lord to His servant Zacharias —"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "إِذْ نَادَىٰ رَبَّهُ نِدَاءً خَفِيًّا",
+      "verseStringB": "When he called upon his Lord, crying in secret."
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُنْ بِدُعَائِكَ رَبِّ شَقِيًّا",
+      "verseStringB": "He said: My Lord, my bones are weakened, and my head flares with hoariness, and I have never been unsuccessful in my prayer to Thee, my Lord."
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "وَإِنِّي خِفْتُ الْمَوَالِيَ مِنْ وَرَائِي وَكَانَتِ امْرَأَتِي عَاقِرًا فَهَبْ لِي مِنْ لَدُنْكَ وَلِيًّا",
+      "verseStringB": "And I fear my kinsfolk after me, and my wife is barren, so grant me from Thyself an heira"
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ ۖ وَاجْعَلْهُ رَبِّ رَضِيًّا",
+      "verseStringB": "Who should inherit me and inherit of the Children of Jacob, and make him, my Lord, acceptable (to Thee).ᵃ"
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ يَحْيَىٰ لَمْ نَجْعَلْ لَهُ مِنْ قَبْلُ سَمِيًّا",
+      "verseStringB": "O Zacharias, We give thee good news of a boy, whose name is John: We have not made before anyone his equal.ᵃ"
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَامٌ وَكَانَتِ امْرَأَتِي عَاقِرًا وَقَدْ بَلَغْتُ مِنَ الْكِبَرِ عِتِيًّا",
+      "verseStringB": "He said: My Lord, how shall I have a son, and my wife is barren, and I have reached extreme old age?"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِنْ قَبْلُ وَلَمْ تَكُ شَيْئًا",
+      "verseStringB": "He said: So (it will be). Thy Lord says: It is easy to Me, and indeed I created thee before, when thou wast nothing."
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "قَالَ رَبِّ اجْعَلْ لِي آيَةً ۚ قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا",
+      "verseStringB": "He said: My Lord, give me a sign. He said: Thy sign is that thou speak not to people three nights, being in sound health.ᵃ"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "فَخَرَجَ عَلَىٰ قَوْمِهِ مِنَ الْمِحْرَابِ فَأَوْحَىٰ إِلَيْهِمْ أَنْ سَبِّحُوا بُكْرَةً وَعَشِيًّا",
+      "verseStringB": "So he went forth to his people from the sanctuary and proclaimed to them: Glorify (Allāh) morning and evening."
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "يَا يَحْيَىٰ خُذِ الْكِتَابَ بِقُوَّةٍ ۖ وَآتَيْنَاهُ الْحُكْمَ صَبِيًّا",
+      "verseStringB": "O John, take hold of the Book with strength. And We granted him wisdom when a child,"
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "وَحَنَانًا مِنْ لَدُنَّا وَزَكَاةً ۖ وَكَانَ تَقِيًّا",
+      "verseStringB": "And kind-heartedness from Us and purity. And he was dutiful,"
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "وَبَرًّا بِوَالِدَيْهِ وَلَمْ يَكُنْ جَبَّارًا عَصِيًّا",
+      "verseStringB": "And kindly to his parents, and he was not insolent, disobedient.ᵃ"
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا",
+      "verseStringB": "And peace on him the day he was born and the day he died, and the day he is raised to life!"
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ إِذِ انْتَبَذَتْ مِنْ أَهْلِهَا مَكَانًا شَرْقِيًّا",
+      "verseStringB": "And mention Mary in the Book. When she drew aside from her family to an eastern place;"
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "فَاتَّخَذَتْ مِنْ دُونِهِمْ حِجَابًا فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا",
+      "verseStringB": "So she screened herself from them. Then We sent to her Our spirit and it appeared to her as a well-made man.ᵃ"
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "قَالَتْ إِنِّي أَعُوذُ بِالرَّحْمَٰنِ مِنْكَ إِنْ كُنْتَ تَقِيًّا",
+      "verseStringB": "She said: I flee for refuge from thee to the Beneficent, if thou art one guarding against evil."
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَامًا زَكِيًّا",
+      "verseStringB": "He said: I am only bearer of a message of thy Lord: That I will give thee a pure boy.ᵃ"
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "قَالَتْ أَنَّىٰ يَكُونُ لِي غُلَامٌ وَلَمْ يَمْسَسْنِي بَشَرٌ وَلَمْ أَكُ بَغِيًّا",
+      "verseStringB": "She said: How can I have a son and no mortal has yet touched me, nor have I been unchaste?"
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيِّنٌ ۖ وَلِنَجْعَلَهُ آيَةً لِلنَّاسِ وَرَحْمَةً مِنَّا ۚ وَكَانَ أَمْرًا مَقْضِيًّا",
+      "verseStringB": "He said: So (it will be). Thy Lord says: It is easy to Me; and that We may make him a sign to men and a mercy from Us.ᵃ And it is a matter decreed.ᵇ"
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا",
+      "verseStringB": "Then she conceived him; and withdrew with him to a remote place."
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ قَالَتْ يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا وَكُنْتُ نَسْيًا مَنْسِيًّا",
+      "verseStringB": "And the throes of childbirth drove her to the trunk of a palm tree.ᵃ She said: Oh, would that I had died before this, and had been a thing quite forgotten!ᵇ"
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "فَنَادَاهَا مِنْ تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا",
+      "verseStringB": "So a voice came to her from beneath her: Grieve not, surely thy Lord has provided a stream beneath thee."
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا",
+      "verseStringB": "And shake towards thee the trunk of the palm-tree, it will drop on thee fresh ripe dates.ᵃ"
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا ۖ فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا",
+      "verseStringB": "So eat and drink and cool the eye. Then if thou seest any mortal, say: Surely I have vowed a fast to the Beneficent, so I will not speak to any man today.ᵃ"
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "فَأَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ ۖ قَالُوا يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا",
+      "verseStringB": "Then she came to her people with him, carrying him.ᵃ They said: O Mary, thou hast indeed brought a strange thing!ᵇ"
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "يَا أُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+      "verseStringB": "O sister of Aaron,ᵃ thy father was not a wicked man, nor was thy mother an unchaste woman!"
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيًّا",
+      "verseStringB": "But she pointed to him. They said: How should we speak to one who is a child in the cradle?ᵃ"
+    },
+    {
+      "verseNumber": 30,
+      "verseString": "قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا",
+      "verseStringB": "He said: I am indeed a servant of Allāh. He has given me the Book and made me a prophet:ᵃ"
+    },
+    {
+      "verseNumber": 31,
+      "verseString": "وَجَعَلَنِي مُبَارَكًا أَيْنَ مَا كُنْتُ وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا",
+      "verseStringB": "And He has made me blessed wherever I may be, and He has enjoined on me prayer and poor-rate so long as I live:ᵃ"
+    },
+    {
+      "verseNumber": 32,
+      "verseString": "وَبَرًّا بِوَالِدَتِي وَلَمْ يَجْعَلْنِي جَبَّارًا شَقِيًّا",
+      "verseStringB": "And to be kind to my mother; and He has not made me insolent, unblessed.ᵃ"
+    },
+    {
+      "verseNumber": 33,
+      "verseString": "وَالسَّلَامُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّا",
+      "verseStringB": "And peace on me the day I was born, and the day I die, and the day I am raised to life."
+    },
+    {
+      "verseNumber": 34,
+      "verseString": "ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ ۚ قَوْلَ الْحَقِّ الَّذِي فِيهِ يَمْتَرُونَ",
+      "verseStringB": "Such is Jesus son of Mary — a statement of truth about which they dispute."
+    },
+    {
+      "verseNumber": 35,
+      "verseString": "مَا كَانَ لِلَّهِ أَنْ يَتَّخِذَ مِنْ وَلَدٍ ۖ سُبْحَانَهُ ۚ إِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+      "verseStringB": "It beseems not Allāh that He should take to Himself a son. Glory be to Him! when He decrees a matter He only says to it, Be, and it is."
+    },
+    {
+      "verseNumber": 36,
+      "verseString": "وَإِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+      "verseStringB": "And surely Allāh is my Lord and your Lord, so serve Him. This is the right path.ᵃ"
+    },
+    {
+      "verseNumber": 37,
+      "verseString": "فَاخْتَلَفَ الْأَحْزَابُ مِنْ بَيْنِهِمْ ۖ فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنْ مَشْهَدِ يَوْمٍ عَظِيمٍ",
+      "verseStringB": "But parties from among them differed; so woe to those who disbelieve, because of their presence on a grievous day!"
+    },
+    {
+      "verseNumber": 38,
+      "verseString": "أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا ۖ لَٰكِنِ الظَّالِمُونَ الْيَوْمَ فِي ضَلَالٍ مُبِينٍ",
+      "verseStringB": "How clearly will they hear and see on the day when they come to Us; but the wrongdoers are today in manifest error."
+    },
+    {
+      "verseNumber": 39,
+      "verseString": "وَأَنْذِرْهُمْ يَوْمَ الْحَسْرَةِ إِذْ قُضِيَ الْأَمْرُ وَهُمْ فِي غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+      "verseStringB": "And warn them of the day of Regret,ᵃ when the matter is decided. And they are (now) in negligence and they believe not."
+    },
+    {
+      "verseNumber": 40,
+      "verseString": "إِنَّا نَحْنُ نَرِثُ الْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ",
+      "verseStringB": "Surely We inherit the earth and those thereon, and to Us they are returned."
+    },
+    {
+      "verseNumber": 41,
+      "verseString": "وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ ۚ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا",
+      "verseStringB": "And mention Abraham in the Book. Surely he was a truthful man, a prophet."
+    },
+    {
+      "verseNumber": 42,
+      "verseString": "إِذْ قَالَ لِأَبِيهِ يَا أَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِي عَنْكَ شَيْئًا",
+      "verseStringB": "When he said to his sire: O my sire, why worshippest thou that which hears not, nor sees, nor can it avail thee aught?"
+    },
+    {
+      "verseNumber": 43,
+      "verseString": "يَا أَبَتِ إِنِّي قَدْ جَاءَنِي مِنَ الْعِلْمِ مَا لَمْ يَأْتِكَ فَاتَّبِعْنِي أَهْدِكَ صِرَاطًا سَوِيًّا",
+      "verseStringB": "O my sire, to me indeed has come the knowledge which has not come to thee; so follow me, I will guide thee on a right path."
+    },
+    {
+      "verseNumber": 44,
+      "verseString": "يَا أَبَتِ لَا تَعْبُدِ الشَّيْطَانَ ۖ إِنَّ الشَّيْطَانَ كَانَ لِلرَّحْمَٰنِ عَصِيًّا",
+      "verseStringB": "O my sire, serve not the devil. Surely the devil is disobedient to the Beneficent."
+    },
+    {
+      "verseNumber": 45,
+      "verseString": "يَا أَبَتِ إِنِّي أَخَافُ أَنْ يَمَسَّكَ عَذَابٌ مِنَ الرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَانِ وَلِيًّا",
+      "verseStringB": "O my sire, surely I fear lest a punishment from the Beneficent should afflict thee, so that thou become a friend of the devil."
+    },
+    {
+      "verseNumber": 46,
+      "verseString": "قَالَ أَرَاغِبٌ أَنْتَ عَنْ آلِهَتِي يَا إِبْرَاهِيمُ ۖ لَئِنْ لَمْ تَنْتَهِ لَأَرْجُمَنَّكَ ۖ وَاهْجُرْنِي مَلِيًّا",
+      "verseStringB": "He said: Dislikest thou my gods, O Abraham? If thou desist not, I will certainly drive thee away. And leave me for a time."
+    },
+    {
+      "verseNumber": 47,
+      "verseString": "قَالَ سَلَامٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّي ۖ إِنَّهُ كَانَ بِي حَفِيًّا",
+      "verseStringB": "He said: Peace be to thee! I shall pray my Lord to forgive thee. Surely He is ever Kind to me."
+    },
+    {
+      "verseNumber": 48,
+      "verseString": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ وَأَدْعُو رَبِّي عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا",
+      "verseStringB": "And I withdraw from you and that which you call on besides Allāh, and I call upon my Lord. Maybe I shall not remain unblessed in calling upon my Lord."
+    },
+    {
+      "verseNumber": 49,
+      "verseString": "فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ وَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا",
+      "verseStringB": "So, when he withdrew from them and that which they worshipped besides Allāh, We gave him Isaac and Jacob. And each (of them) We made a prophet.ᵃ"
+    },
+    {
+      "verseNumber": 50,
+      "verseString": "وَوَهَبْنَا لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا",
+      "verseStringB": "And We gave them of Our mercy, and We granted them a truthful mention of eminence.ᵃ"
+    },
+    {
+      "verseNumber": 51,
+      "verseString": "وَاذْكُرْ فِي الْكِتَابِ مُوسَىٰ ۚ إِنَّهُ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَبِيًّا",
+      "verseStringB": "And mention Moses in the Book. Surely he was one purified, and was a messenger, a prophet.ᵃ"
+    },
+    {
+      "verseNumber": 52,
+      "verseString": "وَنَادَيْنَاهُ مِنْ جَانِبِ الطُّورِ الْأَيْمَنِ وَقَرَّبْنَاهُ نَجِيًّا",
+      "verseStringB": "And We called to him from the blessed side of the mountain, and We made him draw nigh in communion."
+    },
+    {
+      "verseNumber": 53,
+      "verseString": "وَوَهَبْنَا لَهُ مِنْ رَحْمَتِنَا أَخَاهُ هَارُونَ نَبِيًّا",
+      "verseStringB": "And We gave him out of Our mercy his brother Aaron, a prophet."
+    },
+    {
+      "verseNumber": 54,
+      "verseString": "وَاذْكُرْ فِي الْكِتَابِ إِسْمَاعِيلَ ۚ إِنَّهُ كَانَ صَادِقَ الْوَعْدِ وَكَانَ رَسُولًا نَبِيًّا",
+      "verseStringB": "And mention Ishmael in the Book. Surely he was truthful in promise, and he was a messenger, a prophet.ᵃ"
+    },
+    {
+      "verseNumber": 55,
+      "verseString": "وَكَانَ يَأْمُرُ أَهْلَهُ بِالصَّلَاةِ وَالزَّكَاةِ وَكَانَ عِنْدَ رَبِّهِ مَرْضِيًّا",
+      "verseStringB": "And he enjoined on his people prayer and almsgiving, and was one in whom his Lord was well pleased."
+    },
+    {
+      "verseNumber": 56,
+      "verseString": "وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ ۚ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا",
+      "verseStringB": "And mention Idris in the Book. Surely he was a truthful man, a prophet,"
+    },
+    {
+      "verseNumber": 57,
+      "verseString": "وَرَفَعْنَاهُ مَكَانًا عَلِيًّا",
+      "verseStringB": "And We raised him to an elevated state.ᵃ"
+    },
+    {
+      "verseNumber": 58,
+      "verseString": "أُولَٰئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ مِنْ ذُرِّيَّةِ آدَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِنْ ذُرِّيَّةِ إِبْرَاهِيمَ وَإِسْرَائِيلَ وَمِمَّنْ هَدَيْنَا وَاجْتَبَيْنَا ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُ الرَّحْمَٰنِ خَرُّوا سُجَّدًا وَبُكِيًّا ۩",
+      "verseStringB": "These are they on whom Allāh bestowed favours, from among the prophets, of the seed of Adam, and of those whom We carried with Noah, and of the seed of Abraham and Israel, and of those whom We guided and chose. When the messages of the Beneficent were recited to them, they fell down in submission, weeping.ᵃ"
+    },
+    {
+      "verseNumber": 59,
+      "verseString": "فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلَاةَ وَاتَّبَعُوا الشَّهَوَاتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا",
+      "verseStringB": "But there came after them an evil generation, who wasted prayers and followed lusts, so they will meet perdition,"
+    },
+    {
+      "verseNumber": 60,
+      "verseString": "إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ شَيْئًا",
+      "verseStringB": "Except those who repent and believe and do good — such will enter the Garden, and they will not be wronged in aught:"
+    },
+    {
+      "verseNumber": 61,
+      "verseString": "جَنَّاتِ عَدْنٍ الَّتِي وَعَدَ الرَّحْمَٰنُ عِبَادَهُ بِالْغَيْبِ ۚ إِنَّهُ كَانَ وَعْدُهُ مَأْتِيًّا",
+      "verseStringB": "Gardens of perpetuity which the Beneficent has promised to His servants in the Unseen. Surely His promise ever comes to pass."
+    },
+    {
+      "verseNumber": 62,
+      "verseString": "لَا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَامًا ۖ وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا",
+      "verseStringB": "They will hear therein no vain discourse, but only, Peace! And they have their sustenance therein, morning and evening.ᵃ"
+    },
+    {
+      "verseNumber": 63,
+      "verseString": "تِلْكَ الْجَنَّةُ الَّتِي نُورِثُ مِنْ عِبَادِنَا مَنْ كَانَ تَقِيًّا",
+      "verseStringB": "This is the Garden which We cause those of Our servants to inherit who keep their duty.ᵃ"
+    },
+    {
+      "verseNumber": 64,
+      "verseString": "وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّا",
+      "verseStringB": "And we descend not but by the command of thy Lord. To Him belongs what is before us and what is behind us and what is between these, and thy Lord is never forgetful.ᵃ"
+    },
+    {
+      "verseNumber": 65,
+      "verseString": "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا فَاعْبُدْهُ وَاصْطَبِرْ لِعِبَادَتِهِ ۚ هَلْ تَعْلَمُ لَهُ سَمِيًّا",
+      "verseStringB": "Lord of the heavens and the earth and what is between them, so serve Him and be patient in His service. Knowest thou any one equal to Him?"
+    },
+    {
+      "verseNumber": 66,
+      "verseString": "وَيَقُولُ الْإِنْسَانُ أَإِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا",
+      "verseStringB": "And says man: When I am dead, shall I truly be brought forth alive?"
+    },
+    {
+      "verseNumber": 67,
+      "verseString": "أَوَلَا يَذْكُرُ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ قَبْلُ وَلَمْ يَكُ شَيْئًا",
+      "verseStringB": "Does not man remember that We created him before, when he was nothing?"
+    },
+    {
+      "verseNumber": 68,
+      "verseString": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَالشَّيَاطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّا",
+      "verseStringB": "So by thy Lord! We shall certainly gather them together and the devils, then shall We bring them around hell on their knees.ᵃ"
+    },
+    {
+      "verseNumber": 69,
+      "verseString": "ثُمَّ لَنَنْزِعَنَّ مِنْ كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى الرَّحْمَٰنِ عِتِيًّا",
+      "verseStringB": "Then We shall draw forth from every sect those most rebellious against the Beneficent."
+    },
+    {
+      "verseNumber": 70,
+      "verseString": "ثُمَّ لَنَحْنُ أَعْلَمُ بِالَّذِينَ هُمْ أَوْلَىٰ بِهَا صِلِيًّا",
+      "verseStringB": "Again, We certainly know best those who deserve most to be burned therein."
+    },
+    {
+      "verseNumber": 71,
+      "verseString": "وَإِنْ مِنْكُمْ إِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَقْضِيًّا",
+      "verseStringB": "And there is not one of you but shall come to it. This is an unavoidable decree of thy Lord.ᵃ"
+    },
+    {
+      "verseNumber": 72,
+      "verseString": "ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوْا وَنَذَرُ الظَّالِمِينَ فِيهَا جِثِيًّا",
+      "verseStringB": "And We shall deliver those who guard against evil,ᵃ and leave the wrongdoers therein on their knees.ᵇ"
+    },
+    {
+      "verseNumber": 73,
+      "verseString": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَيُّ الْفَرِيقَيْنِ خَيْرٌ مَقَامًا وَأَحْسَنُ نَدِيًّا",
+      "verseStringB": "And when Our clear messages are recited to them, those who disbelieve say to those who believe: Which of the two parties is better in position and better in assembly?ᵃ"
+    },
+    {
+      "verseNumber": 74,
+      "verseString": "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ أَحْسَنُ أَثَاثًا وَرِئْيًا",
+      "verseStringB": "And how many a generation have We destroyed before them, who had better possessions and appearance!"
+    },
+    {
+      "verseNumber": 75,
+      "verseString": "قُلْ مَنْ كَانَ فِي الضَّلَالَةِ فَلْيَمْدُدْ لَهُ الرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ إِمَّا الْعَذَابَ وَإِمَّا السَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَكَانًا وَأَضْعَفُ جُنْدًا",
+      "verseStringB": "Say: As for him who is in error, the Beneficent will prolong his length of days; until they see what they were threatened with, either the punishment or the Hour.ᵃ Then they will know who is worse in position and weaker in forces.ᵇ"
+    },
+    {
+      "verseNumber": 76,
+      "verseString": "وَيَزِيدُ اللَّهُ الَّذِينَ اهْتَدَوْا هُدًى ۗ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ مَرَدًّا",
+      "verseStringB": "And Allāh increases in guidance those who go aright. And deeds that endure, the good deeds, are, with thy Lord, better in recompense and yield better return."
+    },
+    {
+      "verseNumber": 77,
+      "verseString": "أَفَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا",
+      "verseStringB": "Hast thou seen him who dis - believes in Our messages and says: I shall certainly be given wealth and children?ᵃ"
+    },
+    {
+      "verseNumber": 78,
+      "verseString": "أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا",
+      "verseStringB": "Has he gained knowledge of the unseen, or made a covenant with the Beneficent?"
+    },
+    {
+      "verseNumber": 79,
+      "verseString": "كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُ مِنَ الْعَذَابِ مَدًّا",
+      "verseStringB": "By no means! We write down what he says, and We shall lengthen to him the length of the chastisement,"
+    },
+    {
+      "verseNumber": 80,
+      "verseString": "وَنَرِثُهُ مَا يَقُولُ وَيَأْتِينَا فَرْدًا",
+      "verseStringB": "And We shall inherit from him what he says, and he will come to Us alone.ᵃ"
+    },
+    {
+      "verseNumber": 81,
+      "verseString": "وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لِيَكُونُوا لَهُمْ عِزًّا",
+      "verseStringB": "And they have taken gods besides Allāh, that they should be to them a source of strength —"
+    },
+    {
+      "verseNumber": 82,
+      "verseString": "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا",
+      "verseStringB": "By no means! They will soon deny their worshipping them, and be their adversaries."
+    },
+    {
+      "verseNumber": 83,
+      "verseString": "أَلَمْ تَرَ أَنَّا أَرْسَلْنَا الشَّيَاطِينَ عَلَى الْكَافِرِينَ تَؤُزُّهُمْ أَزًّا",
+      "verseStringB": "Seest thou not that We send the devils against the disbelievers, inciting them incitingly?"
+    },
+    {
+      "verseNumber": 84,
+      "verseString": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّا",
+      "verseStringB": "So make no haste against them. We only number out to them a number (of days).ᵃ"
+    },
+    {
+      "verseNumber": 85,
+      "verseString": "يَوْمَ نَحْشُرُ الْمُتَّقِينَ إِلَى الرَّحْمَٰنِ وَفْدًا",
+      "verseStringB": "The day when We gather the dutiful to the Beneficent to receive honours,ᵃ"
+    },
+    {
+      "verseNumber": 86,
+      "verseString": "وَنَسُوقُ الْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا",
+      "verseStringB": "And drive the guilty to hell, as thirsty beasts.ᵃ"
+    },
+    {
+      "verseNumber": 87,
+      "verseString": "لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا",
+      "verseStringB": "They have no power of intercession, save him who has made a covenant with the Beneficent."
+    },
+    {
+      "verseNumber": 88,
+      "verseString": "وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا",
+      "verseStringB": "And they say: The Beneficent has taken to Himself a son."
+    },
+    {
+      "verseNumber": 89,
+      "verseString": "لَقَدْ جِئْتُمْ شَيْئًا إِدًّا",
+      "verseStringB": "Certainly you make an abomInᵃ ble assertion!"
+    },
+    {
+      "verseNumber": 90,
+      "verseString": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا",
+      "verseStringB": "The heavens may almost be rent thereat, and the earth cleave asunder, and the mountains fall down in pieces,"
+    },
+    {
+      "verseNumber": 91,
+      "verseString": "أَنْ دَعَوْا لِلرَّحْمَٰنِ وَلَدًا",
+      "verseStringB": "That they ascribe a son to the Beneficent!"
+    },
+    {
+      "verseNumber": 92,
+      "verseString": "وَمَا يَنْبَغِي لِلرَّحْمَٰنِ أَنْ يَتَّخِذَ وَلَدًا",
+      "verseStringB": "And it is not worthy of the Beneficent that He should take to Himself a son.ᵃ"
+    },
+    {
+      "verseNumber": 93,
+      "verseString": "إِنْ كُلُّ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي الرَّحْمَٰنِ عَبْدًا",
+      "verseStringB": "There is none in the heavens and the earth but comes to the Beneficent as a servant."
+    },
+    {
+      "verseNumber": 94,
+      "verseString": "لَقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدًّا",
+      "verseStringB": "Certainly He comprehends them, and has numbered them all."
+    },
+    {
+      "verseNumber": 95,
+      "verseString": "وَكُلُّهُمْ آتِيهِ يَوْمَ الْقِيَامَةِ فَرْدًا",
+      "verseStringB": "And everyone of them will come to Him on the day of Resurrection, alone."
+    },
+    {
+      "verseNumber": 96,
+      "verseString": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا",
+      "verseStringB": "Those who believe and do good deeds, for them the Beneficent will surely bring about love.ᵃ"
+    },
+    {
+      "verseNumber": 97,
+      "verseString": "فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ الْمُتَّقِينَ وَتُنْذِرَ بِهِ قَوْمًا لُدًّا",
+      "verseStringB": "So We have made it easy in thy tongue only that thou shouldst give good news thereby to those who guard against evil, and shouldst warn thereby a contentious people."
+    },
+    {
+      "verseNumber": 98,
+      "verseString": "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هَلْ تُحِسُّ مِنْهُمْ مِنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًا",
+      "verseStringB": "And how many a generation before them have We destroyed! Canst thou see anyone of them or hear a sound of them"
+    }
+  ],
+  "nameEnglish": "Mary",
+  "nameTrans": "Maryam",
+  "nameArabic": "مريم",
+  "chapterNumber": 19,
+  "nVerses": 98,
+  "footnotes": [
+    {
+      "note": "1a. Kåf stands for Kåf-in, Sufficient, hå for Håd-in, Guide, yå for Yamßn, Blessed,  ‘ain for ‘Alßm, Knowing, and ©åd for ˝ådiq, Truthful. Yå has also been interpreted as  being a letter of interjection, meaning O, but according to JA, yå stands for Yamßn, One  possessing yumn or blessings /n/n 5a. His fear was due to their not leading righteous lives, and he feared there would  be none to lead people into the ways of righteousness after him.   /n/n 6a. The inheritance of the Children of Jacob is the inheritance of the Divine blessing   of prophethood, which had been promised to Jacob’s children. /n/n 7a. Samß means a competitor, or contender for superiority in eminence or glory;   hence also an equal, or a like. The word occurs again in this chapter in v. 65 and bears   the same meaning, not namesake, because there it is spoken about Allåh. It is not, of   course, meant that one like John or equal to him was never before created in the world.   According to the Gospels: “Among them that are born of women, there hath not risen a   greater than John the Baptist” (Matt. 11:11). The meaning is that one like him was not   born in Zacharias’ family, because in the previous verse it is his own relatives about   whom Zacharias says that he feared, and therefore an assurance was now given to him that the promised son would not be like the other members of his family whom he   feared. Or the meaning may be, that one like him had not appeared in that age. /n/n 10a. The word lail, i.e., night, is interpreted as including the day, as yaum, or day,   includes the night. Moreover, in 3:41 the words are three days, thus showing that three   days and three nights are meant. It should also be noted that the Qur’ån does not support   the idea that Zacharias was struck dumb, because it speaks of him as being in sound   health. The object of assuming silence was to be engaged solely in prayer to the Divine   Being, and hence Zacharias told his people also to glorify God; see also 3:41a.  /n/n 14a. The various aspects of the character of John deserve to be noted. He was pure   and sinless and never disobeyed God. In fact, what is said of one prophet is equally true   of all. They are all pure from birth, and never disobey God.  /n/n 17a. This shows that it was in a vision that the spirit came, and the conversation that   follows also took place in a vision. The word tamaththala (“it appeared”) used here   lends support to this, for the word signifies assuming the likeness of another thing, and   this happens only in a vision. Further the spirit or angel of God appears to His chosen   ones only in a vision, and angels are not seen by the physical eye.  /n/n 19a. The words I will give thee a pure boy are the words of the message. The Spirit,   in fact, only conveyed the Divine message, as it always does. Every word of the Holy   Qur’ån is the word of God, but every word was delivered to the Prophet by the angel.  /n/n 21a. Jesus was a sign to men, in the sense that he was made a prophet, and every   prophet is a sign, because the Divine revelation which is granted to him affords a clear   proof of the existence of the Divine Being. Or, he was a sign to the Israelites in particular, because with him prophethood came to an end among the Israelites. /n/n 21b. She conceived him in the ordinary way in which women conceive children; see   3:44a. /n/n 23a. This shows that Mary gave birth to Jesus while on a journey; hence the reference to water and food in vv. 24 and 25, such as one can only find in a journey. That she   was going to a distant place is shown by v. 22. She may have had recourse to the trunk   of a palm-tree to find a support in the throes of childbirth. /n/n 23b. Mary gave birth to Jesus under the ordinary circumstances which women experience in giving birth to children. The throes of childbirth were too severe for her to   bear, and hence she gave utterance to such words. The reference to the throes of childbirth clearly shows that an ordinary human child was coming into the world. Or, there   may be a reference to Gen. 3:16, in sorrow thou shalt bring forth children.  /n/n 25a. The Qur’ån does not accept that Jesus was born on 25th December. It was the   time when fresh ripe dates are found on palm-trees. It is now a recognized fact that the   25th of December was not Jesus’ birthday. Bishop Barnes says in the Rise of   Christianity: “There is, moreover, no authority for the belief that December 25 was the   actual birthday of Jesus. If we can give any credence to the birth-story of Luke, with the   shepherds keeping watch by night in the fields near Bethlehem, the birth of Jesus did not   take place in winter, when the night temperature is so low in the hill country of Judaea   that snow is not uncommon. After much argument our Christmas day seems to   have been accepted about A.D. 300” (p. 79). Bishop Barnes then goes on to relate that   the 25th of December was taken from the Persian cult, Mithra being the God of the   invincible sun: “And his festal day was suitably that on which, after the winter solstice,   the sun again began clearly to show his strength”. /n/n 26a. It was really a kind of fast. Zacharias, as we have already seen, was told not to   speak to people for three days /n/n 27a. The conversation that is related to have taken place in the verses that follow is   alone sufficient to make it clear that the coming of Mary to her people with her son, as stated in this verse, relates to a time when Jesus had grown sufficiently old to have been   raised to the dignity of a prophet, and to have received Divine revelation, as he speaks of   having been given the book in v. 30. The commentators, merely because the verse   follows one in which the birth of Jesus is spoken of, understand the incident to relate to a   time when Jesus was still a baby. But it should be noted that the Holy Qur’ån does not   relate stories in all their details, and often omits a number of incidents which are not   needed for its purpose. Compare, for instance, the 11th and 12th verses, the first of which   relates only Zacharias’ receiving the joyful news of a son, while the second asks that son   to take hold of the Book with strength. Jesus could only say that he was made a prophet,   when he was actually entrusted with the mission of a prophet, and not before, and Jesus’   address to his people, as related in vv. 30 and 31, clearly shows that he had already been   entrusted with that mission. Moreover, it is unreasonable to suppose that, as soon as Mary   gave birth to the child, she took it to her people to make a show of it. The Qur’ån, v. 22,   states that she was then going to some remote place, and thus the incident related here   could not have taken place immediately after the delivery. The word carrying does not   show that she was carrying him in her arms; it means that he was being carried on an   animal. Compare 9:92, where some of the companions are spoken of as coming to the   Prophet that he might carry them, and he is related as saying in reply that he had not that   on which to carry them. Compare Matt. 21:1– 7. There the story is related of Jesus entering Jerusalem riding an ass, or an ass and a colt: “And brought the ass and the colt, and   put on them their clothes, and they set him thereon” (Matt. 21:7). /n/n 27b. The reference in Mary’s bringing a strange thing may be to her having given   birth to a son who claimed greater authority than the elders of Israel, with a deeper hint   to the calumny against her, for which see 4:156a. But the word farß also signifies a forger of lies. It is remarkable that in his reply Jesus does not make a single reference to the   circumstances of his birth. Hence the inference is quite reasonable that the question,   whichever significance of the words may be taken, was directed against the mission of   Jesus and not against the circumstances relating to his birth. /n/n 28a. As shown in 3:35a, Mary belonged to the priestly class, as Wherry also admits,   “because she was of the Levitical race, as by her being related to Elizabeth it would seem she   was,” and therefore she is rightly called ukht Hår∂n, or sister of Aaron, the word ukht being   by no means limited to the close blood-relationship like its equivalent in English; see 3:35a   for further explanation. IJ relates the following incident: ˝afiyyah (the Prophet’s wife) came   to the Messenger of Allåh (may peace and the blessings of Allåh be upon him!) and said:   “The women say to me, a Jewess, daughter of two Jews”. He said to her: “Why didst thou   not say: Surely my father is Aaron and my uncle is Moses and my husband is Mu√ammad?” /n/n 29a. Old and learned Jews would no doubt speak of a young man who was born and   brought up before their eyes as a child in the cradle, as if disdaining to address one so   young. See what follows, vv. 30, 31, wherein it is made quite clear that the incident   mentioned here relates to a time when Jesus was a grown-up man. /n/n 30a. It is clear that this conversation did not take place when Jesus was an infant in   the cradle, but when he had actually been made a prophet. /n/n 31a. It is absurd to suppose that prayers and alms were enjoined on Jesus while he   was only a day old and that he really observed these injunctions at that age. In fact,   Jesus’ answer clearly shows that he was addressing his people after he had been entrusted with the mission of prophethood. /n/n 32a. Here only the mother is spoken of, whereas in a similar case in v. 14 John is   spoken of as being kind to both parents. This may be due to the fact that Joseph may not   have been living at the time when Jesus spoke these words. Joseph was already an old   man when he married Mary, and by the time that the ministry of Jesus begins we find no   mention of him even in the Gospels, the mother and brothers being the only relations   mentioned. Or, the mother alone is mentioned because the Gospels relate an incident   showing that Jesus was rude to his mother (Matt. 12:48), and this verse disproves the   statement, it being one of the objects of the Qur’ån to clear Jesus of all false charges.  /n/n 36a. According to Matthew, when Jesus was tempted of the devil, who asked him to   worship him, Jesus’ reply was: “For it is written, Thou shalt worship the Lord thy God,   and Him only shalt thou serve” (Matt. 4:10).  /n/n 39a. The day of Judgment is here called the day of Regret, because man will then   regret that he wasted the opportunity given to him to work for his own good.  /n/n 49a. It is elsewhere made clear that Jacob was his grandson (11:71; 21:72). Nor   should it be supposed that giving signifies only the giving of a son, for of Moses it is   said a few verses further on, We gave him his brother Aaron, a prophet, though Aaron   was older than Moses.  /n/n 50a. The literal significance is, We made for them the tongue of truth to be lofty. As   the tongue is the vehicle of expression, therefore lisåna ©idq-in stands for a truthful   mention. However humble a life a prophet may lead, he is granted an eminence among   later generations, but the distinguishing characteristic of a prophet is that his record of   eminence is a truthful one. /n/n 51a. Ras∂l, or messenger, means one who is sent with a message for the regeneration of men, while nabß, or prophet, is one who has the gift of prophecy, i.e., who   receives a naba’ or information from on high. The elect who are chosen for the   regenera tion of man are called prophets as receiving knowledge from Allåh, and   messengers as delivering to humanity the messages they receive.  /n/n 54a. Ishmael was a prophet. When Abraham prayed to the Lord “that Ishmael might   live before Thee” (Gen. 17:18), the reply was: “And as for Ishmael, I have heard thee”   (Gen. 17:20), which shows that Ishmael was made a prophet; see 2:124a, 125c. In the   Holy Qur’ån Ishmael is mentioned by name on the following occasions as one of the   prophets: 2:125, 127– 129, 133, 136, 140; 6:86; 19:54, 55; 21:85; 38:48; while he is   referred to in 37:101– 107.  /n/n 57a. Idrßs is the same as Enoch. The word raf‘, which is used of Jesus, is also used   of Enoch, and some commentators therefore misinterpret the words as indicating that   Enoch was taken up to heaven alive. But the same mistake is made in both cases, for   raf‘ signifies raising to high dignity; see 3:55b. The mistake seems to have arisen from   what is said of Enoch in the Bible. Thus, in Gen. 5:24: “And Enoch walked with God,   and he was not, for God took him”. The New Testament is plainer yet: “By faith Enoch   was translated that he should not see death; and was not found, because God had translated him” (Heb. 11:5). Only once again is he mentioned in the Holy Qur’ån, viz., in   21:85.  /n/n 58a. Here the reciter prostrates himself; see 7:206a.  /n/n 62a. This description of the Hereafter is really to show that the Muslim in this world   talks of nothing but peace. Islåm is really peace, and it is by making peace here with the   Creator and His creatures that one can find peace hereafter. This is the great truth underlying the Islamic idea of paradise, for of paradise it is frequently stated in the Holy   Qur’ån that there will be nothing but peace therein.  /n/n 63a. The state of perfect peace spoken of in the previous verse is here called the   Garden which the righteous will inherit.  /n/n 64a. The words, we descend not, are generally understood to refer to the coming of   angels with Divine revelation. There is no doubt that the reference here is to the revelation of the Holy Prophet, the significance being that, as the angels brought revelation to   previous prophets, so they now bring revelation, by the command of the Lord, to the   Holy Prophet Mu√ammad. The concluding words of the verse, thy Lord is never forgetful, signify that the promises and prophecies made by God through His prophets could   not be forgotten. Thus an account of the previous prophets is concluded with a reference   to the revelation of the Holy Prophet, and this is the subject dealt with in the remaining   sections of the chapter.   Some, however, think that these are the words of the faithful, which they will speak   when they enter paradise (Rz). /n/n 68a. The devils here are clearly those who lead others to evil. /n/n 71a. The wicked only are spoken of, as the context shows clearly. That the righteous   will not go to hell is made clear further on: “The day when We gather the dutiful to the   Beneficent to receive honours, and drive the guilty to hell, as thirsty beasts” (vv. 85, 86).   According to 21:102, the righteous will not hear the faintest sound of hell.  /n/n 72a. For the meaning of thumma, the first word of v. 72, see 2:29a. It is wrong to   suppose that the righteous will be first cast into hell and then delivered; see 71a.  /n/n 72b. Compare v. 68, where it is said that the guilty will be brought to hell on their   knees /n/n 73a. That is, they are proud of their great wealth and numerous forces.  /n/n 75a. The Hour signifies the hour of doom, the time of destruction, when their power   will be utterly destroyed. The ‘adhåb, in comparison with the doom, signifies a lighter   punishment.  /n/n 75b. In these words it is clearly indicated that the time will come when they will   find themselves in an evil condition, and their forces weaker than the forces of Truth.  /n/n 77a. They have no eye for the higher values of life; all they want is wealth and children /n/n 80a. The reference is to his saying in v. 77: “I shall certainly be given wealth and   children”. God’s inheriting thus means that their wealth and children will be taken away   from them and ultimately be a source of strength to Islåm.  /n/n 84a. Because their doom is already decreed.  /n/n 85a. Wafd is a party coming to a king to receive honours (R, LA). /n/n 86a. Wird signifies coming to or arriving at water (LL); hence it signifies thirsty,   because thirsty beasts are driven to water.  /n/n 92a. The five verses 89– 93 contain a most emphatic and clear condemnation of the   Christian doctrine of the Godhead of Jesus Christ. It may be noted that this chapter   belongs to about the fifth year of the Holy Prophet’s mission, as portions of it were read   out before the Negus by Ja‘far, who was the head of the Muslim immigrants to   Abyssinia. Thus Islåm had set before itself from the very first the grand object of the   reformation of Christianity. The particular point on which stress is laid in this chapter, as   against the fundamental errors of the Christian religion, Sonship and Atonement, is that   God is Ra√mån (Beneficent), and does not require any compensation to forgive sinners.   It is for this reason that the name Ra√mån, in preference to all other names of the Divine   Being, is mentioned over and over again in this chapter, and the key to the whole position is contained in v. 92 in the words: It is not worthy of the Beneficent that He should   take to Himself a son. In fact, the doctrine of Atonement is contradicted by Christ’s own   words in the Lord’s prayer: “And forgive us our debts as we forgive our debtors” (Matt.   6:12). A man is said to forgive his debtor when he remits the debt and does not exact   any compensation. Even thus does God forgive the sinners; He needs no compensation.  /n/n 96a. Allåh’s bringing about love for the righteous means that He loves them Himself   and inspires love for them in the hearts of other people, while they also love Allåh as well   as their fellow-beings. The righteous servants of God are opposed at first, but gradually   their goodness prevails and they are loved and admired. There is a prophetic reference here   to the great love with which the hearts of the enemies of the Prophet were to be inspired in   the near future, and even today the hearts of men are being inspired with greater and   greater love for him as the world witnesses the good which he did to humanity."
+    }
+  ]
+}

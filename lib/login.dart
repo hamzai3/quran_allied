@@ -5,11 +5,8 @@ import 'package:quran_app/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:quran_app/foreword.dart';
-
 import 'dart:convert';
 import 'dart:io';
-import 'package:cloud_firestore/cloud_firestore.dart';
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:quran_app/register.dart';
 
@@ -31,7 +28,6 @@ class _LoginState extends State<Login> {
   // ignore: non_constant_identifier_names
   List data = [];
   bool _loading = false;
-  CollectionReference users = FirebaseFirestore.instance.collection('users');
   final FirebaseAuth _auth = FirebaseAuth.instance;
   Future signInWithEmailAndPassword(
     email,

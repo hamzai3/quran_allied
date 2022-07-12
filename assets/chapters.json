@@ -1,47 +1,47 @@
 {
     "chapters": [
         {
-            "chapter": "001",
+            "chapter": "1",
             "eng_title": "Al-Fatihah",
             "arabic_tlte": "الفاتحة"
         },
         {
-            "chapter": "002",
+            "chapter": "2",
             "eng_title": "Al-Baqarah",
             "arabic_tlte": "اﻟﺒﻘﺮﺓ"
         },
         {
-            "chapter": "003",
+            "chapter": "3",
             "eng_title": "Aale-Imran",
             "arabic_tlte": "اۤل عمران"
         },
         {
-            "chapter": "004",
+            "chapter": "4",
             "eng_title": "An-Nisa",
             "arabic_tlte": "اﻟﻨﺴﺄ"
         },
         {
-            "chapter": "005",
+            "chapter": "5",
             "eng_title": "Al-Maidah",
             "arabic_tlte": "المائدة"
         },
         {
-            "chapter": "006",
+            "chapter": "6",
             "eng_title": "Al-Anam",
             "arabic_tlte": "الأنعام"
         },
         {
-            "chapter": "007",
+            "chapter": "7",
             "eng_title": "Al-Araf",
             "arabic_tlte": "الأعراف"
         },
         {
-            "chapter": "008",
+            "chapter": "8",
             "eng_title": "Al-Anfal",
             "arabic_tlte": "الأنفال"
         },
         {
-            "chapter": "009",
+            "chapter": "9",
             "eng_title": "At-Tawbah",
             "arabic_tlte": "التوبة"
         },
@@ -51,452 +51,452 @@
             "arabic_tlte": "يونس"
         },
         {
-            "chapter": "011",
+            "chapter": "11",
             "eng_title": "Hud",
             "arabic_tlte": "هود"
         },
         {
-            "chapter": "012",
+            "chapter": "12",
             "eng_title": "Yusuf",
             "arabic_tlte": "يوسف"
         },
         {
-            "chapter": "013",
+            "chapter": "13",
             "eng_title": "Ar-Rad",
             "arabic_tlte": "الرعد"
         },
         {
-            "chapter": "014",
+            "chapter": "14",
             "eng_title": "Ibrahim",
             "arabic_tlte": "ابراهيم"
         },
         {
-            "chapter": "015",
+            "chapter": "15",
             "eng_title": "Al-Hijr",
             "arabic_tlte": "الحجر"
         },
         {
-            "chapter": "016",
+            "chapter": "16",
             "eng_title": "An-Nahl",
             "arabic_tlte": "النحل"
         },
         {
-            "chapter": "017",
+            "chapter": "17",
             "eng_title": "Al-Isra",
             "arabic_tlte": "الإسرﺃ"
         },
         {
-            "chapter": "018",
+            "chapter": "18",
             "eng_title": "Al-Kahf",
             "arabic_tlte": "الكهف"
         },
         {
-            "chapter": "019",
+            "chapter": "19",
             "eng_title": "Maryam",
             "arabic_tlte": "مريم"
         },
         {
-            "chapter": "020",
+            "chapter": "20",
             "eng_title": "Taha",
             "arabic_tlte": "طه"
         },
         {
-            "chapter": "021",
+            "chapter": "21",
             "eng_title": "Al-Anbiya",
             "arabic_tlte": "اﻷﻧﺒﻴﺄ"
         },
         {
-            "chapter": "022",
+            "chapter": "22",
             "eng_title": "Al-Hajj",
             "arabic_tlte": "الحج"
         },
         {
-            "chapter": "023",
+            "chapter": "23",
             "eng_title": "Al-Muminun",
             "arabic_tlte": "المؤمنون"
         },
         {
-            "chapter": "024",
+            "chapter": "24",
             "eng_title": "An-Nur",
             "arabic_tlte": "النور"
         },
         {
-            "chapter": "025",
+            "chapter": "25",
             "eng_title": "Al-Furqan",
             "arabic_tlte": "الفرقان"
         },
         {
-            "chapter": "026",
+            "chapter": "26",
             "eng_title": "Ash-Shuara",
             "arabic_tlte": "الشعرﺃ"
         },
         {
-            "chapter": "027",
+            "chapter": "27",
             "eng_title": "An-Naml",
             "arabic_tlte": "النمل"
         },
         {
-            "chapter": "028",
+            "chapter": "28",
             "eng_title": "Al-Qasas",
             "arabic_tlte": "القصص"
         },
         {
-            "chapter": "029",
+            "chapter": "29",
             "eng_title": "Al-Ankabut",
             "arabic_tlte": "العنكبوت"
         },
         {
-            "chapter": "030",
+            "chapter": "30",
             "eng_title": "Ar-Rum",
             "arabic_tlte": "الروم"
         },
         {
-            "chapter": "031",
+            "chapter": "31",
             "eng_title": "Luqman",
             "arabic_tlte": "لقمان"
         },
         {
-            "chapter": "032",
+            "chapter": "32",
             "eng_title": "As-Sajdah",
             "arabic_tlte": "السجدة"
         },
         {
-            "chapter": "033",
+            "chapter": "33",
             "eng_title": "Al-Ahzab",
             "arabic_tlte": "الأحزاب"
         },
         {
-            "chapter": "034",
+            "chapter": "34",
             "eng_title": "Saba",
             "arabic_tlte": "ﺳﺒﺄ"
         },
         {
-            "chapter": "035",
+            "chapter": "35",
             "eng_title": "Fatir",
             "arabic_tlte": "الفاطر"
         },
         {
-            "chapter": "036",
+            "chapter": "36",
             "eng_title": "Yaseen",
             "arabic_tlte": "يٰسن"
         },
         {
-            "chapter": "037",
+            "chapter": "37",
             "eng_title": "As-Saffat",
             "arabic_tlte": "الصافات"
         },
         {
-            "chapter": "038",
+            "chapter": "38",
             "eng_title": "Saad",
             "arabic_tlte": "صۤ"
         },
         {
-            "chapter": "039",
+            "chapter": "39",
             "eng_title": "Az-Zumar",
             "arabic_tlte": "الزمر"
         },
         {
-            "chapter": "040",
+            "chapter": "40",
             "eng_title": "Al-Ghafir",
             "arabic_tlte": "غافر"
         },
         {
-            "chapter": "041",
+            "chapter": "41",
             "eng_title": "Fussilat",
             "arabic_tlte": "فصلت"
         },
         {
-            "chapter": "042",
+            "chapter": "42",
             "eng_title": "Ash-Shura",
             "arabic_tlte": "الشورى"
         },
         {
-            "chapter": "043",
+            "chapter": "43",
             "eng_title": "Az-Zukhruf",
             "arabic_tlte": "الزخرف"
         },
         {
-            "chapter": "044",
+            "chapter": "44",
             "eng_title": "Ad-Dukhan",
             "arabic_tlte": "الدخان"
         },
         {
-            "chapter": "045",
+            "chapter": "45",
             "eng_title": "Al-Jathiyah",
             "arabic_tlte": "الجاثية"
         },
         {
-            "chapter": "046",
+            "chapter": "46",
             "eng_title": "Al-Ahqaf",
             "arabic_tlte": "الأحقاف"
         },
         {
-            "chapter": "047",
+            "chapter": "47",
             "eng_title": "Al-Muhammad",
             "arabic_tlte": "محمد"
         },
         {
-            "chapter": "048",
+            "chapter": "48",
             "eng_title": "Al-Fath",
             "arabic_tlte": "الفتح"
         },
         {
-            "chapter": "049",
+            "chapter": "49",
             "eng_title": "Al-Hujurat",
             "arabic_tlte": "الحجرات"
         },
         {
-            "chapter": "050",
+            "chapter": "50",
             "eng_title": "Qaf",
             "arabic_tlte": "ق"
         },
         {
-            "chapter": "051",
+            "chapter": "51",
             "eng_title": "Adh-Dhariyat",
             "arabic_tlte": "الذاريات"
         },
         {
-            "chapter": "052",
+            "chapter": "52",
             "eng_title": "At-Tur",
             "arabic_tlte": "الطور"
         },
         {
-            "chapter": "053",
+            "chapter": "53",
             "eng_title": "An-Najm",
             "arabic_tlte": "النجم"
         },
         {
-            "chapter": "054",
+            "chapter": "54",
             "eng_title": "Al-Qamar",
             "arabic_tlte": "القمر"
         },
         {
-            "chapter": "055",
+            "chapter": "55",
             "eng_title": "Ar-Rahman",
             "arabic_tlte": "الرحمن"
         },
         {
-            "chapter": "056",
+            "chapter": "56",
             "eng_title": "Al-Waqiah",
             "arabic_tlte": "الواقعة"
         },
         {
-            "chapter": "057",
+            "chapter": "57",
             "eng_title": "Al-Hadid",
             "arabic_tlte": "الحديد"
         },
         {
-            "chapter": "058",
+            "chapter": "58",
             "eng_title": "Al-Mujadilah",
             "arabic_tlte": "المجادلة"
         },
         {
-            "chapter": "059",
+            "chapter": "59",
             "eng_title": "Al-Hashr",
             "arabic_tlte": "الحشر"
         },
         {
-            "chapter": "060",
+            "chapter": "60",
             "eng_title": "Al-Mumtahinah",
             "arabic_tlte": "الممتحنة"
         },
         {
-            "chapter": "061",
+            "chapter": "61",
             "eng_title": "As-Saf",
             "arabic_tlte": "الصف"
         },
         {
-            "chapter": "062",
+            "chapter": "62",
             "eng_title": "Al-Jumuah",
             "arabic_tlte": "الجمعة"
         },
         {
-            "chapter": "063",
+            "chapter": "63",
             "eng_title": "Al-Munafiqun",
             "arabic_tlte": "المنافقون"
         },
         {
-            "chapter": "064",
+            "chapter": "64",
             "eng_title": "At-Taghabun",
             "arabic_tlte": "التغابن"
         },
         {
-            "chapter": "065",
+            "chapter": "65",
             "eng_title": "Al-Talaq",
             "arabic_tlte": "الطلاق"
         },
         {
-            "chapter": "066",
+            "chapter": "66",
             "eng_title": "Al-Tahrim",
             "arabic_tlte": "التحريم"
         },
         {
-            "chapter": "067",
+            "chapter": "67",
             "eng_title": "Al-Mulk",
             "arabic_tlte": "الملك"
         },
         {
-            "chapter": "068",
+            "chapter": "68",
             "eng_title": "Al-Qalam",
             "arabic_tlte": "القلم"
         },
         {
-            "chapter": "069",
+            "chapter": "69",
             "eng_title": "Al-Haqqah",
             "arabic_tlte": "الحاقة"
         },
         {
-            "chapter": "070",
+            "chapter": "70",
             "eng_title": "Al-Maarij",
             "arabic_tlte": "المعارج"
         },
         {
-            "chapter": "071",
+            "chapter": "71",
             "eng_title": "Nuh",
             "arabic_tlte": "نوح"
         },
         {
-            "chapter": "072",
+            "chapter": "72",
             "eng_title": "Al-Jinn",
             "arabic_tlte": "الجن"
         },
         {
-            "chapter": "073",
+            "chapter": "73",
             "eng_title": "Al-Muzzammil",
             "arabic_tlte": "المزمل"
         },
         {
-            "chapter": "074",
+            "chapter": "74",
             "eng_title": "Al-Muddaththir",
             "arabic_tlte": "المدثر"
         },
         {
-            "chapter": "075",
+            "chapter": "75",
             "eng_title": "Al-Qiyamah",
             "arabic_tlte": "القيامة"
         },
         {
-            "chapter": "076",
+            "chapter": "76",
             "eng_title": "Al-Dahr",
             "arabic_tlte": "الإنسان"
         },
         {
-            "chapter": "077",
+            "chapter": "77",
             "eng_title": "Al-Mursalat",
             "arabic_tlte": "المرسلات"
         },
         {
-            "chapter": "078",
+            "chapter": "78",
             "eng_title": "Al-Naba",
             "arabic_tlte": "النبأ"
         },
         {
-            "chapter": "079",
+            "chapter": "79",
             "eng_title": "Al-Naziat",
             "arabic_tlte": "النازعات"
         },
         {
-            "chapter": "080",
+            "chapter": "80",
             "eng_title": "Al-Abasa",
             "arabic_tlte": "عبس"
         },
         {
-            "chapter": "081",
+            "chapter": "81",
             "eng_title": "Al-Takwir",
             "arabic_tlte": "التكوير"
         },
         {
-            "chapter": "082",
+            "chapter": "82",
             "eng_title": "Al-Infitar",
             "arabic_tlte": "الإنفتار"
         },
         {
-            "chapter": "083",
+            "chapter": "83",
             "eng_title": "Al-Mutaffifin",
             "arabic_tlte": "المطففين"
         },
         {
-            "chapter": "084",
+            "chapter": "84",
             "eng_title": "Al-Inshiqaq",
             "arabic_tlte": "اﻹنشقاق"
         },
         {
-            "chapter": "085",
+            "chapter": "85",
             "eng_title": "Al-Buruj",
             "arabic_tlte": "البروج"
         },
         {
-            "chapter": "086",
+            "chapter": "86",
             "eng_title": "Al-Tariq",
             "arabic_tlte": "الطارق"
         },
         {
-            "chapter": "087",
+            "chapter": "87",
             "eng_title": "Al-Aala",
             "arabic_tlte": "الأعلى"
         },
         {
-            "chapter": "088",
+            "chapter": "88",
             "eng_title": "Al-Ghashiyah",
             "arabic_tlte": "الغاشية"
         },
         {
-            "chapter": "089",
+            "chapter": "89",
             "eng_title": "Al-Fajr",
             "arabic_tlte": "الفجر"
         },
         {
-            "chapter": "090",
+            "chapter": "90",
             "eng_title": "Al-Balad",
             "arabic_tlte": "البلد"
         },
         {
-            "chapter": "091",
+            "chapter": "91",
             "eng_title": "Al-Shams",
             "arabic_tlte": "الشمس"
         },
         {
-            "chapter": "092",
+            "chapter": "92",
             "eng_title": "Al-Layl",
             "arabic_tlte": "الليل"
         },
         {
-            "chapter": "093",
+            "chapter": "93",
             "eng_title": "Al-Duha",
             "arabic_tlte": "الضحى"
         },
         {
-            "chapter": "094",
+            "chapter": "94",
             "eng_title": "Al-Inshirah",
             "arabic_tlte": "اﻹﻧﺸﺮﺡ"
         },
         {
-            "chapter": "095",
+            "chapter": "95",
             "eng_title": "Al-Tin",
             "arabic_tlte": "التين"
         },
         {
-            "chapter": "096",
+            "chapter": "96",
             "eng_title": "Al-Alaq",
             "arabic_tlte": "العلق"
         },
         {
-            "chapter": "097",
+            "chapter": "97",
             "eng_title": "Al-Qadr",
             "arabic_tlte": "القدر"
         },
         {
-            "chapter": "098",
+            "chapter": "98",
             "eng_title": "Al-Bayyinah",
             "arabic_tlte": "البينة"
         },
         {
-            "chapter": "099",
+            "chapter": "99",
             "eng_title": "Al-Zalzalah",
             "arabic_tlte": "الزلزلة"
         },
         {
-            "chapter": "100",
+            "chapter": "1",
             "eng_title": "Al-Adiyat",
             "arabic_tlte": "العاديات"
         },

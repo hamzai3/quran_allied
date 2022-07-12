@@ -1,0 +1,39 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "لِإِيلَافِ قُرَيْشٍ",
+      "verseStringB": "For the protection of the Qurais̲h̲ᵃ—"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+      "verseStringB": "Their protection during their journey in the winter and the summer.ᵃ"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+      "verseStringB": "So let them serve the Lord of this House,"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+      "verseStringB": "Who feeds them against hunger, and gives them security against fear.ᵃ"
+    }
+  ],
+  "nameEnglish": "Qurais̲h̲",
+  "nameTrans": "Quraysh",
+  "nameArabic": "قريش",
+  "chapterNumber": 106,
+  "nVerses": 4,
+  "footnotes": [
+    { 
+	  "note": "1a. Qurais̲h̲ is the name given to the tribe descended from Naḍr ibn Kanānah. According to some the word Qurais̲h̲ is the diminutive of qars̲h̲, a big animal of the sea, which eats others but is not itself eaten. The Qurais̲h̲ were settled at Makkah and had charge of the Sacred House, to which pilgrims resorted from all parts of Arabia, and therefore, being guardians of the Holy House, they enjoyed special honour among the tribes of Arabia. Moreover Makkah had thus become the centre of Arabia, bringing prosperity to the Qurais̲h̲. The first verse of this chapter is connected with the last chapter, the significance being that the Divine protection of the Ka‘bah and the destruction of its enemies was a special favour granted to the Qurais̲h̲, for it led to their protection. It is a fact that, as stated in the last chapter, being guardians of the Ka‘bah, they were respected when they set out on their journeys, while within the sacred territory they enjoyed an unparalleled security.\n\n2a. The protection mentioned in the last note was of special use to them in their journeys northward to Syria and southward to Yaman, the former of which was undertaken in the summer and the latter in winter, to carry on their trade.\n\n4a. Feeding against hunger and granting security against fear were the two special favours conferred on the Qurais̲h̲ through the sacredness of the Ka‘bah, because the pilgrimage gave a special impetus to their trade and the necessaries of life were brought to their very doors, while they were totally secure from all fear of attack, to which the other Arab tribes were constantly exposed."	
+	} 
+  ]
+}

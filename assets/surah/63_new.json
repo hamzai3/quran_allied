@@ -1,0 +1,74 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ ۗ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ",
+      "verseStringB": "When the hypocrites come to thee, they say: We bear witness that thou art indeed Allāh’s Messenger. And Allāh knows thou art indeed His Messenger. And Allāh bears witness that the hypocrites are surely liars."
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+      "verseStringB": "They take shelter under their oaths, thus turning (men) from Allāh’s way. Surely evil is that which they do."
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+      "verseStringB": "That is because they believed, then disbelieved; thus their hearts are sealed, so they understand not.ᵃ"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ",
+      "verseStringB": "And when thou seest them, their persons please thee; and if they speak, thou listenest to their speech. They are like pieces of wood, clad with garments. They think every cry to be against them. They are the enemy, so beware of them. May Allāh destroy them! How they are turned back!ᵃ"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ",
+      "verseStringB": "And when it is said to them: Come, the Messenger of Allāh will ask forgiveness for you, they turn away their heads and thou seest them hindering (others), and they are big with pride."
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَنْ يَغْفِرَ اللَّهُ لَهُمْ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ",
+      "verseStringB": "It is alike to them whether thou ask forgiveness for them or ask not forgiveness for them — Allāh will never forgive them. Surely Allāh guides not the transgressing people."
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنْفِقُوا عَلَىٰ مَنْ عِنْدَ رَسُولِ اللَّهِ حَتَّىٰ يَنْفَضُّوا ۗ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ",
+      "verseStringB": "They it is who say: Spend not on those who are with the Messenger of Allāh that they may disperse. And Allāh’s are the treasures of the heavens and the earth, but the hypocrites understand not."
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ",
+      "verseStringB": "They say: If we return to Madinah, the mightier will surely drive out the meaner therefrom. And might belongs to Allāh and His Messenger and the believers, but the hypocrites know not.ᵃ"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "verseStringB": "O you who believe, let not your wealth nor your children divert you from the remembrance of Allāh; and whoever does that, these are the losers."
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "وَأَنْفِقُوا مِنْ مَا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ أَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُنْ مِنَ الصَّالِحِينَ",
+      "verseStringB": "And spend out of that which We have given you before death comes to one of you, and he says: My Lord, why didst Thou not respite me to a near term, so that I should have given alms and been of the doers of good deeds?"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "verseStringB": "But Allāh respites not a soul, when its term comes. And Allāh is Aware of what you do."
+    }
+  ],
+  "nameEnglish": "The Hypocrites",
+  "nameTrans": "al-Munafiqun",
+  "nameArabic": "الـمنافقون",
+  "chapterNumber": 63,
+  "nVerses": 11,
+  "footnotes": [
+    {
+      "note": "3a. Note how the sealing of hearts is described here. It is man’s own action which isthe cause, while the sealing is but the necessary consequence.\n\n4a. By the cry is here meant the hostile incursion of the enemy by which the tribesare surprised (LL). Whenever there was an incursion of the enemy, the hypocritesshowed cowardice and thought that the Muslims would be crushed by their adversaries.\n\n8a. So late as this revelation, the hypocrites considered themselves, in conjunctionwith their disbelieving friends, to be the stronger party and the Muslims to be the weakerparty, whom they could easily drive out of Madßnah. But they are told that they themselves will meet with disgrace. Ultimately their opposition came to naught; see 9:101b."
+    }
+  ]
+}

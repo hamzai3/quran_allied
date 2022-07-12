@@ -1,0 +1,844 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ ۖ ثُمَّ الَّذِينَ كَفَرُوا بِرَبِّهِمْ يَعْدِلُونَ",
+      "verseStringB": "Praise be to Allāh, Who created the heavens and the earth, and made darkness and light. Yet those who disbelieve set up equals to their Lord.ᵃ"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "هُوَ الَّذِي خَلَقَكُمْ مِنْ طِينٍ ثُمَّ قَضَىٰ أَجَلًا ۖ وَأَجَلٌ مُسَمًّى عِنْدَهُ ۖ ثُمَّ أَنْتُمْ تَمْتَرُونَ",
+      "verseStringB": "He it is Who created you from clay, then He decreed a term. And there is a term named with Him; still you doubt.ᵃ"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "وَهُوَ اللَّهُ فِي السَّمَاوَاتِ وَفِي الْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
+      "verseStringB": "And He is Allāh in the heavens and in the earth. He knows your secret (thoughts) and your open (words), and He knows what you earn.ᵃ"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "وَمَا تَأْتِيهِمْ مِنْ آيَةٍ مِنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ",
+      "verseStringB": "And there comes not to them any message of the messages of their Lord but they turn away from it."
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "فَقَدْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءَهُمْ ۖ فَسَوْفَ يَأْتِيهِمْ أَنْبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseStringB": "So they rejected the truth when it came to them, but soon will come to them the news of that which they"
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنْ قَرْنٍ مَكَّنَّاهُمْ فِي الْأَرْضِ مَا لَمْ نُمَكِّنْ لَكُمْ وَأَرْسَلْنَا السَّمَاءَ عَلَيْهِمْ مِدْرَارًا وَجَعَلْنَا الْأَنْهَارَ تَجْرِي مِنْ تَحْتِهِمْ فَأَهْلَكْنَاهُمْ بِذُنُوبِهِمْ وَأَنْشَأْنَا مِنْ بَعْدِهِمْ قَرْنًا آخَرِينَ",
+      "verseStringB": "See they not how many a generation We destroyed before them, whom We had established in the earth as We have not established you, and We sent the clouds pouring abundant rain on them, and We made the rivers flow beneath them? Then We destroyed them for their sins, and raised up after them another generation."
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَابًا فِي قِرْطَاسٍ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+      "verseStringB": "And if We had sent down to thee a writing on paper, then they had touched it with their hands, those who disbelieve would have said: This is nothing but clear enchantment.ᵃ"
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "وَقَالُوا لَوْلَا أُنْزِلَ عَلَيْهِ مَلَكٌ ۖ وَلَوْ أَنْزَلْنَا مَلَكًا لَقُضِيَ الْأَمْرُ ثُمَّ لَا يُنْظَرُونَ",
+      "verseStringB": "And they say: Why has not an angel been sent down to him? And if We send down an angel, the matter would be decided and then they would not be respited.ᵃ"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "وَلَوْ جَعَلْنَاهُ مَلَكًا لَجَعَلْنَاهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِمْ مَا يَلْبِسُونَ",
+      "verseStringB": "And if We had made him an angel, We would certainly have made him a man, and (thus) made confused to them what they confuse.ᵃ"
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseStringB": "And certainly messengers before thee were derided, but that which they derided encompassed those of them who scoffed.ᵃ"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "قُلْ سِيرُوا فِي الْأَرْضِ ثُمَّ انْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ",
+      "verseStringB": "Say: Travel in the land, then see what was the end of the rejectors."
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "قُلْ لِمَنْ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ قُلْ لِلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ ۚ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+      "verseStringB": "Say: To whom belongs what ever is in the heavens and the earth? Say: To Allāh. He has ordained mercy on Himself.ᵃ He will certainly gather you on the Resurrection day — there is no doubt about it. Those who have lost their souls will not believe."
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "verseStringB": "And to Him belongs whatever dwells in the night and the day. And He is the Hearing, the Knowing."
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "قُلْ أَغَيْرَ اللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّي أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ",
+      "verseStringB": "Say: Shall I take for a friend other than Allāh, the OrigInᵃ tor of the heavens and the earth, and He feeds and is not fed? Say: I am commanded to be the first of those who submit. And be thou not of the polytheists."
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ",
+      "verseStringB": "Say: Surely I fear, if I disobey my Lord, the chastisement of a grievous day."
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "مَنْ يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُ ۚ وَذَٰلِكَ الْفَوْزُ الْمُبِينُ",
+      "verseStringB": "He from whom it is averted on that day, Allāh indeed has had mercy on him. And this is a manifest achievement."
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "وَإِنْ يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ ۖ وَإِنْ يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseStringB": "And if Allāh touch thee with affliction, there is none to remove it but He. And if He touch thee with good, He is Possessor of power over all things.ᵃ"
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ",
+      "verseStringB": "And He is the Supreme, above His servants. And He is the Wise, the Aware."
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "قُلْ أَيُّ شَيْءٍ أَكْبَرُ شَهَادَةً ۖ قُلِ اللَّهُ ۖ شَهِيدٌ بَيْنِي وَبَيْنَكُمْ ۚ وَأُوحِيَ إِلَيَّ هَٰذَا الْقُرْآنُ لِأُنْذِرَكُمْ بِهِ وَمَنْ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ اللَّهِ آلِهَةً أُخْرَىٰ ۚ قُلْ لَا أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَٰهٌ وَاحِدٌ وَإِنَّنِي بَرِيءٌ مِمَّا تُشْرِكُونَ",
+      "verseStringB": "Say: What thing is the weightiest in testimony? Say: Allāh is witness between you and me. And this Qur’ān has been revealed to me that with it I may warn you and whomsoever it reaches.ᵃ Do you really bear witness that there are other gods with Allāh? Say: I bear not witness. Say: He is only One God, and surely I am innocent of that which you set up"
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمُ ۘ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+      "verseStringB": "Those whom We have given the Book recognize him as they recognize their sons.ᵃ Those who have lost their souls — they will not believe."
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ ۗ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+      "verseStringB": "And who is more unjust than he who forges a lie against Allāh or gives the lie to His messages? Surely the wrongdoers will not be successful."
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا أَيْنَ شُرَكَاؤُكُمُ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+      "verseStringB": "And on the day We gather them all together, then We shall say to those who set up gods (with Allāh): Where are your associate-gods whom you asserted?"
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلَّا أَنْ قَالُوا وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ",
+      "verseStringB": "Then their excusea would be nothing but that they would say: By Allāh, our Lord! we were not polytheists."
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "انْظُرْ كَيْفَ كَذَبُوا عَلَىٰ أَنْفُسِهِمْ ۚ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseStringB": "See how they lie against their own souls, and that which they forged shall fail them!"
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "وَمِنْهُمْ مَنْ يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۚ وَإِنْ يَرَوْا كُلَّ آيَةٍ لَا يُؤْمِنُوا بِهَا ۚ حَتَّىٰ إِذَا جَاءُوكَ يُجَادِلُونَكَ يَقُولُ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+      "verseStringB": "And of them is he who hearkens to thee and We have cast veils over their hearts so that they understand it not and a deafness into their ears. And (even) if they see every sign they will not believe in it.ᵃ So much so that when they come to thee they only dispute with thee — those who disbelieve say: This is naught but stories of the ancients."
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْأَوْنَ عَنْهُ ۖ وَإِنْ يُهْلِكُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "verseStringB": "And they forbid (others) from it, and they keep away from it; and they ruin none but their own souls while they perceive not."
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ فَقَالُوا يَا لَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِآيَاتِ رَبِّنَا وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+      "verseStringB": "And if thou couldst see when they are made to stand before the Fire, and say: Would that we were sent back! We would not reject the messages of our Lord but would be of the believers."
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "بَلْ بَدَا لَهُمْ مَا كَانُوا يُخْفُونَ مِنْ قَبْلُ ۖ وَلَوْ رُدُّوا لَعَادُوا لِمَا نُهُوا عَنْهُ وَإِنَّهُمْ لَكَاذِبُونَ",
+      "verseStringB": "Nay, that which they concealed before will become manifest to them. And if they were sent back, they would certainly go back to that which they are forbidden, and surely they are liars.ᵃ"
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "وَقَالُوا إِنْ هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+      "verseStringB": "And they say: There is nothing but our life of this world and we shall not be raised again."
+    },
+    {
+      "verseNumber": 30,
+      "verseString": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَٰذَا بِالْحَقِّ ۚ قَالُوا بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+      "verseStringB": "And if thou couldst see when they are made to stand before their Lord! He will say: Is not this the truth? They will say: Yea, by our Lord! He will say: Taste then the chastisement because you disbelieved."
+    },
+    {
+      "verseNumber": 31,
+      "verseString": "قَدْ خَسِرَ الَّذِينَ كَذَّبُوا بِلِقَاءِ اللَّهِ ۖ حَتَّىٰ إِذَا جَاءَتْهُمُ السَّاعَةُ بَغْتَةً قَالُوا يَا حَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَاءَ مَا يَزِرُونَ",
+      "verseStringB": "They are losers indeed who reject the meeting with Allāh, until when the hour a comes upon them suddenly, they will say: O our grief for our neglecting it! And they bear their burdens on their backs. Now surely"
+    },
+    {
+      "verseNumber": 32,
+      "verseString": "وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا لَعِبٌ وَلَهْوٌ ۖ وَلَلدَّارُ الْآخِرَةُ خَيْرٌ لِلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ",
+      "verseStringB": "And this world’s life is naught but a play and an idle sport. And certainly the abode of the Hereafter is better for those who keep their duty. Do you not then understand?"
+    },
+    {
+      "verseNumber": 33,
+      "verseString": "قَدْ نَعْلَمُ إِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُولُونَ ۖ فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ الظَّالِمِينَ بِآيَاتِ اللَّهِ يَجْحَدُونَ",
+      "verseStringB": "We know indeed that what they say grieves thee, for surely they give not thee the lie, but the wrongdoers"
+    },
+    {
+      "verseNumber": 34,
+      "verseString": "وَلَقَدْ كُذِّبَتْ رُسُلٌ مِنْ قَبْلِكَ فَصَبَرُوا عَلَىٰ مَا كُذِّبُوا وَأُوذُوا حَتَّىٰ أَتَاهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَاتِ اللَّهِ ۚ وَلَقَدْ جَاءَكَ مِنْ نَبَإِ الْمُرْسَلِينَ",
+      "verseStringB": "And messengers indeed were rejected before thee, but they were patient when rejected and persecuted, until Our help came to them. And there is none to change the words of Allāh.ᵃ And there has already come to thee some information about the messengers."
+    },
+    {
+      "verseNumber": 35,
+      "verseString": "وَإِنْ كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ اسْتَطَعْتَ أَنْ تَبْتَغِيَ نَفَقًا فِي الْأَرْضِ أَوْ سُلَّمًا فِي السَّمَاءِ فَتَأْتِيَهُمْ بِآيَةٍ ۚ وَلَوْ شَاءَ اللَّهُ لَجَمَعَهُمْ عَلَى الْهُدَىٰ ۚ فَلَا تَكُونَنَّ مِنَ الْجَاهِلِينَ",
+      "verseStringB": "And if their turning away is hard on thee, then, if thou canst, seek an opening into the earth or a ladder to heaven, to bring them a sign!ᵃ And if Allāh pleased, He would certainly have gathered them all to guidance, so be not of the ignorant."
+    },
+    {
+      "verseNumber": 36,
+      "verseString": "إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ ۘ وَالْمَوْتَىٰ يَبْعَثُهُمُ اللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+      "verseStringB": "Only those accept who listen. And (as for) the dead, Allāh will raise them, then to Him they will be"
+    },
+    {
+      "verseNumber": 37,
+      "verseString": "وَقَالُوا لَوْلَا نُزِّلَ عَلَيْهِ آيَةٌ مِنْ رَبِّهِ ۚ قُلْ إِنَّ اللَّهَ قَادِرٌ عَلَىٰ أَنْ يُنَزِّلَ آيَةً وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "verseStringB": "And they say: Why has not a sign been sent down to him from his Lord? Say: Surely Allāh is Able to send down a sign, but most of them know not.ᵃ"
+    },
+    {
+      "verseNumber": 38,
+      "verseString": "وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّا أُمَمٌ أَمْثَالُكُمْ ۚ مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ شَيْءٍ ۚ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ",
+      "verseStringB": "And there is no animal in the earth, nor a bird that flies on its two wings, but (they are) communities like yourselves. We have not neglected anything in the Book. Then to their Lord will they be gathered.ᵃ"
+    },
+    {
+      "verseNumber": 39,
+      "verseString": "وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ ۗ مَنْ يَشَإِ اللَّهُ يُضْلِلْهُ وَمَنْ يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseStringB": "And those who reject Our messages are deaf and dumb, in darkness. Whom Allāh pleases He leaves in error. And whom He pleases He places on the right way."
+    },
+    {
+      "verseNumber": 40,
+      "verseString": "قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابُ اللَّهِ أَوْ أَتَتْكُمُ السَّاعَةُ أَغَيْرَ اللَّهِ تَدْعُونَ إِنْ كُنْتُمْ صَادِقِينَ",
+      "verseStringB": "Say: See, if the chastisement of Allāh overtake you or the hour come upon you, will you call on others than Allāh, if you are truthful?"
+    },
+    {
+      "verseNumber": 41,
+      "verseString": "بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِنْ شَاءَ وَتَنْسَوْنَ مَا تُشْرِكُونَ",
+      "verseStringB": "Nay, Him you call upon, so He removes that for which you pray, if He pleases, and you forget what you set up (with Him).ᵃ"
+    },
+    {
+      "verseNumber": 42,
+      "verseString": "وَلَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِنْ قَبْلِكَ فَأَخَذْنَاهُمْ بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَتَضَرَّعُونَ",
+      "verseStringB": "And indeed We sent (messengers) to nations before thee then We seized them with distress and affliction that they might humble themselves."
+    },
+    {
+      "verseNumber": 43,
+      "verseString": "فَلَوْلَا إِذْ جَاءَهُمْ بَأْسُنَا تَضَرَّعُوا وَلَٰكِنْ قَسَتْ قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُوا يَعْمَلُونَ",
+      "verseStringB": "Yet why did they not, when Our punishment came to them, humble themselves? But their hearts hardened and the devil made all that they did seem fair to them."
+    },
+    {
+      "verseNumber": 44,
+      "verseString": "فَلَمَّا نَسُوا مَا ذُكِّرُوا بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ كُلِّ شَيْءٍ حَتَّىٰ إِذَا فَرِحُوا بِمَا أُوتُوا أَخَذْنَاهُمْ بَغْتَةً فَإِذَا هُمْ مُبْلِسُونَ",
+      "verseStringB": "Then, when they neglected that with which they had been admonished, We opened for them the gates of all things. Until, when they rejoiced in that which they were given, We seized them suddenly; then lo! they were in utter despair.ᵃ"
+    },
+    {
+      "verseNumber": 45,
+      "verseString": "فَقُطِعَ دَابِرُ الْقَوْمِ الَّذِينَ ظَلَمُوا ۚ وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "verseStringB": "So the roots of the people who did wrong were cut off. And praise be to Allāh, the Lord of the worlds.ᵃ"
+    },
+    {
+      "verseNumber": 46,
+      "verseString": "قُلْ أَرَأَيْتُمْ إِنْ أَخَذَ اللَّهُ سَمْعَكُمْ وَأَبْصَارَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُمْ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِهِ ۗ انْظُرْ كَيْفَ نُصَرِّفُ الْآيَاتِ ثُمَّ هُمْ يَصْدِفُونَ",
+      "verseStringB": "Say: Have you considered that if Allāh should take away your hearing and your sight and seal your hearts, who is the god besides Allāh that can bring it to you? See how We repeat the messages yet they turn away!"
+    },
+    {
+      "verseNumber": 47,
+      "verseString": "قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابُ اللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا الْقَوْمُ الظَّالِمُونَ",
+      "verseStringB": "Say: See, if the chastisement of Allāh should overtake you suddenly or openly, will any be destroyed but the wrongdoing people?"
+    },
+    {
+      "verseNumber": 48,
+      "verseString": "وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنْذِرِينَ ۖ فَمَنْ آمَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "verseStringB": "And We send not messengers but as bearers of good news and warners; then whoever believes and acts aright, they shall have no fear, nor shall they grieve."
+    },
+    {
+      "verseNumber": 49,
+      "verseString": "وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوا يَفْسُقُونَ",
+      "verseStringB": "And as for those who reject Our messages, chastisement will afflict them because they transgressed."
+    },
+    {
+      "verseNumber": 50,
+      "verseString": "قُلْ لَا أَقُولُ لَكُمْ عِنْدِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ لَكُمْ إِنِّي مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ ۚ قُلْ هَلْ يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ",
+      "verseStringB": "Say: I say not to you, I have with me the treasures of Allāh, nor do I know the unseen, nor do I say to you that I am an angel; I follow only that which is revealed to me. Say: Are the blind and the seeing alike? Do you not then reflect?ᵃ"
+    },
+    {
+      "verseNumber": 51,
+      "verseString": "وَأَنْذِرْ بِهِ الَّذِينَ يَخَافُونَ أَنْ يُحْشَرُوا إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُمْ مِنْ دُونِهِ وَلِيٌّ وَلَا شَفِيعٌ لَعَلَّهُمْ يَتَّقُونَ",
+      "verseStringB": "And warn with it those who fear that they will be gathered to their Lord — there is no protector for them, nor any intercessor besides Him — so that"
+    },
+    {
+      "verseNumber": 52,
+      "verseString": "وَلَا تَطْرُدِ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِمْ مِنْ شَيْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِمْ مِنْ شَيْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ الظَّالِمِينَ",
+      "verseStringB": "And drive not away those who call upon their Lord, morning and evening, desiring only His pleasure. Neither art thou accountable for them in aught, nor are they accountable for thee in aught, that thou shouldst drive"
+    },
+    {
+      "verseNumber": 53,
+      "verseString": "وَكَذَٰلِكَ فَتَنَّا بَعْضَهُمْ بِبَعْضٍ لِيَقُولُوا أَهَٰؤُلَاءِ مَنَّ اللَّهُ عَلَيْهِمْ مِنْ بَيْنِنَا ۗ أَلَيْسَ اللَّهُ بِأَعْلَمَ بِالشَّاكِرِينَ",
+      "verseStringB": "And thus do We try some of them by others so that they say: Are these they upon whom Allāh has conferred benefit from among us? a Does not Allāh best know the grateful?"
+    },
+    {
+      "verseNumber": 54,
+      "verseString": "وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلَامٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۖ أَنَّهُ مَنْ عَمِلَ مِنْكُمْ سُوءًا بِجَهَالَةٍ ثُمَّ تَابَ مِنْ بَعْدِهِ وَأَصْلَحَ فَأَنَّهُ غَفُورٌ رَحِيمٌ",
+      "verseStringB": "And when those who believe in Our messages come to thee, say: Peace be to you, your Lord has ordained mercy on Himself, (so) that if anyone of you does evil in ignorance, then turns after that and acts aright, then He is Forgiving, Merciful."
+    },
+    {
+      "verseNumber": 55,
+      "verseString": "وَكَذَٰلِكَ نُفَصِّلُ الْآيَاتِ وَلِتَسْتَبِينَ سَبِيلُ الْمُجْرِمِينَ",
+      "verseStringB": "And thus do We make distinct the messages and so that the way of the guilty may become clear."
+    },
+    {
+      "verseNumber": 56,
+      "verseString": "قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ ۚ قُلْ لَا أَتَّبِعُ أَهْوَاءَكُمْ ۙ قَدْ ضَلَلْتُ إِذًا وَمَا أَنَا مِنَ الْمُهْتَدِينَ",
+      "verseStringB": "Say: I am forbidden to serve those whom you call upon besides Allāh. Say: I follow not your low desires, for then indeed I should go astray and should not be of the guided ones."
+    },
+    {
+      "verseNumber": 57,
+      "verseString": "قُلْ إِنِّي عَلَىٰ بَيِّنَةٍ مِنْ رَبِّي وَكَذَّبْتُمْ بِهِ ۚ مَا عِنْدِي مَا تَسْتَعْجِلُونَ بِهِ ۚ إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ الْحَقَّ ۖ وَهُوَ خَيْرُ الْفَاصِلِينَ",
+      "verseStringB": "Say: Surely I have manifest proof from my Lord and you call it a lie. I have not with me that which you would hasten. The judgment is only Allāh’s. He relates the truth and He is the Best of deciders."
+    },
+    {
+      "verseNumber": 58,
+      "verseString": "قُلْ لَوْ أَنَّ عِنْدِي مَا تَسْتَعْجِلُونَ بِهِ لَقُضِيَ الْأَمْرُ بَيْنِي وَبَيْنَكُمْ ۗ وَاللَّهُ أَعْلَمُ بِالظَّالِمِينَ",
+      "verseStringB": "Say: If that which you would hasten were with me, the matter would have certainly been decided between you and me. And Allāh best knows the wrongdoers."
+    },
+    {
+      "verseNumber": 59,
+      "verseString": "وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِي الْبَرِّ وَالْبَحْرِ ۚ وَمَا تَسْقُطُ مِنْ وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِي ظُلُمَاتِ الْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِي كِتَابٍ مُبِينٍ",
+      "verseStringB": "And with Him are the treasuresa of the unseen — none knows them but He. And He knows what is in the land and the sea. And there falls not a leaf but He knows it, nor is there a grain in the darkness of the earth, nor anything green or dry, but (it is all) in a clear book.ᵇ"
+    },
+    {
+      "verseNumber": 60,
+      "verseString": "وَهُوَ الَّذِي يَتَوَفَّاكُمْ بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُمْ بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰ أَجَلٌ مُسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseStringB": "And He it is Who takes your souls at night, and He knows what you earn by day, then He raises you up therein that an appointed term may be fulfilled. Then to Him is your return, then He will inform you of what you did."
+    },
+    {
+      "verseNumber": 61,
+      "verseString": "وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ ۖ وَيُرْسِلُ عَلَيْكُمْ حَفَظَةً حَتَّىٰ إِذَا جَاءَ أَحَدَكُمُ الْمَوْتُ تَوَفَّتْهُ رُسُلُنَا وَهُمْ لَا يُفَرِّطُونَ",
+      "verseStringB": "And He is the Supreme above His servants, and He sends keepers over you; until when death comes to one of you, Our messengers cause him to die, and they are not remiss.ᵃ"
+    },
+    {
+      "verseNumber": 62,
+      "verseString": "ثُمَّ رُدُّوا إِلَى اللَّهِ مَوْلَاهُمُ الْحَقِّ ۚ أَلَا لَهُ الْحُكْمُ وَهُوَ أَسْرَعُ الْحَاسِبِينَ",
+      "verseStringB": "Then are they sent back to Allāh, their Master, the True one. Now surely His is the judgment and He is Swiftest in taking account."
+    },
+    {
+      "verseNumber": 63,
+      "verseString": "قُلْ مَنْ يُنَجِّيكُمْ مِنْ ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ تَدْعُونَهُ تَضَرُّعًا وَخُفْيَةً لَئِنْ أَنْجَانَا مِنْ هَٰذِهِ لَنَكُونَنَّ مِنَ الشَّاكِرِينَ",
+      "verseStringB": "Say: Who is it that delivers you from the calamitiesa of the land and the sea? (when) you call upon Him, in humility and in secret: If He deliver us from this, we will certainly be"
+    },
+    {
+      "verseNumber": 64,
+      "verseString": "قُلِ اللَّهُ يُنَجِّيكُمْ مِنْهَا وَمِنْ كُلِّ كَرْبٍ ثُمَّ أَنْتُمْ تُشْرِكُونَ",
+      "verseStringB": "Say: Allāh delivers you from this and from every distress, yet you set up others (with Him)."
+    },
+    {
+      "verseNumber": 65,
+      "verseString": "قُلْ هُوَ الْقَادِرُ عَلَىٰ أَنْ يَبْعَثَ عَلَيْكُمْ عَذَابًا مِنْ فَوْقِكُمْ أَوْ مِنْ تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا وَيُذِيقَ بَعْضَكُمْ بَأْسَ بَعْضٍ ۗ انْظُرْ كَيْفَ نُصَرِّفُ الْآيَاتِ لَعَلَّهُمْ يَفْقَهُونَ",
+      "verseStringB": "Say: He has the power to send on you a chastisement from above you or from beneath your feet, or to throw you into confusion, (making you) of different parties, and make some of you taste the violence of others. See how We repeat the messages that they may understand!ᵃ"
+    },
+    {
+      "verseNumber": 66,
+      "verseString": "وَكَذَّبَ بِهِ قَوْمُكَ وَهُوَ الْحَقُّ ۚ قُلْ لَسْتُ عَلَيْكُمْ بِوَكِيلٍ",
+      "verseStringB": "And thy people call it a lie and it is the Truth. Say: I am not put in charge of you.ᵃ"
+    },
+    {
+      "verseNumber": 67,
+      "verseString": "لِكُلِّ نَبَإٍ مُسْتَقَرٌّ ۚ وَسَوْفَ تَعْلَمُونَ",
+      "verseStringB": "For every prophecy is a term, and you will soon come to know (it).ᵃ"
+    },
+    {
+      "verseNumber": 68,
+      "verseString": "وَإِذَا رَأَيْتَ الَّذِينَ يَخُوضُونَ فِي آيَاتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ وَإِمَّا يُنْسِيَنَّكَ الشَّيْطَانُ فَلَا تَقْعُدْ بَعْدَ الذِّكْرَىٰ مَعَ الْقَوْمِ الظَّالِمِينَ",
+      "verseStringB": "And when thou seest those who talk nonsense about Our messages, withdraw from them until they enter into some other discourse. And if the devil cause thee to forget, then sit not after recollection with the unjust people."
+    },
+    {
+      "verseNumber": 69,
+      "verseString": "وَمَا عَلَى الَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِمْ مِنْ شَيْءٍ وَلَٰكِنْ ذِكْرَىٰ لَعَلَّهُمْ يَتَّقُونَ",
+      "verseStringB": "And those who keep their duty are not accountable for them in aught but (theirs) is only to remind; haply they may guard against evil."
+    },
+    {
+      "verseNumber": 70,
+      "verseString": "وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا ۚ وَذَكِّرْ بِهِ أَنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِنْ دُونِ اللَّهِ وَلِيٌّ وَلَا شَفِيعٌ وَإِنْ تَعْدِلْ كُلَّ عَدْلٍ لَا يُؤْخَذْ مِنْهَا ۗ أُولَٰئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا ۖ لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ",
+      "verseStringB": "And leave those who take their religion for a play and an idle sport, and whom this world’s life has deceived, and remind (men) hereby lest a soul be destroyed for what it has earned. It has besides Allāh no friend nor intercessor, and though it offer every compensation, it will not be accepted from it. Those are they who are destroyed for what they earn. For them is a drink of boiling water and a painful chastisement, because they disbelieved."
+    },
+    {
+      "verseNumber": 71,
+      "verseString": "قُلْ أَنَدْعُو مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰ أَعْقَابِنَا بَعْدَ إِذْ هَدَانَا اللَّهُ كَالَّذِي اسْتَهْوَتْهُ الشَّيَاطِينُ فِي الْأَرْضِ حَيْرَانَ لَهُ أَصْحَابٌ يَدْعُونَهُ إِلَى الْهُدَى ائْتِنَا ۗ قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ الْعَالَمِينَ",
+      "verseStringB": "Say: Shall we call, besides Allāh, on that which profits us not nor harms us, and shall we be turned back on our heels after Allāh has guided us? Like one whom the devils cause to follow his low desires, in bewilderment in the eartha — he has compan ions who call him to the right way (saying), Come to us. Say: Surely the guidance of Allāh, that is the (true) guidance. And we are commanded to submit to the Lord of the worlds:"
+    },
+    {
+      "verseNumber": 72,
+      "verseString": "وَأَنْ أَقِيمُوا الصَّلَاةَ وَاتَّقُوهُ ۚ وَهُوَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+      "verseStringB": "And that you should keep up prayer and keep your duty to Him. And He it is to Whom you shall be gathered."
+    },
+    {
+      "verseNumber": 73,
+      "verseString": "وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۖ وَيَوْمَ يَقُولُ كُنْ فَيَكُونُ ۚ قَوْلُهُ الْحَقُّ ۚ وَلَهُ الْمُلْكُ يَوْمَ يُنْفَخُ فِي الصُّورِ ۚ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ",
+      "verseStringB": "And He it is Who created the heavens and the earth with truth. And when He says, Be, it is.ᵃ His word is the truth and His is the kingdom on the day when the trumpet is blown.ᵇ The Knower of the unseen and the"
+    },
+    {
+      "verseNumber": 74,
+      "verseString": "وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ آزَرَ أَتَتَّخِذُ أَصْنَامًا آلِهَةً ۖ إِنِّي أَرَاكَ وَقَوْمَكَ فِي ضَلَالٍ مُبِينٍ",
+      "verseStringB": "And when Abraham said to his sire, āzar:ᵃ Takest thou idols for gods? Surely I see thee and thy people in manifest error."
+    },
+    {
+      "verseNumber": 75,
+      "verseString": "وَكَذَٰلِكَ نُرِي إِبْرَاهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالْأَرْضِ وَلِيَكُونَ مِنَ الْمُوقِنِينَ",
+      "verseStringB": "And thus did We show Abraham the kingdom of the heavens and the earth and that he might be of those having certainty.ᵃ"
+    },
+    {
+      "verseNumber": 76,
+      "verseString": "فَلَمَّا جَنَّ عَلَيْهِ اللَّيْلُ رَأَىٰ كَوْكَبًا ۖ قَالَ هَٰذَا رَبِّي ۖ فَلَمَّا أَفَلَ قَالَ لَا أُحِبُّ الْآفِلِينَ",
+      "verseStringB": "So when the night overshadowed him, he saw a star. He said: Is this my Lord?ᵃ So when it set, he said: I love not the setting ones."
+    },
+    {
+      "verseNumber": 77,
+      "verseString": "فَلَمَّا رَأَى الْقَمَرَ بَازِغًا قَالَ هَٰذَا رَبِّي ۖ فَلَمَّا أَفَلَ قَالَ لَئِنْ لَمْ يَهْدِنِي رَبِّي لَأَكُونَنَّ مِنَ الْقَوْمِ الضَّالِّينَ",
+      "verseStringB": "Then when he saw the moon rising, he said: Is this my Lord? So when it set, he said: If my Lord had not guided me, I should certainly be of the erring people."
+    },
+    {
+      "verseNumber": 78,
+      "verseString": "فَلَمَّا رَأَى الشَّمْسَ بَازِغَةً قَالَ هَٰذَا رَبِّي هَٰذَا أَكْبَرُ ۖ فَلَمَّا أَفَلَتْ قَالَ يَا قَوْمِ إِنِّي بَرِيءٌ مِمَّا تُشْرِكُونَ",
+      "verseStringB": "Then when he saw the sun rising, he said: Is this my Lord? Is this the greatest? So when it set, he said: O my people, I am clear of what you set up (with Allāh)."
+    },
+    {
+      "verseNumber": 79,
+      "verseString": "إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا ۖ وَمَا أَنَا مِنَ الْمُشْرِكِينَ",
+      "verseStringB": "Surely I have turned myself, being upright, wholly to Him Who origInᵃ ted the heavens and the earth, and I am not of the polytheists."
+    },
+    {
+      "verseNumber": 80,
+      "verseString": "وَحَاجَّهُ قَوْمُهُ ۚ قَالَ أَتُحَاجُّونِّي فِي اللَّهِ وَقَدْ هَدَانِ ۚ وَلَا أَخَافُ مَا تُشْرِكُونَ بِهِ إِلَّا أَنْ يَشَاءَ رَبِّي شَيْئًا ۗ وَسِعَ رَبِّي كُلَّ شَيْءٍ عِلْمًا ۗ أَفَلَا تَتَذَكَّرُونَ",
+      "verseStringB": "And his people disputed with him. He said: Do you dispute with me respecting Allāh and He has guided me indeed? And I fear not in any way those that you set up with Him, unless my Lord please. My Lord comprehends all things in His knowledge. Will you not then mind?"
+    },
+    {
+      "verseNumber": 81,
+      "verseString": "وَكَيْفَ أَخَافُ مَا أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُمْ بِاللَّهِ مَا لَمْ يُنَزِّلْ بِهِ عَلَيْكُمْ سُلْطَانًا ۚ فَأَيُّ الْفَرِيقَيْنِ أَحَقُّ بِالْأَمْنِ ۖ إِنْ كُنْتُمْ تَعْلَمُونَ",
+      "verseStringB": "And how should I fear what you have set up (with Him), while you fear not to set up with Allāh that for which He has sent down to you no authority? Which then of the two parties is surer of security, if you know?"
+    },
+    {
+      "verseNumber": 82,
+      "verseString": "الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ أُولَٰئِكَ لَهُمُ الْأَمْنُ وَهُمْ مُهْتَدُونَ",
+      "verseStringB": "Those who believe and mix not up their faith with iniquity — for them is security and they go aright."
+    },
+    {
+      "verseNumber": 83,
+      "verseString": "وَتِلْكَ حُجَّتُنَا آتَيْنَاهَا إِبْرَاهِيمَ عَلَىٰ قَوْمِهِ ۚ نَرْفَعُ دَرَجَاتٍ مَنْ نَشَاءُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+      "verseStringB": "And this was Our argument which We gave to Abraham against his people. We exalt in degrees whom We please. Surely thy Lord is Wise, Knowing."
+    },
+    {
+      "verseNumber": 84,
+      "verseString": "وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِنْ قَبْلُ ۖ وَمِنْ ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَارُونَ ۚ وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "verseStringB": "And We gave him Isaac and Jacob. Each did We guide; and Noah did We guide before, and of his descendants,ᵃ David and Solomon and Job and Joseph and Moses and Aaron. And thus do We reward those who do good (to others):"
+    },
+    {
+      "verseNumber": 85,
+      "verseString": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِنَ الصَّالِحِينَ",
+      "verseStringB": "And Zacharias and John and Jesus and Elias; each one (of them) was of the righteous,"
+    },
+    {
+      "verseNumber": 86,
+      "verseString": "وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ",
+      "verseStringB": "And Ishmael and Elisha and Jonah and Lot; and each one (of them) We made to excel the people;"
+    },
+    {
+      "verseNumber": 87,
+      "verseString": "وَمِنْ آبَائِهِمْ وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ ۖ وَاجْتَبَيْنَاهُمْ وَهَدَيْنَاهُمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseStringB": "And some of their fathers and their descendants and their brethren.ᵃ And We chose them and guided them to the right way."
+    },
+    {
+      "verseNumber": 88,
+      "verseString": "ذَٰلِكَ هُدَى اللَّهِ يَهْدِي بِهِ مَنْ يَشَاءُ مِنْ عِبَادِهِ ۚ وَلَوْ أَشْرَكُوا لَحَبِطَ عَنْهُمْ مَا كَانُوا يَعْمَلُونَ",
+      "verseStringB": "This is Allāh’s guidance wherewith He guides whom He pleases of His servants. And if they had associated others (with Him), all that they did would have been vain.ᵃ"
+    },
+    {
+      "verseNumber": 89,
+      "verseString": "أُولَٰئِكَ الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ ۚ فَإِنْ يَكْفُرْ بِهَا هَٰؤُلَاءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًا لَيْسُوا بِهَا بِكَافِرِينَ",
+      "verseStringB": "These are they to whom We gave the Book and authority and prophecy.ᵃ Therefore if these disbelieve in it, We have indeed entrusted it to a people who are not disbelievers in it."
+    },
+    {
+      "verseNumber": 90,
+      "verseString": "أُولَٰئِكَ الَّذِينَ هَدَى اللَّهُ ۖ فَبِهُدَاهُمُ اقْتَدِهْ ۗ قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَالَمِينَ",
+      "verseStringB": "These are they whom Allāh guided, so follow their guidance. Say: I ask you not for any reward for it. It is naught but a Reminder to the nations.ᵃ"
+    },
+    {
+      "verseNumber": 91,
+      "verseString": "وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ إِذْ قَالُوا مَا أَنْزَلَ اللَّهُ عَلَىٰ بَشَرٍ مِنْ شَيْءٍ ۗ قُلْ مَنْ أَنْزَلَ الْكِتَابَ الَّذِي جَاءَ بِهِ مُوسَىٰ نُورًا وَهُدًى لِلنَّاسِ ۖ تَجْعَلُونَهُ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا ۖ وَعُلِّمْتُمْ مَا لَمْ تَعْلَمُوا أَنْتُمْ وَلَا آبَاؤُكُمْ ۖ قُلِ اللَّهُ ۖ ثُمَّ ذَرْهُمْ فِي خَوْضِهِمْ يَلْعَبُونَ",
+      "verseStringB": "And they honour not Allāh with the honour due to Him, when they say: Allāh has not revealed anything to a mortal.ᵃ Say: Who revealed the Book which Moses brought, a light and a guidance to men — you make it into (scattered) papers,ᵇ which you show and you conceal much? And you are taught that which neither you nor your fathers knew. Say: Allāh. Then leave them sporting in their idle talk."
+    },
+    {
+      "verseNumber": 92,
+      "verseString": "وَهَٰذَا كِتَابٌ أَنْزَلْنَاهُ مُبَارَكٌ مُصَدِّقُ الَّذِي بَيْنَ يَدَيْهِ وَلِتُنْذِرَ أُمَّ الْقُرَىٰ وَمَنْ حَوْلَهَا ۚ وَالَّذِينَ يُؤْمِنُونَ بِالْآخِرَةِ يُؤْمِنُونَ بِهِ ۖ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "verseStringB": "And this is a Blessed Book We have revealed, verifying that which is before it, and that thou mayest warn the mother of the townsa and those around her. And those who believe in the Hereafter believe in it, and they keep a watch over their prayers."
+    },
+    {
+      "verseNumber": 93,
+      "verseString": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ قَالَ أُوحِيَ إِلَيَّ وَلَمْ يُوحَ إِلَيْهِ شَيْءٌ وَمَنْ قَالَ سَأُنْزِلُ مِثْلَ مَا أَنْزَلَ اللَّهُ ۗ وَلَوْ تَرَىٰ إِذِ الظَّالِمُونَ فِي غَمَرَاتِ الْمَوْتِ وَالْمَلَائِكَةُ بَاسِطُو أَيْدِيهِمْ أَخْرِجُوا أَنْفُسَكُمُ ۖ الْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا كُنْتُمْ تَقُولُونَ عَلَى اللَّهِ غَيْرَ الْحَقِّ وَكُنْتُمْ عَنْ آيَاتِهِ تَسْتَكْبِرُونَ",
+      "verseStringB": "And who is more unjust than he who forges a lie against Allāh, or says, Revelation has been granted to me; while nothing has been revealed to him; and he who says: I can reveal the like of that which Allāh has revealed?ᵃ And if thou couldst see when the wrongdoers are in the agonies of death and the angels stretch forth their hands, (saying): Yield up your souls. This day you are awarded a chastisement of disgrace because you spoke against Allāh other than truth, and (because) you scorned His messages."
+    },
+    {
+      "verseNumber": 94,
+      "verseString": "وَلَقَدْ جِئْتُمُونَا فُرَادَىٰ كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُمْ مَا خَوَّلْنَاكُمْ وَرَاءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَاءَكُمُ الَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَاءُ ۚ لَقَدْ تَقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنْكُمْ مَا كُنْتُمْ تَزْعُمُونَ",
+      "verseStringB": "And certainly you have come to Us one by one as We created you at first, and you have left behind your backs what We gave you. And We see not with you your intercessors about whom you asserted that they were (Allāh’s) associates in respect to you. Certainly the ties between you are now cut off and that which you asserted has failed you.ᵃ"
+    },
+    {
+      "verseNumber": 95,
+      "verseString": "إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَىٰ ۖ يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ ۚ ذَٰلِكُمُ اللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+      "verseStringB": "Surely Allāh causes the grain and the date-stone to germInᵃ te. He brings forth the living from the dead and He is the bringer forth of the dead from the living. That is Allāh. How are you then turned away!ᵃ"
+    },
+    {
+      "verseNumber": 96,
+      "verseString": "فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا وَالشَّمْسَ وَالْقَمَرَ حُسْبَانًا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+      "verseStringB": "He is the Cleaver of the daybreak; and He has made the night for rest, and the sun and the moon for reckoning. That is the measuring of the Mighty, the Knowing.ᵃ"
+    },
+    {
+      "verseNumber": 97,
+      "verseString": "وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ",
+      "verseStringB": "And He it is Who has made the stars for you that you might follow the right way thereby in the darkness of the land and the sea. Indeed We have made plain the signs for a people who know.ᵃ"
+    },
+    {
+      "verseNumber": 98,
+      "verseString": "وَهُوَ الَّذِي أَنْشَأَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَفْقَهُونَ",
+      "verseStringB": "And He it is Who has brought you into being from a single soul, then there is (for you) a resting-place and a repository. Indeed We have made plain the signs for a people who understand.ᵃ"
+    },
+    {
+      "verseNumber": 99,
+      "verseString": "وَهُوَ الَّذِي أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِبًا وَمِنَ النَّخْلِ مِنْ طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّاتٍ مِنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ ۗ انْظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ ۚ إِنَّ فِي ذَٰلِكُمْ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+      "verseStringB": "And He it is Who sends down water from the clouds, then We bring forth with it buds of all (plants), then We bring forth from it green (foliage), from which We produce clustered grain; and of the date-palm, of the sheaths of it, come forth clusters (of dates) within reach; and gardens of grapes and the olive and the pomegranate, alike and unlike. Look at the fruit of it when it bears fruit and the ripening of it. Surely there are signs in this for a people who believe!"
+    },
+    {
+      "verseNumber": 100,
+      "verseString": "وَجَعَلُوا لِلَّهِ شُرَكَاءَ الْجِنَّ وَخَلَقَهُمْ ۖ وَخَرَقُوا لَهُ بَنِينَ وَبَنَاتٍ بِغَيْرِ عِلْمٍ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يَصِفُونَ",
+      "verseStringB": "And they regard the jinn to be partners with Allāh, and He created them, and they falsely attribute to Him sons and daughters without knowledge. Glory be to Him, and highly exalted is He above what they ascribe (to Him)!ᵃ"
+    },
+    {
+      "verseNumber": 101,
+      "verseString": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ ۖ أَنَّىٰ يَكُونُ لَهُ وَلَدٌ وَلَمْ تَكُنْ لَهُ صَاحِبَةٌ ۖ وَخَلَقَ كُلَّ شَيْءٍ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseStringB": "Wonderful OrigInᵃ tor of the heavens and the earth! How could He have a son when He has no consort? And He created everything, and He is the Knower of all things.ᵃ"
+    },
+    {
+      "verseNumber": 102,
+      "verseString": "ذَٰلِكُمُ اللَّهُ رَبُّكُمْ ۖ لَا إِلَٰهَ إِلَّا هُوَ ۖ خَالِقُ كُلِّ شَيْءٍ فَاعْبُدُوهُ ۚ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ وَكِيلٌ",
+      "verseStringB": "That is Allāh, your Lord. There is no god but He; the Creator of all things; therefore serve Him, and He has charge of all things."
+    },
+    {
+      "verseNumber": 103,
+      "verseString": "لَا تُدْرِكُهُ الْأَبْصَارُ وَهُوَ يُدْرِكُ الْأَبْصَارَ ۖ وَهُوَ اللَّطِيفُ الْخَبِيرُ",
+      "verseStringB": "Vision comprehends Him not, and He comprehends (all) vision; and He is the Subtile, the Aware.ᵃ"
+    },
+    {
+      "verseNumber": 104,
+      "verseString": "قَدْ جَاءَكُمْ بَصَائِرُ مِنْ رَبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِ ۖ وَمَنْ عَمِيَ فَعَلَيْهَا ۚ وَمَا أَنَا عَلَيْكُمْ بِحَفِيظٍ",
+      "verseStringB": "Clear proofs have indeed come to you from your Lord; so whoever sees, it is for his own good; and whoever is blind, it is to his own harm. And I am not a keeper over you."
+    },
+    {
+      "verseNumber": 105,
+      "verseString": "وَكَذَٰلِكَ نُصَرِّفُ الْآيَاتِ وَلِيَقُولُوا دَرَسْتَ وَلِنُبَيِّنَهُ لِقَوْمٍ يَعْلَمُونَ",
+      "verseStringB": "And thus do We repeat the messages, and that they may say, Thou hast studied; and that We may make it clear to a people who know."
+    },
+    {
+      "verseNumber": 106,
+      "verseString": "اتَّبِعْ مَا أُوحِيَ إِلَيْكَ مِنْ رَبِّكَ ۖ لَا إِلَٰهَ إِلَّا هُوَ ۖ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ",
+      "verseStringB": "Follow that which is revealed to thee from thy Lord — there is no god but He; and turn away from the polytheists."
+    },
+    {
+      "verseNumber": 107,
+      "verseString": "وَلَوْ شَاءَ اللَّهُ مَا أَشْرَكُوا ۗ وَمَا جَعَلْنَاكَ عَلَيْهِمْ حَفِيظًا ۖ وَمَا أَنْتَ عَلَيْهِمْ بِوَكِيلٍ",
+      "verseStringB": "And if Allāh had pleased, they would not have set up others (with Him). And We have not appointed thee a keeper over them, and thou art not placed in charge of them."
+    },
+    {
+      "verseNumber": 108,
+      "verseString": "وَلَا تَسُبُّوا الَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ فَيَسُبُّوا اللَّهَ عَدْوًا بِغَيْرِ عِلْمٍ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِمْ مَرْجِعُهُمْ فَيُنَبِّئُهُمْ بِمَا كَانُوا يَعْمَلُونَ",
+      "verseStringB": "And abuse not those whom they call upon besides Allāh, lest, exceeding the limits, they abuse Allāh through ignorance. Thus to every people have We made their deeds fair-seeming; then to their Lord is their return so He will inform them of what they did.ᵃ"
+    },
+    {
+      "verseNumber": 109,
+      "verseString": "وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ جَاءَتْهُمْ آيَةٌ لَيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا الْآيَاتُ عِنْدَ اللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَا إِذَا جَاءَتْ لَا يُؤْمِنُونَ",
+      "verseStringB": "And they swear their strongest oaths by Allāh that if a sign come to them they would certainly believe in it. Say: Signs are with Allāh. And what should make you know that when they come they believe not?ᵃ"
+    },
+    {
+      "verseNumber": 110,
+      "verseString": "وَنُقَلِّبُ أَفْئِدَتَهُمْ وَأَبْصَارَهُمْ كَمَا لَمْ يُؤْمِنُوا بِهِ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "verseStringB": "And We turn their hearts and their sights, even as they did not believe in it the first time; and We leave them in their inordInᵃ cy, blindly wandering on.ᵃ"
+    },
+    {
+      "verseNumber": 111,
+      "verseString": "وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَا كَانُوا لِيُؤْمِنُوا إِلَّا أَنْ يَشَاءَ اللَّهُ وَلَٰكِنَّ أَكْثَرَهُمْ يَجْهَلُونَ",
+      "verseStringB": "And even if We send down to them the angels and the dead speak to them and We bring together all things before them, they would not believe unless Allāh please, but most of them are ignorant.ᵃ"
+    },
+    {
+      "verseNumber": 112,
+      "verseString": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنْسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا ۚ وَلَوْ شَاءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "verseStringB": "And thus did We make for every prophet an enemy, the devils from among men and jinn,ᵃ some of them inspiring others with gilded speech to deceive (them). And if thy Lord pleased, they would not do it, so leave them alone with what they forge —"
+    },
+    {
+      "verseNumber": 113,
+      "verseString": "وَلِتَصْغَىٰ إِلَيْهِ أَفْئِدَةُ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا مَا هُمْ مُقْتَرِفُونَ",
+      "verseStringB": "And that the hearts of those who believe not in the Hereafter may incline thereto, and that they may be pleased with it, and that they may earn what they are earning."
+    },
+    {
+      "verseNumber": 114,
+      "verseString": "أَفَغَيْرَ اللَّهِ أَبْتَغِي حَكَمًا وَهُوَ الَّذِي أَنْزَلَ إِلَيْكُمُ الْكِتَابَ مُفَصَّلًا ۚ وَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْلَمُونَ أَنَّهُ مُنَزَّلٌ مِنْ رَبِّكَ بِالْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِينَ",
+      "verseStringB": "Shall I then seek a judge other than Allāh, when He it is Who has sent down to you the Book fully explained. And those whom We have given the Book know that it is revealed by thy Lord with truth, so be not thou of the disputers."
+    },
+    {
+      "verseNumber": 115,
+      "verseString": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ لِكَلِمَاتِهِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "verseStringB": "And the word of thy Lord has been accomplished truly and justly. There is none who can change His words; and He is the Hearer, the Knower.ᵃ"
+    },
+    {
+      "verseNumber": 116,
+      "verseString": "وَإِنْ تُطِعْ أَكْثَرَ مَنْ فِي الْأَرْضِ يُضِلُّوكَ عَنْ سَبِيلِ اللَّهِ ۚ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+      "verseStringB": "And if thou obey most of those in the earth, they will lead thee astray from Allāh’s way. They follow naught but conjecture, and they only lie."
+    },
+    {
+      "verseNumber": 117,
+      "verseString": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَنْ يَضِلُّ عَنْ سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+      "verseStringB": "Surely thy Lord — He knows best who goes astray from His way, and He knows best the guided ones."
+    },
+    {
+      "verseNumber": 118,
+      "verseString": "فَكُلُوا مِمَّا ذُكِرَ اسْمُ اللَّهِ عَلَيْهِ إِنْ كُنْتُمْ بِآيَاتِهِ مُؤْمِنِينَ",
+      "verseStringB": "Eat, then, of that on which Allāh’s name has been mentioned, if you are believers in His messages.ᵃ"
+    },
+    {
+      "verseNumber": 119,
+      "verseString": "وَمَا لَكُمْ أَلَّا تَأْكُلُوا مِمَّا ذُكِرَ اسْمُ اللَّهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُمْ مَا حَرَّمَ عَلَيْكُمْ إِلَّا مَا اضْطُرِرْتُمْ إِلَيْهِ ۗ وَإِنَّ كَثِيرًا لَيُضِلُّونَ بِأَهْوَائِهِمْ بِغَيْرِ عِلْمٍ ۗ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِالْمُعْتَدِينَ",
+      "verseStringB": "And what reason have you that you should not eat of that on which Allāh’s name is mentioned, when He has already made plain to you what He has forbidden to you — excepting that which you are compelled to.ᵃ And surely many lead (people) astray by their low desires through ignorance. Surely thy Lord — He best knows the transgressors."
+    },
+    {
+      "verseNumber": 120,
+      "verseString": "وَذَرُوا ظَاهِرَ الْإِثْمِ وَبَاطِنَهُ ۚ إِنَّ الَّذِينَ يَكْسِبُونَ الْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا يَقْتَرِفُونَ",
+      "verseStringB": "And avoid open sins and secret ones. Surely they who earn sin will be rewarded for what they have earned.ᵃ"
+    },
+    {
+      "verseNumber": 121,
+      "verseString": "وَلَا تَأْكُلُوا مِمَّا لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهِ وَإِنَّهُ لَفِسْقٌ ۗ وَإِنَّ الشَّيَاطِينَ لَيُوحُونَ إِلَىٰ أَوْلِيَائِهِمْ لِيُجَادِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+      "verseStringB": "And eat not of that on which Allāh’s name has not been mentioned, and that is surely a transgression.ᵃ And certainly the devils inspire their friends to contend with you; and if you obey them, you will surely be polytheists."
+    },
+    {
+      "verseNumber": 122,
+      "verseString": "أَوَمَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي بِهِ فِي النَّاسِ كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ مِنْهَا ۚ كَذَٰلِكَ زُيِّنَ لِلْكَافِرِينَ مَا كَانُوا يَعْمَلُونَ",
+      "verseStringB": "Is he who was dead, then We raised him to life and made for him a light by which he walks among the people, like him whose likeness is that of one in darkness whence he cannot come forth? a Thus their doings are made fair-seeming to the disbelievers."
+    },
+    {
+      "verseNumber": 123,
+      "verseString": "وَكَذَٰلِكَ جَعَلْنَا فِي كُلِّ قَرْيَةٍ أَكَابِرَ مُجْرِمِيهَا لِيَمْكُرُوا فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنْفُسِهِمْ وَمَا يَشْعُرُونَ",
+      "verseStringB": "And thus have We made in every town the leaders of its guilty ones, that they may make plans therein. And they plan not but against themselves, and they perceive not."
+    },
+    {
+      "verseNumber": 124,
+      "verseString": "وَإِذَا جَاءَتْهُمْ آيَةٌ قَالُوا لَنْ نُؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَا أُوتِيَ رُسُلُ اللَّهِ ۘ اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ ۗ سَيُصِيبُ الَّذِينَ أَجْرَمُوا صَغَارٌ عِنْدَ اللَّهِ وَعَذَابٌ شَدِيدٌ بِمَا كَانُوا يَمْكُرُونَ",
+      "verseStringB": "And when a message comes to them they say: We will not believe till we are given the like of that which Allāh’s messengers are given. Allāh best knows where to place His message.ᵃ Humiliation from Allāh and severe chastisement will surely befall the guilty for their planning."
+    },
+    {
+      "verseNumber": 125,
+      "verseString": "فَمَنْ يُرِدِ اللَّهُ أَنْ يَهْدِيَهُ يَشْرَحْ صَدْرَهُ لِلْإِسْلَامِ ۖ وَمَنْ يُرِدْ أَنْ يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِي السَّمَاءِ ۚ كَذَٰلِكَ يَجْعَلُ اللَّهُ الرِّجْسَ عَلَى الَّذِينَ لَا يُؤْمِنُونَ",
+      "verseStringB": "So whomsoever Allāh intends to guide, He expands his breast for Islām, and whomsoever He intends to leave in error, He makes his breast strait (and) narrow as though he were ascending upwards. Thus does Allāh lay uncleanness on those who believe not.ᵃ"
+    },
+    {
+      "verseNumber": 126,
+      "verseString": "وَهَٰذَا صِرَاطُ رَبِّكَ مُسْتَقِيمًا ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَذَّكَّرُونَ",
+      "verseStringB": "And this is the path of thy Lord, (a) straight (path). Indeed We have made the messages clear for a people who mind."
+    },
+    {
+      "verseNumber": 127,
+      "verseString": "لَهُمْ دَارُ السَّلَامِ عِنْدَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُمْ بِمَا كَانُوا يَعْمَلُونَ",
+      "verseStringB": "Theirs is the abode of peace with their Lord, and He is their Friend because of what they do."
+    },
+    {
+      "verseNumber": 128,
+      "verseString": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا يَا مَعْشَرَ الْجِنِّ قَدِ اسْتَكْثَرْتُمْ مِنَ الْإِنْسِ ۖ وَقَالَ أَوْلِيَاؤُهُمْ مِنَ الْإِنْسِ رَبَّنَا اسْتَمْتَعَ بَعْضُنَا بِبَعْضٍ وَبَلَغْنَا أَجَلَنَا الَّذِي أَجَّلْتَ لَنَا ۚ قَالَ النَّارُ مَثْوَاكُمْ خَالِدِينَ فِيهَا إِلَّا مَا شَاءَ اللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+      "verseStringB": "And on the day when He will gather them all together: O assembly of jinn,ᵃ you took away a great part of men. And their friends from among men will say: Our Lord, some of us profited by others and we have reached our appointed term which Thou didst appoint for us. He will say: The Fire is your abode — you shall abide therein, except as Allāh please. Surely thy Lord is Wise, Knowing.ᵇ"
+    },
+    {
+      "verseNumber": 129,
+      "verseString": "وَكَذَٰلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُوا يَكْسِبُونَ",
+      "verseStringB": "And thus do We make some of the iniquitous to befriend others on account of what they earn."
+    },
+    {
+      "verseNumber": 130,
+      "verseString": "يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِنْكُمْ يَقُصُّونَ عَلَيْكُمْ آيَاتِي وَيُنْذِرُونَكُمْ لِقَاءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا شَهِدْنَا عَلَىٰ أَنْفُسِنَا ۖ وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا وَشَهِدُوا عَلَىٰ أَنْفُسِهِمْ أَنَّهُمْ كَانُوا كَافِرِينَ",
+      "verseStringB": "O community of jinn and men, did there not come to you messengers from among you, relating to you My messages and warning you of the meeting of this day of yours?ᵃ They will say: We bear witness against ourselves. And this world’s life deceived them, and they will bear witness against themselves that they were disbelievers."
+    },
+    {
+      "verseNumber": 131,
+      "verseString": "ذَٰلِكَ أَنْ لَمْ يَكُنْ رَبُّكَ مُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَافِلُونَ",
+      "verseStringB": "This is because thy Lord would not destroy towns unjustly while their people are negligent.ᵃ"
+    },
+    {
+      "verseNumber": 132,
+      "verseString": "وَلِكُلٍّ دَرَجَاتٌ مِمَّا عَمِلُوا ۚ وَمَا رَبُّكَ بِغَافِلٍ عَمَّا يَعْمَلُونَ",
+      "verseStringB": "And for all are degrees according to their doings. And thy Lord is not heedless of what they do."
+    },
+    {
+      "verseNumber": 133,
+      "verseString": "وَرَبُّكَ الْغَنِيُّ ذُو الرَّحْمَةِ ۚ إِنْ يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنْ بَعْدِكُمْ مَا يَشَاءُ كَمَا أَنْشَأَكُمْ مِنْ ذُرِّيَّةِ قَوْمٍ آخَرِينَ",
+      "verseStringB": "And thy Lord is the Self-sufficient One, the Lord of mercy. If He please, He may remove you, and make whom He pleases successors after you, even as He raised you up from the seed of other people."
+    },
+    {
+      "verseNumber": 134,
+      "verseString": "إِنَّ مَا تُوعَدُونَ لَآتٍ ۖ وَمَا أَنْتُمْ بِمُعْجِزِينَ",
+      "verseStringB": "Surely that which you are promised will come to pass, and you cannot escape (it).ᵃ"
+    },
+    {
+      "verseNumber": 135,
+      "verseString": "قُلْ يَا قَوْمِ اعْمَلُوا عَلَىٰ مَكَانَتِكُمْ إِنِّي عَامِلٌ ۖ فَسَوْفَ تَعْلَمُونَ مَنْ تَكُونُ لَهُ عَاقِبَةُ الدَّارِ ۗ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+      "verseStringB": "Say: O my people, act according to your ability, I too am acting; so you will soon come to know for whom is the (good) end of the abode. Surely the wrongdoers will not succeed."
+    },
+    {
+      "verseNumber": 136,
+      "verseString": "وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا فَقَالُوا هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَائِنَا ۖ فَمَا كَانَ لِشُرَكَائِهِمْ فَلَا يَصِلُ إِلَى اللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَائِهِمْ ۗ سَاءَ مَا يَحْكُمُونَ",
+      "verseStringB": "And they set apart a portion for Allāh out of what He has created of tilth and cattle, and say: This is for Allāh — so they assert — and this for our associate-gods. Then that which is for their associate-gods reaches not Allāh, and that which is for Allāh reaches their associategods Evil is what they judge.ᵃ"
+    },
+    {
+      "verseNumber": 137,
+      "verseString": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِنَ الْمُشْرِكِينَ قَتْلَ أَوْلَادِهِمْ شُرَكَاؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَاءَ اللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "verseStringB": "And thus their associate-gods have made fair-seeming to many polytheists the killing of their children,ᵃ that they may cause them to perish and obscure for them their religion.ᵇ And if Allāh had pleased, they would not have done it, so leave them alone with that which they forge."
+    },
+    {
+      "verseNumber": 138,
+      "verseString": "وَقَالُوا هَٰذِهِ أَنْعَامٌ وَحَرْثٌ حِجْرٌ لَا يَطْعَمُهَا إِلَّا مَنْ نَشَاءُ بِزَعْمِهِمْ وَأَنْعَامٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَامٌ لَا يَذْكُرُونَ اسْمَ اللَّهِ عَلَيْهَا افْتِرَاءً عَلَيْهِ ۚ سَيَجْزِيهِمْ بِمَا كَانُوا يَفْتَرُونَ",
+      "verseStringB": "And they say: Such and such cattle and crops are prohibited — none shall eat them except such as we pleasea — so they assert — and cattle whose backs are forbidden,ᵇ and cattle on which they would not mention Allāh’s namec — forging a lie against Him. He will requite them for what they forge."
+    },
+    {
+      "verseNumber": 139,
+      "verseString": "وَقَالُوا مَا فِي بُطُونِ هَٰذِهِ الْأَنْعَامِ خَالِصَةٌ لِذُكُورِنَا وَمُحَرَّمٌ عَلَىٰ أَزْوَاجِنَا ۖ وَإِنْ يَكُنْ مَيْتَةً فَهُمْ فِيهِ شُرَكَاءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُ حَكِيمٌ عَلِيمٌ",
+      "verseStringB": "And they say: That which is in the wombs of such and such cattle is reserved for our males, and forbidden to our wives, and if it be stillborn, they are partners in it. He will reward them for their (false) attribution. Surely He is Wise, Knowing."
+    },
+    {
+      "verseNumber": 140,
+      "verseString": "قَدْ خَسِرَ الَّذِينَ قَتَلُوا أَوْلَادَهُمْ سَفَهًا بِغَيْرِ عِلْمٍ وَحَرَّمُوا مَا رَزَقَهُمُ اللَّهُ افْتِرَاءً عَلَى اللَّهِ ۚ قَدْ ضَلُّوا وَمَا كَانُوا مُهْتَدِينَ",
+      "verseStringB": "They are losers indeed who kill their children foolishly without knowledge, and forbid that which Allāh has provided for them, forging a lie against Allāh. They indeed go astray, and are not guided."
+    },
+    {
+      "verseNumber": 141,
+      "verseString": "وَهُوَ الَّذِي أَنْشَأَ جَنَّاتٍ مَعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ وَالنَّخْلَ وَالزَّرْعَ مُخْتَلِفًا أُكُلُهُ وَالزَّيْتُونَ وَالرُّمَّانَ مُتَشَابِهًا وَغَيْرَ مُتَشَابِهٍ ۚ كُلُوا مِنْ ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ ۖ وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+      "verseStringB": "And He it is Who produces gardens, trellised and untrellised, and palms and seed-produce of which the fruitsa are of various sorts, and olives and pomegranates like and unlike. Eat of its fruit when it bears fruit, and pay the due of it on the day of its reaping, and be not prodigal. Surely"
+    },
+    {
+      "verseNumber": 142,
+      "verseString": "وَمِنَ الْأَنْعَامِ حَمُولَةً وَفَرْشًا ۚ كُلُوا مِمَّا رَزَقَكُمُ اللَّهُ وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
+      "verseStringB": "And of the cattle (He has created) some for burden and some for slaughter.ᵃ Eat of that which Allāh has given you and follow not the footsteps of the devil. Surely he is your open enemy —"
+    },
+    {
+      "verseNumber": 143,
+      "verseString": "ثَمَانِيَةَ أَزْوَاجٍ ۖ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِ ۗ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنْثَيَيْنِ ۖ نَبِّئُونِي بِعِلْمٍ إِنْ كُنْتُمْ صَادِقِينَ",
+      "verseStringB": "Eight in pairs — of the sheep two and of the goats two. Say: Has He forbidden the two males or the two females or that which the wombs of the two females contain? Inform me with knowledge, if you are truthful;ᵃ"
+    },
+    {
+      "verseNumber": 144,
+      "verseString": "وَمِنَ الْإِبِلِ اثْنَيْنِ وَمِنَ الْبَقَرِ اثْنَيْنِ ۗ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنْثَيَيْنِ ۖ أَمْ كُنْتُمْ شُهَدَاءَ إِذْ وَصَّاكُمُ اللَّهُ بِهَٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا لِيُضِلَّ النَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+      "verseStringB": "And of the camels two and of the cows two. Say: Has He forbidden the two males or the two females or that which the wombs of the two females contain? Or were you witnesses when Allāh enjoined you this? Who is then more unjust than he who forges a lie against Allāh to lead men astray without knowledge? Surely Allāh guides not the iniquitous people."
+    },
+    {
+      "verseNumber": 145,
+      "verseString": "قُلْ لَا أَجِدُ فِي مَا أُوحِيَ إِلَيَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُ إِلَّا أَنْ يَكُونَ مَيْتَةً أَوْ دَمًا مَسْفُوحًا أَوْ لَحْمَ خِنْزِيرٍ فَإِنَّهُ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ ۚ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَحِيمٌ",
+      "verseStringB": "Say: I find not in that which is revealed to me aught forbidden for an eater to eat thereof, except that it be what dies of itself, or blood poured forth, or flesh of swine — for that surely is unclean — or what is a transgression, other than (the name of) Allāh having been invoked on it. But whoever is driven to necessity, not desiring nor exceeding the limit, then surely thy Lord is Forgiving, Merciful.ᵃ"
+    },
+    {
+      "verseNumber": 146,
+      "verseString": "وَعَلَى الَّذِينَ هَادُوا حَرَّمْنَا كُلَّ ذِي ظُفُرٍ ۖ وَمِنَ الْبَقَرِ وَالْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَا إِلَّا مَا حَمَلَتْ ظُهُورُهُمَا أَوِ الْحَوَايَا أَوْ مَا اخْتَلَطَ بِعَظْمٍ ۚ ذَٰلِكَ جَزَيْنَاهُمْ بِبَغْيِهِمْ ۖ وَإِنَّا لَصَادِقُونَ",
+      "verseStringB": "And to those who are Jews We forbade every animal having claws,ᵃ and of oxen and sheep We forbade them the fat thereof,ᵇ except such as was on their backs or the entrails or what was mixed with bones. This was a punishment We gave them on account of their rebellion, and We are surely Truthful."
+    },
+    {
+      "verseNumber": 147,
+      "verseString": "فَإِنْ كَذَّبُوكَ فَقُلْ رَبُّكُمْ ذُو رَحْمَةٍ وَاسِعَةٍ وَلَا يُرَدُّ بَأْسُهُ عَنِ الْقَوْمِ الْمُجْرِمِينَ",
+      "verseStringB": "But if they give thee the lie, then say: Your Lord is the Lord of all-encompassing mercy; and His punishment cannot be averted from the guilty people.ᵃ"
+    },
+    {
+      "verseNumber": 148,
+      "verseString": "سَيَقُولُ الَّذِينَ أَشْرَكُوا لَوْ شَاءَ اللَّهُ مَا أَشْرَكْنَا وَلَا آبَاؤُنَا وَلَا حَرَّمْنَا مِنْ شَيْءٍ ۚ كَذَٰلِكَ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ حَتَّىٰ ذَاقُوا بَأْسَنَا ۗ قُلْ هَلْ عِنْدَكُمْ مِنْ عِلْمٍ فَتُخْرِجُوهُ لَنَا ۖ إِنْ تَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ أَنْتُمْ إِلَّا تَخْرُصُونَ",
+      "verseStringB": "Those who are polytheists say: If Allāh pleased we would not have set up (aught with Him) nor our fathers, nor would we have made anything unlawful. Thus did those before them reject (the truth) until they tasted Our punishment. Say: Have you any knowledge so you would bring it forth to us? You only follow a conjecture and you only tell lies."
+    },
+    {
+      "verseNumber": 149,
+      "verseString": "قُلْ فَلِلَّهِ الْحُجَّةُ الْبَالِغَةُ ۖ فَلَوْ شَاءَ لَهَدَاكُمْ أَجْمَعِينَ",
+      "verseStringB": "Say: Then Allāh’s is the conclusive argument; so if He had pleased, He would have guided you all.ᵃ"
+    },
+    {
+      "verseNumber": 150,
+      "verseString": "قُلْ هَلُمَّ شُهَدَاءَكُمُ الَّذِينَ يَشْهَدُونَ أَنَّ اللَّهَ حَرَّمَ هَٰذَا ۖ فَإِنْ شَهِدُوا فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَاءَ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَالَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ وَهُمْ بِرَبِّهِمْ يَعْدِلُونَ",
+      "verseStringB": "Say: Bring your witnesses who bear witness that Allāh forbade this. If they bear witness, then do not thou bear witness with them. And follow not the low desires of those who reject Our messages and those who believe not in the Hereafter, and they make (others) equal with their Lord."
+    },
+    {
+      "verseNumber": 151,
+      "verseString": "قُلْ تَعَالَوْا أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا ۖ وَلَا تَقْتُلُوا أَوْلَادَكُمْ مِنْ إِمْلَاقٍ ۖ نَحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseStringB": "Say: Come! I will recite what your Lord has forbidden to you: Associate naught with Him and do good to parents and slay not your children for (fear of) poverty — We provide for you and for them — and draw not nigh to indecencies, open or secret, and kill not the soul which Allāh has made sacred except in the course of justice. This He enjoins upon you that you may understand."
+    },
+    {
+      "verseNumber": 152,
+      "verseString": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۖ وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَاعْدِلُوا وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ اللَّهِ أَوْفُوا ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseStringB": "And approach not the property of the orphan except in the best manner,ᵃ until he attains his maturity. And give full measure and weight with equity — We impose not on any soul a duty except to the extent of its ability. And when you speak, be just, though it be (against) a relative.ᵇ And fulfil Allāh’s covenant. This He enjoins on you that you may be mindful;"
+    },
+    {
+      "verseNumber": 153,
+      "verseString": "وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَتَّقُونَ",
+      "verseStringB": "And (know) that this is My path, the right one, so follow it, and follow not (other) ways, for they will lead you away from His way. This He enjoins on you that you may keep your duty."
+    },
+    {
+      "verseNumber": 154,
+      "verseString": "ثُمَّ آتَيْنَا مُوسَى الْكِتَابَ تَمَامًا عَلَى الَّذِي أَحْسَنَ وَتَفْصِيلًا لِكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لَعَلَّهُمْ بِلِقَاءِ رَبِّهِمْ يُؤْمِنُونَ",
+      "verseStringB": "Again, We gave the Book to Moses to complete (Our blessings) on him who would do good, and making plain all thingsa and a guidance and a mercy, so that they might believe in the meeting with their Lord."
+    },
+    {
+      "verseNumber": 155,
+      "verseString": "وَهَٰذَا كِتَابٌ أَنْزَلْنَاهُ مُبَارَكٌ فَاتَّبِعُوهُ وَاتَّقُوا لَعَلَّكُمْ تُرْحَمُونَ",
+      "verseStringB": "And this is a Book We have revealed, full of blessings; so follow it and keep your duty that mercy may be shown to you,ᵃ"
+    },
+    {
+      "verseNumber": 156,
+      "verseString": "أَنْ تَقُولُوا إِنَّمَا أُنْزِلَ الْكِتَابُ عَلَىٰ طَائِفَتَيْنِ مِنْ قَبْلِنَا وَإِنْ كُنَّا عَنْ دِرَاسَتِهِمْ لَغَافِلِينَ",
+      "verseStringB": "Lest you should say that the Book was revealed only to two parties before us and we were truly unaware of what they read,ᵃ"
+    },
+    {
+      "verseNumber": 157,
+      "verseString": "أَوْ تَقُولُوا لَوْ أَنَّا أُنْزِلَ عَلَيْنَا الْكِتَابُ لَكُنَّا أَهْدَىٰ مِنْهُمْ ۚ فَقَدْ جَاءَكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ وَهُدًى وَرَحْمَةٌ ۚ فَمَنْ أَظْلَمُ مِمَّنْ كَذَّبَ بِآيَاتِ اللَّهِ وَصَدَفَ عَنْهَا ۗ سَنَجْزِي الَّذِينَ يَصْدِفُونَ عَنْ آيَاتِنَا سُوءَ الْعَذَابِ بِمَا كَانُوا يَصْدِفُونَ",
+      "verseStringB": "Or, lest you should say: If the Book had been revealed to us, we would have been better guided than they. So indeed there has come to you clear proof from your Lord, and guidance and mercy. Who is then more unjust than he who rejects Allāh’s messages and turns away from them? We reward those who turn away from Our messages with an evil chastisement because they turned away."
+    },
+    {
+      "verseNumber": 158,
+      "verseString": "هَلْ يَنْظُرُونَ إِلَّا أَنْ تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ رَبُّكَ أَوْ يَأْتِيَ بَعْضُ آيَاتِ رَبِّكَ ۗ يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ لَا يَنْفَعُ نَفْسًا إِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا ۗ قُلِ انْتَظِرُوا إِنَّا مُنْتَظِرُونَ",
+      "verseStringB": "They wait not aught but that the angels should come to them, or that thy Lord should come,ᵃ or that some of the signs of thy Lord should come.ᵇ On the day when some of the signs of thy Lord come, its faith will not profit a soul which believed not before, nor earned good through its faith. Say: Wait; we too are waiting."
+    },
+    {
+      "verseNumber": 159,
+      "verseString": "إِنَّ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا لَسْتَ مِنْهُمْ فِي شَيْءٍ ۚ إِنَّمَا أَمْرُهُمْ إِلَى اللَّهِ ثُمَّ يُنَبِّئُهُمْ بِمَا كَانُوا يَفْعَلُونَ",
+      "verseStringB": "As for those who split up their religion and became sects, thou hast no concern with them. Their affair is only with Allāh,ᵃ then He will inform them of what they did."
+    },
+    {
+      "verseNumber": 160,
+      "verseString": "مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا ۖ وَمَنْ جَاءَ بِالسَّيِّئَةِ فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ",
+      "verseStringB": "Whoever brings a good deed will have tenfold like it, and whoever brings an evil deed, will be recompensed only with the like of it, and they shall not be wronged.ᵃ"
+    },
+    {
+      "verseNumber": 161,
+      "verseString": "قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ دِينًا قِيَمًا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+      "verseStringB": "Say: As for me, my Lord has guided me to the right path — a right religion, the faith of Abraham, the upright one, and he was not of the polytheists."
+    },
+    {
+      "verseNumber": 162,
+      "verseString": "قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "verseStringB": "Say: My prayer and my sacrifice and my life and my death are surely for Allāh, the Lord of the worldsa —"
+    },
+    {
+      "verseNumber": 163,
+      "verseString": "لَا شَرِيكَ لَهُ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ",
+      "verseStringB": "No associate has He. And this am I commanded, and I am the first of those who submit."
+    },
+    {
+      "verseNumber": 164,
+      "verseString": "قُلْ أَغَيْرَ اللَّهِ أَبْغِي رَبًّا وَهُوَ رَبُّ كُلِّ شَيْءٍ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُمْ مَرْجِعُكُمْ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ",
+      "verseStringB": "Say: Shall I seek a Lord other than Allāh, while He is the Lord of all things? And no soul earns (evil) but against itself. Nor does a bearer of burden bear another’s burden.ᵃ Then to your Lord is your return, so He will inform you of that in which you differed."
+    },
+    {
+      "verseNumber": 165,
+      "verseString": "وَهُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ الْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَاتٍ لِيَبْلُوَكُمْ فِي مَا آتَاكُمْ ۗ إِنَّ رَبَّكَ سَرِيعُ الْعِقَابِ وَإِنَّهُ لَغَفُورٌ رَحِيمٌ",
+      "verseStringB": "And He it is Who has made you successors in the landa and exalted some of you in rank above others, that He may try you by what He has given you. Surely thy Lord is Quick in requiting (evil), and He is surely the Forgiving, the Mercifu"
+    }
+  ],
+  "nameEnglish": "Livestock",
+  "nameTrans": "al-An'am",
+  "nameArabic": "الأنعام",
+  "chapterNumber": 6,
+  "nVerses": 165,
+  "footnotes": [
+    {
+      "note": "1a. The words that Allåh is the Maker of darkness and light are directed against thedualistic doctrine of the Magian religion, which holds light and darkness to be twoco-eternal principles. The religion of Islåm is the purest monotheism, and thus it holdsthat the ultimate cause of all things is the Great Maker of the heavens and the earth. Puremonotheism holds out before man the bright hope that, as goodness is inherent inthe Divine Being, it is also the goal to which the creation moves on; while dualismconsiders the prevalence of evil to be necessary.\n\n2a. The first term is that of life and the second the Resurrection. All men are heresaid to be created from clay, which means, in the case of Adam as well as men gen -erally, that the earth is the original source, and dust the first stage, of life.\n\n3a. Life in Resurrection spoken of in the previous verse is here stated to be theresult of man’s own actions, which, whether done secretly or openly, are known to God.It is out of what you earn that He shapes a new life for you.\n\n7a. Compare 4:153: “The People of the Book ask thee to bring down to them aBook from heaven”. So far removed are people from spiritual realities that they want tosee them in a physical form. If truth had been sent down to man in the physical form of abook, and had not been revealed to the mind of man, it could not bring about a trans -formation in the minds of men. But even if it had taken a physical shape, they wouldhave called it an enchantment, and still rejected it.\n\n8a. The Divine message was undoubtedly brought by an angel, but here again theywanted to see the spiritual reality of the angel in a physical form. The presence of angelswas felt by the righteous in the transformation which they worked in their hearts but thehearts of the wicked were impervious to all good, and hence the only form in which theangels could make their presence felt to them was by punishing them for their evildeeds. Hence the coming of the angels to the guilty is always spoken of in the Qur’ån asbeing synonymous with the infliction of the punishment with which they were threatened. Compare 2:210, and v. 158.\n\n9a. The meaning is that if an angel were made a messenger to mankind, he woulddoubtless appear in the form of man inasmuch as the physical eye cannot see angels.Moreover only a human being could serve as a model for men. Thus in case an angelappeared in the shape of a man, there would still be the same confusion in their minds aswhen a human being was entrusted with the Divine message.\n\n10a. They ridiculed the idea of the Prophet and the believers being triumphant.Truth had always triumphed, they are told, and it would triumph even now.\n\n12a. The words He has ordained mercy on Himself imply that mercy is in fact Hisvery nature. The evidence of Divine mercy is manifest in the physical world: He hascreated all things for the benefit of man. Would He not deal equally mercifully with manin his spiritual needs and send a revelation to guide him?\n\n17a. I.e. Allåh, being All-powerful, will bring good to you.\n\n19a. The Holy Prophet was thus a warner, not for the Arabs only, but for all peoplewhom the Qur’ån may reach, i.e. for the whole world.\n\n20a. For as they recognize their sons, see 2:146a.\n\n23a. Fitnah, according to IJ, means here either answer or excuse, the answer or theexcuse being so called because of its being a lie.\n\n25a. Veils were cast over their hearts because they would not believe even if theysaw all the signs. As the words that follow show, they came to the Prophet, not for thepurpose of listening to and pondering over what he said, but to dispute with him. Theveils were due to their own actions; see 2:10a.\n\n28a. The evil consequences of their deeds were hidden in this life, but they willbecome manifest in the life after death. And since, if they were sent back, the evil consequences of evil deeds would again be hidden from the physical eye they would revert toevil deeds.\n\n31a. By the hour is meant their doom, as well as the hour of final judgment.\n\n33a. The Prophet was known among them as al-Amßn, i.e., the Faithful or theTruthful one. His worst enemies at the height of their enmity admitted that he had nevertold a lie (B. 1:1). It was after he received the Divine revelation that he was called a liar,and hence it was really a denial of the Divine revelation, not a denial as to the Prophet’struthfulness.\n\n34a. The context shows clearly that by the words of Allåh here are meant theprophecies foretelling the triumph of Truth and the overthrow of all opposition. As helpcame to messengers before the Holy Prophet, so would help come to him, and this was aprophecy which none could change and whose fulfilment was sure.\n\n35a. By sign is meant a sign that should bring all to guidance, as shown by what follows. Their doom was pronounced, and that word must be fulfilled, as affirmed in theprevious verse; but the demand of the people to be overawed into an immediate submission to the Prophet by a sign was not in accordance with the Divine Law.\n\n36a. Those addressed by the Prophet are here divided into two classes: (1) thosewho listen: they accept the Prophet and become believers; (2) those who are spirituallydead and pay no heed to the Prophet’s warning. Even the latter are not to be despairedof, for Allåh will raise them too to spiritual life. Their being returned to Allåh standshere for their submission to God and ultimate acceptance of the Truth.\n\n37a. The sign spoken of here is the sign asked for in v. 35. Allåh did send the verysign demanded, as we find the Arabs submitting to the Holy Prophet almost in a bodyafter the conquest of Makkah.\n\n38a. Other creatures are all provided for by Allåh as men are, so far as physicalneeds are concerned, and therefore man must obey the laws of nature as other animalsdo. But man’s nature aspires to something higher, and it is to satisfy that spiritualcraving that prophets are sent. This verse, moreover, points, as it were, to two classes ofmen — those who, like beasts, are wholly bent on earth and cannot rise, and those whorise like birds, soaring upward to the higher spiritual regions. The concluding words ofthe verse — then to their Lord will they be gathered — are in reference to mankind and,as compared with other animals, point to the Higher life, the life eternal in God. There isno mention here or anywhere else in the Holy Qur’ån of the lower animals being raisedto a new life for Judgment.\n\n41a. In dire distress and affliction even the polytheist finds nobody to call upon butGod. This shows that a belief in the Divine existence and Unity of God is inherent inhuman nature.\n\n44a. By opening the gates of all things is meant that all comforts of life were madeaccessible to them.\n\n45a. By cutting off the roots is meant the destruction of the ringleaders in particular.\n\n50a. Never did a prophet talk in plainer language and with a greater modesty to hispeople. Appearing among a superstitious and ignorant people, he could have claimedany supernatural powers for himself, and the people would willingly have accepted him.But he told them plainly that he was but a man; he had no treasures, nor did he lay claimfor himself as a man to know the secrets of the future, nor did he profess to be any morethan a mortal. What distinguished him from the rest of mankind was that Allåh revealedHis will to him, and he faithfully followed and translated into practice everything that hereceived from on High. And as he himself was, so he wanted others to be. It was not hisobject to make his followers possessors of treasures, or wonder-workers, or fortunetellers, but men first and last — men true to themselves and true followers of the highprinciples of life which had been revealed to him. He plainly told the people what waswanted of them, and it is for his plain speaking that he is frequently called in the HolyQur’ån a plain warner.“Here he declares himself unacquainted with the secrets of God” is the remarkwhich the noble words of the above verse draw from a Christian annotator, and thegrotesque conclusion is immediately drawn that “he confesses he does not possess thegift of prophecy”. What is meant by the verse is that, as a man, Mu√ammad was likeother men, i.e., he did not know the unseen, etc., but, as a prophet, he knew and followed everything revealed to him by Allåh. The unique greatness and nobleness of theProphet lie in the fact that he never tried to put himself before people as superhuman.\n\n52a. The commentators agree that this verse was revealed when some leading Quraishexpressed their willingness to accept the Prophet if the poorer Muslims were not allowedto remain in his company at the time. The poor and the rich are here brought to the samelevel; they are all men, they have equal claims to learn and practise the truth. Nay, thosewho accepted the truth had a prior claim on the Prophet’s attention. Truth is equally accessible to all; to the religion of Islåm, no aristocracy is known. Before the Great Master thedifferences of rank, wealth and colour sink into insignificance, and therefore beforeAllåh’s Messenger, as before Allåh Himself, they must all stand upon one level. Everyoneis answerable for what he does is the golden principle preached by Islåm.\n\n53a. The simple and decisive answer given above no doubt wounded the pride ofthe wealthy Quraish, who were required to sit along with the poor slaves whom theynever treated as human beings, and thus they were tried.\n\n59a. The word maf åti√ is plural of miftå√ as well as of mafta√, the former meaningkey and the latter repository or a treasure (LL). Hence both significances are admissible.\n\n59b. The clear book is the great law of cause and effect. The falling of the leaf indicates that its power to draw nourishment has come to an end; thus do individuals andnations fall. The grain in the darkness of the earth stands for the mission of the Prophet,for that grain was destined to sprout forth, growing into a tree of exceptional proportions.The “green” indicates those people that prosper and the “dry” those that must fall off.\n\n61a. The allusion seems to be to the ultimate sweeping away of all opposition. Thenext verse makes it clear. The √afa˚ah are the guardian angels, for which see 13:11a.\n\n63a. Òulumåt (plural of ˚ulmat, lit., darkness) means the troubles, afflictions,calamities or hardships (of the sea). Also a day of much evil or a day in which one findshardship or difficulty (LL).\n\n65a. The three forms of punishment were witnessed by the Prophet’s opponents lateron. A punishment from above took the form of a storm, witnessed in the well-knownbattle of the Allies, when an army between ten and twenty thousand strong, which couldeasily have destroyed the small body of entrenched Muslims, took to flight merely onaccount of a great storm; a punishment from beneath took the form of a drought whichbrought great affliction upon the people of Makkah for seven years; while they weremade to taste the violence at the hands of the Muslims in the battles which they themselves started and which brought about the final disruption of the power of the Quraish.By the two first, some understand a punishment at the hands of the leaders and a punishment at the hands of the servants (I‘Ab-Rz); in other words, the tyranny of the bourgeoisand the tyranny of the proletariate. It should be noted that these three forms of punishment are meant as well for the later opponents of the Prophet. The material civilization ofthe West has in fact produced the very evils which are spoken of in this verse as being thepunishment of those who pay no heed to the spiritual or higher values of life. The capitalists at first had the upper hand and they tyrannized labour; and socialism, or bolshevism,is now wreaking vengeance on the capitalist countries. To these two punishments is nowadded a third. The whole world is now divided into parties which aim at each other’sdestruction and the violence of man against man has reached a peak unthought of by theworld. Whole cities with their millions of residents are turned into graves in the twinklingof an eye, and this wholesale destruction of man by man is considered as the greatest featof material civilization. Perhaps man was never so savage as he is today.\n\n66a. The concluding phrase may also be translated as I am not a disposer of youraffairs. The significance in both cases is the same.\n\n67a. The meaning adopted here is the one given by LL in explaining the meaning ofmustaqarr, which means the place or time beyond which a thing does not pass, hence itsterm. Naba‘ means information and hence prophecy, which gives information concerning the future. According to R it means an announcement of great utility.The prophecy of the vanquishment of the powerful opponents of Islåm is de -clared with even greater emphasis than in the earlier stage of the Prophet’s mission,notwithstanding the apparent triumph of opposition to his cause which had succeeded inscattering the few men who accepted Islåm.\n\n71a. Istahwat-hu from the root hawå (desire, or low desire) is explained by R asmeaning √amalat-hu ‘alå ittibå‘-il-hawå, i.e., he caused him to follow his low desire.Others explain the word as meaning he made him fall down (Rz). The man who followsonly his low desires finds himself ultimately in bewilderment, and he is unable to findthe way, though his companions call him to the right way. Submission to God, on theother hand, makes a man have a set purpose of life before him, and makes him apply hiswhole energy to the attainment of that purpose and thus makes him attain success in life.Abraham is therefore spoken of in the verses that follow as an example of a man whosubmitted himself completely to God.\n\n73a. These words are generally used when the bringing about of a great change — achange which seems to be impossible to men — is meant.\n\n73b. ˝∂r carries two significances. It means the trumpet, and the trumpet is generally blown to gather men together. Thus it indicates the taking place of a great revolution.The reference may be either to the Resurrection when men will be raised to be broughtto judgment, or the great spiritual resurrection which was to be brought about throughthe Prophet when the whole of Arabia was destined to receive a new life, the life spiritual, or perhaps to the still greater spiritual resurrection when the whole of humanity wasdestined to receive a new life through the triumph of Islåm. The Kingdom of God, weare told, will be established on earth on that day. But ©∂r is said by some to be the pluralof ©∂rat, meaning a form (S, LL). The meaning is either that forms will become realitiesby being breathed into, or, as LL has it on the authority of S, L, and T, when the soulsshall be blown into the forms of the dead. The reference in this case too may be either tothe Resurrection day or to the spiritual resurrection which was to be brought about bythe Prophet.\n\n74a. Whether Åzar was the father of Abraham, or his grandfather or uncle, is amuch disputed point. The word ab means a father as well as an ancestor (M, LL), and in2:133 it is applied to an uncle because there Ishmael is spoken of as an ab of Jacob. Thedifficulty arises from two points. In the first place Zj says that the nassåbs agree thatAbraham’s father’s name was T åra√, which is the same as Terah, the name given toAbraham’s father in Genesis, and Zurqånß also gives Tåra√ as Abraham’s father’s name.But it may be noted that Eusebius speaks of Tårah as Åthar, which is about the sameas Åzar. The second difficulty is that Abraham’s father (Ar. wålid) is spoken of in 14:41as a believer, while the sire (Ar. ab) is elsewhere spoken of as having stuck to idolatrytill his death (9:114). Hence I prefer sire as the significance of the word. Somecommentators consider Åzar as being the name of an idol, while still others think that itis not a proper name at all and means mukhtß, i.e., erring (Rz).\n\n75a. Showing Abraham the kingdom of the heavens and the earth signifies grantinghim an insight into the Divine laws of nature working in the kingdom of the heavens andthe earth. This insight had convinced him that Allåh was the real controller of the universe and Supreme above all, while the sun, the moon, the stars and other heavenly bodies, which the Sabians worshipped, were only His creation and subject to His laws.\n\n76a. The words hådhå rabbß, literally this is my Lord, do not contain Abraham’sconviction. As shown in the previous verse, he was a believer in Divine Unity. Thewords are either uttered by way of surprise, as referring to his people’s belief, who arethen made to realize their error by showing that what they call a god disappears at times,and therefore does not deserve to be worshipped — these people were not only idolaters,but also worshippers of the heavenly bodies. Or, the phrase may be interrogatory, alif,the letter of interrogation, being omitted, and interrogation expresses disapproval (Rz). Iprefer the second interpretation.It should be borne in mind that Abraham never worshipped idols or the heavenly bodies like his people. He has already been spoken of in v. 74 as denouncing the idol-worshipof his people, and in v. 75 as possessing certainty of faith in One God. Reading further on,we find it clearly stated in v. 83 that what is related here was an argument by whichAbraham tried to convince his people that they worshipped false deities: “And this wasOur argument which We gave to Abraham against his people”. Abraham’s own certaintyand strong conviction in God is placed beyond all doubt by vv. 74, 75; and in the versesthat follow he is shown as giving arguments to convince his people that they were wrongin worshipping the heavenly bodies, which were themselves subject to Divine laws.\n\n84a. All the prophets named are the descendants of Abraham, who was a descendantof Noah, and therefore “his descendants” might mean either Abraham’s or Noah’sdescendants. The only difficulty in the former case is with reference to Lot, who was anephew and not an actual descendant of Abraham, but as in 2:133 an uncle is called afather, a nephew might be included among descendants.Eighteen prophets are named here. They are not mentioned in chronological order.(See the next chapter, where the histories of several great prophets are mentioned in exactchronological order.) There are some peculiar aspects of life regarding which theprophets referred to here are mentioned in different groups, and this is the reason why theconcluding words of each of the three verses speaking of the three groups are different.\n\n87a. Not only the prophets named in the above verses were made to excel thepeople of their time, but some of their fathers and their brethren and their descendantswere granted such excellence, though they were not prophets.\n\n88a. Had they associated others with God, their deeds would have borne no fruit,and thus their mission would have been unsuccessful. This shows that no prophet wasguilty of shirk at any time in his life.\n\n89a. Each one of the prophets was given three things. The first was the Kitåb, theBook, or the Divine revelation which the prophet was granted, the messages he receivedfrom on high, to guide people aright. The second is called √ukm, which means authorityto judge. This shows that every prophet received authority directly from God, and it wasby Divine authority that he judged his people. The third is nubuwwat, which meansprophethood or the gift of prophecy. The Book contains directions for guidance of thepeople and nubuwwat is the prophetical part which is meant to strengthen the faith. Thusthe Holy Prophet Mu√ammad was granted the gift of prophecy long before he wasgranted the Book which began with the words, Read in the name of thy Lord (96:1).Further there is a vast number of his prophecies which are contained in the Ïadßth andwhich do not form a part of the Book, the Qur’ån. A prophet without a book is as meaningless as a messenger without a message.\n\n90a. The Prophet is told to follow the guidance of all the earlier prophets, becausehis message was for all the nations to whom previous prophets had separately come.Hence the Holy Qur’ån is called a Reminder in the concluding words, showing that itwas meant for all the nations, to whom it was a reminder of what they had receivedbefore. The Prophet is, in fact, here told that he was now the representative of all theprophets that had gone before him, and therefore possessed all the excellences whichwere granted to those prophets separately.\n\n91a. The word qadr has a variety of meanings. I‘Ab interprets the words as meaningthey honour not Allåh with the honour due to Him; Abu-l-‘Åliyah as they assign not toAllåh the attributes due to Him; and Akhfash as they know not Allåh as they ought tohave known Him (Rz). The words Allåh has not revealed anything to a mortal maymean a total denial of God revealing Himself to man or simply a denial of revelation tothe Prophet, who is again and again referred to in the Holy Qur’ån as a bashar or a mortal. The reply to their allegation takes first the case of the people who believed in a previous revelation like the Jews and the Christians. They are told that the same God Whorevealed a book to Moses, containing a clear prophecy of a prophet like him, has now infulfilment of that prophecy sent the like of Moses who, both the Jews and the Christiansbelieved, had not appeared till then. Their only answer to that clear prophecy was thatthey would not mention it or talk of it at all — and you conceal much. But even thedeniers of Divine revelation in toto, as the idolaters of Arabia were, could not explainaway the striking resemblance of the two. They are, however, further told that the proofof revelation was in the knowledge which it gave — you are taught that which neitheryou nor your fathers knew.\n\n91b. QaråΔßs is plural of qirΔås, which means a paper. What is implied is that it iswritten down on scattered papers, some parts being shown, while others are concealed.The book was not kept intact hence its description as scattered papers.\n\n92a. Umm al-Qurå, lit., the mother of the towns, is the title by which Makkah isknown. The reason why Makkah is called umm al-qurå is not only that it was both thepolitical and the spiritual centre of Arabia, but also because it was destined to be theuniversal spiritual centre — the real mother of the whole world.\n\n93a. There is nothing in the words of this verse to show that it refers to the falseprophets, who set up claims towards the close of the Holy Prophet’s career, and that itwas therefore revealed late at Madßnah. The verse expresses only in another form thetruth expressed in this chapter in vv. 21, 144, 157, and in 39:32. It is to declare theProphet free of having forged a lie against Allåh; the words “or says, Revelation hasbeen granted to me, while nothing has been revealed to him”, only explain those thatprecede, viz., “Who forges a lie against Allåh”; while the words “I can reveal the like ofthat which Allåh has revealed”, are the words of those who refuse to believe in the truthof Divine revelation, or “reject” the Divine revelation, as is elsewhere said.\n\n94a. That is, those whom you asserted to be associates with Allåh will not be able tohelp you in any way.\n\n95a. The preaching of the Prophet is likened to the sowing of the seed which, thoughto all appearance it is lost in the earth, soon springs forth into a large tree. The bringingforth the living from the dead is the bringing forth a living people from the spirituallydead Arabs, and the bringing forth the dead from the living alludes to the spiritual deathof those who had been previously granted spiritual life through Divine revelation.\n\n96a. The darkness prevailing in the earth would soon be dispelled, and would giveplace to light, even as, with the break of the morning, darkness gives place to light.\n\n97a. In religious literature the stars represent the lesser lights which guide thepeople. The Prophet is likened to the sun, and those who receive light from him andtransmit it to others are likened to the stars. Thus in a saying of the Holy Prophet wehave: “My companions are as stars; whomsoever of them you follow you follow theright course” (Msh. 27:12). The analogy is that He Who makes light to guide youphysically could not have neglected your spiritual guidance.\n\n98a. Mustaqarr (Ar. for resting-place, from qarra, he or it settled, remained in aplace, rested — istaqarra means the same) and mustauda‘ (Ar. for repository, fromwadu‘a, he or it became quiet — istauda‘a, he entrusted him with property for safe custody) are explained variously as meaning, respectively, the loins of the father and thewomb of the mother, as standing for the male and the female (AH), or, the resting-place isthis life and the repository is the grave, so that the meaning is that some live and othersdie; or the resting-place is the final abode of bliss and the repository the temporary residence in this world. Or it is an infinitive noun meaning there is abiding, and entrustment,the abiding being in this life, and the entrustment the return to the Divine Master (AH).\n\n100a. The reference is either to the dualistic doctrine of the Magi, who thought thatwhile Allåh was the creator of good, the devil was the creator of evil, or to the Arabbelief that the jinn had a hand in the transaction of their affairs, or in bringing them goodfortune or ill luck. Thus the word jinn stands here either for the devil or for the genii.\n\n101a. This verse and those that follow describe the transcendental Unity of theDivine Being. To attribute a son to Him is to acknowledge that He had a consort; otherwise the word son will have to be taken simply as a metaphor; see 2:116a.\n\n103a. The physical vision of man, working as it does only within narrow limits andbeing able only to see bodies, cannot comprehend the Infinite One. He is the all-pervading Spirit, and can be seen only with the spiritual eye.\n\n108a. Here the Muslims are forbidden to abuse even the idols of other people,though their worship is condemned in the strongest terms. It may be added that theclearing of the Ka‘bah of idols when Makkah fell into the hands of the Holy Prophet,does not in any way contradict this verse, for to abolish the worship of idols and toabuse them are not the same.The deeds which are described as having been made fair-seeming to men are the gooddeeds which are shown by conscience and reason to be fair, not such deeds as appear onlyunder some delusion to be fair, while they are not really so; see v. 43 and v. 137.\n\n109a. Many signs of the Prophet’s truth had appeared while the Prophet was still atMakkah, but they still went on demanding signs. The demand referred to here seems torelate to a particular sign, the sign of the overthrow of their power. The reply to thisdemand is that signs are with Allåh. These words clearly mean that the sign which theydemanded would be shown and that Allåh had the power to show all kinds of signs. Buteven then they would not believe. The first sign of the overthrow of the power of theQuraish appeared in the battle of Badr, but they did not believe even then.\n\n110a. The turning of their hearts and sights is Allåh’s leaving them in their inordinacy, as explained by the verse itself. And even this is due to their own action in rejecting the truth when it first came to them. When truth is not accepted and an attitude ofenmity is assumed towards it, the heart becomes estranged from it, and this growingestrangement is termed the turning away of the heart from it.\n\n111a. The subject of v. 110 is continued here. There are always some men whoassume such an attitude of hostility towards Truth that they turn a deaf ear to every argument, and it is of such leaders of evil that this verse speaks; see next verse. The comingof the angels stands for the execution of the decree of their punishment. The speaking ofthe dead refers either to the raising of the spiritually dead to life (see v. 122), or to theevidence of those who had passed away before the Prophet, being given through theirwritings. And lastly, by the bringing together of all things is meant the bringing togetherof things relating to their punishment. The meaning is that some of the opponents are soblind that the clearest of signs or proofs would not convince them.\n\n112a. By the men and the jinn here are apparently meant the ordinary men and theleaders, suggesting to each other varnished tales of falsehood. See 128a for a fuller discussion of the word jinn.\n\n115a. The word signifies the prophetic word; see 34a.\n\n118a. The establishment of the doctrine of Divine Unity, which is the object of thischapter, required the abolition of all idolatrous practices, among which was the practiceof slaughtering animals in the names of idols, and vv. 118–121 deal with this subjectwhich is introduced by an order to eat only such animals as have been slaughtered in thename of Allåh. Thus it is allowed to Muslims to slaughter animals for food, but the condition is here laid down that Allåh’s name must be mentioned when the animal isslaughtered. There is no doubt that the taking of a life, even though it be the life of ananimal, bespeaks a kind of disregard for life, and it is allowed by God, only because thefull physical development of man requires the use of the flesh of animals. It is, however,allowed subject to the condition that Allåh’s name be mentioned at the time of theslaughter, and this is a reminder to man that this act is made lawful only by Divine permission, for the attainment of a necessary purpose. Thus, if aiming at the abolition ofidolatrous practices, the order is based on moral grounds, and as a safeguard against thedevelopment of habits of disregard for human life itself, which is a sad aspect of thedevelopment of the material civilization of our day.\n\n119a. The reference in these words is to what is said in an earlier revelation,regarding the prohibition of carrion and blood and the flesh of swine and animalsslaughtered in the name of others than Allåh; see 16:115. The same subject is againreferred to in v. 145 in this chapter, as also in 2:173 and in greater detail in 5:3, both ofthese being Madßnah revelations.\n\n120a. It is a very low view of morals which considers only sins against society to behateful. The Muslim is here commanded to consider open and secret sins to be equallyhateful. In fact there are very few people who commit open sins as compared with thosewho are guilty of secret sins.\n\n121a. According to this verse a Muslim is allowed only to eat of the flesh of an animalslaughtered in the name of Allåh. But 5:5 allows to Muslims the food of the People of theBook, by which is meant according to the √adßth, an animal slaughtered by the People ofthe Book. The only condition added is that “if the slaughterer was heard uttering a nameother than that of Allåh, the flesh was not to be eaten, but if he was not so heard, then itwas lawful for the Muslims to eat it” (B. 72:22). Therefore the words under discussion areexplained by the majority as containing only a prohibition against the eating of that whichis slaughtered in the name of others than Allåh. See further 5:5a.\n\n122a. These words throw a flood of light on many of the verses which speak of theraising of the dead to life through the prophets. The reference here is to the great transformation which was already being brought about through the Holy Qur’ån. Not onlywere the dead raised to life, but they had now with them the light by which they showedthe way to others. The concluding words show that, notwithstanding the great trans -formation which was being worked before their eyes, the leaders of mischief went onopposing the Truth as if it were a good deed.\n\n124a. If Allåh really meant to reveal His message, the disbelievers said, why was itnot revealed directly to everyone of them? The answer is that everyone is not fit to communicate with the Divine Being, and Allåh revealed His message only to a man whowas fit to receive it.\n\n125a. The concluding words of the verse show that uncleanness of the heart, whichmakes a man’s breast strait and narrow, as though he were ascending upwards, is theresult of a man’s own disbelief and rejection of the truth.\n\n128a. The word jinn is derived from janna, meaning he covered or concealed or hidor protected. The class of beings that goes under this name stands in the Holy Qur’ån forthe spirits of evil or the beings that invite man to evil, as opposed to the angels, whoinvite him to good, both being alike invisible to the human eye. But there is a wider useof the word in Arabic literature as well as in the Qur’ån. One signification of the word isexplained in 72:1a, and I would refer the reader to that footnote. But the word is alsoapplied in the Qur’ån to great potentates or powerful leaders who, through their importance and detachment from the masses, do not mix freely with them, so they remain distant or “hidden from their eyes”. In Arabic literature such a use was permitted. A verseof M∂så Ibn Jåbir in which the word jinn occurs, is thus explained by LL on the authority of Tabrezß on Ïam: “And my companions, who were like the jinn, did not flee when Icame to them and informed them”, where the word jinn is translated as meaning companions who were like the jinn. And Tabrezß says further that the Arabs liken a man whois sharp and clever in affairs to a jinnß and a shaiΔån, and hence they say, nafarat jinnuh∂ (literally, his jinn fled away), meaning he became weak and abject. Therefore a man’scompanion, without whose help he would be weak and abject, was called a jinnß.What is meant by the assembly (ma‘shar) of jinn here and by jinn in v. 130? This ismade clear if we read this verse with those following. In this verse jinn are spoken of asfriends of men, and v. 129, which continues the subject, speaks of the iniquitous asbefriending one another, while in v. 130 men and jinn are spoken of as a single ma‘sharor community, for which see 130a.Again in v. 131, those very jinn are spoken of as being no others than dwellers ofthe cities which were destroyed on account of their sins, and we know that the jinn whodwell in cities are only men. The context thus makes it clear that by the jinn here aremeant the leaders of evil, just as by shayåΔßn (devils) in 2:14 are meant leaders, forwhich see 2:14a.\n\n128b. The words except as Allåh please indicate that those in hell shall after all bedelivered from it. For a full discussion on this point, see 11:107a.\n\n130a. Ma‘shar means a community whose affair is one and the same — jamå‘at-unamru-hum wå√id-un — thus you say ma‘shar al-Muslimßn, which means the communityof the Muslims (L). Thus by calling the jinn and men as a single community, the HolyQur’ån has made it clear that the jinn and the men spoken of here are not two differentclasses of beings. Again, the jinn and the men are told that messengers had come tothem from among them, i.e. from among jinn and men. But as the only messengersspoken of in the Qur’ån and other reliable histories of prophets are those who belong tomankind, it follows that the jinn spoken of here belong to mankind, and not to any otherclass of creation.\n\n131a. That is, while the reminder and the warning had not yet come to them. Or, thewords mean that it is not for negligence that nations are destroyed; it is only when theybecome iniquitous and spread mischief in the world that they are overtaken bypunishment in this life.\n\n134a. Mark again the certainty with which the idolatrous Quraish are told — andthrough them all the proud opponents of Truth — in this verse and the one preceding,that their authority in their country would cease to exist and another people would beraised in their stead.\n\n136a. It was a custom among the Arab idolaters to set apart certain portions of theproduce of their fields and their cattle, one portion for Allåh and another portion for theidols. The portion for idols was always applied to their use, but the portion set apart forAllåh, though ordinarily spent to feed the poor and the needy, was in certain cases — forinstance, when the portion of the idols was somehow or other destroyed — diverted tothe use of the idols (I‘Ab-Rz). The portion for the idols was handed over to the priests.\n\n137a. This refers to the practice of slaying or burying alive the female children (Rz),and also to the human sacrifices to idols, as they sometimes vowed that, if they had anumber of sons, they would sacrifice one of them to an idol (Kf).\n\n137b. By introducing these superstitious and evil customs they were making confused and obscure the true religion — the religion of the service of One God.\n\n138a. Only devotees of idols and males could eat them, and not females.\n\n138b. Such animals are meant as the ba√ßrah, the så’ibah, etc. See 5:103a.\n\n138c. That is, such as were sacrificed in the name of idols. All these along with whatis said in the next two verses are denounced as being idolatrous practices.\n\n141a. The word ukul here, as well as in 2:265 and 13:35, is equivalent to thamar(T), and means fruit.\n\n142a. Farsh (from farasha, i.e. he spread it) means what is spread, but here,according to lexicologists as well as commentators, it signifies animals fit for slaughter,because they are thrown down for slaughter (T, LL). The √am∂lah (from √aml, bearingof burden) means beasts of burden. The farsh are not fit for carrying burden, hence thedistinction; but the √am∂lah serve both purposes. This is shown by the words that follow— eat of that which Allåh has given you.\n\n143a. The cattle spoken of in the previous verse are eight in pairs, i.e. counting themale and the female separately, and these are enumerated in vv. 143 and 144. The Arabsconsidered those animals which were otherwise lawful for them to be unlawful in particular cases. These practices, which were all superstitious, resulting from idol-worship, arehere condemned.\n\n145a. For the prohibition made known here reasons are also given, the reason forthe prohibition of what dies of itself and blood and swine’s flesh being that these thingsare unclean, while the reason for the prohibition of animals on which other than Allåh’sname is invoked is different, viz., fisq, or a transgression of the Divine commandment,which requires all things to be avoided which are in any way associated with idolatry.The uncleanness in the case of the first three consists in their pernicious effect upon theintellectual, the physical, and the moral systems respectively, while the transgression inthe case of the last affects the spiritual conditions.\n\n146a. According to I‘Ab it means only the camel, or the camel and the ostrich. Rz isof opinion that by ˚ufr here is meant talons and claws. According to Mjd and Qt the dhi-˚ufr means every beast and bird that has not divided toes, as the camel, ostrich, goose,and duck (T, LL). The prohibition of using the camel for food, though a punishment forthe rebellion of the Jews as stated further on, was a blessing to them. On account of theirdisobedience to Moses they had to remain in the wilderness for a long time, where thecamel was of great service to them in their journeys from place to place.\n\n146b. “You shall eat no manner of fat, of ox, or of sheep, or of goat” (Lev.7:23).\n\n147a. The all-encompassing mercy of Allåh is mentioned even in speaking of thosewho rejected the Holy Prophet. It was because of the mercy of Allåh that the disbelievers were not destroyed immediately; but as punishing the “guilty” is in itself a mercytowards the weak and the oppressed, they are warned that they will not escape punishment if they persist in their evil ways.\n\n149a. The previous verse records the statement of the disbelievers: “If Allåh pleasedwe would not have set up aught with Him”. The reply is that Allåh reveals His willthrough His chosen messengers, so bring forth any Divine revelation that you possesssanctioning idolatry. The argument is here carried on further. Allåh does not misleadmen, but, on the other hand, sends His prophets to guide them into the right path. Hispleasure is therefore that all men should walk in the right path and serve only oneMaster. Is not that a conclusive argument against the false assertion of the idolaters? Theguidance of Allåh is, moreover, brought through prophets, and men are never compelledto accept the right way; much less could they be compelled to follow the wrong course,as the idolaters thought. Man was created with a will free within certain limits to act ashe pleases.\n\n152a. That is, unless you do it with the object of improving it or making it profitable. Wages of the guardian may be paid from it, for which see 4:6, 6c.\n\n152b. Islåm requires a man to be so upright as not to be led away by the ties of relationship. Truth is not to be sacrificed to any interest but every interest must be sacrificedto truth.\n\n154a. By all things are meant all those things needed for the guidance of the Israelites.\n\n155a. It should be noted that as the Qur’ån is mentioned along with the previousrevelations, the word mubårak is added as signifying the continuance forever of theblessings which a thing possesses. The object is to show that, whereas the blessings ofother books came to an end after a time, the Qur’ån shall forever remain a source ofblessings to its followers.\n\n156a. Because in Arabia there lived only the Jews and the Christians besides theidolaters, the Arabs spoke of only two parties to whom the Book was given.\n\n158a. For a similar expression see 2:210, 210a. Also see 6:111a. Similar wordsoccur also in 16:33: “Await they aught but that the angels should come to them or thatthy Lord’s command should come to pass”. Here the words are that thy Lord shouldcome. Thus the coming of the Lord carries the same significance as the coming to passof His commandment, or the execution of His decree, i.e. the final doom of theopponents. The coming of the angels stands for the smaller visitations or distresses theopponents witnessed in the battles which they fought to annihilate Islåm, in which thecoming of angels is clearly spoken of; see 3:125, 126; 8:9.\n\n158b. The execution of punishment having already been spoken of in the coming ofangels and the coming of the Lord, what is meant by coming of “some of the signsof thy Lord”? According to a √adßth there is a reference here to the signs which wouldprecede the day of Resurrection, such as the appearance of Anti-Christ and the advent ofthe Messiah and other connected signs. But there is one difficulty in accepting this to bethe interpretation of these words. The coming of the Messiah is according to all authorities a sign of a general spiritual awakening to be brought about in the world, which inother words is the prevalence of Islåm, but here we are told that when some of the signscome, faith would not benefit a man. The only time when faith does not benefit a man isthe approach of death, and hence I am of opinion that by “some of the signs of thy Lord”are meant clear signs of approach of death. A man’s death is in one sense also hisresurrection: “Whoever dies, his resurrection comes to pass” (Msh. 26:6).\n\n159a. This refers primarily to the Jews and the Christians, but includes sectarians of allreligions who split up the unity of their religion and become divided into sects, each sectdissipating its energy in wrangling with others, instead of advancing the common cause.\n\n160a. No other sacred book gives such prominence to the preponderance of thequality of mercy in the Divine Being. While evil must have its evil consequence, it isonly its like, but virtue brings a tenfold reward. According to a saying of the HolyProphet, evil is pardoned or recompensed with its like, while good brings from a tenfoldto a seven-hundredfold reward (B. 81:33). Thus the verse mentions only the maximumpunishment of evil and the minimum reward of good.\n\n162a. The idea of entire submission to the Divine Being conveyed in the word Islåmfinds its perfect manifestation in the Holy Prophet, who is the first of the Muslims (v.163). There are different motives, love of one’s self, of one’s wife and children, of one’sfriends and relatives, of one’s country or nation, which prompt a man to action; andthere is no doubt that the grander, the purer, and the more selfless the object, the nobleris the deed done; but above even the noblest object that a man can set for himself standsthe love of the Divine Being. The deed done may be for the welfare of one’s self, or ofthose dearest to one, or of one’s country or nation, but the mainspring of that actionmust be the love of the Divine Being, for then only is it that perfect disinterestednesscombined with absolute justice to all creatures can be achieved. It is the highest goal ofhuman life, and every Muslim is taught to set that goal before himself. He is taught topray in the words of this verse when he begins his daily prayers, the only differencebeing that the concluding words of this prayer are wa ana min al-Muslimßn, i.e., I amone of those who submit, while v. 163, giving a description of the Prophet, ends with thewords, I am the first of those who submit.\n\n164a. “Nor does a bearer of burden bear another’s burden” are the words in whichthe Christian doctrine of atonement is rejected by the Holy Qur’ån. Elsewhere we have:“That no bearer of burden bears another’s burden, and that man can have nothing butwhat he strives for” (53:38, 39). Every man that is born is called a bearer of burden, notbecause he is a sinner, but because he starts life with certain responsibilities of hisown. It is groundless to assert that Jesus Christ entered into life without any responsibilities of his own. The study of his life shows him as feeling his own responsibilities and ascaring for them.\n\n165a. With the highest goal of life before them, the Muslims are now told that theywere going to be made rulers in the land. Their exaltation above others, however, wasnot due to their wealth or to their great political power but simply to the fact that theysubmitted themselves to God, that their prayers and their sacrifices were not for theirnation or their country but for God, Who was the Rabb, the Nourisher unto perfection,of the whole of humanity. Hence they were a people who had the betterment of thewhole of humanity in view. But even they are told, in the concluding words of the verse,that if they fall off and follow evil ways they will be requited, though the forgivenessand mercy of the Divine Being will ultimately take them by the hand."
+    }
+  ]
+}

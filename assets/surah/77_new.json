@@ -1,0 +1,269 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "وَالْمُرْسَلَاتِ عُرْفًا",
+      "verseStringB": "By those sent forth to spread goodness!"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "فَالْعَاصِفَاتِ عَصْفًا",
+      "verseStringB": "Then those driving off the chaff!"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "وَالنَّاشِرَاتِ نَشْرًا",
+      "verseStringB": "And those spreading (goodness), far and wide!"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "فَالْفَارِقَاتِ فَرْقًا",
+      "verseStringB": "Then those making a distinction!"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "فَالْمُلْقِيَاتِ ذِكْرًا",
+      "verseStringB": "Then those offering the Reminder,"
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "عُذْرًا أَوْ نُذْرًا",
+      "verseStringB": "To clear or to warn! —"
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "إِنَّمَا تُوعَدُونَ لَوَاقِعٌ",
+      "verseStringB": "Surely that which you are promised will come to pass.ᵃ"
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "فَإِذَا النُّجُومُ طُمِسَتْ",
+      "verseStringB": "So when the stars are made to disappear,"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "وَإِذَا السَّمَاءُ فُرِجَتْ",
+      "verseStringB": "And when the heaven is rent asunder,"
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "وَإِذَا الْجِبَالُ نُسِفَتْ",
+      "verseStringB": "And when the mountains are carried away as dust,ᵃ"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "وَإِذَا الرُّسُلُ أُقِّتَتْ",
+      "verseStringB": "And when the messengers are made to reach their appointed time,"
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "لِأَيِّ يَوْمٍ أُجِّلَتْ",
+      "verseStringB": "To what day is the doom fixed?"
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "لِيَوْمِ الْفَصْلِ",
+      "verseStringB": "To the day of Decision."
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ",
+      "verseStringB": "And what will make thee comprehend what the day of Decision is?"
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the rejectors!"
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "أَلَمْ نُهْلِكِ الْأَوَّلِينَ",
+      "verseStringB": "Did We not destroy the former generations?"
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ",
+      "verseStringB": "Then We followed them up with later ones."
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
+      "verseStringB": "Thus do We deal with the guilty."
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the rejectors!ᵃ"
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ",
+      "verseStringB": "Did We not create you from ordInᵃ ry water?"
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ",
+      "verseStringB": "Then We placed it in a secure resting-place,"
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "إِلَىٰ قَدَرٍ مَعْلُومٍ",
+      "verseStringB": "Till an appointed term,"
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ",
+      "verseStringB": "So We determined — how well are We at determining!"
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the rejectors!"
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا",
+      "verseStringB": "Have We not made the earth draw to itself"
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "أَحْيَاءً وَأَمْوَاتًا",
+      "verseStringB": "The living and the dead,ᵃ"
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُمْ مَاءً فُرَاتًا",
+      "verseStringB": "And made therein lofty mountains, and given you to drink of sweet water?"
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the rejectors!"
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "انْطَلِقُوا إِلَىٰ مَا كُنْتُمْ بِهِ تُكَذِّبُونَ",
+      "verseStringB": "Walk on to that which you called a lie."
+    },
+    {
+      "verseNumber": 30,
+      "verseString": "انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ",
+      "verseStringB": "Walk on to the shadow, having three branches,ᵃ"
+    },
+    {
+      "verseNumber": 31,
+      "verseString": "لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ",
+      "verseStringB": "Neither cool, nor availing against the flame."
+    },
+    {
+      "verseNumber": 32,
+      "verseString": "إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ",
+      "verseStringB": "It sends up sparks like palaces,"
+    },
+    {
+      "verseNumber": 33,
+      "verseString": "كَأَنَّهُ جِمَالَتٌ صُفْرٌ",
+      "verseStringB": "As if they were tawny camels.ᵃ"
+    },
+    {
+      "verseNumber": 34,
+      "verseString": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the rejectors!"
+    },
+    {
+      "verseNumber": 35,
+      "verseString": "هَٰذَا يَوْمُ لَا يَنْطِقُونَ",
+      "verseStringB": "This is the day on which they speak not,"
+    },
+    {
+      "verseNumber": 36,
+      "verseString": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "verseStringB": "Nor are they allowed to offer excuses."
+    },
+    {
+      "verseNumber": 37,
+      "verseString": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the rejectors!"
+    },
+    {
+      "verseNumber": 38,
+      "verseString": "هَٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَاكُمْ وَالْأَوَّلِينَ",
+      "verseStringB": "This is the day of Decision; We have gathered you and those of yore.ᵃ"
+    },
+    {
+      "verseNumber": 39,
+      "verseString": "فَإِنْ كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "verseStringB": "So if you have a plan, plan against me (now).ᵃ"
+    },
+    {
+      "verseNumber": 40,
+      "verseString": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the rejectors!"
+    },
+    {
+      "verseNumber": 41,
+      "verseString": "إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ",
+      "verseStringB": "Surely the dutiful are amid shades and fountains,"
+    },
+    {
+      "verseNumber": 42,
+      "verseString": "وَفَوَاكِهَ مِمَّا يَشْتَهُونَ",
+      "verseStringB": "And fruits such as they desire."
+    },
+    {
+      "verseNumber": 43,
+      "verseString": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseStringB": "Eat and drink pleasantly for what you did."
+    },
+    {
+      "verseNumber": 44,
+      "verseString": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "verseStringB": "Thus do We reward the doers of good."
+    },
+    {
+      "verseNumber": 45,
+      "verseString": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the rejectors!"
+    },
+    {
+      "verseNumber": 46,
+      "verseString": "كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُمْ مُجْرِمُونَ",
+      "verseStringB": "Eat and enjoy yourselves for a little; surely you are guilty."
+    },
+    {
+      "verseNumber": 47,
+      "verseString": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the rejectors!"
+    },
+    {
+      "verseNumber": 48,
+      "verseString": "وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ",
+      "verseStringB": "And when it is said to them, Bow down, they bow not down."
+    },
+    {
+      "verseNumber": 49,
+      "verseString": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the rejectors!"
+    },
+    {
+      "verseNumber": 50,
+      "verseString": "فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ",
+      "verseStringB": "In what narration after it, will they believe?"
+    }
+  ],
+  "nameEnglish": "The Unleashed",
+  "nameTrans": "al-Mursalat",
+  "nameArabic": "الـمرسلات",
+  "chapterNumber": 77,
+  "nVerses": 50,
+  "footnotes": [
+    {
+      "note": "7a. As stated in 37:1a, attention is drawn in what are called oaths to certain indisputable facts, which lead to a conclusion. The conclusion here is that the opponents aredoomed (v. 12). The characteristics described in the first six verses apply to prophetswhose opponents were destroyed. This is made clear by the mention of the appointedtime of the messengers in v. 11, by which, of course, is meant the appointed time of thedestruction of the enemies of Truth. They are told to consider how Truth was spread byformer prophets. In the first verse they are spoken of as being sent with ‘urf or ma‘r∂f,i.e., goodness; in the second, as driving off the chaff of falsehood before them; in thethird, as scattering the seed of goodness far and wide or giving life to dead earth; in thefourth, as ultimately bringing about a distinction (farq or furqån) between truth andfalsehood, and they give the Reminder that one party may be cleared and the otherwarned. These considerations about the former prophets should lead the opponents tothe certain conclusion that the same Divine law was working in the case of the HolyProphet, and their doom was also certain.\n\n10a. The disappearance of the stars (v. 8) was a sign for the Arabs of the befalling ofa calamity (53:1a); the rending asunder of the heaven (v. 9) indicated the same, becausethe heaven was considered a protection. Compare 21:32: And We have made the heavena guarded canopy; see 73:18a. The passing away of the mountains signified the disappearance from among them of their great men, whose protection they sought in time ofdistress. All these things, as the next verse shows, would be brought about when came theappointed time of the messengers, i.e., the time of the destruction of their opponents.\n\n19a. Note the clear words of this and the three previous verses. The former generations were destroyed because of their wickedness and others were brought up in theirplace; such will always be the fate of the guilty — the day of their doom is the day ofDecision. A complete manifestation of that day is, however, reserved for the Hereafter.\n\n26a. The word kif åt carries the significance adopted in the translation, drawing thingsto itself, referring to the law of gravitation. It further shows that all mortals, living or dead,must remain on earth, and the belief relating to the ascent of Jesus to the fourth heaven iserroneous. But kif åt also means hastening on and being swift in running or plying or driving and urging vehemently (LL), the reference being to the motion of earth in space.\n\n30a. According to I‘Ab, the address here is to the people of the Cross (RM), thebelievers in Trinity, and this may be the reason for calling their punishment dhß thalåthishu‘ab, a shadow having three branches. The word ˚ill used here means properly shadeor light of the sun without the rays (LL), but the word is extensively used to carry anumber of other significances, such as covering, protection, a plentiful or an easy stateof life (T, LL). The three branches of it are the three characteristics thereof stated in theverses that follow; see 33a.\n\n33a. They reject the Truth and seek comfort and ease in material benefits. They aregiven a shade, but it does not serve the purpose of shade. It is devoid of the coolness ofshade — they cannot find solace in it. Nor does it avail them against flames, which standhere for the distresses of life. More than this, what they mistook for ease and plenty isitself a source of distress. Sparks arise therefrom, not the tiny sparks of an ordinary firebut sparks big as palaces. In fact, the very palaces which they make for their comfortturn into sparks, which set fire to all around them. Perhaps there is a deeper referencehere to the modern implements of destruction on account of their magnitude and extensive destructive effect. These sparks are further compared to tawny camels, which is truenot only as regards their colour but also because of the succession with which these bigsparks follow one another, like camels walking one after another in a line.\n\n38a. This gathering together will take place in the Resurrection, but the opponentsof Truth, earlier as well as later, are gathered together in punishment in this life, too.\n\n39a. The opponents are even so early challenged to execute their plans against theHoly Prophet."
+    }
+  ]
+}

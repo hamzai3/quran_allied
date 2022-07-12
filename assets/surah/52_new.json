@@ -1,0 +1,264 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "وَالطُّورِ",
+      "verseStringB": "By the Mountain!"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "وَكِتَابٍ مَسْطُورٍ",
+      "verseStringB": "And a Book written"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "فِي رَقٍّ مَنْشُورٍ",
+      "verseStringB": "On unfolded vellum!"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "وَالْبَيْتِ الْمَعْمُورِ",
+      "verseStringB": "And the frequented House,"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "وَالسَّقْفِ الْمَرْفُوعِ",
+      "verseStringB": "And the elevated canopy,"
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "وَالْبَحْرِ الْمَسْجُورِ",
+      "verseStringB": "And the swollen sea!"
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ",
+      "verseStringB": "The chastisement of thy Lord will surely come to passa—"
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "مَا لَهُ مِنْ دَافِعٍ",
+      "verseStringB": "There is none to avert it;"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "يَوْمَ تَمُورُ السَّمَاءُ مَوْرًا",
+      "verseStringB": "On the day when the heaven will be in a state of commotion,"
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "وَتَسِيرُ الْجِبَالُ سَيْرًا",
+      "verseStringB": "And the mountains will pass away, fleeing.ᵃ"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "فَوَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "verseStringB": "Woe on that day to the deniers,"
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "الَّذِينَ هُمْ فِي خَوْضٍ يَلْعَبُونَ",
+      "verseStringB": "Who amuse themselves by vain talk."
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+      "verseStringB": "The day when they are driven to hell-fire with violence."
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "هَٰذِهِ النَّارُ الَّتِي كُنْتُمْ بِهَا تُكَذِّبُونَ",
+      "verseStringB": "This is the Fire, which you gave the lie to."
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "أَفَسِحْرٌ هَٰذَا أَمْ أَنْتُمْ لَا تُبْصِرُونَ",
+      "verseStringB": "Is it magic or do you not see?"
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "اصْلَوْهَا فَاصْبِرُوا أَوْ لَا تَصْبِرُوا سَوَاءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ",
+      "verseStringB": "Burn in it, then bear (it) patiently, or bear (it) not, it is the same to you. You are requited only for what you did."
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَعِيمٍ",
+      "verseStringB": "The dutiful will be surely in Gardens and bliss,"
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "فَاكِهِينَ بِمَا آتَاهُمْ رَبُّهُمْ وَوَقَاهُمْ رَبُّهُمْ عَذَابَ الْجَحِيمِ",
+      "verseStringB": "Rejoicing because of what their Lord has given them; and their Lord saved them from the chastisement of the burning Fire."
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseStringB": "Eat and drink with pleasure for what you did,"
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "مُتَّكِئِينَ عَلَىٰ سُرُرٍ مَصْفُوفَةٍ ۖ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ",
+      "verseStringB": "Reclining on thrones set in lines, and We shall join them to pure, beautiful ones.ᵃ"
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَيْءٍ ۚ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ",
+      "verseStringB": "And those who believe and whose offspring follow them in faith — We unite with them their off - springa and We shall deprive them of naught of their work. Every man is pledged for what he does.ᵇ"
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "وَأَمْدَدْنَاهُمْ بِفَاكِهَةٍ وَلَحْمٍ مِمَّا يَشْتَهُونَ",
+      "verseStringB": "And We shall aid them with fruit and flesh, as they desire."
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "يَتَنَازَعُونَ فِيهَا كَأْسًا لَا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ",
+      "verseStringB": "They pass therein from one to another a cup, wherein is neither vanity, nor sin.ᵃ"
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَكْنُونٌ",
+      "verseStringB": "And round them go boys of theirs as if they were hidden pearls.ᵃ"
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
+      "verseStringB": "And they will advance to each other, questioning —"
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "قَالُوا إِنَّا كُنَّا قَبْلُ فِي أَهْلِنَا مُشْفِقِينَ",
+      "verseStringB": "Saying: Surely we feared before on account of our families.ᵃ"
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "فَمَنَّ اللَّهُ عَلَيْنَا وَوَقَانَا عَذَابَ السَّمُومِ",
+      "verseStringB": "But Allāh has been gracious to us and He has saved us from the chastisement of the hot wind."
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "إِنَّا كُنَّا مِنْ قَبْلُ نَدْعُوهُ ۖ إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ",
+      "verseStringB": "Surely we called upon Him before. Surely, He is the Benign, the Merciful."
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "فَذَكِّرْ فَمَا أَنْتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ",
+      "verseStringB": "So remind for, by the grace of thy Lord, thou art no soothsayer, nor madman."
+    },
+    {
+      "verseNumber": 30,
+      "verseString": "أَمْ يَقُولُونَ شَاعِرٌ نَتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ",
+      "verseStringB": "Or say they: A poet — we wait for him the evil accidents of time."
+    },
+    {
+      "verseNumber": 31,
+      "verseString": "قُلْ تَرَبَّصُوا فَإِنِّي مَعَكُمْ مِنَ الْمُتَرَبِّصِينَ",
+      "verseStringB": "Say: Wait, I too wait along with you."
+    },
+    {
+      "verseNumber": 32,
+      "verseString": "أَمْ تَأْمُرُهُمْ أَحْلَامُهُمْ بِهَٰذَا ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ",
+      "verseStringB": "Or do their understandings bid them this? Or are they an inordInᵃ te people?"
+    },
+    {
+      "verseNumber": 33,
+      "verseString": "أَمْ يَقُولُونَ تَقَوَّلَهُ ۚ بَلْ لَا يُؤْمِنُونَ",
+      "verseStringB": "Or say they: He has forged it. Nay, they have no faith."
+    },
+    {
+      "verseNumber": 34,
+      "verseString": "فَلْيَأْتُوا بِحَدِيثٍ مِثْلِهِ إِنْ كَانُوا صَادِقِينَ",
+      "verseStringB": "Then let them bring a saying like it, if they are truthful.ᵃ"
+    },
+    {
+      "verseNumber": 35,
+      "verseString": "أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ",
+      "verseStringB": "Or were they created without a (creative) agency? a Or are they the creators?"
+    },
+    {
+      "verseNumber": 36,
+      "verseString": "أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ ۚ بَلْ لَا يُوقِنُونَ",
+      "verseStringB": "Or did they create the heavens and the earth? Nay, they are sure of nothing."
+    },
+    {
+      "verseNumber": 37,
+      "verseString": "أَمْ عِنْدَهُمْ خَزَائِنُ رَبِّكَ أَمْ هُمُ الْمُصَيْطِرُونَ",
+      "verseStringB": "Or have they the treasures of thy Lord with them? Or have they absolute authority?ᵃ"
+    },
+    {
+      "verseNumber": 38,
+      "verseString": "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُمْ بِسُلْطَانٍ مُبِينٍ",
+      "verseStringB": "Or have they the means by which they listen? Then let their listener bring a clear authority.ᵃ"
+    },
+    {
+      "verseNumber": 39,
+      "verseString": "أَمْ لَهُ الْبَنَاتُ وَلَكُمُ الْبَنُونَ",
+      "verseStringB": "Or has He daughters and you have sons?"
+    },
+    {
+      "verseNumber": 40,
+      "verseString": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+      "verseStringB": "Or askest thou a reward from them so that they are over-burdened by a debt?"
+    },
+    {
+      "verseNumber": 41,
+      "verseString": "أَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ",
+      "verseStringB": "Or possess they the unseen, so they write (it) down?ᵃ"
+    },
+    {
+      "verseNumber": 42,
+      "verseString": "أَمْ يُرِيدُونَ كَيْدًا ۖ فَالَّذِينَ كَفَرُوا هُمُ الْمَكِيدُونَ",
+      "verseStringB": "Or do they intend a plot? But those who disbelieve will be the ensnared ones in the plot.ᵃ"
+    },
+    {
+      "verseNumber": 43,
+      "verseString": "أَمْ لَهُمْ إِلَٰهٌ غَيْرُ اللَّهِ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ",
+      "verseStringB": "Or have they a god other than Allāh? Glory be to Allāh from what they set up (with Him)!"
+    },
+    {
+      "verseNumber": 44,
+      "verseString": "وَإِنْ يَرَوْا كِسْفًا مِنَ السَّمَاءِ سَاقِطًا يَقُولُوا سَحَابٌ مَرْكُومٌ",
+      "verseStringB": "And if they were to see a portion of the heaven coming down, they would say: Piled-up clouds!ᵃ"
+    },
+    {
+      "verseNumber": 45,
+      "verseString": "فَذَرْهُمْ حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي فِيهِ يُصْعَقُونَ",
+      "verseStringB": "Leave them then till they meet that day of theirs wherein they are smitten with punishment:"
+    },
+    {
+      "verseNumber": 46,
+      "verseString": "يَوْمَ لَا يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَا هُمْ يُنْصَرُونَ",
+      "verseStringB": "The day when their struggle will avail them naught, nor will they be helped.ᵃ"
+    },
+    {
+      "verseNumber": 47,
+      "verseString": "وَإِنَّ لِلَّذِينَ ظَلَمُوا عَذَابًا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "verseStringB": "And surely for those who do wrong there is a chastisement besides that; but most of them know not.ᵃ"
+    },
+    {
+      "verseNumber": 48,
+      "verseString": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+      "verseStringB": "And wait patiently for the judgment of thy Lord, for surely thou art before Our eyes,ᵃ and celebrate the praise of thy Lord, when thou risest,"
+    },
+    {
+      "verseNumber": 49,
+      "verseString": "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ",
+      "verseStringB": "And in the night, give Him glory, too, and at the setting of the stars."
+    }
+  ],
+  "nameEnglish": "The Mount",
+  "nameTrans": "at-Tur",
+  "nameArabic": "الـطور",
+  "chapterNumber": 52,
+  "nVerses": 49,
+  "footnotes": [
+    {
+      "note": "7a. The first six verses draw attention to a set of parallel facts in the revelations ofMoses and Mu√ammad (peace and blessings of Allåh be on them!). The mount in the onecase is Mt. Sinai, and in the other the mount Ïirå’, the Book stands for the Torah in theone case and the Qur’ån in the other; the House that is frequented and the elevated canopyrefer, on the one hand, to the tabernacle raised by Moses for the Israelites as a sacredplace, where they worshipped God and offered sacrifices, and on the other to the SacredHouse at Makkah, which was to be the center of the Muslims of all nations, all countries,and all ages, and where they were to offer sacrifices. The swollen sea represents the seawhich brought destruction to Pharaoh and his hosts, while the Holy Prophet’s enemies aretold in the next verse that the punishment of their Lord would as surely overtake them onland as it overtook the enemies of Moses in the swollen sea. But note that the word ba√rsignifies land as well as sea, and this word occurring in a saying of the Holy Prophet isexplained as meaning their city and land (N). The whole passage draws attention to theclose similarity of the revelations of Moses and the Holy Prophet, and warns the disbelievers that their power will be brought to naught, as it was in the case of Pharaoh. Here againwe have the Prophet’s likeness to Moses spoken of in a very early revelation.\n\n10a. The great transformation that was to be brought about by the Prophet, thesweeping away of the old order of superstition, ignorance and vice, and its replacementby light, learning and righteousness, the overthrow of a wicked generation and the ushering in of a new era is here represented as the commotion of the heaven and the passingaway of the mountains; see 20:105a.\n\n20a. The word √∂r occurs four times in the Holy Qur’ån, and on two of these occasions, here and in 44:54, the form adopted is zawwajnå-hum bi-√∂r-in ‘ßn, and in 55:72and 56:22 there is no mention of tazwßj (“join”). While zawwaj-tu-h∂ imra‘t-an (doublytransitive without a particle) means I gave him in marriage a woman (LL), zawwajashai’-an bi-shai’-in (made doubly transitive with particle bi) means he coupled a thingwith a thing or united it to it as its fellow or like (LL). It is added, quoting 44:54 and52:20, “the meaning is not the tazwßj commonly known (i.e., marriage), for there will beno such tazwßj in paradise”. Along with it is quoted 81:7, wa idha-l-nuf∂su zuwwijat,which is translated as meaning and when the souls shall be coupled, or paired, or unitedwith their fellows, or according to some “when each sect, or party, shall be united withthose whom it has followed” (LL). As regards the word √∂r, it is a plural of a√war(applied to a man) and of √aurå’ (applied to a woman), signifying one having eyes characterized by the quality termed √awar, which means intense whiteness of the white ofthe eye and intense blackness of the black thereof. The word a√war (singular of √∂r)also signifies pure or clear intellect (LL). The other word, ‘ßn, is plural of a‘yan (meaning a man wide in the eyes) and of ‘ainå’ (meaning a woman beautiful and wide in theeye). The latter word also signifies a good or beautiful word, or saying (LL). It may benoted that whiteness is also a symbol of perfect and unsullied purity, and hence the twowords √∂r and ‘ßn really stand for purity and beauty; and therefore, instead of white-eyedand large-eyed ones, I adopt the words pure and beautiful ones, as being more expressive of the true significance.To realize the true significance of these words, two points must be borne in mind.The first is that paradise is a place for faithful women as well as for faithful men, andhence the Holy Qur’ån often speaks of the faithful as being in paradise with their wives;see for instance 36:56, where the faithful are spoken of as sitting on thrones or raisedcouches with their wives, or 13:23 and 40:8, where they are spoken of as being in paradise along with their wives and offspring. The second is that the blessings of paradiseare alike for women and men, there being not the least difference in this respect betweenthe two sexes. The question then is what is meant by √∂r ‘ßn here. It has already beenexplained in 37:49a that the Holy Qur’ån does not speak of any conjugal relations beingmaintained in a physical sense in the life to come. Moreover, it has been shown on various occasions that, where the blessings of paradise are spoken of, these are nothing butphysical manifestations of the spiritual blessings which the doers of good enjoy in thislife too. There are gardens, trees, rivers, milk, honey, fruits and numerous other blessings spoken of as being met with in paradise, but that all these are not things of this lifehas been shown more than once in these footnotes, and a saying of the Holy Prophetalready quoted makes it clear that the blessings of paradise are not the things of this life.The Holy Prophet is reported to have said: Allåh says I have prepared for My righteousservants what no eye has seen and no ear has heard and what the heart of man has notconceived (B. 59:8). The Holy Qur’ån also speaks of them in similar words: No soulknows what refreshment of the eyes is hidden for them (32:17). These clear statementsneed no comment, and they establish beyond the shadow of a doubt that whatever blessings are spoken of as existing in paradise, the one thing sure about them is that they arenot things of this world. Hence even the white-eyed, large-eyed ones, or the pure, beautiful ones, the √∂r ‘ßn, of this verse, are not actually the beautiful women of this life.These are heavenly blessings, which the righteous women shall have along with therighteous men, for v. 17 plainly says that those who keep their duty will find these blessings, and therefore the pure, beautiful ones are as much a blessing meant for the righteous women as for the righteous men.The question may still be asked, why are these blessings described in words whichapply to women? The fact is that the reward spoken of here is one having special referenceto the purity of character and the beautiful deeds of the righteous, and it is womanhood,not manhood, that stands for a symbol of purity and beauty. Moreover, it should be notedthat in Arabic ©åli√åt and Δayyibåt signify good deeds and pure things as well as goodwomen and pure women, and this is another reason why the reward of good and puredeeds is spoken of in terms which apply to women. But note also that both √∂r and ‘ßn areplurals of words applying to men as well as to women, as also to qualities and deeds.\n\n21a. Those who have done great deeds of sacrifice are united with their offspring;because even their children follow their footsteps and do the deeds their fathers did,reaping the benefit of those deeds.\n\n21b. Note the clear doctrine of man’s responsibility for his actions.\n\n23a. This cup is therefore entirely of a different nature from what is known in this life.\n\n24a. It should be noted that the boys spoken of as hidden pearls in this verse mayeither be the offspring of the faithful mentioned in v. 21, or these may be heavenlyblessings of a nature similar to what is said of √∂r in 20a.\n\n26a. This is another clear statement showing that righteous women will be in paradisealong with righteous men. The difference of sex counts for nothing in the sight of Allåh.\n\n34a. If their calling it a forgery or the work of a poet or a madman is true, why arethey unable to bring a saying like the one that is brought by the Prophet? So early didthe Qur’ån challenge its opponents to produce the like of it. See 2:23a, as to the uniqueness of the Holy Qur’ån.\n\n35a. Or without a cause, or without a purpose.\n\n37a. That is, their authority or power in the land would soon be brought to naught.\n\n38a. This verse shows that the Arab astrologers and diviners pretended that theycould listen to the secrets of the future, but their conjectures about the future failed tomake any impression, as they did not turn out true. The word used here is sullam, whichI translate as means. It signifies primarily a ladder, the Arabs believing that their diviners could ascend to the higher regions, and there obtain news of the future (R). Thisthrows light upon the statements made in 15:17, 37:8, 67:5, 72:8. From what is saidfurther on in v. 41, and elsewhere, challenging them to put down their pretended knowledge of the unseen in writing, a challenge repeatedly given but never accepted, it is clearthat the diviners themselves knew that what they said was no more than mere conjecture.\n\n41a. Here we have a clear proof that from the very beginning the Qur’ån was written down as it was revealed. This chapter is one of the very early revelations, and herewe find the opponents challenged to write down prophecies relating to the future, thesuggestion clearly being that the prophecies of the Qur’ån relating to the future werehanded over to them in a written form.\n\n42a. Mark the clear language in which their vanquishment and the overthrow of theirpower is spoken of. But kaid (plot) also means war; see LL, which gives this significance ofthe word on the authority of the best Arabic lexicons, and many commentators say that thereis a reference here to the battle of Badr. Thus Kf interprets the words hum al-makßd∂n, theconcluding words, as meaning they it is to whom the consequences of their war will returnand their own plans will destroy them, and this was so, as they were slain on the day of Badr.\n\n44a. By a portion of the heaven coming down upon them is meant a punishment fromheaven, which they repeatedly demanded: “Or thou cause the heaven to come down uponus in pieces” (17:92); “So cause a portion of the heaven to fall on us” (26:187).\n\n46a. Mark the clearness and force with which the prophecy is continued. The reference to war and their vanquishment in it is made clearer here.\n\n47a. The two kinds of punishment with which the opponents were threatened arespoken of distinctly in this verse, viz., a punishment which was to overtake them in thisvery life in the form of famines and the wars which were to result in the complete overthrow of their power, and a punishment in the form of spiritual torment in another life.\n\n48a. The judgment of the Lord signifies the punishment of the wicked. The Prophetis not to have any fear, for he is spoken of as being before Our eyes."
+    }
+  ]
+}

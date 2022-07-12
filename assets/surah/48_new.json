@@ -1,0 +1,164 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا",
+      "verseStringB": "Surely We have granted thee a clear victory,ᵃ"
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُسْتَقِيمًا",
+      "verseStringB": "That Allāh may cover for thee thy (alleged) shortcomings in the past and those to come,ᵃ and complete His favour to thee and guide thee on a right path,ᵇ"
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "وَيَنْصُرَكَ اللَّهُ نَصْرًا عَزِيزًا",
+      "verseStringB": "And that Allāh might help thee with a mighty help.ᵃ"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "هُوَ الَّذِي أَنْزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوا إِيمَانًا مَعَ إِيمَانِهِمْ ۗ وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+      "verseStringB": "He it is Who sent down tranquillity into the hearts of the believers that they might add faith to their faith. And Allāh’s are the hosts of the heavens and the earth, and Allāh is ever Knowing, Wise —"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "لِيُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّئَاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِنْدَ اللَّهِ فَوْزًا عَظِيمًا",
+      "verseStringB": "That He may cause the believing men and the believing women to enter Gardens wherein flow rivers to abide therein and remove from them their evil. And that is a grand achievement with Allāh,"
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "وَيُعَذِّبَ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ الظَّانِّينَ بِاللَّهِ ظَنَّ السَّوْءِ ۚ عَلَيْهِمْ دَائِرَةُ السَّوْءِ ۖ وَغَضِبَ اللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا",
+      "verseStringB": "And (that) He may chastise the hypocritical men and the hypocritical women, and the polytheistic men and the polytheistic women, the entertainers of evil thoughts about Allāh. On them is the evil turn, and Allāh is wroth with them and has cursed them and prepared hell for them; and evil is the resort."
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+      "verseStringB": "And Allāh’s are the hosts of the heavens and the earth; and Allāh is ever Mighty, Wise."
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "verseStringB": "Surely We have sent thee as a witness and as a bearer of good news and as a warner,"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "verseStringB": "That you may believe in Allāh and His Messenger and may aid him and revere him. And (that) you may declare His glory, morning and evening."
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "verseStringB": "Those who swear allegiance to thee do but swear allegiance to Allāh. The hand of Allāh is above their hands. So whoever breaks (his faith), he breaks it only to his soul’s injury. And whoever fulfils his covenant with Allāh, He will grant him a mighty reward.ᵃ"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْأَعْرَابِ شَغَلَتْنَا أَمْوَالُنَا وَأَهْلُونَا فَاسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِمْ مَا لَيْسَ فِي قُلُوبِهِمْ ۚ قُلْ فَمَنْ يَمْلِكُ لَكُمْ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًا ۚ بَلْ كَانَ اللَّهُ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "verseStringB": "Those of the dwellers of the desert who lagged behind will say to thee:ᵃ Our property and our families kept us busy, so ask forgiveness for us. They say with their tongues what is not in their hearts. Say: Then who can control aught for you from Allāh, if He intends to do you harm or if He intends to do you good. Nay, Allāh is ever Aware of what you do."
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "بَلْ ظَنَنْتُمْ أَنْ لَنْ يَنْقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ إِلَىٰ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمْ وَظَنَنْتُمْ ظَنَّ السَّوْءِ وَكُنْتُمْ قَوْمًا بُورًا",
+      "verseStringB": "Nay, you thought that the Messenger and the believers would never return to their families,ᵃ and that was made fair-seeming in your hearts, and you thought an evil thought, and you are a people doomed to perish."
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "وَمَنْ لَمْ يُؤْمِنْ بِاللَّهِ وَرَسُولِهِ فَإِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَعِيرًا",
+      "verseStringB": "And whoever believes not in Allāh and His Messenger — then surely We have prepared burning Fire for the disbelievers."
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ ۚ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+      "verseStringB": "And Allāh’s is the kingdom of the heavens and the earth. He forgives whom He pleases and chastises whom He pleases. And Allāh is ever Forgiving, Merciful."
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "سَيَقُولُ الْمُخَلَّفُونَ إِذَا انْطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَنْ يُبَدِّلُوا كَلَامَ اللَّهِ ۚ قُلْ لَنْ تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ اللَّهُ مِنْ قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا لَا يَفْقَهُونَ إِلَّا قَلِيلًا",
+      "verseStringB": "Those who lagged behind will say, when you set forth to acquire gains: Allow us to follow you. They desire to change the word of Allāh. Say: You shall not follow us. Thus did Allāh say before.ᵃ But they will say: Nay, you are jealous of us. Nay, they understand not but a little."
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "قُلْ لِلْمُخَلَّفِينَ مِنَ الْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُولِي بَأْسٍ شَدِيدٍ تُقَاتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِنْ تُطِيعُوا يُؤْتِكُمُ اللَّهُ أَجْرًا حَسَنًا ۖ وَإِنْ تَتَوَلَّوْا كَمَا تَوَلَّيْتُمْ مِنْ قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا",
+      "verseStringB": "Say to those of the dwellers of the desert who lagged behind: You will soon be called against a people of mighty prowess to fight against them until they submit. Then if you obey, Allāh will grant you a good reward; but, if you turn back as you turned back before, He will chastise you with a painful chastisement.ᵃ"
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ ۗ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ وَمَنْ يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا",
+      "verseStringB": "There is no blame on the blind, nor is there blame on the lame, nor is there blame on the sick. And whoever obeys Allāh and His Messenger, He will cause him to enter Gardens wherein flow rivers. And whoever turns back, He will chastise him with a painful chastisement."
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنْزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا",
+      "verseStringB": "Allāh indeed was well pleased with the believers, when they swore allegiance to thee under the tree,ᵃ and He knew what was in their hearts, so He sent down tranquillity on them and rewarded them with a near victory,ᵇ"
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+      "verseStringB": "And many gains which they will acquire. And Allāh is ever Mighty, Wise.ᵃ"
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "وَعَدَكُمُ اللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَٰذِهِ وَكَفَّ أَيْدِيَ النَّاسِ عَنْكُمْ وَلِتَكُونَ آيَةً لِلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَاطًا مُسْتَقِيمًا",
+      "verseStringB": "Allāh promised you many gains which you will acquire, then He hastened this on for you, and held back the hands of men from you; and that it may be a sign for the believers and that He may guide you on a right path,ᵃ"
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "وَأُخْرَىٰ لَمْ تَقْدِرُوا عَلَيْهَا قَدْ أَحَاطَ اللَّهُ بِهَا ۚ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرًا",
+      "verseStringB": "And others which you have not yet been able to achieve — Allāh has surely encompassed them. And Allāh is ever Powerful over all things.ᵃ"
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "وَلَوْ قَاتَلَكُمُ الَّذِينَ كَفَرُوا لَوَلَّوُا الْأَدْبَارَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "verseStringB": "And if those who disbelieve fight with you, they will certainly turn (their) backs, then they will find no protector nor helper."
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "سُنَّةَ اللَّهِ الَّتِي قَدْ خَلَتْ مِنْ قَبْلُ ۖ وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
+      "verseStringB": "(Such has been) the course of Allāh that has run before, and thou wilt not find a change in Allāh’s course."
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "وَهُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنْكُمْ وَأَيْدِيَكُمْ عَنْهُمْ بِبَطْنِ مَكَّةَ مِنْ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+      "verseStringB": "And He it is Who held back their hands from you and your hands from them in the valley of Makkah after He had given you victory over them. And Allāh is ever Seer of what you do.ᵃ"
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "هُمُ الَّذِينَ كَفَرُوا وَصَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ وَالْهَدْيَ مَعْكُوفًا أَنْ يَبْلُغَ مَحِلَّهُ ۚ وَلَوْلَا رِجَالٌ مُؤْمِنُونَ وَنِسَاءٌ مُؤْمِنَاتٌ لَمْ تَعْلَمُوهُمْ أَنْ تَطَئُوهُمْ فَتُصِيبَكُمْ مِنْهُمْ مَعَرَّةٌ بِغَيْرِ عِلْمٍ ۖ لِيُدْخِلَ اللَّهُ فِي رَحْمَتِهِ مَنْ يَشَاءُ ۚ لَوْ تَزَيَّلُوا لَعَذَّبْنَا الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابًا أَلِيمًا",
+      "verseStringB": "It is they who disbelieved and debarred you from the Sacred Mosque — and the offering withheld from reaching its goal. And were it not for the believing men and the believing women, whom, not having known, you might have trodden down and thus something hateful might have afflicted you on their account without knowledge — so that Allāh may admit to His mercy whom He pleases. Had they been apart, We would surely have chastised those who disbelieved from among them with a painful chastisement.ᵃ"
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "إِذْ جَعَلَ الَّذِينَ كَفَرُوا فِي قُلُوبِهِمُ الْحَمِيَّةَ حَمِيَّةَ الْجَاهِلِيَّةِ فَأَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَىٰ وَكَانُوا أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا",
+      "verseStringB": "When those who disbelieved harboured disdain in their hearts, the disdain of Ignorance, but Allāh sent down His tranquillity on His Messenger and on the believers and made them keep the word of observance of duty, and they were entitled to it and worthy of it. And Allāh is ever Knower of all things."
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "لَقَدْ صَدَقَ اللَّهُ رَسُولَهُ الرُّؤْيَا بِالْحَقِّ ۖ لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ إِنْ شَاءَ اللَّهُ آمِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا فَجَعَلَ مِنْ دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+      "verseStringB": "Allāh indeed fulfilled the vision for His Messenger with truth. You shall certainly enter the Sacred Mosque, if Allāh please, in security, your heads shaved and hair cut short, not fearing. But He knows what you know not, so He has ordained a near victory before that.ᵃ"
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+      "verseStringB": "He it is Who has sent His Messenger with the guidance and the Religion of Truth that He may make it prevail over all religions. And Allāh is enough for a witness.ᵃ"
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "مُحَمَّدٌ رَسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ ۖ تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِنَ اللَّهِ وَرِضْوَانًا ۖ سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ ۚ وَمَثَلُهُمْ فِي الْإِنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ فَاسْتَغْلَظَ فَاسْتَوَىٰ عَلَىٰ سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ ۗ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنْهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "verseStringB": "Muƒammad is the Messenger of Allāh, and those with him are firm of heart against the disbelievers,ᵃ compassionate among themselves. Thouseest them bowing down, prostrating themselves, seeking Allāh’s grace and pleasure. Their marks are on their faces in consequence of prostration. That is their description in the Torah — and their description in the Gospel — like seed-produce that puts forth its sprout, then strengthens it, so it becomes stout and stands firmly on its stem, delighting the sowers that He may enrage the disbelievers on account of them. Allāh has promised such of them as believe and do good, forgiveness and a great reward."
+    }
+  ],
+  "nameEnglish": "Victory",
+  "nameTrans": "al-Fath",
+  "nameArabic": "الفتح",
+  "chapterNumber": 48,
+  "nVerses": 29,
+  "footnotes": [
+    {
+      "note": "1a. The victory referred to is that gained by the truce at Ïudaibiyah in 6 A.H. (B.64:37). The fact that there was no actual fighting at Ïudaibiyah has led many to thinkthat the words contain a prophecy about the conquest of Makkah, which, however, isreferred to later on in the third section of this chapter. The truce at Ïudaibiyah was surely a real victory for the Muslims, because it opened the way for the propagation of Islåmamong the disbelievers, and by putting a stop to hostilities gave the opponents an occasion to ponder over the merits of the religion against which they had hitherto struggledin vain on the field of battle. As a result of this truce large numbers came over to Islåm,and the words are thus prophetical, and their truth was demonstrated long after their revelation. It may be added here that ‘Umar had some misgivings as to the good of the truceconcluded at Ïudaibiyah; he thought that the truce was not honourable for the Muslims,for the conditions to which they yielded were disadvantageous to them. One of the conditions of the truce was that, if anyone from among the Makkans came over to the HolyProphet, he would return him to the Quraish, though he were a Muslim, while theQuraish were not bound to return anyone who deserted the Prophet and joined theQuraish. The Muslims felt it very hard that one of their brethren should be returned tosuffer persecution at the hands of the disbelievers; but, as the Quraish refused to make atruce unless this condition was included, the Holy Prophet accepted it. Immediatelyafterwards Divine revelation dispelled all those misgivings, and declared the truce to bea great victory leading to glorious results, as it actually proved to be.\n\n2a. For ghafr meaning covering or protecting, see 2:286a. The word dhanbi-kaoccurring here has been misunderstood as meaning thy sin. In the first place dhanbmeans any shortcoming, not necessarily a sin; see 3:11a. Secondly, the Prophet nevercommitted a sin and his istighf år meant the asking of Divine protection against the commission of sins; see 40:55a. Even before he was raised to the dignity of prophethood, hewas known in Arabia as al-Amßn or the faithful one. Dhanbi-ka therefore here means notthe sin committed by thee but the sin committed against thee, or the shortcomings attributed to thee, as ithmß in 5:29 means not the sin committed by me but the sin committedagainst me, for which see 5:29a. Other examples of a similar use of i˙åfah are met within the Holy Qur’ån. For instance, see 6:22, where shurakå’u-kum does not mean yourpartners but the partners set up by you, and in 16:27 shurakå’ß does not mean My partners but the partners which you set up with Me. The i˙åfah in dhanbi-ka carries a similar significance, and the word means thy alleged shortcomings. It is only in this sensethat we can speak of sins in the past and those to come. These were the shortcomingsattributed to the Prophet by his enemies, by those who were contemporaneous with himand those who were yet to come after him. Notwithstanding the fact that the Prophet wasrespected throughout Arabia for his righteousness and truthfulness before he laid claimto prophethood, the twenty years of opposition to the Truth which he brought had poisoned the minds of the Arabs to such an extent that they now drew a very dark picture ofhim, heaping all kinds of abuses on him. Their poets now indulged in vituperating him,thus poisoning the minds of the masses. The battles that were now being fought had,further, made it impossible for the Muslims to present a true picture of Islåm to theArabs. After several years of conflict, the Ïudaibiyah truce brought about a change inthe relations of the two parties and the truth about the Prophet now began to dawn ontheir minds. They now saw that the Prophet was not the man of terror as their leadershad pictured to them. They saw the great transformation which he had wrought and thelife which he had infused into a dead nation. It was in this sense that God covered theshortcomings and failures which his opponents attributed to him. Their effect on thepublic mind was removed by the Ïudaibiyah truce, which gave his enemies an occasionto ponder over the beauties of Islåm. In the words those to come, there is a reference tothe latter-day carpings of the enemies of Islåm. As already stated, this chapter deals notonly with the immediate triumph of Islåm, but prophesies also its ultimate triumph in thewhole world (v. 28). Hence there is a promise here that not only would those misunderstandings which already existed be corrected, but even those that remained behind andwould be spread at a later date by the enemies of Islåm, would also be dispelled, andIslåm would thus shine in its full lustre not only in Arabia but in the whole world.\n\n2b. The completion of favours was accomplished by the spread of Islåm, and theguiding on the right path signified the right way to success.\n\n3a. Large numbers becoming converts to Islåm proved a mighty help in its cause.While proceeding to Ïudaibiyah the Holy Prophet was accompanied by 1,500 men; twoyears later, when advancing on Makkah, 10,000 men marched under his banner, whichshows how fast Islåm spread after the Ïudaibiyah truce.\n\n10a. The swearing of allegiance referred to here took place before the truce wasconcluded. The Holy Prophet had started with his men with the object of performing apilgrimage, but when he reached Ïudaibiyah, the Makkans opposed his entry intoMakkah. Thereupon the companions of the Holy Prophet swore allegiance to him (undera tree as stated in v. 18), that they would defend him at all costs and die fighting at hisside (B. 64:37). The necessity for this seems to have arisen from the fact that theQuraish advanced to fight the Muslims, who were unprepared for war.It may be noted here that the companions of the Holy Prophet swore allegiance tohim twice at Makkah before the Flight — the swearers being in both cases the citizensof Madßnah. Both these are known by the name of Bai‘at al-‘Aqabah. On the first occasion twelve men only were present, and the swearing of their allegiance implied onlytheir belief in the truth of Islåm, the promise given being: “We will not serve anyone butAllåh; we will not steal; we will not commit adultery; we will not kill our children; wewill not slander, and we will not disobey the Prophet in anything that is right” (B. 2:10).The second pledge at ‘Aqabah, which came a year later, was given by seventy-threeMadinites, including two women, who undertook to defend the Holy Prophet, “as wedefend our own backs”. The third occasion on which an oath of allegiance was takenwas the Ïudaibiyah, and this is known as the Bai‘at al-ri˙wån (see v. 18). Womenswore allegiance on one occasion, for which see 60:12a.\n\n11a. The reference is to those who lagged behind in the Ïudaibiyah expedition.\n\n12a. Even as late as the sixth year of the Hijrah the Muslims were so weak, as compared with their enemies, that whenever they had to go into the field, the weak-heartedthought that the Muslims were going into the very jaws of death.\n\n15a. The reference here is not to 9:83, which is a much later revelation. It appearsthat an order similar to that contained in 9:83 was given by the Holy Prophet to the laggards on the occasion of Ïudaibiyah.\n\n16a. The power of the Makkan enemy was now broken, as was proved by theadvance on Makkah two years later. Hence, the defaulters are told that they would becalled on to join the forces of Islåm against another powerful enemy. This appears to bea reference to the wars against the Roman and Persian empires in the time of the earlyCaliphs, again referred to in v. 21.\n\n18a. It should be noted that the 1,500 men who swore allegiance at Ïudaibiyah arehere declared to be those with whom Allåh is well pleased. These words should set atrest the doubts of the adherents of a great schism in Islåm as to the sincerity of the companions of the Holy Prophet. The Prophet was sitting under a tree when allegiance wassworn to him at Ïudaibiyah (B. 65:xlviii, 5).\n\n18b. The near victory prophesied here was obtained at Khaibar, soon after the returnfrom Ïudaibiyah.\n\n19a. These many gains predict the later conquests of the Muslims, beginning withthe conquest of Makkah which made the Muslims masters of Arabia, and then extendingto other countries, both in the East and the West.\n\n20a. What was hastened on was the Ïudaibiyah truce, which is called “a clearvictory” in the very first verse of this chapter. By this truce the hands of men were heldback from the Muslims, i.e., the Muslims were not persecuted any more. So persecutionhaving ceased, people began to enter Islåm in large numbers. This was moreover anindication that the promised conquests of Islåm were not only conquests of countries butalso conquests of hearts.\n\n21a. This reference is to the great Muslim conquests under the successors of theHoly Prophet. The vanquishment of the enemy is plainly spoken of in the next verse.\n\n24a. This is again a reference to the Ïudaibiyah truce. Thrice already had the disbelievers attacked Madßnah with very strong forces to crush Islåm, and the Muslims hadrepulsed them every time, inflicting severe loss on them. This is referred to in the words,after He had given you victory over them. Yet they offered terms which were humiliating to the Muslims and the Prophet accepted them to avoid bloodshed, so deeply did helove peace. Thus the hands of both sides were held back. Authentic reports state clearlythat ‘Umar openly gave vent to his injured feelings (B. 54:15). The chief terms of theagreement were: (1) That the Muslims should return without performing a pilgrimage.(2) That they should be allowed to perform a pilgrimage next year, but should not stayfor more than three days. (3) That if a disbeliever, being converted, went over to theMuslims, he should be returned, but if a Muslim went over to the disbelievers he shouldnot be given back to the Muslims (B. 54:15). The last term of the agreement was specially dissatisfying to the Muslims; but it shows the strong conviction which the HolyProphet had in the truth of Islåm, for he was confident that none of his companionswould go over to disbelief and join the Quraish; and also that those who became converts to Islåm would not desert it on account of persecution. Thus it happened that theconverts to Islåm from among the Makkans, not being allowed to settle at Madßnah,formed an independent colony of their own (B. 54:15), proving thereby the genuinenessof their convictions and the strength of their faith.\n\n25a. One of the reasons given here for the truce is that the welfare of the Muslimsdemanded it, inasmuch as there were Muslims at Makkah who were unknown even totheir brethren at Madßnah, and that, if a battle had taken place, they would have sufferedalong with the enemy. This shows how Islåm was making silent progress at Makkahitself, even without the guidance of a preacher, and in spite of persecution.\n\n27a. The Holy Prophet’s journey to Makkah to perform a pilgrimage with 1,500 ofhis companions was undertaken on the basis of the vision stated here. In a vision, theProphet had seen himself and his companions performing a pilgrimage. Convinced ofthe truth of his vision, he set out with about 1,500 of his companions with the object ofperforming a pilgrimage. The Makkans, however, opposed him at Ïudaibiyah, and atruce was there arranged, according to which the Holy Prophet had to return without performing a pilgrimage. The truth of the vision is therefore asserted here. It is made clearthat the Prophet’s return did not falsify the vision, which had to be, and was, fulfillednext year. This was the answer which the Holy Prophet gave to ‘Umar when he objectedto returning without performing a pilgrimage (B. 54:15). The near victory referred tohere as coming before that, i.e., before the vision was fulfilled by the actual performanceof the pilgrimage during the following year, is the conquest of Khaibar which happenedin the month of ˝afar in the seventh year of the Hijrah.\n\n28a. This prophecy of the prevalence of Islåm over all other religions is a prophecywhich extends into the distant future, while Arabia saw its fulfilment in the lifetime ofthe Holy Prophet. The prevalence of Islåm does not, however, mean the politicalsupremacy of its adherents at all times, nor does the prophecy signify that other religionswould at any time entirely disappear. It only indicates that the superiority of the religionof Islåm over all other religions will at last be established, and Islåm will be the religionof the majority of the nations of the earth. No other scripture prophesies the triumph ofthe religion it preaches in such unmistakable terms. See also 9:33; 61:9.\n\n29a. Ashiddå’ is plural of shadßd, which means firm, strong, powerful, as well asbrave, firm of heart (LA, Q, LL). Shiddat, the root word, also signifies firmness of heart(T). The translation fierce, or vehement, adopted in English translations, is not correcthere. The Muslims stood firm against the disbelievers but they were never fierce or hardin their treatment towards them."
+    }
+  ]
+}

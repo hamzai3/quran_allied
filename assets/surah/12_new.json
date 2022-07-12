@@ -1,0 +1,574 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "الر ۚ تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+      "verseStringB": "I, Allāh, am the Seer. These are the verses of the Book that makes manifest."
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "إِنَّا أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseStringB": "Surely We have revealed it — an Arabic Qur’ān — that you may under stand."
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَا أَوْحَيْنَا إِلَيْكَ هَٰذَا الْقُرْآنَ وَإِنْ كُنْتَ مِنْ قَبْلِهِ لَمِنَ الْغَافِلِينَ",
+      "verseStringB": "We narrate to thee the best of narratives, a in that We have revealed to thee this Qur’ān, though before this thou wast of those unaware.ᵇ"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ",
+      "verseStringB": "When Joseph said to his father: O my father, I saw eleven stars and the sun and the moon — I saw them making obeisance to me.ᵃ"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَىٰ إِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا ۖ إِنَّ الشَّيْطَانَ لِلْإِنْسَانِ عَدُوٌّ مُبِينٌ",
+      "verseStringB": "He said: O my son, relate not thy dream to thy brethren, lest they devise a plan against thee. The devil indeed is an open enemy to man."
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِنْ تَأْوِيلِ الْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُ عَلَيْكَ وَعَلَىٰ آلِ يَعْقُوبَ كَمَا أَتَمَّهَا عَلَىٰ أَبَوَيْكَ مِنْ قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+      "verseStringB": "And thus will thy Lord choose thee and teach thee the interpretation of sayings, and make His favour complete to thee and to the Children of Jacob, as He made it complete before to thy fathers, Abraham and Isaac. Surely thy Lord is Knowing, Wise."
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "لَقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِلسَّائِلِينَ",
+      "verseStringB": "Verily in Joseph and his brethren there are signs for the inquirers.ᵃ"
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِي ضَلَالٍ مُبِينٍ",
+      "verseStringB": "When they said: Certainly Joseph and his brother a are dearer to our father than we, though we are a (strong) company. Surely our father is in manifest error —"
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا مِنْ بَعْدِهِ قَوْمًا صَالِحِينَ",
+      "verseStringB": "Slay Joseph or banish him to some (other) land, so that your father’s regard may be exclusively for you, and after that you may be a righteous people.ᵃ"
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "قَالَ قَائِلٌ مِنْهُمْ لَا تَقْتُلُوا يُوسُفَ وَأَلْقُوهُ فِي غَيَابَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ إِنْ كُنْتُمْ فَاعِلِينَ",
+      "verseStringB": "A speaker among them said: Slay not Joseph, but, if you are going to do anything, cast him down to the bottom of the well. Some of the travellers may pick him up.ᵃ"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "قَالُوا يَا أَبَانَا مَا لَكَ لَا تَأْمَنَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُ لَنَاصِحُونَ",
+      "verseStringB": "They said: O our father, why dost thou not trust us with Joseph, and surely we are his sincere well-wishers?"
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُ لَحَافِظُونَ",
+      "verseStringB": "Send him with us tomorrow that he may enjoy himself and play, and we shall surely guard him well."
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "قَالَ إِنِّي لَيَحْزُنُنِي أَنْ تَذْهَبُوا بِهِ وَأَخَافُ أَنْ يَأْكُلَهُ الذِّئْبُ وَأَنْتُمْ عَنْهُ غَافِلُونَ",
+      "verseStringB": "He said: Indeed it grieves me that you should take him away and I fear lest the wolf devour him, while you are heedless of him."
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "قَالُوا لَئِنْ أَكَلَهُ الذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّا إِذًا لَخَاسِرُونَ",
+      "verseStringB": "They said: If the wolf should devour him, while we are a (strong) company, we should then certainly be losers."
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "فَلَمَّا ذَهَبُوا بِهِ وَأَجْمَعُوا أَنْ يَجْعَلُوهُ فِي غَيَابَتِ الْجُبِّ ۚ وَأَوْحَيْنَا إِلَيْهِ لَتُنَبِّئَنَّهُمْ بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ",
+      "verseStringB": "So when they took him away and agreed to put him down at the bottom of the pit, We revealed to him: Thou wilt certainly inform them of this affair of theirs while they perceive not.ᵃ"
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ",
+      "verseStringB": "And they came to their father at nightfall, weeping."
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "قَالُوا يَا أَبَانَا إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِنْدَ مَتَاعِنَا فَأَكَلَهُ الذِّئْبُ ۖ وَمَا أَنْتَ بِمُؤْمِنٍ لَنَا وَلَوْ كُنَّا صَادِقِينَ",
+      "verseStringB": "They said: O our father, we went off racing one with another and left Joseph by our goods, so the wolf devoured him. And thou wilt not believe us, though we are truthful."
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "وَجَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ كَذِبٍ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ وَاللَّهُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+      "verseStringB": "And they came with false blood on his shirt. He said: Nay, your souls have made a matter light for you. So patience is goodly. And Allāh is He Whose help is sought against what you describe."
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "وَجَاءَتْ سَيَّارَةٌ فَأَرْسَلُوا وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُ ۖ قَالَ يَا بُشْرَىٰ هَٰذَا غُلَامٌ ۚ وَأَسَرُّوهُ بِضَاعَةً ۚ وَاللَّهُ عَلِيمٌ بِمَا يَعْمَلُونَ",
+      "verseStringB": "And there came travellers, and they sent their water-drawer and he let down his bucket. He said: O good news! This is a youth. And they concealed him as an article of merchandise, and Allāh was Cognizant of what they did."
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ",
+      "verseStringB": "And they sold him for a small price, a few pieces of silver, and they showed no desire for him.ᵃ"
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "وَقَالَ الَّذِي اشْتَرَاهُ مِنْ مِصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ وَلِنُعَلِّمَهُ مِنْ تَأْوِيلِ الْأَحَادِيثِ ۚ وَاللَّهُ غَالِبٌ عَلَىٰ أَمْرِهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseStringB": "And the Egyptian who bought hima said to his wife: Make his stay honourable. Maybe he will be useful to us, or we may adopt him as a son. And thus We established Joseph in the land, and that We might teach him the interpretation of sayings. And Allāh has full control over His affair, but most people know not."
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "وَلَمَّا بَلَغَ أَشُدَّهُ آتَيْنَاهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "verseStringB": "And when he attained his maturity, We gave him wisdom and knowledge. And thus do We reward the doers of good.ᵃ"
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "وَرَاوَدَتْهُ الَّتِي هُوَ فِي بَيْتِهَا عَنْ نَفْسِهِ وَغَلَّقَتِ الْأَبْوَابَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ اللَّهِ ۖ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ ۖ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+      "verseStringB": "And she in whose house he was, sought to seduce him,ᵃ and made fast the doors and said: Come. He said: Allāh forbid! Surely my Lord made good my abode. The wrongdoers never prosper."
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "وَلَقَدْ هَمَّتْ بِهِ ۖ وَهَمَّ بِهَا لَوْلَا أَنْ رَأَىٰ بُرْهَانَ رَبِّهِ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاءَ ۚ إِنَّهُ مِنْ عِبَادِنَا الْمُخْلَصِينَ",
+      "verseStringB": "And certainly she desired him, and he would have desired her, were it not that he had seen the manifest evidence of his Lord. Thus (it was) that We might turn away from him evil and indecency. Surely he was one of Our chosen servants.ᵃ"
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "وَاسْتَبَقَا الْبَابَ وَقَدَّتْ قَمِيصَهُ مِنْ دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَى الْبَابِ ۚ قَالَتْ مَا جَزَاءُ مَنْ أَرَادَ بِأَهْلِكَ سُوءًا إِلَّا أَنْ يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ",
+      "verseStringB": "And they raced with one another to the door, and she rent his shirt from behind, and they met her husband at the door. She said: What is the punishment for one who intends evil to thy wife, except imprisonment or a painful chastisement?"
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "قَالَ هِيَ رَاوَدَتْنِي عَنْ نَفْسِي ۚ وَشَهِدَ شَاهِدٌ مِنْ أَهْلِهَا إِنْ كَانَ قَمِيصُهُ قُدَّ مِنْ قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ الْكَاذِبِينَ",
+      "verseStringB": "He said: She sought to seduce me. And a witness of her own family bore witness: If his shirt is rent in front, she speaks the truth and he is of the liars."
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "وَإِنْ كَانَ قَمِيصُهُ قُدَّ مِنْ دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ الصَّادِقِينَ",
+      "verseStringB": "And if his shirt is rent behind, she tells a lie and he is of the truthful."
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "فَلَمَّا رَأَىٰ قَمِيصَهُ قُدَّ مِنْ دُبُرٍ قَالَ إِنَّهُ مِنْ كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌ",
+      "verseStringB": "So when he saw his shirt rent behind, he said: Surely it is a device of you women. Your device is indeed great!ᵃ"
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "يُوسُفُ أَعْرِضْ عَنْ هَٰذَا ۚ وَاسْتَغْفِرِي لِذَنْبِكِ ۖ إِنَّكِ كُنْتِ مِنَ الْخَاطِئِينَ",
+      "verseStringB": "O Joseph, turn aside from this. And (O my wife), ask forgiveness for thy sin. Surely thou art one of the sinful."
+    },
+    {
+      "verseNumber": 30,
+      "verseString": "وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ امْرَأَتُ الْعَزِيزِ تُرَاوِدُ فَتَاهَا عَنْ نَفْسِهِ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَاهَا فِي ضَلَالٍ مُبِينٍ",
+      "verseStringB": "And women in the city said: The chief’s a wife seeks to seduce her slave. He has indeed affected her deeplyb with (his) love. Truly we see her in manifest error."
+    },
+    {
+      "verseNumber": 31,
+      "verseString": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَأً وَآتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكِّينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
+      "verseStringB": "So when she heard of their device,ᵃ she sent for them and prepared for them a repast,ᵇ and gave each of them a knife, and said (to Joseph): Come out to them. So when they saw him, they deemed him great, and cut their hands (in amazement), and said: Holy Allāh! This is not a mortal!ᶜ This is but a noble angel."
+    },
+    {
+      "verseNumber": 32,
+      "verseString": "قَالَتْ فَذَٰلِكُنَّ الَّذِي لُمْتُنَّنِي فِيهِ ۖ وَلَقَدْ رَاوَدْتُهُ عَنْ نَفْسِهِ فَاسْتَعْصَمَ ۖ وَلَئِنْ لَمْ يَفْعَلْ مَا آمُرُهُ لَيُسْجَنَنَّ وَلَيَكُونًا مِنَ الصَّاغِرِينَ",
+      "verseStringB": "She said: This is he about whom you blamed me. And certainly I sought to seduce him, but he was firm in continence. And if he do not what I bid him, he shall certainly be imprisoned, and he shall certainly be of the abject."
+    },
+    {
+      "verseNumber": 33,
+      "verseString": "قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنَ الْجَاهِلِينَ",
+      "verseStringB": "He said: My Lord, the prison is dearer to me than that to which they invite me. And if Thou turn not away their device from me, I shall yearn towards them and be of the ignorant."
+    },
+    {
+      "verseNumber": 34,
+      "verseString": "فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+      "verseStringB": "So his Lord accepted his prayer and turned away their device from him. Surely He is the Hearer, the Knower."
+    },
+    {
+      "verseNumber": 35,
+      "verseString": "ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ مَا رَأَوُا الْآيَاتِ لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ",
+      "verseStringB": "Then it occurred to them after they had seen the signs that they should imprison him till a time.ᵃ tation; surely we see thee to be of the doers of good.ᵇ"
+    },
+    {
+      "verseNumber": 36,
+      "verseString": "وَدَخَلَ مَعَهُ السِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَا إِنِّي أَرَانِي أَعْصِرُ خَمْرًا ۖ وَقَالَ الْآخَرُ إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا تَأْكُلُ الطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِ ۖ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ",
+      "verseStringB": ""
+    },
+    {
+      "verseNumber": 37,
+      "verseString": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِ قَبْلَ أَنْ يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّي ۚ إِنِّي تَرَكْتُ مِلَّةَ قَوْمٍ لَا يُؤْمِنُونَ بِاللَّهِ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ",
+      "verseStringB": "He said: The food with which you are fed shall not come to you, but I shall inform you of its interpretation before it comes to you. This is of what my Lord has taught me. Surely I have forsaken the religion of a people who believe not in Allāh, and are deniers of the Hereafter."
+    },
+    {
+      "verseNumber": 38,
+      "verseString": "وَاتَّبَعْتُ مِلَّةَ آبَائِي إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَا أَنْ نُشْرِكَ بِاللَّهِ مِنْ شَيْءٍ ۚ ذَٰلِكَ مِنْ فَضْلِ اللَّهِ عَلَيْنَا وَعَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
+      "verseStringB": "And I follow the religion of my fathers, Abraham and Isaac and Jacob. It beseems us not to associate aught with Allāh. This is by Allāh’s grace upon us and on mankind, but most people give not thanks."
+    },
+    {
+      "verseNumber": 39,
+      "verseString": "يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ",
+      "verseStringB": "O my two fellow-prisoners, are sundry lords better or Allāh the One, the Supreme?"
+    },
+    {
+      "verseNumber": 40,
+      "verseString": "مَا تَعْبُدُونَ مِنْ دُونِهِ إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ ۚ إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseStringB": "You serve not besides Him but names which you have named, you and your fathers — Allāh has sent down no authority for them. Judgment is only Allāh’s. He has commanded that you serve none but Him. This is the right religion, but most people know not."
+    },
+    {
+      "verseNumber": 41,
+      "verseString": "يَا صَاحِبَيِ السِّجْنِ أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا ۖ وَأَمَّا الْآخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِنْ رَأْسِهِ ۚ قُضِيَ الْأَمْرُ الَّذِي فِيهِ تَسْتَفْتِيَانِ",
+      "verseStringB": "O my two fellow-prisoners, as for one of you, he will serve wine for his lord to drink; and as for the other, he will be crucified, so that the birds will eat from his head. The matter is decreed concerning which you inquired."
+    },
+    {
+      "verseNumber": 42,
+      "verseString": "وَقَالَ لِلَّذِي ظَنَّ أَنَّهُ نَاجٍ مِنْهُمَا اذْكُرْنِي عِنْدَ رَبِّكَ فَأَنْسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ",
+      "verseStringB": "And he said to him whom he knew would be delivered of the two: Remember me with thy lord. But the devil caused him to forget mentioning (it) to his lord, so he remained in the prison a few years.ᵃ"
+    },
+    {
+      "verseNumber": 43,
+      "verseString": "وَقَالَ الْمَلِكُ إِنِّي أَرَىٰ سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ ۖ يَا أَيُّهَا الْمَلَأُ أَفْتُونِي فِي رُؤْيَايَ إِنْ كُنْتُمْ لِلرُّؤْيَا تَعْبُرُونَ",
+      "verseStringB": "And the king said: I have seen seven fat kine which seven lean ones devoured; and seven green ears and (seven) others dry.ᵃ O chiefs, explain to me my dream, if you can interpret the dream."
+    },
+    {
+      "verseNumber": 44,
+      "verseString": "قَالُوا أَضْغَاثُ أَحْلَامٍ ۖ وَمَا نَحْنُ بِتَأْوِيلِ الْأَحْلَامِ بِعَالِمِينَ",
+      "verseStringB": "They said: Confused dreams, and we know not the interpretation of dreams."
+    },
+    {
+      "verseNumber": 45,
+      "verseString": "وَقَالَ الَّذِي نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ أُمَّةٍ أَنَا أُنَبِّئُكُمْ بِتَأْوِيلِهِ فَأَرْسِلُونِ",
+      "verseStringB": "And of the two, he who had found deliverance and remembered after a long time said: I will inform you of its interpretation, so send me."
+    },
+    {
+      "verseNumber": 46,
+      "verseString": "يُوسُفُ أَيُّهَا الصِّدِّيقُ أَفْتِنَا فِي سَبْعِ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ لَعَلِّي أَرْجِعُ إِلَى النَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+      "verseStringB": "Joseph, O truthful one, explain to us seven fat kine which seven lean ones devoured, and seven green ears and (seven) others dry, that I may go back to the people so that they may know."
+    },
+    {
+      "verseNumber": 47,
+      "verseString": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدْتُمْ فَذَرُوهُ فِي سُنْبُلِهِ إِلَّا قَلِيلًا مِمَّا تَأْكُلُونَ",
+      "verseStringB": "He said: You shall sow for seven years as usual, then that which you reap, leave it in its ear, except a little which you eat."
+    },
+    {
+      "verseNumber": 48,
+      "verseString": "ثُمَّ يَأْتِي مِنْ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِمَّا تُحْصِنُونَ",
+      "verseStringB": "Then after that will come seven years of hardship, which will eat away all you have beforehand stored for them, except a little which you have preserved."
+    },
+    {
+      "verseNumber": 49,
+      "verseString": "ثُمَّ يَأْتِي مِنْ بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ النَّاسُ وَفِيهِ يَعْصِرُونَ",
+      "verseStringB": "Then after that will come a year in which people will have rain and in which they will press (grapes)."
+    },
+    {
+      "verseNumber": 50,
+      "verseString": "وَقَالَ الْمَلِكُ ائْتُونِي بِهِ ۖ فَلَمَّا جَاءَهُ الرَّسُولُ قَالَ ارْجِعْ إِلَىٰ رَبِّكَ فَاسْأَلْهُ مَا بَالُ النِّسْوَةِ اللَّاتِي قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّي بِكَيْدِهِنَّ عَلِيمٌ",
+      "verseStringB": "And the king said: Bring him to me. So when the messenger came to him, he said: Go back to thy lord and ask him, what is the case of the women who cut their hands. Surely my Lord knows their device."
+    },
+    {
+      "verseNumber": 51,
+      "verseString": "قَالَ مَا خَطْبُكُنَّ إِذْ رَاوَدْتُنَّ يُوسُفَ عَنْ نَفْسِهِ ۚ قُلْنَ حَاشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِنْ سُوءٍ ۚ قَالَتِ امْرَأَتُ الْعَزِيزِ الْآنَ حَصْحَصَ الْحَقُّ أَنَا رَاوَدْتُهُ عَنْ نَفْسِهِ وَإِنَّهُ لَمِنَ الصَّادِقِينَ",
+      "verseStringB": "(The king) said: What was your affair when you sought to seduce Joseph? They said: Holy Allāh! We knew of no evil on his part. The chief’s wife said: Now has the truth become manifest. I sought to seduce him and he is surely of the truthful."
+    },
+    {
+      "verseNumber": 52,
+      "verseString": "ذَٰلِكَ لِيَعْلَمَ أَنِّي لَمْ أَخُنْهُ بِالْغَيْبِ وَأَنَّ اللَّهَ لَا يَهْدِي كَيْدَ الْخَائِنِينَ",
+      "verseStringB": "This is that he might know that I have not been unfaithful to him in secret, and that Allāh guides not the device of the unfaithful.ᵃ"
+    },
+    {
+      "verseNumber": 53,
+      "verseString": "وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي ۚ إِنَّ رَبِّي غَفُورٌ رَحِيمٌ",
+      "verseStringB": "And I call not myself sinless; surely (man’s) self is wont to command evil, except those on whom my Lord has mercy. Surely my Lord is Forgiving, Merciful.ᵃ"
+    },
+    {
+      "verseNumber": 54,
+      "verseString": "وَقَالَ الْمَلِكُ ائْتُونِي بِهِ أَسْتَخْلِصْهُ لِنَفْسِي ۖ فَلَمَّا كَلَّمَهُ قَالَ إِنَّكَ الْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ",
+      "verseStringB": "And the king said: Bring him to me, I will choose him for myself. So when he talked with him, he said: Surely thou art in our presence today dignified, trusted."
+    },
+    {
+      "verseNumber": 55,
+      "verseString": "قَالَ اجْعَلْنِي عَلَىٰ خَزَائِنِ الْأَرْضِ ۖ إِنِّي حَفِيظٌ عَلِيمٌ",
+      "verseStringB": "He said: Place me (in authority) over the treasures of the land; surely I am a good keeper, knowing well."
+    },
+    {
+      "verseNumber": 56,
+      "verseString": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَاءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَنْ نَشَاءُ ۖ وَلَا نُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+      "verseStringB": "And thus did We give to Joseph power in the land — he had mastery in it wherever he liked. We bestow Our mercy on whom We please, and We waste not the reward of the doers of good."
+    },
+    {
+      "verseNumber": 57,
+      "verseString": "وَلَأَجْرُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ",
+      "verseStringB": "And certainly the reward of the Hereafter is better for those who believe and guard against evil."
+    },
+    {
+      "verseNumber": 58,
+      "verseString": "وَجَاءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنْكِرُونَ",
+      "verseStringB": "And Joseph’s brethren came and went in to him, and he knew them, while they recognized him not."
+    },
+    {
+      "verseNumber": 59,
+      "verseString": "وَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ قَالَ ائْتُونِي بِأَخٍ لَكُمْ مِنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّي أُوفِي الْكَيْلَ وَأَنَا خَيْرُ الْمُنْزِلِينَ",
+      "verseStringB": "And when he furnished them with their provision, he said: Bring to me a brother of yours from your father. See you not that I give full measure and that I am the best of hosts?"
+    },
+    {
+      "verseNumber": 60,
+      "verseString": "فَإِنْ لَمْ تَأْتُونِي بِهِ فَلَا كَيْلَ لَكُمْ عِنْدِي وَلَا تَقْرَبُونِ",
+      "verseStringB": "But if you bring him not to me, you shall have no measure (of corn) from me, nor shall you come near me."
+    },
+    {
+      "verseNumber": 61,
+      "verseString": "قَالُوا سَنُرَاوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَاعِلُونَ",
+      "verseStringB": "They said: We shall strive to make his father yield about him, and we are sure to do (it)."
+    },
+    {
+      "verseNumber": 62,
+      "verseString": "وَقَالَ لِفِتْيَانِهِ اجْعَلُوا بِضَاعَتَهُمْ فِي رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَا إِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ",
+      "verseStringB": "And he said to his servants: Put their moneya into their bags that they may recognize it when they go back to their family, so that they may come back."
+    },
+    {
+      "verseNumber": 63,
+      "verseString": "فَلَمَّا رَجَعُوا إِلَىٰ أَبِيهِمْ قَالُوا يَا أَبَانَا مُنِعَ مِنَّا الْكَيْلُ فَأَرْسِلْ مَعَنَا أَخَانَا نَكْتَلْ وَإِنَّا لَهُ لَحَافِظُونَ",
+      "verseStringB": "So when they returned to their father, they said: O our father, the measure is withheld from us, so send with us our brother that we may get the measure, and we will surely guard him."
+    },
+    {
+      "verseNumber": 64,
+      "verseString": "قَالَ هَلْ آمَنُكُمْ عَلَيْهِ إِلَّا كَمَا أَمِنْتُكُمْ عَلَىٰ أَخِيهِ مِنْ قَبْلُ ۖ فَاللَّهُ خَيْرٌ حَافِظًا ۖ وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+      "verseStringB": "He said: Can I trust you with him, except as I trusted you with his brother before? So Allāh is the Best Keeper, and He is the most Merciful of those who show mercy."
+    },
+    {
+      "verseNumber": 65,
+      "verseString": "وَلَمَّا فَتَحُوا مَتَاعَهُمْ وَجَدُوا بِضَاعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا يَا أَبَانَا مَا نَبْغِي ۖ هَٰذِهِ بِضَاعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ۖ ذَٰلِكَ كَيْلٌ يَسِيرٌ",
+      "verseStringB": "And when they opened their goods, they found their money returned to them. They said: O our father, what (more) can we desire? This is our property returned to us, and we shall bring corn for our family and guard our brother, and have in addition the measure of a camel-load. This is an easy measure."
+    },
+    {
+      "verseNumber": 66,
+      "verseString": "قَالَ لَنْ أُرْسِلَهُ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِنَ اللَّهِ لَتَأْتُنَّنِي بِهِ إِلَّا أَنْ يُحَاطَ بِكُمْ ۖ فَلَمَّا آتَوْهُ مَوْثِقَهُمْ قَالَ اللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+      "verseStringB": "He said: I will by no means send him with you, until you give me a firm covenant in Allāh’s name that you will bring him back to me, unless you are completely surrounded. And when they gave him their covenant, he said: Allāh is Guardian over what we say."
+    },
+    {
+      "verseNumber": 67,
+      "verseString": "وَقَالَ يَا بَنِيَّ لَا تَدْخُلُوا مِنْ بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ أَبْوَابٍ مُتَفَرِّقَةٍ ۖ وَمَا أُغْنِي عَنْكُمْ مِنَ اللَّهِ مِنْ شَيْءٍ ۖ إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ",
+      "verseStringB": "And he said: O my sons, enter not by one gate but enter by different gates.ᵃ And I can avail you naught against Allāh. Judgment is only Allāh’s. On Him I rely, and on Him let the reliant rely."
+    },
+    {
+      "verseNumber": 68,
+      "verseString": "وَلَمَّا دَخَلُوا مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُمْ مَا كَانَ يُغْنِي عَنْهُمْ مِنَ اللَّهِ مِنْ شَيْءٍ إِلَّا حَاجَةً فِي نَفْسِ يَعْقُوبَ قَضَاهَا ۚ وَإِنَّهُ لَذُو عِلْمٍ لِمَا عَلَّمْنَاهُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseStringB": "And when they entered as their father had bidden them, it availed them naught against Allāh, but (it was only) a desire in the soul of Jacob, which he satisfied. And surely he was possessed of knowledge, because We had given him knowledge, but most people know not.ᵃ"
+    },
+    {
+      "verseNumber": 69,
+      "verseString": "وَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ آوَىٰ إِلَيْهِ أَخَاهُ ۖ قَالَ إِنِّي أَنَا أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا يَعْمَلُونَ",
+      "verseStringB": "And when they went in to Joseph, he lodged his brother with himself, saying: I am thy brother, so grieve not at what they do."
+    },
+    {
+      "verseNumber": 70,
+      "verseString": "فَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ جَعَلَ السِّقَايَةَ فِي رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسَارِقُونَ",
+      "verseStringB": "Then when he furnished them with their provision, (someone) placed the drinking-cup in his brother’s bag.ᵃ Then a crier cried out:ᵇ O caravan, you are surely thieves!"
+    },
+    {
+      "verseNumber": 71,
+      "verseString": "قَالُوا وَأَقْبَلُوا عَلَيْهِمْ مَاذَا تَفْقِدُونَ",
+      "verseStringB": "They said, while they turned towards them: What is it that you miss?"
+    },
+    {
+      "verseNumber": 72,
+      "verseString": "قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَنْ جَاءَ بِهِ حِمْلُ بَعِيرٍ وَأَنَا بِهِ زَعِيمٌ",
+      "verseStringB": "They said: We miss the king’s drinking-cup, and he who brings it shall have a camel-load, and I am responsible for it."
+    },
+    {
+      "verseNumber": 73,
+      "verseString": "قَالُوا تَاللَّهِ لَقَدْ عَلِمْتُمْ مَا جِئْنَا لِنُفْسِدَ فِي الْأَرْضِ وَمَا كُنَّا سَارِقِينَ",
+      "verseStringB": "They said: By Allāh! You know for certain that we have not come to make mischief in the land, and we are not thieves."
+    },
+    {
+      "verseNumber": 74,
+      "verseString": "قَالُوا فَمَا جَزَاؤُهُ إِنْ كُنْتُمْ كَاذِبِينَ",
+      "verseStringB": "They said: But what is the penalty for this, if you are liars?"
+    },
+    {
+      "verseNumber": 75,
+      "verseString": "قَالُوا جَزَاؤُهُ مَنْ وُجِدَ فِي رَحْلِهِ فَهُوَ جَزَاؤُهُ ۚ كَذَٰلِكَ نَجْزِي الظَّالِمِينَ",
+      "verseStringB": "They said: The penalty for this — the person in whose bag it is found, he himself is the penalty for it. Thus do we punish the wrongdoers."
+    },
+    {
+      "verseNumber": 76,
+      "verseString": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَاءِ أَخِيهِ ثُمَّ اسْتَخْرَجَهَا مِنْ وِعَاءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِي دِينِ الْمَلِكِ إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ نَرْفَعُ دَرَجَاتٍ مَنْ نَشَاءُ ۗ وَفَوْقَ كُلِّ ذِي عِلْمٍ عَلِيمٌ",
+      "verseStringB": "So he began with their sacks before the sack of his brother,ᵃ then he brought it out from his brother’s sack. Thus did We plan for the sake of Joseph.ᵇ He could not take his brother under the king’s law, unless Allāh pleased. We raise in degree whom We please. And above everyone possessed of knowledge is the All-Knowing One."
+    },
+    {
+      "verseNumber": 77,
+      "verseString": "قَالُوا إِنْ يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَهُ مِنْ قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِي نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنْتُمْ شَرٌّ مَكَانًا ۖ وَاللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+      "verseStringB": "They said: If he steal, a brother of his did indeed steal before.ᵃ But Joseph kept it secret in his soul, and disclosed it not to them. He said: You are in an evil condition, and Allāh knows best what you state."
+    },
+    {
+      "verseNumber": 78,
+      "verseString": "قَالُوا يَا أَيُّهَا الْعَزِيزُ إِنَّ لَهُ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُ ۖ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ",
+      "verseStringB": "They said: O chief, he has a father, a very old man, so take one of us in his place. Surely we see thee to be of the doers of good."
+    },
+    {
+      "verseNumber": 79,
+      "verseString": "قَالَ مَعَاذَ اللَّهِ أَنْ نَأْخُذَ إِلَّا مَنْ وَجَدْنَا مَتَاعَنَا عِنْدَهُ إِنَّا إِذًا لَظَالِمُونَ",
+      "verseStringB": "He said: Allāh forbid that we should seize other than him with whom we found our property, for then surely we should be unjust!"
+    },
+    {
+      "verseNumber": 80,
+      "verseString": "فَلَمَّا اسْتَيْأَسُوا مِنْهُ خَلَصُوا نَجِيًّا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوا أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُمْ مَوْثِقًا مِنَ اللَّهِ وَمِنْ قَبْلُ مَا فَرَّطْتُمْ فِي يُوسُفَ ۖ فَلَنْ أَبْرَحَ الْأَرْضَ حَتَّىٰ يَأْذَنَ لِي أَبِي أَوْ يَحْكُمَ اللَّهُ لِي ۖ وَهُوَ خَيْرُ الْحَاكِمِينَ",
+      "verseStringB": "So when they despaired of him, they conferred together privately. The eldest of them said: Know you not that your father took from you a covenant in Allāh’s name, and how you fell short of your duty about Joseph before? So I shall not leave this land, until my father permits me or Allāh decides for me; and He is the Best of the judges."
+    },
+    {
+      "verseNumber": 81,
+      "verseString": "ارْجِعُوا إِلَىٰ أَبِيكُمْ فَقُولُوا يَا أَبَانَا إِنَّ ابْنَكَ سَرَقَ وَمَا شَهِدْنَا إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَافِظِينَ",
+      "verseStringB": "Go back to your father and say: O our father, thy son committed theft. And we bear witness only to what we know, and we could not keep watch over the unseen."
+    },
+    {
+      "verseNumber": 82,
+      "verseString": "وَاسْأَلِ الْقَرْيَةَ الَّتِي كُنَّا فِيهَا وَالْعِيرَ الَّتِي أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَادِقُونَ",
+      "verseStringB": "And ask the town where we were, and the caravan with which we proceeded. And surely we are truthful."
+    },
+    {
+      "verseNumber": 83,
+      "verseString": "قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى اللَّهُ أَنْ يَأْتِيَنِي بِهِمْ جَمِيعًا ۚ إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+      "verseStringB": "He said: Nay, your souls have contrived an affair for you, so patience is good. Maybe Allāh will bring them together to me. Surely He is the Knowing, the Wise."
+    },
+    {
+      "verseNumber": 84,
+      "verseString": "وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا أَسَفَىٰ عَلَىٰ يُوسُفَ وَابْيَضَّتْ عَيْنَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيمٌ",
+      "verseStringB": "And he turned away from them, and said: O my sorrow for Joseph! And his eyes were filleda (with tears) on account of the grief, then he repressed (grief)."
+    },
+    {
+      "verseNumber": 85,
+      "verseString": "قَالُوا تَاللَّهِ تَفْتَأُ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ الْهَالِكِينَ",
+      "verseStringB": "They said: By Allāh! Thou wilt not cease remembering Joseph till thou art a prey to disease or thou art of those who perish.ᵃ"
+    },
+    {
+      "verseNumber": 86,
+      "verseString": "قَالَ إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ وَأَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+      "verseStringB": "He said: I complain of my grief and sorrow only to Allāh, and I know from Allāh what you know not.ᵃ"
+    },
+    {
+      "verseNumber": 87,
+      "verseString": "يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+      "verseStringB": "O my sons, go and inquire about Joseph and his brother, and despair not of Allāh’s mercy.ᵃ Surely none despairs of Allāh’s mercy except the disbelieving people."
+    },
+    {
+      "verseNumber": 88,
+      "verseString": "فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يَا أَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا ۖ إِنَّ اللَّهَ يَجْزِي الْمُتَصَدِّقِينَ",
+      "verseStringB": "So when they came to him, they said: O chief, distress has afflicted us and our family, and we have brought scanty money, so give us full measure and be charitable to us. Surely Allāh rewards the charitable."
+    },
+    {
+      "verseNumber": 89,
+      "verseString": "قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ جَاهِلُونَ",
+      "verseStringB": "He said: Do you know how you treated Joseph and his brother, when you were ignorant?"
+    },
+    {
+      "verseNumber": 90,
+      "verseString": "قَالُوا أَإِنَّكَ لَأَنْتَ يُوسُفُ ۖ قَالَ أَنَا يُوسُفُ وَهَٰذَا أَخِي ۖ قَدْ مَنَّ اللَّهُ عَلَيْنَا ۖ إِنَّهُ مَنْ يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+      "verseStringB": "They said: Art thou indeed Joseph? He said: I am Joseph and this is my brother; Allāh has indeed been gracious to us. Surely he who keeps his duty and is patient — Allāh never wastes the reward of the doers of good."
+    },
+    {
+      "verseNumber": 91,
+      "verseString": "قَالُوا تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا وَإِنْ كُنَّا لَخَاطِئِينَ",
+      "verseStringB": "They said: By Allāh! Allāh has indeed chosen thee over us, and we were certainly sinners."
+    },
+    {
+      "verseNumber": 92,
+      "verseString": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ ۖ يَغْفِرُ اللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+      "verseStringB": "He said: No reproof be against you this day.ᵃ Allāh may forgive you, and He is the most Merciful of those who show mercy."
+    },
+    {
+      "verseNumber": 93,
+      "verseString": "اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ بَصِيرًا وَأْتُونِي بِأَهْلِكُمْ أَجْمَعِينَ",
+      "verseStringB": "Take this my shirt and cast it before my father’s face — he will come to know.ᵃ And come to me with all your family."
+    },
+    {
+      "verseNumber": 94,
+      "verseString": "وَلَمَّا فَصَلَتِ الْعِيرُ قَالَ أَبُوهُمْ إِنِّي لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَا أَنْ تُفَنِّدُونِ",
+      "verseStringB": "And when the caravan left (Egypt), their father said: Surely I scent (the power of) Joseph, if you call me not a dotard.ᵃ"
+    },
+    {
+      "verseNumber": 95,
+      "verseString": "قَالُوا تَاللَّهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ",
+      "verseStringB": "They said: By Allāh! thou art surely in thy old error."
+    },
+    {
+      "verseNumber": 96,
+      "verseString": "فَلَمَّا أَنْ جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَىٰ وَجْهِهِ فَارْتَدَّ بَصِيرًا ۖ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+      "verseStringB": "Then when the bearer of good news came, he cast it before his face so he became certain. He said: Did I not say to you that I know from Allāh what you know not?"
+    },
+    {
+      "verseNumber": 97,
+      "verseString": "قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا خَاطِئِينَ",
+      "verseStringB": "They said: O our father, ask forgiveness of our sins for us, surely we are sinners."
+    },
+    {
+      "verseNumber": 98,
+      "verseString": "قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي ۖ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+      "verseStringB": "He said: I shall ask forgiveness for you of my Lord. Surely He is the Forgiving, the Merciful."
+    },
+    {
+      "verseNumber": 99,
+      "verseString": "فَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ آوَىٰ إِلَيْهِ أَبَوَيْهِ وَقَالَ ادْخُلُوا مِصْرَ إِنْ شَاءَ اللَّهُ آمِنِينَ",
+      "verseStringB": "Then when they went in to Joseph, he lodged his parentsa with himself and said: Enter Egypt in safety, if Allāh please."
+    },
+    {
+      "verseNumber": 100,
+      "verseString": "وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا ۖ وَقَالَ يَا أَبَتِ هَٰذَا تَأْوِيلُ رُؤْيَايَ مِنْ قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا ۖ وَقَدْ أَحْسَنَ بِي إِذْ أَخْرَجَنِي مِنَ السِّجْنِ وَجَاءَ بِكُمْ مِنَ الْبَدْوِ مِنْ بَعْدِ أَنْ نَزَغَ الشَّيْطَانُ بَيْنِي وَبَيْنَ إِخْوَتِي ۚ إِنَّ رَبِّي لَطِيفٌ لِمَا يَشَاءُ ۚ إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+      "verseStringB": "And he raised his parents on the throne,ᵃ and they fell prostrate for his sake.ᵇ And he said: O my father, this is the significance of my vision of old — my Lord has made it true. And He was indeed kind to me, when He brought me forth from the prison, and brought you from the desert after the devil had sown dissensions between me and my brethren. Surely my Lord is Benignant to whom He pleases. Truly He is the Knowing, the Wise."
+    },
+    {
+      "verseNumber": 101,
+      "verseString": "رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِنْ تَأْوِيلِ الْأَحَادِيثِ ۚ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ أَنْتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ ۖ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+      "verseStringB": "My Lord, Thou hast given me of the kingdom and taught me of the interpretation of sayings. OrigInᵃ tor of the heavens and the earth, Thou art my Friend in this world and the Hereafter. Make me die in submission and join me with the righteous."
+    },
+    {
+      "verseNumber": 102,
+      "verseString": "ذَٰلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ ۖ وَمَا كُنْتَ لَدَيْهِمْ إِذْ أَجْمَعُوا أَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+      "verseStringB": "This is of the announcements relating to the unseen (which) We reveal to thee, and thou wast not with them when they resolved upon their affair, and they were devising plans.ᵃ"
+    },
+    {
+      "verseNumber": 103,
+      "verseString": "وَمَا أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ",
+      "verseStringB": "And most men believe not, though thou desirest it eagerly."
+    },
+    {
+      "verseNumber": 104,
+      "verseString": "وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+      "verseStringB": "And thou askest them no reward for it. It is nothing but a reminder for all mankind."
+    },
+    {
+      "verseNumber": 105,
+      "verseString": "وَكَأَيِّنْ مِنْ آيَةٍ فِي السَّمَاوَاتِ وَالْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+      "verseStringB": "And how many a sign in the heavens and the earth do they pass by! yet they turn away from it."
+    },
+    {
+      "verseNumber": 106,
+      "verseString": "وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللَّهِ إِلَّا وَهُمْ مُشْرِكُونَ",
+      "verseStringB": "And most of them believe not in Allāh without associating others (with Him)."
+    },
+    {
+      "verseNumber": 107,
+      "verseString": "أَفَأَمِنُوا أَنْ تَأْتِيَهُمْ غَاشِيَةٌ مِنْ عَذَابِ اللَّهِ أَوْ تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "verseStringB": "Do they then feel secure from the coming to them of an all-encompassing chastisement from Allāh or from the coming to them of the hour suddenly, while they perceive not?"
+    },
+    {
+      "verseNumber": 108,
+      "verseString": "قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي ۖ وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينَ",
+      "verseStringB": "Say: This is my way: I call to Allāh, with certain knowledge — I and those who follow me. And glory be to Allāh! and I am not of the polytheists."
+    },
+    {
+      "verseNumber": 109,
+      "verseString": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ إِلَّا رِجَالًا نُوحِي إِلَيْهِمْ مِنْ أَهْلِ الْقُرَىٰ ۗ أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ ۗ وَلَدَارُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ اتَّقَوْا ۗ أَفَلَا تَعْقِلُونَ",
+      "verseStringB": "And We sent not before thee any but men, from the people of the towns, to whom We sent revelation. Have they not then travelled in the land and seen what was the end of those before them? And certainly the abode of the Hereafter is best for those who keep their duty. Do you not then understand?"
+    },
+    {
+      "verseNumber": 110,
+      "verseString": "حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا جَاءَهُمْ نَصْرُنَا فَنُجِّيَ مَنْ نَشَاءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ الْقَوْمِ الْمُجْرِمِينَ",
+      "verseStringB": "Until, when the messengers despaired and (the people) thought that they were told a lie, Our help came to them, and whom We pleased was delivered. And Our punishment is not averted from the guilty people.ᵃ"
+    },
+    {
+      "verseNumber": 111,
+      "verseString": "لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِأُولِي الْأَلْبَابِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَٰكِنْ تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ",
+      "verseStringB": "In their histories there is certainly a lesson for men of understanding. It is not a narrative which could be forged, but a verification of what is before it, and a distinct explanation of all things, and a guide and a mercy to a people who believe."
+    }
+  ],
+  "nameEnglish": "Joseph",
+  "nameTrans": "Yusuf",
+  "nameArabic": "يوسف",
+  "chapterNumber": 12,
+  "nVerses": 111,
+  "footnotes": [
+    {
+      "note": "3a. It is called the best narrative because it is the best picture of the dealing of the  Quraish with the Prophet, and the Prophet’s dealing with them. It was in the very words  of Joseph to his brothers — no reproof be against you this day (v. 92) — that the Holy  Prophet forgave the people of Makkah all the atrocities they had committed against him,  atrocities which had but one end in view — the extirpation of Islåm and the destruction  of the Prophet and his followers. /n/n 3b. The Prophet’s “unawareness” relates to his own future, of which this chapter  gives a clear indication in the incidents of Joseph’s life, viz. that he was to be expelled  from his home as Joseph was expelled, but that his countrymen would ultimately come  to him in submission, asking pardon for their faults, as Joseph’s brothers had done. But  “unawareness” here may also refer to all those things that are related in the Qur’ån,  because the Prophet knew nothing of them before revelation. This is also stated in  42:52: “And thus did We reveal to thee an inspired Book by Our command. Thou  knewest not what the Book was, nor what Faith was, but We made it a light, guiding  thereby whom We please of Our servants”. /n/n 4a. Compare Gen. 37:9: “And, behold, the sun and the moon and the eleven stars  made obeisance to me”. /n/n 7a. By inquirers are meant people who inquired about the Holy Prophet, who was at  this time being persecuted most severely by the people of Makkah. They are told in  plain words that the story of the Prophet and his opponents was the story of Joseph and  his brothers. /n/n 8a. Benjamin, his brother by the same mother, is meant here.  /n/n 9a. The conspiracy of the Quraish against the Holy Prophet is referred to in the  Qur’ån in the following words: “And when those who disbelieved devised plans against  thee that they might confine thee or slay thee or drive thee away” (8:30).   /n/n 10a. “And Reuben said unto them: Shed no blood, but cast him into this pit that is in   the wilderness and lay no hand upon him” (Gen. 37:22).  /n/n 15a. The essential difference between the two versions of this story, one given in   the Bible and the other in the Qur’ån, is this, that while the Bible narrates it as a simple   story, the Holy Qur’ån preserves in it the spiritual element, which alone can justify its   record in a book meant for the spiritual guidance of man. Here is a boy, whose age does   not exceed seventeen years, who, though to all appearance lost forever, receives a   Divine revelation and promise that he will one day be the master of his present oppressors. It is this circumstance in the life of a prophet, which really enables him to face all   distresses and difficulties, viz., the deep conviction of the ultimate triumph of truth,   which is produced by revelation from on high. /n/n 18a. The Qur’ån represents Jacob as doubting from the very first the sincerity of   Joseph’s brothers, but not so the Bible. Again, according to the Holy Qur’ån, Joseph relates his vision to his father, who is at once apprehensive of the envy of his brothers, if   they are apprised of it; but according to the Bible, Jacob himself rebuked Joseph for his   dream. Besides several discrepancies, the Bible narrative represents Jacob as an ordinary   mortal, while the Holy Qur’ån represents him as a prophet. The former makes him   grieve for the loss of a beloved son as any other mortal would, but the latter shows that   he had from the first hope: “And Allåh is He Whose help is sought against what you   describe”. And throughout the story this hope is the bright ray, without which the story   would be a gloomy description, devoid of all value as a spiritual lesson. There are traces   left still in the Bible narrative which show that the account as now met with in Genesis   does not truly depict the character of Jacob, for in Gen. 37:11 we are told: “And his   brethren envied him, but his father observed the saying”, i.e. kept the vision in his heart,   which shows that he was convinced of its truth. Thus the Qur’ån, in fact, removes the   inconsistencies of the Bible narrative.  /n/n 20a. Compare Gen. 37:28: “Then there passed by Midianites merchantmen; and   they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmaelites for   twenty pieces of silver”. Those who sold him were either Joseph’s brothers or the merchants who found him in the pit; according to the story as related in Genesis, Joseph’s   brothers sold him to the Midianites, who again sold him in Egypt. /n/n 21a.  “And the Midianites sold him into Egypt unto Potiphar, an officer of   Pharaoh’s, and a captain of the guard” (Gen. 37:36).  /n/n 22a. “And the Lord was with Joseph, and he was a prosperous man” (Gen. 39:2). /n/n 23a. Råwada-h∂ means he endeavoured to turn him from a thing. /n/n 24a. This does not show that Joseph had any desire for her; but that the temptation   was so strong that, if he had not been strengthened by great faith in God, he would have   fallen a prey to mortal weakness.  /n/n 28a. The vindication of Joseph’s character on this occasion, and the production of   the evidence of the shirt, are not related in the Bible; but without it the episode of leaving the garment becomes meaningless. It seems to be a clear omission. The next section   proves that Joseph was not cast into prison for being guilty of having committed an outrage against his master’s wife. /n/n 30a. Al-‘Azßz stands for Potiphar (Kf). ‘Azßz really means mighty, powerful, strong,   and might as such be applied to such a dignitary as the captain of the guard, which rank   was held by Potiphar. The king himself is spoken of as malik (king) in v. 43, and Joseph,   who was only a dignitary, and not the king, is called al-‘Azßz (chief ) in v. 78 /n/n 30b. Shaghafa-hå literally means he has affected her so that the love of him has   entered beneath the shighåf, i.e. the pericardium of her heart (LL). /n/n 31a. The secret imputation of the women is called here their makr or device. Some   think that she knew that certain women had circulated the news with the object of getting a chance to see Joseph, and hence it is called their device. /n/n 31b. Muttaka’a means originally a place in which one reclines, then that upon   which one reclines in eating, drinking, or talking, and also food, or repast, which last is   considered to be the meaning here (LL). The commentators add that muttaka’a is the   particular food which requires to be cut with a knife and suggest that to be the reason for   handing over knives to them. /n/n 31c. The Egyptians were a superstitious and polytheistic people, and anything strange,   or any human being about whom they witnessed anything wonderful, was considered by   them to be a god. Hence, when they saw Joseph they thought he was not a mortal. /n/n 35a. There is nothing to show that Joseph was cast into prison on a charge of   having committed an outrage on Potiphar’s wife. As he was proved guiltless of that   charge, it is very likely that some other accusation was brought against him; and more   probably an autocratic ruler needed no excuse for putting an innocent man into prison.   By signs must be understood the signs of Joseph’s innocence. /n/n 36a. Compare Gen. 40th chapter, which, however, omits Joseph’s preaching. The   two youths were the butler and the baker. /n/n 36b. It should be noted that in the case of the four dreams mentioned in this   chapter, viz. the two recorded here and Joseph’s dream mentioned in v. 4 and Pharaoh’s   dream mentioned in v. 43, the word used for seeing a vision is the same word arå (from   ru’yat, meaning to see), as is used for the seeing of ordinary things. /n/n 42a. The word bi˙‘-un is applied to indicate a number from three (according to   some, one) to ten (LL). /n/n 43a. Compare Gen. 41:1–31. /n/n 52a. These are the words of Joseph, who explains his conduct in preferring to   remain in prison until his innocence was established. /n/n 53a. These are also the words of Joseph. When a man addressed Jesus as good master, he said: “Why callest thou me good?” (Mark 10:18). The righteous never attribute   any good to themselves, but attribute all good to the Great Source of goodness — God.   Man’s self is here called ammårah, i.e. one wont to command evil. It is, in fact, the lowest stage in the spiritual growth of man. It is what may be called his animal self; low desires   and animal passions rule the mind of man and he is capable of doing any evil without   feeling any pangs at all. He submits to his carnal desires like the brute. The next stage is   called the lawwåmah, which is referred to in 75:2 as the self-accusing spirit, when the   slightest departure from the path of rectitude at once rouses the pangs of   conscience. The third stage is the stage of perfection — the muΔma’innah, or the soul at   rest, when it is in perfect peace, having attained the goal of perfection; see 89:30a.   Those who have attained the second stage in the spiritual advancement and those who   have attained the goal of perfection are spoken of as those on whom my Lord has mercy. /n/n 62a. Bi˙å‘ah means merchandise, or a portion of one’s property which one sends   for traffic (LL). Money is also called bi˙å‘ah, because it is a man’s stock with which he   can traffic. /n/n 67a. Jacob, it seems, had come to know by Divine revelation that Joseph was there,   and therefore he ordered them to enter by different gates so that Joseph might find his   brother. The next verse makes it clear when it says: And surely he was possessed of   knowledge because We had given him knowledge. /n/n 68a. The Bible narrative represents Jacob as being quite ignorant in the matter. /n/n 70a. Though the Bible narrative ascribes the placing of the cup to Joseph, the Qur’ån   does not say so. It is evident that the furnishing of provisions was not done by Joseph   himself. It was somebody else who carried out the orders and furnished the provisions;   from the preceding section it is clear that Joseph’s servants did so, and when he had to   return the money, he had to give an order to that effect to his servants. On this occasion   no such order was given. And therefore it was by the king’s servants that the king’s   drinking-cup was placed in the bag of Joseph’s brother. It is not stated here whether it   was done intentionally or was put there by mistake; the words may imply either.   Was it not one of Joseph’s own brethren who did this act so that Benjamin might   also be removed from Jacob? There is a clear hint to this possibility in v. 77, where /n/n 70b Joseph accuses them of having done some guilty deed: “You are in an evil condition”,   and a still clearer hint in v. 89, where Joseph says: “Do you know how you treated   Joseph and his brother, when you were ignorant?” Besides the episode of the cup, there   is nothing in the Holy Qur’ån to show that they were guilty of any mischief against   Benjamin. I am therefore strongly of opinion that it was one of Joseph’s own brethren   who put the cup in Benjamin’s bag, so as to get him involved in trouble, and remove   him from the presence of Jacob, who loved him most after Joseph. /n/n 70b. It is a mistake to suppose that the crier was the very person who had placed the   cup there. As v. 72 makes it clear, it was the king’s drinking-cup; in other words it was   not Joseph’s personal property, but the property of the king, or government property. It   is clear that the men who provided corn were different from those who had charge of the   king’s property. /n/n 76a. This was done out of respect for that brother, for they knew that Joseph had   lodged him with himself.  /n/n 76b. This makes it clear that this was not Joseph’s plan, but a Divine plan. In other   words, the circumstances were made to assist Joseph to keep his brother with him.   Joseph’s desire, no doubt, was to retain his brother Benjamin while the others returned; but   he was unable to do so under the laws of Egypt, as is shown by what follows. This shows   that one living under an alien government should abide by the laws of that government. /n/n 77a. The brethren of Joseph made a false statement against Joseph to cast a veil over   their own evil deeds. If Benjamin, they said, was a thief, so was his brother Joseph, as if   they meant to say that this evil trait of character was due to the mother. There is probably a reference here to what is said in Gen. 31:19: “And Rachel had stolen the images   that were her father’s”. /n/n 84a. Ibya˙˙a and bayya˙a convey almost identical significance, and under the latter   we find bayya˙a al-siqå’a, meaning amla’a-h∂, i.e. he filled the vessel (T). LL also   gives this significance of the words. I‘Ab, too, interprets the words as meaning the filling   of eyes with tears (Rz). Even if we accept the ordinary significance, his eyes were   whitened, the meaning is that they were whitened with tears, which naturally came at the   mention of Joseph.  /n/n 85a. Ïara˙ is a person who is in a disordered and diseased state so that he is one   from whom good is not expected. It also signifies one who falls down so that he is not   able to rise again, or one affected by constant disease (LL).  /n/n 86a. This shows clearly that Jacob knew by Divine revelation that Joseph was alive. /n/n 87a. Here the Holy Qur’ån again differs from the Bible and shows that Jacob was so   certain of Joseph being alive because of the knowledge he received from God, that he   sent his sons a third time to Egypt to ascertain about Joseph. It appears that he had an   inkling also that Joseph was in Egypt. /n/n 92a. It is related that the Prophet took hold of the two sides of the gate of the   Ka‘bah on the day of the conquest of Makkah and said to the Quraish: How do you   think I should treat you? They said: We hope for good, a noble brother and the son of a   noble brother. Then he said: I say as my brother Joseph said: “No reproof be against you   this day” (Rz). /n/n 93a. Ba©ßr means one who sees things with the eyes, as well as one endowed with   mental perception or one knowing (LL). The Qur’ån does not say anywhere that Jacob   had become blind. The shirt was sent as being a reminder of the torn shirt of Joseph,   which Joseph’s brethren had brought to Jacob (v. 18). /n/n 94a. When the caravan in which were Joseph’s brethren departed from Egypt, Jacob   again received assurance from on high about Joseph, so he said to those about him that   he scented the power of Joseph. Jacob knew that Joseph was alive and of this he   informed his sons again and again, but he now told them further that he had received an   assurance from God that Joseph occupied a high position. /n/n 99a. Leah was Rachel’s elder sister and a wife of Jacob (Gen. 29:16–28). The fact   that Rachel was dead in no way contradicts this statement, because Leah would be   Joseph’s mother in both capacities, as his mother’s sister and as his father’s wife.  /n/n 100a. The royal throne is not meant here, for Joseph himself did not sit on the royal   throne. Joseph raised his parents to his own raised seat; or the meaning may be that he   placed them in a good position. Compare Gen. 47:11: “And Joseph placed his father and   his brethren, and gave them a possession in the land of Egypt, in the best of the land”.  /n/n 100b. Seeing the highly dignified position to which Joseph had been raised in Egypt,   they all fell prostrate before God as a mark of thanksgiving. Joseph speaks of this, i.e. of the dignity to which he was raised, as the fulfilment of his vision. This is made clear in   the verse that follows.  /n/n 102a. Rodwell’s remark that “Muhammad must at this period, while recasting and   working up these materials, have entered upon a course of wilful dissimulation and   deceit (although the end would justify to him the means employed) in claiming inspiration for them” is due to crass ignorance, if not to deep malice. It has already been noted   how the Qur’ån, after relating that which befell the opponents of a prophet, immediately   changes the subject, hinting that the same punishment was in store for the opponents of   the Prophet, and throughout the Holy Qur’ån the anbå’ al-ghaib, or the announcements   relating to the unseen, signify not the ancient histories of past prophets, but a repetition   of those histories in the life of the Holy Prophet Muƒammad. Take this case, for   instance. The history of Joseph ends in the last verse with his prayer for being classed   with the righteous at his death, and there is a reference in this verse to the similar events   that must befall the Holy Prophet. It has already been shown how the events in the lives   of the two prophets closely resemble each other. The reference in “when they resolved   upon their affair and they were devising plans” is to the resolution of the Quraish and   their plans of either killing the Prophet or banishing him or imprisoning him; see 8:30.   The two verses which follow and the whole of the next section show still more clearly   that a change has been introduced with this verse. The Qur’ån does not relate stories for   the sake of giving information of the past, but for the lessons which they afford for the   future guidance of man. Compare 3:44a, 11:49a, and 12:3b. /n/n 110a The personal pronouns, if not rightly understood, quite distort the sense of the   passage. The messengers warn their people, but the latter are so stubborn that the messengers at length despair of their people benefiting by the warning. The people, on the   other hand, deem, on account of the delay of the punishment, that what the prophets had   spoken to them about the coming of the punishment was a lie. Then it is that the   promised help for the prophets comes and the punishment with which the evildoers are   threatened overtakes them. That the prophets never despair of Divine assistance coming   to them, in accordance with Divine promise, is clear from what has already been said in   v. 87: “Surely none despairs of Allåh’s mercy except the disbelieving people.”"
+    }
+  ]
+}

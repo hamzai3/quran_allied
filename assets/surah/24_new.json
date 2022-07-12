@@ -1,0 +1,339 @@
+{
+  "verses": [
+    {
+      "verseNumber": 0,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 1,
+      "verseString": "سُورَةٌ أَنْزَلْنَاهَا وَفَرَضْنَاهَا وَأَنْزَلْنَا فِيهَا آيَاتٍ بَيِّنَاتٍ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseStringB": "(This is) a chapter which We have revealed and made obligatory and wherein We have revealed clear messages that you may be mindful."
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ ۖ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ وَلْيَشْهَدْ عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ",
+      "verseStringB": "The adulteress and the adulterer, flog each of them (with) a hundred stripes,ᵃ and let not pity for them detain you from obedience to Allāh, if you believe in Allāh and the Last Day, and let a party of believers witness their chastisement."
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "الزَّانِي لَا يَنْكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً وَالزَّانِيَةُ لَا يَنْكِحُهَا إِلَّا زَانٍ أَوْ مُشْرِكٌ ۚ وَحُرِّمَ ذَٰلِكَ عَلَى الْمُؤْمِنِينَ",
+      "verseStringB": "The adulterer cannot have sexual relations with any but an adulteress or an idolatress, and the adulteress, none can have sexual relations with her but an adulterer or an idolater; and it is forbidden to believers.ᵃ"
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "وَالَّذِينَ يَرْمُونَ الْمُحْصَنَاتِ ثُمَّ لَمْ يَأْتُوا بِأَرْبَعَةِ شُهَدَاءَ فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً وَلَا تَقْبَلُوا لَهُمْ شَهَادَةً أَبَدًا ۚ وَأُولَٰئِكَ هُمُ الْفَاسِقُونَ",
+      "verseStringB": "And those who accuse free women and bring not four witnesses, flog them (with) eighty stripes and never accept their evidence, and these are the transgressorsa—"
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "إِلَّا الَّذِينَ تَابُوا مِنْ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseStringB": "Except those who afterwards repent and act aright; surely Allāh is Forgiving, Merciful."
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ وَلَمْ يَكُنْ لَهُمْ شُهَدَاءُ إِلَّا أَنْفُسُهُمْ فَشَهَادَةُ أَحَدِهِمْ أَرْبَعُ شَهَادَاتٍ بِاللَّهِ ۙ إِنَّهُ لَمِنَ الصَّادِقِينَ",
+      "verseStringB": "And those who accuse their wives and have no witnesses except themselves,ᵃ let one of them testify four times, bearing Allāh to witness, that he is of those who speak the truth."
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "وَالْخَامِسَةُ أَنَّ لَعْنَتَ اللَّهِ عَلَيْهِ إِنْ كَانَ مِنَ الْكَاذِبِينَ",
+      "verseStringB": "And the fifth (time) that the curse of Allāh be on him, if he is of those who lie."
+    },
+    {
+      "verseNumber": 8,
+      "verseString": "وَيَدْرَأُ عَنْهَا الْعَذَابَ أَنْ تَشْهَدَ أَرْبَعَ شَهَادَاتٍ بِاللَّهِ ۙ إِنَّهُ لَمِنَ الْكَاذِبِينَ",
+      "verseStringB": "And it shall avert the chastisement from her, if she testify four times, bearing Allāh to witness, that he is of those who lie."
+    },
+    {
+      "verseNumber": 9,
+      "verseString": "وَالْخَامِسَةَ أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِنْ كَانَ مِنَ الصَّادِقِينَ",
+      "verseStringB": "And the fifth (time) that the wrath of Allāh to be on her, if he is of those who speak the truth."
+    },
+    {
+      "verseNumber": 10,
+      "verseString": "وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ وَأَنَّ اللَّهَ تَوَّابٌ حَكِيمٌ",
+      "verseStringB": "And were it not for Allāh’s grace upon you and His mercy — and that Allāh is Oft-returning (to mercy), Wise!"
+    },
+    {
+      "verseNumber": 11,
+      "verseString": "إِنَّ الَّذِينَ جَاءُوا بِالْإِفْكِ عُصْبَةٌ مِنْكُمْ ۚ لَا تَحْسَبُوهُ شَرًّا لَكُمْ ۖ بَلْ هُوَ خَيْرٌ لَكُمْ ۚ لِكُلِّ امْرِئٍ مِنْهُمْ مَا اكْتَسَبَ مِنَ الْإِثْمِ ۚ وَالَّذِي تَوَلَّىٰ كِبْرَهُ مِنْهُمْ لَهُ عَذَابٌ عَظِيمٌ",
+      "verseStringB": "Surely they who concocted the lie are a party from among you.ᵃ Deem it not an evil to you. Nay, it is good for you. For every man of them is what he has earned of sin; and as for him among them who took upon himself the main part thereof, he shall have a grievous punishment.ᵇ"
+    },
+    {
+      "verseNumber": 12,
+      "verseString": "لَوْلَا إِذْ سَمِعْتُمُوهُ ظَنَّ الْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بِأَنْفُسِهِمْ خَيْرًا وَقَالُوا هَٰذَا إِفْكٌ مُبِينٌ",
+      "verseStringB": "Why did not the believing men and the believing women, when you heard it, think well of their own people, and say: This is an evident falsehood?ᵃ"
+    },
+    {
+      "verseNumber": 13,
+      "verseString": "لَوْلَا جَاءُوا عَلَيْهِ بِأَرْبَعَةِ شُهَدَاءَ ۚ فَإِذْ لَمْ يَأْتُوا بِالشُّهَدَاءِ فَأُولَٰئِكَ عِنْدَ اللَّهِ هُمُ الْكَاذِبُونَ",
+      "verseStringB": "Why did they not bring four witnesses of it? So, as they have not brought witnesses, they are liars in the sight of Allāh.ᵃ"
+    },
+    {
+      "verseNumber": 14,
+      "verseString": "وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ فِي الدُّنْيَا وَالْآخِرَةِ لَمَسَّكُمْ فِي مَا أَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ",
+      "verseStringB": "And were it not for Allāh’s grace upon you and His mercy in this world and the Hereafter, a grievous chastisement would certainly have touched you on account of the talk you indulged in."
+    },
+    {
+      "verseNumber": 15,
+      "verseString": "إِذْ تَلَقَّوْنَهُ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُمْ مَا لَيْسَ لَكُمْ بِهِ عِلْمٌ وَتَحْسَبُونَهُ هَيِّنًا وَهُوَ عِنْدَ اللَّهِ عَظِيمٌ",
+      "verseStringB": "When you received it on your tongues and spoke with your mouths that of which you had no knowledge, and you deemed it a trifle, while with Allāh it was serious."
+    },
+    {
+      "verseNumber": 16,
+      "verseString": "وَلَوْلَا إِذْ سَمِعْتُمُوهُ قُلْتُمْ مَا يَكُونُ لَنَا أَنْ نَتَكَلَّمَ بِهَٰذَا سُبْحَانَكَ هَٰذَا بُهْتَانٌ عَظِيمٌ",
+      "verseStringB": "And why did you not, when you heard it, say: It beseems us not to talk of it. Glory be to Thee! This is a great calumny."
+    },
+    {
+      "verseNumber": 17,
+      "verseString": "يَعِظُكُمُ اللَّهُ أَنْ تَعُودُوا لِمِثْلِهِ أَبَدًا إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "verseStringB": "Allāh admonishes you that you return not to the like of it ever again, if you are believers."
+    },
+    {
+      "verseNumber": 18,
+      "verseString": "وَيُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ ۚ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseStringB": "And Allāh makes clear to you the messages; and Allāh is Knowing, Wise."
+    },
+    {
+      "verseNumber": 19,
+      "verseString": "إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ ۚ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+      "verseStringB": "Those who love that scandal should circulate respecting those who believe, for them is a grievous chastisement in this world and the Hereafter. And Allāh knows, while you know not."
+    },
+    {
+      "verseNumber": 20,
+      "verseString": "وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ وَأَنَّ اللَّهَ رَءُوفٌ رَحِيمٌ",
+      "verseStringB": "And were it not for Allāh’s grace on you and His mercya— and that Allāh is Compassionate, Merciful."
+    },
+    {
+      "verseNumber": 21,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ وَمَنْ يَتَّبِعْ خُطُوَاتِ الشَّيْطَانِ فَإِنَّهُ يَأْمُرُ بِالْفَحْشَاءِ وَالْمُنْكَرِ ۚ وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ مَا زَكَىٰ مِنْكُمْ مِنْ أَحَدٍ أَبَدًا وَلَٰكِنَّ اللَّهَ يُزَكِّي مَنْ يَشَاءُ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+      "verseStringB": "O you who believe, follow not the footsteps of the devil. And whoever follows the footsteps of the devil, surely he commands indecency and evil. And were it not for Allāh’s grace on you and His mercy, not one of you would ever have been pure, but Allāh purifies whom He pleases. And Allāh is Hearing, Knowing.ᵃ"
+    },
+    {
+      "verseNumber": 22,
+      "verseString": "وَلَا يَأْتَلِ أُولُو الْفَضْلِ مِنْكُمْ وَالسَّعَةِ أَنْ يُؤْتُوا أُولِي الْقُرْبَىٰ وَالْمَسَاكِينَ وَالْمُهَاجِرِينَ فِي سَبِيلِ اللَّهِ ۖ وَلْيَعْفُوا وَلْيَصْفَحُوا ۗ أَلَا تُحِبُّونَ أَنْ يَغْفِرَ اللَّهُ لَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+      "verseStringB": "And let not possessors of grace and abundance among you swear against giving to the near of kin and the poor and those who have fled in Allāh’s way; and pardon and overlook. Do you not love that Allāh should forgive you? And Allāh is Forgiving, Merciful.ᵃ"
+    },
+    {
+      "verseNumber": 23,
+      "verseString": "إِنَّ الَّذِينَ يَرْمُونَ الْمُحْصَنَاتِ الْغَافِلَاتِ الْمُؤْمِنَاتِ لُعِنُوا فِي الدُّنْيَا وَالْآخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "verseStringB": "Surely those who accuse chaste believing women, unaware (of the evil), are cursed in this world and the Hereafter, and for them is a grievous chastisement,ᵃ"
+    },
+    {
+      "verseNumber": 24,
+      "verseString": "يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُمْ بِمَا كَانُوا يَعْمَلُونَ",
+      "verseStringB": "On the day when their tongues and their hands and their feet bear witness against them as to what they did,ᵃ"
+    },
+    {
+      "verseNumber": 25,
+      "verseString": "يَوْمَئِذٍ يُوَفِّيهِمُ اللَّهُ دِينَهُمُ الْحَقَّ وَيَعْلَمُونَ أَنَّ اللَّهَ هُوَ الْحَقُّ الْمُبِينُ",
+      "verseStringB": "On that day Allāh will pay back to them in full their just reward, and they will know that Allāh, He is the Evident Truth."
+    },
+    {
+      "verseNumber": 26,
+      "verseString": "الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ ۚ أُولَٰئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ ۖ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "verseStringB": "Unclean things are for unclean ones and unclean ones are for unclean things, and good things are for good ones and good ones are for good things; these are free from what they say. For them is forgiveness and an honourable sustenance.ᵃ"
+    },
+    {
+      "verseNumber": 27,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseStringB": "O you who believe, enter not houses other than your own houses, until you have asked permission and saluted their inmates. This is better for you that you may be mindful.ᵃ"
+    },
+    {
+      "verseNumber": 28,
+      "verseString": "فَإِنْ لَمْ تَجِدُوا فِيهَا أَحَدًا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ ۖ وَإِنْ قِيلَ لَكُمُ ارْجِعُوا فَارْجِعُوا ۖ هُوَ أَزْكَىٰ لَكُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+      "verseStringB": "But if you find no one therein, enter them not, until permission is given to you; and if it is said to you, Go back, then go back; this is purer for you. And Allāh is Knower of what you do."
+    },
+    {
+      "verseNumber": 29,
+      "verseString": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَدْخُلُوا بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَاعٌ لَكُمْ ۚ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+      "verseStringB": "It is no sin for you to enter uninhabited houses wherein you have your necessaries. And Allāh knows what you do openly and what you hide."
+    },
+    {
+      "verseNumber": 30,
+      "verseString": "قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ اللَّهَ خَبِيرٌ بِمَا يَصْنَعُونَ",
+      "verseStringB": "Say to the believing men that they lower their gaze and restrain their sexual passions. That is purer for them. Surely Allāh is Aware of what they do.ᵃ"
+    },
+    {
+      "verseNumber": 31,
+      "verseString": "وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ ۖ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ آبَائِهِنَّ أَوْ آبَاءِ بُعُولَتِهِنَّ أَوْ أَبْنَائِهِنَّ أَوْ أَبْنَاءِ بُعُولَتِهِنَّ أَوْ إِخْوَانِهِنَّ أَوْ بَنِي إِخْوَانِهِنَّ أَوْ بَنِي أَخَوَاتِهِنَّ أَوْ نِسَائِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَانُهُنَّ أَوِ التَّابِعِينَ غَيْرِ أُولِي الْإِرْبَةِ مِنَ الرِّجَالِ أَوِ الطِّفْلِ الَّذِينَ لَمْ يَظْهَرُوا عَلَىٰ عَوْرَاتِ النِّسَاءِ ۖ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِنْ زِينَتِهِنَّ ۚ وَتُوبُوا إِلَى اللَّهِ جَمِيعًا أَيُّهَ الْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseStringB": "And say to the believing women that they lower their gaze and restrain their sexual passions and do not display their adornment except what appears thereof.ᵃ And let them wear their head-coverings over their bosoms.ᵇ And they should not display their adornment except to their husbands or their fathers, or the fathers of their husbands, or their sons, or the sons of their husbands, or their brothers, or their brothers’ sons, or their sisters’ sons, or their women, or those whom their right hands possess, or guileless male servants,ᶜ or the children who know not women’s nakedness. And let them not strike their feet so that the adornment that they hide may be known. And turn to Allāh all, O believers, so that you may be successful."
+    },
+    {
+      "verseNumber": 32,
+      "verseString": "وَأَنْكِحُوا الْأَيَامَىٰ مِنْكُمْ وَالصَّالِحِينَ مِنْ عِبَادِكُمْ وَإِمَائِكُمْ ۚ إِنْ يَكُونُوا فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِنْ فَضْلِهِ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+      "verseStringB": "And marry those among you who are single, and those who are fit among your male slaves and your female slaves. If they are needy, Allāh will make them free from want out of His grace. And Allāh is Ample-giving, Knowing.ᵃ"
+    },
+    {
+      "verseNumber": 33,
+      "verseString": "وَلْيَسْتَعْفِفِ الَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ اللَّهُ مِنْ فَضْلِهِ ۗ وَالَّذِينَ يَبْتَغُونَ الْكِتَابَ مِمَّا مَلَكَتْ أَيْمَانُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا ۖ وَآتُوهُمْ مِنْ مَالِ اللَّهِ الَّذِي آتَاكُمْ ۚ وَلَا تُكْرِهُوا فَتَيَاتِكُمْ عَلَى الْبِغَاءِ إِنْ أَرَدْنَ تَحَصُّنًا لِتَبْتَغُوا عَرَضَ الْحَيَاةِ الدُّنْيَا ۚ وَمَنْ يُكْرِهْهُنَّ فَإِنَّ اللَّهَ مِنْ بَعْدِ إِكْرَاهِهِنَّ غَفُورٌ رَحِيمٌ",
+      "verseStringB": "And let those who cannot find a match keep chaste, until Allāh makes them free from want out of His grace.ᵃ And those of your slaves who ask for a writing (of freedom), give them the writing, if you know any good in them, and give them of the wealth of Allāh which He has given you.ᵇ And compel not your slave girls to prostitution when they desire to keep chaste, in order to seek the frail goods of this world’s life. And whoever compels them, then surely after their compulsion Allāh is Forgiving, Merciful.ᶜ"
+    },
+    {
+      "verseNumber": 34,
+      "verseString": "وَلَقَدْ أَنْزَلْنَا إِلَيْكُمْ آيَاتٍ مُبَيِّنَاتٍ وَمَثَلًا مِنَ الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ وَمَوْعِظَةً لِلْمُتَّقِينَ",
+      "verseStringB": "And certainly We have sent to you clear messages and a description of those who passed away before you, and an admonition to those who guard against evil."
+    },
+    {
+      "verseNumber": 35,
+      "verseString": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ ۚ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ ۖ الْمِصْبَاحُ فِي زُجَاجَةٍ ۖ الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لَا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ ۚ نُورٌ عَلَىٰ نُورٍ ۗ يَهْدِي اللَّهُ لِنُورِهِ مَنْ يَشَاءُ ۚ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseStringB": "Allāh is the light of the heavens and the earth. A likeness of His light is as a pillar on which is a lamp — the lamp is in a glass, the glass is as it were a brightly shining star — lit from a blessed olive-tree, neither eastern nor western, the oil whereof gives light, though fire touch it not — light upon light.ᵃ Allāh guides to His light whom He pleases. And Allāh sets forth parables for men, and Allāh is Knower of all things —"
+    },
+    {
+      "verseNumber": 36,
+      "verseString": "فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ",
+      "verseStringB": "(It is) in houses which Allāh has permitted to be exalted and His name to be remembered therein.ᵃ Therein do glorify Him, in the mornings and the evenings,"
+    },
+    {
+      "verseNumber": 37,
+      "verseString": "رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ ۙ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ",
+      "verseStringB": "Men whom neither merchandise nor selling diverts from the remembrance of Allāh and the keeping up of prayer and the paying of the poor rate — they fear a day in which the hearts and the eyes will turn about,ᵃ"
+    },
+    {
+      "verseNumber": 38,
+      "verseString": "لِيَجْزِيَهُمُ اللَّهُ أَحْسَنَ مَا عَمِلُوا وَيَزِيدَهُمْ مِنْ فَضْلِهِ ۗ وَاللَّهُ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ",
+      "verseStringB": "That Allāh may give them the best reward for what they did, and give them more out of His grace. And Allāh provides without measure for whom He pleases."
+    },
+    {
+      "verseNumber": 39,
+      "verseString": "وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ اللَّهَ عِنْدَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّهُ سَرِيعُ الْحِسَابِ",
+      "verseStringB": "And those who disbelieve, their deeds are as a mirage in a desert, which the thirsty man deems to be water, until, when he comes to it, he finds it naught, and he finds Allāh with him, so He pays him his due. And Allāh is Swift at reckoning —"
+    },
+    {
+      "verseNumber": 40,
+      "verseString": "أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ مَوْجٌ مِنْ فَوْقِهِ سَحَابٌ ۚ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا ۗ وَمَنْ لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ",
+      "verseStringB": "Or like darkness in the deep sea — there covers him a wave, above which is a wave, above which is a cloud — (layers of) darkness one above another — when he holds out his hand, he is almost unable to see it. And to whom Allāh gives not light, he has no light.ᵃ"
+    },
+    {
+      "verseNumber": 41,
+      "verseString": "أَلَمْ تَرَ أَنَّ اللَّهَ يُسَبِّحُ لَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ وَالطَّيْرُ صَافَّاتٍ ۖ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ ۗ وَاللَّهُ عَلِيمٌ بِمَا يَفْعَلُونَ",
+      "verseStringB": "Seest thou not that Allāh is He, Whom do glorify all those who are in the heavens and the earth, and the birds with wings outspread? Each one knows its prayer and its glori - fica tion. And Allāh is Knower of what they do."
+    },
+    {
+      "verseNumber": 42,
+      "verseString": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِلَى اللَّهِ الْمَصِيرُ",
+      "verseStringB": "And Allāh’s is the kingdom of the heavens and the earth, and to Allāh is the eventual coming."
+    },
+    {
+      "verseNumber": 43,
+      "verseString": "أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ ثُمَّ يَجْعَلُهُ رُكَامًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ وَيُنَزِّلُ مِنَ السَّمَاءِ مِنْ جِبَالٍ فِيهَا مِنْ بَرَدٍ فَيُصِيبُ بِهِ مَنْ يَشَاءُ وَيَصْرِفُهُ عَنْ مَنْ يَشَاءُ ۖ يَكَادُ سَنَا بَرْقِهِ يَذْهَبُ بِالْأَبْصَارِ",
+      "verseStringB": "Seest thou not that Allāh drives along the clouds, then gathers them together, then piles them up, so that thou seest the rain coming forth from their midst? And He sends down from the heaven (clouds like) mountains, wherein is hail, afflicting there with whom He pleases and turning it away from whom He pleases. The flash of His lightning almost takes away the sight."
+    },
+    {
+      "verseNumber": 44,
+      "verseString": "يُقَلِّبُ اللَّهُ اللَّيْلَ وَالنَّهَارَ ۚ إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِأُولِي الْأَبْصَارِ",
+      "verseStringB": "Allāh causes the night and the day to succeed one another. Surely there is a lesson in this for those who have sight."
+    },
+    {
+      "verseNumber": 45,
+      "verseString": "وَاللَّهُ خَلَقَ كُلَّ دَابَّةٍ مِنْ مَاءٍ ۖ فَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ بَطْنِهِ وَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ رِجْلَيْنِ وَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ أَرْبَعٍ ۚ يَخْلُقُ اللَّهُ مَا يَشَاءُ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseStringB": "And Allāh has created every animal of water.ᵃ So of them is that which crawls upon its belly, and of them is that which walks upon two feet, and of them is that which walks upon four.ᵇ Allāh creates what He pleases. Surely Allāh is Possessor of power over all things."
+    },
+    {
+      "verseNumber": 46,
+      "verseString": "لَقَدْ أَنْزَلْنَا آيَاتٍ مُبَيِّنَاتٍ ۚ وَاللَّهُ يَهْدِي مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseStringB": "We have indeed revealed clear messages. And Allāh guides whom He pleases to the right way."
+    },
+    {
+      "verseNumber": 47,
+      "verseString": "وَيَقُولُونَ آمَنَّا بِاللَّهِ وَبِالرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِنْهُمْ مِنْ بَعْدِ ذَٰلِكَ ۚ وَمَا أُولَٰئِكَ بِالْمُؤْمِنِينَ",
+      "verseStringB": "And they say: We believe in Allāh and in the Messenger and we obey; then a party of them turn away after this, and they are not believers."
+    },
+    {
+      "verseNumber": 48,
+      "verseString": "وَإِذَا دُعُوا إِلَى اللَّهِ وَرَسُولِهِ لِيَحْكُمَ بَيْنَهُمْ إِذَا فَرِيقٌ مِنْهُمْ مُعْرِضُونَ",
+      "verseStringB": "And when they are invited to Allāh and His Messenger that he may judge between them, lo! a party of them turn aside."
+    },
+    {
+      "verseNumber": 49,
+      "verseString": "وَإِنْ يَكُنْ لَهُمُ الْحَقُّ يَأْتُوا إِلَيْهِ مُذْعِنِينَ",
+      "verseStringB": "And if the right is on their side, they hasten to him in submission."
+    },
+    {
+      "verseNumber": 50,
+      "verseString": "أَفِي قُلُوبِهِمْ مَرَضٌ أَمِ ارْتَابُوا أَمْ يَخَافُونَ أَنْ يَحِيفَ اللَّهُ عَلَيْهِمْ وَرَسُولُهُ ۚ بَلْ أُولَٰئِكَ هُمُ الظَّالِمُونَ",
+      "verseStringB": "Is there in their hearts a disease, or are they in doubt, or fear they that Allāh and His Messenger will deal with them unjustly? Nay! they themselves are the wrongdoers."
+    },
+    {
+      "verseNumber": 51,
+      "verseString": "إِنَّمَا كَانَ قَوْلَ الْمُؤْمِنِينَ إِذَا دُعُوا إِلَى اللَّهِ وَرَسُولِهِ لِيَحْكُمَ بَيْنَهُمْ أَنْ يَقُولُوا سَمِعْنَا وَأَطَعْنَا ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+      "verseStringB": "The response of the believers, when they are invited to Allāh and His Messenger that he may judge between them, is only that they say: We hear and we obey. And these it is that are successful."
+    },
+    {
+      "verseNumber": 52,
+      "verseString": "وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ وَيَخْشَ اللَّهَ وَيَتَّقْهِ فَأُولَٰئِكَ هُمُ الْفَائِزُونَ",
+      "verseStringB": "And he who obeys Allāh and His Messenger, and fears Allāh and keeps duty to Him, these it is that are the achievers."
+    },
+    {
+      "verseNumber": 53,
+      "verseString": "وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ أَمَرْتَهُمْ لَيَخْرُجُنَّ ۖ قُلْ لَا تُقْسِمُوا ۖ طَاعَةٌ مَعْرُوفَةٌ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "verseStringB": "And they swear by Allāh with their strongest oaths that, if thou command them, they would certainly go forth. Say: Swear not; reasonable obedience (is desired). Surely Allāh is Aware of what you do."
+    },
+    {
+      "verseNumber": 54,
+      "verseString": "قُلْ أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ ۖ فَإِنْ تَوَلَّوْا فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُمْ مَا حُمِّلْتُمْ ۖ وَإِنْ تُطِيعُوهُ تَهْتَدُوا ۚ وَمَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ الْمُبِينُ",
+      "verseStringB": "Say: Obey Allāh and obey the Messenger. But if you turn away, he is responsible for the duty imposed on him, and you are responsible for the duty imposed on you. And if you obey him, you go aright. And the Messenger’s duty is only to deliver (the message) plainly."
+    },
+    {
+      "verseNumber": 55,
+      "verseString": "وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِي لَا يُشْرِكُونَ بِي شَيْئًا ۚ وَمَنْ كَفَرَ بَعْدَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْفَاسِقُونَ",
+      "verseStringB": "Allāh has promised to those of you who believe and do good that He will surely make them rulers in the earth as He made those before them rulers, and that He will surely establish for them their religion, which He has chosen for them, and that He will surely give them security in exchange after their fear. They will serve Me, not associating aught with Me. And whoever is ungrateful after this, they are the transgressors.ᵃ"
+    },
+    {
+      "verseNumber": 56,
+      "verseString": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا الرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "verseStringB": "And keep up prayer and pay the poor-rate and obey the Messenger, so that mercy may be shown to you."
+    },
+    {
+      "verseNumber": 57,
+      "verseString": "لَا تَحْسَبَنَّ الَّذِينَ كَفَرُوا مُعْجِزِينَ فِي الْأَرْضِ ۚ وَمَأْوَاهُمُ النَّارُ ۖ وَلَبِئْسَ الْمَصِيرُ",
+      "verseStringB": "Think not that those who disbelieve will weaken (the Truth) in the earth; and their abode is the Fire. And it is indeed an evil resort!"
+    },
+    {
+      "verseNumber": 58,
+      "verseString": "يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلَاثَ مَرَّاتٍ ۚ مِنْ قَبْلِ صَلَاةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُمْ مِنَ الظَّهِيرَةِ وَمِنْ بَعْدِ صَلَاةِ الْعِشَاءِ ۚ ثَلَاثُ عَوْرَاتٍ لَكُمْ ۚ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌ بَعْدَهُنَّ ۚ طَوَّافُونَ عَلَيْكُمْ بَعْضُكُمْ عَلَىٰ بَعْضٍ ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseStringB": "O you who believe, let those whom your right hands possess and those of you who have not attained to puberty ask permission of you three times: Before the morning prayer, and when you put off your clothes for the heat of noon, and after the prayer of night. These are three times of privacy for you; besides these it is no sin for you nor for them — some of you go round about (waiting) upon others. Thus does Allāh make clear to you the messages. And Allāh is Knowing, Wise.ᵃ"
+    },
+    {
+      "verseNumber": 59,
+      "verseString": "وَإِذَا بَلَغَ الْأَطْفَالُ مِنْكُمُ الْحُلُمَ فَلْيَسْتَأْذِنُوا كَمَا اسْتَأْذَنَ الَّذِينَ مِنْ قَبْلِهِمْ ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseStringB": "And when the children among you attain to puberty, let them seek permission as those before them sought permission. Thus does Allāh make clear to you His messages. And Allāh is Knowing, Wise."
+    },
+    {
+      "verseNumber": 60,
+      "verseString": "وَالْقَوَاعِدُ مِنَ النِّسَاءِ اللَّاتِي لَا يَرْجُونَ نِكَاحًا فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَنْ يَضَعْنَ ثِيَابَهُنَّ غَيْرَ مُتَبَرِّجَاتٍ بِزِينَةٍ ۖ وَأَنْ يَسْتَعْفِفْنَ خَيْرٌ لَهُنَّ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+      "verseStringB": "And (as for) women past childbearing,ᵃ who hope not for marriage, it is no sin for them if they put off their clothes without displaying their adornment. And if they are modest, it is better for them. And Allāh is Hearing, Knowing."
+    },
+    {
+      "verseNumber": 61,
+      "verseString": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseStringB": "There is no blame on the blind man, nor any blame on the lame, nor blame on the sick,ᵃ nor on yourselves that you eat in your own houses, or your fathers’ houses, or your mothers’ houses, or your brothers’ houses, or your sisters’ houses, or your paternal uncles’ houses, or your paternal aunts’ houses, or your maternal uncles’ houses, or your maternal aunts’ houses, or (houses) whereof you possess the keys, or your friends’ (houses). It is no sin in you that you eat together or separately. So when you enter houses, greet your people with a salutation from Allāh, blessed (and) goodly. Thus does Allāh make clear to you the messages that you may understand."
+    },
+    {
+      "verseNumber": 62,
+      "verseString": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ وَإِذَا كَانُوا مَعَهُ عَلَىٰ أَمْرٍ جَامِعٍ لَمْ يَذْهَبُوا حَتَّىٰ يَسْتَأْذِنُوهُ ۚ إِنَّ الَّذِينَ يَسْتَأْذِنُونَكَ أُولَٰئِكَ الَّذِينَ يُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ ۚ فَإِذَا اسْتَأْذَنُوكَ لِبَعْضِ شَأْنِهِمْ فَأْذَنْ لِمَنْ شِئْتَ مِنْهُمْ وَاسْتَغْفِرْ لَهُمُ اللَّهَ ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseStringB": "Only those are believers who believe in Allāh and His Messenger, and when they are with him on a momentous affair, they go not away until they have asked leave of him. Surely they who ask leave of thee, are they who believe in Allāh and His Messenger; so when they ask leave of thee for some affair of theirs, give leave to whom thou wilt of them, and ask forgiveness for them from Allāh. Surely Allāh is Forgiving, Merciful."
+    },
+    {
+      "verseNumber": 63,
+      "verseString": "لَا تَجْعَلُوا دُعَاءَ الرَّسُولِ بَيْنَكُمْ كَدُعَاءِ بَعْضِكُمْ بَعْضًا ۚ قَدْ يَعْلَمُ اللَّهُ الَّذِينَ يَتَسَلَّلُونَ مِنْكُمْ لِوَاذًا ۚ فَلْيَحْذَرِ الَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseStringB": "Make not the calling among you of the Messenger as your calling one of another.ᵃ Allāh indeed knows those who steal away from among you, concealing themselves. So let those who go against his order beware, lest a trial afflict them or there befall them a painful chastisement."
+    },
+    {
+      "verseNumber": 64,
+      "verseString": "أَلَا إِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ قَدْ يَعْلَمُ مَا أَنْتُمْ عَلَيْهِ وَيَوْمَ يُرْجَعُونَ إِلَيْهِ فَيُنَبِّئُهُمْ بِمَا عَمِلُوا ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseStringB": "Now surely Allāh’s is whatever is in the heavens and the earth. He knows indeed your condition. And on the day when they are returned to Him, He will inform them of what they did. And Allāh is Knower of all thing"
+    }
+  ],
+  "nameEnglish": "The Light",
+  "nameTrans": "an-Nur",
+  "nameArabic": "النور",
+  "chapterNumber": 24,
+  "nVerses": 64,
+  "footnotes": [
+    {
+      "note": "2a. Chastity, as a virtue, is not given the first place in modern civilized society, and      hence adultery is not considered a sufficiently serious offence to subject the guilty party      to any punishment except the payment of damages to the injured husband. The breach of      the greatest trust which can be imposed in a man or a woman, the breach which ruins      families, destroys household peace, and deprives innocent children of their loving mothers, is not looked upon even as seriously as the breach of trust of a few pounds. Hence      the Islamic law seems to be too severe to a Westerner.      The punishment for adultery is here stated to be flogging, not stoning to death, which      was really prescribed by the Jewish law. The cases of stoning to death for adultery by the      Prophet’s orders relate actually to a Jew and a Jewess in one case (B. 23:61), and others      apparently occurred before the revelation of this chapter. That stoning to death was never      contemplated by Islåm as a punishment for adultery is made clear by 4:25, where it is      stated expressly that the punishment for adultery in the case of slave-girls, when they are      married, is half the punishment which is inflicted on free married women, and stoning to      death could not be halved. Besides, the Qur’ån nowhere speaks of stoning as a punishment for adultery, and the report of what ‘Umar said is self-contradictory. For a full      discussion, see The Religion of Islåm, ch. Penal Laws of Islåm. A few words may be      added as to the method of flogging. It aimed more at disgracing the culprit than at torturing him. In the time of the Prophet, and even for some time after him, there was no whip,      and flogging was carried out by beating with a stick or with the hand or with shoes. The      culprit was not stripped naked, but he was required to take off thick clothes.\n\n      3a. The word naka√a signifies sometimes coitus or coitus without marriage, as also      marriage without coitus (LL). I adopt the first significance here and the meaning in this      case is clear, the idolater or the idolatress being mentioned along with the adulterer or      the adulteress, on account of the low standard of morality among the idolaters. Taking      the second significance, the verse places one guilty of adultery under a kind of interdict      in Muslim society.\n\n      4a. This is an effectual restraint against slander and gossip, which so often bring      disaster upon the heads of innocent women. Unless there is the clearest evidence of      adultery against a woman, the slanderer is himself to be punished.\n\n      6a. The ordinance relates to the case of husbands who accuse their wives of adultery      and have no evidence; see a case reported in B. 68:30. In such a case divorce is effected,      the husband not being punishable for the accusation, though he cannot produce witnesses,      and the wife not being punishable for adultery, if she denies the charge in the manner      stated. Compare Num. 5:11–31. The same procedure would be adopted in a reverse case.\n\n\n      11a. The incident referred to in this section took place when the Prophet, accompanied by his wife ‘Å’ishah, was returning from the expedition against the Banß Mu©Δaliq      in the fifth year of the Hijrah. ‘Å’ishah had gone out on a private occasion, but, when      she returned, she perceived that she had lost her necklace, and went back to search for it.      In her absence the attendants, supposing her to be in her howdah, started while it was yet      dark. When she returned, finding the camel and the men gone, she sat down there and      was brought to Madßnah by ˝afwån, who was coming in the rear. Some mischievous      persons from among the hypocrites spread false reports, slandering her, and some of the      Muslims also associated themselves with the slander. ‘Å’ishah’s innocence was at      length established by this revelation (B. 52:15). Those who had taken part in the accusation were punished, according to one √adßth (IM. 20:13). This is the grievous punishment referred to in the concluding words of the verse.      It may be added here that the tongue of gossip has never spared even the most virtuous women. Another case of a virtuous woman being thus defamed is that of Mary, the      mother of Jesus, about whom the Jews talked similar slander. The addition of the words      — deem it not an evil to you: nay, it is good for you — aims at bringing solace to such      aggrieved people, seeing that even the most virtuous of women could not escape the      tongue of slander.\n\n      11b. He who took the main part thereof upon himself is said to be ‘Abd Allåh ibn      Ubayy, the chief of the hypocrites (B. 64:36), because he concocted the lie and circulated the false report.\n\n      12a. There was not a single witness, nor any circumstance that could lend colour to      the false story.\n\n      13a. Severe as the punishment for adultery is in Islåm, the evidence of four witnesses is required to establish the guilt; see v. 4. The allegation of a Christian annotator that      this requirement of the law was simply to shield ‘Å’ishah is a baseless conjecture in       view of the fact that in her case there was not a single witness. Why should the Prophet      then have required four witnesses? The fact is that while the Qur’ån takes a very serious      view of the crimes against chastity, it also makes criminal the circulation of false reports      affecting a woman’s chastity. Thus even a lighter accusation in connection with the      misconduct of women required the evidence of four witnesses; see 4:15, which was      admittedly revealed earlier.\n\n      20a. The same words in the next verse are followed by the statement, not one of you      would ever have been pure.\n\n      21a. This passage shows that the companions of the Holy Prophet were purified      from sins by Allåh’s grace.\n\n      22a. It is agreed on the basis of most trustworthy reports that this verse was revealed      in connection with the action of Ab∂ Bakr, who had sworn not to allow maintenance to      one of his relatives named MisΔa√, who had taken part in spreading the false reports      against ‘Å’ishah. After inflicting the legal punishment on the culprits the Prophet was      required to bear them no ill-will, and to hide no rancour in his breast even towards the      slanderers of his wife. Revelation even required his companions to be kind and      forgiving to them. Ab∂ Bakr is spoken of here as one possessing grace and abundance      (B. 65:xxiv, 13), the former of these words referring to his moral and spiritual superiority      and the latter to abundance in wealth.\n\n      23a. This refers to those who continue to spread evil reports concerning chaste      women, the gossip-mongers in every society.      24a. The evidence of the members of the body is sometimes witnessed in this very      life against the doers of evil, in the consequences of the evil done. On the day of       Resurrection the consequences of the evil deeds will assume a palpable form, as is also      indicated in the paying back in full of the just rewards in the next verse, and thus bear      witness to the evil done. This highly developed idea of the Resurrection did not exist      before the Holy Qur’ån.\n\n      26a. The meaning of this whole passage is made clear by the concluding words, i.e.,      nothing impure can be attributed to the pure ones, and they are free from what the      impure ones say.\n\n      27a. The Arabs entered houses without permission. The law revealed in this verse      lays down the basis of domestic peace and security needed for an advanced society. The      law is a clear testimony of the great trust which Muslims have in their womenfolk. It is      also a preventive measure against slander.\n\n      30a. Men are enjoined to lower their gaze, just as women are enjoined to do in the      next verse. This injunction is given as a preventive against an evil which deals a deathblow to all pure social relations, viz., the evil of fornication. The Qur’ån does not only      forbid an evil, but also points out the way, by walking in which man may be able to      eschew it. Both men and women are required to keep their eyes cast down, so that when      they meet each other, neither should men stare at women nor women at men. In a society in which women never appeared in public, the injunction to men to lower their gaze      would be meaningless; and the similar injunction to women given in the next verse, if      they never left the compounds of their houses, would be absurd.\n\n      31a. To guard the relations between males and females and to check a too free intermingling of men and women, the Qur’ån now lays down another injunction in addition to      that which requires both sexes to lower their gaze when they meet each other. It requires      women in particular not to display their adornment. There is a difference of opinion as to      what zßnat means. According to some it includes the beauty of the body, while according      to others it is exclusively applied to external adornments. The use of the same word in the      concluding portion of the verse, let them not strike their feet so that the zßnat that they      hide may be known, clearly supports the latter view, as the only adornment that can be      known by the striking of the feet consists of external ornaments. But even taking the first      view, there is a clear exception here, illå må ˚ahara min-hå — except what appears      thereof or except that which it is customary and natural to uncover. Now in the first place      it must be remembered that what is prohibited is the display of beauty, as elsewhere      expressly indicated by the word taburruj: “And display not (your beauty) like the displaying of the ignorance of yore” (33:33). As to what parts of the body the woman is      required to cover and what she may uncover the following summary of the earlier views      relating to this exception given by IJ should suffice: (1) it means the adornment of dress      or the clothes that a woman wears; in other words, she is not required to cover the clothes      she wears; (2) it means the adornment which the woman is not required to cover, such as      collyrium, rings, bracelets and her face; (3) the exception relates to a woman’s clothing      and her face. After relating these opinions, IJ adds: The most correct opinion is that the      exception relates to the face and hands. As an argument corroborating this opinion he      says that, when praying, the woman is not required to keep her face and hands covered —      hands up to the elbow — while she is required to cover the rest of the body. According to      Ïadßth, the Prophet himself is reported to have told Asmå’, his wife ‘Å’ishah’s sister,      when she appeared before him in thin clothes, through which parts of her body could be      seen: “O Asmå’, when woman attains her puberty it is not proper that any part of her      body should be seen except this, and he pointed to his face and hands” (AD. 31:30). This      settles conclusively that Islåm never enjoined the veil or covering of the face.\n\n       31b. Before Islåm women used to appear in public with their breasts partly uncovered. The khimår (pl. khumr) means a head-covering, and women were thus required to      cover their breasts with a part of their head-covering. The head-covering as worn in the      East conceals the arms, the neck and the bosom, as also the ornaments worn in the ears      or on the neck or over the bosom, and the covering over of these parts is what is required      here by the addition of the words over their bosoms.\n\n      31c. By their women, some commentators understand Muslim women, but it is a fact      that women of other faiths mingled with believing women in the time of the Prophet,      and therefore all women are meant. I think the word their has been added only to indicate all such women who come in contact with them, or women who are on the same      social level with them. Those whom their right hands possess include male and female      slaves. Next to slaves are mentioned tåbi‘ßn, or those who follow, from tabi‘a, he followed. Servants are here called followers because they follow the master. To this is      added the qualifying phrase ghairi uli-l-irbati, which is ordinarily translated as meaning      not having need (of women). But irb really means cunning or guile or deceit or wickedness or mischievousness (LL), need being only its secondary significance when the need      leads to cunning, the proper word for need being arab. Therefore some take these words      as meaning idiots or persons deficient in intellect (LL). But while an idiot is not necessarily free from sexual impulse, he is certainly unfit for service. According to Mujåhid      these words mean people for whom their belly is their sole concern and about whom it is      not feared that they will mislead women — la yuhimmu-h∂ illå baΔnu-h∂ wa lå yukhåfu      ‘ala-l-niså’i (B. 65:24). This is really what is meant. In these words, ghairi uli-l-irbati,      are spoken of male servants, who take up service only as a means of living and not with      the mischievous intention of getting intimacy in the house. It should be noted that      women are nowhere forbidden to employ male servants or to appear before them. What      this verse prevents is only display of female beauty except to those most nearly related      to women, and this is a preventive measure against the spread of loose ideas of morality,      and a step to help restraint of sexual passions, which is all that the Holy Qur’ån aims at.\n\n      32a. The Holy Qur’ån looks upon the married state as the normal state, and hence it      enjoins that, so far as is possible, those who are single should be married. It also requires      both male and female slaves to be kept in a state of marriage. The keeping of concubines      or unmarried slave-girls is clearly inconsistent with this. As a religion Islåm is against      celibacy, and considers parenthood to be the duty of every human being. In the civilized      society of today most persons refuse to accept the responsibilities of parenthood, offering as an excuse the insufficiency of means to support a family. The Qur’ån disposes of      this false excuse in the simple words, if they are needy, Allåh will make them free from      want out of His grace.      The Holy Prophet, too, laid stress on Muslim men and women living in a married      state. Thus he is reported to have said: “He who is able to marry should marry. For it      keeps the gaze low and guards chastity; and he who cannot should take to fasting (occasionally), for it will have a castrating effect on him” (B. 30:10). On another occasion he      said, addressing some young men who talked of fasting in the day-time and keeping      awake during the night, and keeping away from marriage: “I keep fast and I break it, and      I pray and I sleep, and I am married, so whoever inclines to any other way than my sunnah, he is not of me” (B. 67:1). According to one √adßth, the man who marries perfects      half his religion (Msh. 13:1, iii). Celibacy is expressly forbidden (B. 67:8).\n\n      33a. The words translated as those who cannot find a match may also mean those      who cannot find the means to marry. Marriage thus becomes an obligatory institution in      Islåm, only those being excused who cannot find a match or who lack the means to      marry. Marriage, in fact, affords the surest guarantee for the betterment of the moral      tone of society.\n\n      33b. The word kitåb, translated writing, as used here, stands for mukåtabah, which      is an infinitive noun of kåtaba, signifying he (a slave) made a written (or other) contract      with him (his master), that he (the former) should pay a certain sum as the price of himself, and on the payment thereof be free (LL); also he (a master) made such a contract      with him (his slave). It was called a kitåb (or writing) because of the obligation which      the master imposed on himself. The money was paid in two or more instalments. Thus      every possible facility was afforded to the slave to earn his freedom. Though the practice      of the master making such a contract with the slave prevailed before the advent of Islåm,      the important reform introduced by Islåm was that, when a slave desired such a contract      to be made, the master could not refuse it. Twelve centuries before any attempt was      made by any individual or community to legislate for the liberty of slaves, a dweller in       the Arabian desert had laid down this noble institution, that, if a slave asked for a      writing of freedom, he was not only to be given that writing by the master, but he was      also to be provided with money to purchase his freedom, the only condition being if you      know any good in them, i.e., if he is fit for work and able to earn his livelihood. And, in      addition, the duty was imposed upon the State of spending a part of the collection of the      poor-rate for this object, as stated in 9:60.\n\n      33c. It is related that ‘Abd Allåh ibn Ubayy, the leader of the hypocrites, kept slavegirls for prostitution (Rz). Prostitution, which seems to have prevailed before the advent      of Islåm in Arabia, is condemned here. But this curse has obtained an incredible prevalence in the whole of Christendom, and is legalized in many countries of Europe as a      necessary evil, while in others it is openly connived at.\n\n      35a. N∂r (light) is that which manifests hidden things, and Allåh is called here the      light of the heavens and the earth, because He has manifested them and brought them into      existence. Mishkåt means a niche, but Mjd explains it as meaning ‘am∂d or pillar (LL).      In the parable that follows, Islåm is represented as a likeness of the Divine light, a      light placed high on a pillar so as to illuminate the whole world; a light guarded by      being placed in a glass, so that no puff of wind can put it out; a light so resplendent that      the glass itself in which it is placed is as a brilliant star. It should be noted that the religion of Islåm is repeatedly spoken of as Divine light in the Holy Qur’ån: “They desire to      put out the light of Allåh with their mouths, but Allåh will allow nothing save the perfection of His light, though the disbelievers are averse” (9:32; 61:8). Hence it is of Islåm      that the parable of Divine light speaks. The blessed olive, from which that light is lit,      and which stands here for a symbol of Islåm, as the fig stands for a symbol of Judaism      (see 95:3a), belongs neither to the East nor to the West. Even so is Islåm, which must      give light to both the East and the West, and which, therefore, does not specially belong      to either of them. The reference seems to be to the welding together of the East and the      West in Islåm, a prophecy which is now approaching its fulfilment in the awakening of      the West to the truth of the principles of Islåm.\n\n      The parable becomes clearer if the word n∂r (light) be taken to refer to the Holy      Prophet. The Prophet was by nature gifted with the highest qualifications. Even before he      received Divine revelation, his life was a life of purity and devoted to the service of      humanity. Light emanated from him even before the light from on High came to him in      the form of Divine revelation, so that when revelation came to him it was light upon light.      36a. The Divine light spoken of in the last verse is here stated as being met with in      certain houses, the distinctive mark of those houses being that the name of Allåh is      remembered in them, thus showing that these houses are the houses of Muslims, and the      light is therefore the light of Islåm. These houses, we are further told, though humble      now, will be exalted. And the exaltation of the humble huts of the Arab dwellers of the      desert to royal palaces is a fact of history.\n\n      37a. A further description of these houses makes the reference still more clear. In      these houses Allåh is glorified in the morning and the evening, and therefore these can      be the houses of no other than Muslims, because the keeping up of prayer and the paying of the poor-rate is the distinguishing characteristic of Islåm. The opposition to His      light, and the end of that opposition, are described in the two concluding verses of the      section. The turning about of the hearts and the eyes means either that they will be transformed in the new life or that they will be in a state of commotion by reason of fear. The      verse that follows lends support to the first significance.\n\n      40a. As the first part of the section gives a picture of the brilliant and dazzling      Divine light which is given to the believers, the last part describes the utter darkness of      doubt and ignorance in which the disbelievers are. Their apparent hopes of success are      compared with a mirage, and, when they are undeceived of these, they will find themselves in the presence of God and will have their dues paid to them.\n\n       45a. Here only animals are spoken of as having been created from water, but elsewhere we are told that all life, whether animal or plant, has been created from water      (21:30); see 21:30b.\n\n      45b. The various kinds of animal life are here divided into three classes: (1) The      creeping things, the lowest and the first form in the development of animal life.      (2) Those walking upon two legs, such as birds, the second form of the development of      animal life. Man, though walking on two legs, is not included in them, because human      life is the highest form of the development of animal life, and it is generally mentioned      as quite distinct from all animal life. (3) Those which walk on four legs, and to this class      belong most of the mammals.\n\n      55a. This verse not only prophesies the establishment of the kingdom of Islåm, but      also its permanence, so that successors will be raised to the Holy Prophet and the      Muslims made a ruling nation on earth. By those before them are meant in particular the      followers of Moses (Bd). Islåm at the time of the revelation of these verses was still surrounded by enemies on all sides; there was still fear for the believers, as the verse clearly      shows, and idol-worship still had the upper hand in Arabia. The triumph of Islåm, which      is prophesied in the parable of the Divine Light first, and the gradual advent of which is      referred to afterwards, is here predicted in the clearest and most emphatic terms:      the believers will be made rulers in the earth; their religion will be firmly established;      security will be given to them in place of fear; Divine Unity will rule supreme. All these      favours will be bestowed upon the Muslims, for which they should be thankful; but, if      they are ungrateful after that, they shall be dealt with as transgressors. Kafara means he      disbelieved as well as he was ungrateful, and the latter significance suits the context      here. Even if kufr is taken as meaning disbelief here, it would mean a denial in practice,      or disobedience to Divine commandments.      Though the promise contained in this verse refers clearly to the establishment of the      kingdom of Islåm and to the Muslims being made successors to the Israelites as regards      the promised Holy Land, there is also a reference here to the Divine promise to raise      reformers among the Muslims as prophets were raised among the Israelites. Such is the      clear promise contained in a saying of the Holy Prophet: “Surely Allåh will raise up for      this people (i.e., the Muslims) in the beginning of every century one who will revive for it      its religion” (A.D. 36:1). The promise given in the verse may therefore refer not only to      the temporal successors of the Holy Prophet, but also to his spiritual successors or reformers. The analogy of the Israelites, to which the verse refers, points to the appearance of a      Messiah among the Muslims as a Messiah was raised among the Israelites, and it was on      this verse that the claim of the late Ïa˙rat Mirzå Gh∂låm A√mad of Qadiån, the founder of      the A√madiyyah movement, was based. He claimed to be a reformer for the fourteenth      century of the Hijrah and the Messiah whose advent among the Muslims was foretold.\n\n        58a. Rules relating to personal and family privacy are of the utmost importance in      the betterment of social relations, and their non-observance leads to all kinds of false      reports, which scandal-mongers are always ready to lay hold upon, thereby creating dissensions in society.\n\n      60a. Qå‘id (plural qawå‘id) signifies a woman who has ceased to bear children and      to have the menstrual discharge (LL). The reference in putting off clothes is to the overgarment spoken of in 33:59.\n\n      61a. The Arabs had their scruples in eating with the blind, etc., in which respect      they were like the Jews and some other people. The Hindus to this day eat separately.      Islåm lays down a middle rule, and allows the individual a great latitude in this respect.      A man may eat alone or with others, he may eat with the maimed, etc., or he may eat in      the houses of near relations and friends. The latter part of the verse shows that a certain      degree of familiarity in the case of near relatives is recommended, so that one can take      food with them, even though he may not have been invited specially.\n\n      63a. It does not mean how the Prophet is to be addressed, but in what manner his      call is to be responded to. The context makes it clear. The previous verse states that none      is to leave without the Prophet’s permission, when they are gathered together for some      important affair requiring their presence, and the words that follow this passage are to      the same effect. What is stated here is that the Prophet’s call to the believers is to be      respected, and not to be treated as their calling one of another; because the Prophet’s call      relates to some important affair affecting the welfare of the community, while their      mutual calling one of another relates to their own private affairs.      "
+    }
+  ]
+}
